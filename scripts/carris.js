@@ -19,12 +19,15 @@ module.exports = async (path, { pretty = false } = {}) => {
     write(join(routesBasePath, 'list.json'), routes, { pretty });
     // Load each route
     const visibleRoutes = [...routes].filter(({ visible }) => visible);
+    const routeData = [];
     for (const { number } of visibleRoutes.sort(() => 0.5 - Math.random())) {
       const route = await carris.loadRoute(number);
       if (route) {
+        routeData.push(route);
         write(join(routesBasePath, `${number}.json`), route, { pretty });
       }
     }
+    write(join(routesBasePath, `all.json`), routeData, { pretty });
   };
 
   const loadStops = async () => {
