@@ -1,15 +1,19 @@
 {
   "name": "transportes-bundled-data",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Static data that can be extracted from Portuguese public transportation APIs",
+  "license": "MIT",
+  "author": {
+    "name": "José Carneiro",
+    "email": "contact@josecarnei.ro",
+    "url": "https://josecarnei.ro"
+  },
+  "main": "scripts/index.js",
   "scripts": {
     "build": "node scripts/index.js",
     "build:dev": "nodemon scripts/index.js -e js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "transportes": "^0.0.11"
   },
