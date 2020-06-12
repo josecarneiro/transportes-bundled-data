@@ -1,0 +1,1248 @@
+{
+  "id": 205,
+  "number": "734",
+  "name": "Martim Moniz-Est. Sta. Apolónia",
+  "visible": true,
+  "creationDate": "2020-05-20T16:36:37.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20281,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20881,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 45787,
+              "order": 1,
+              "distance": 380,
+              "stop": {
+                "id": 816,
+                "publicId": "816",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.71587,
+                  "longitude": -9.135765
+                },
+                "visible": true,
+                "updateDate": "2015-11-20T16:34:20.000Z"
+              }
+            },
+            {
+              "id": 45788,
+              "order": 2,
+              "distance": 312,
+              "stop": {
+                "id": 803,
+                "publicId": "803",
+                "name": "R. Palma",
+                "position": {
+                  "latitude": 38.7192,
+                  "longitude": -9.135564
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:29:28.000Z"
+              }
+            },
+            {
+              "id": 45789,
+              "order": 3,
+              "distance": 295,
+              "stop": {
+                "id": 705,
+                "publicId": "705",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.721997,
+                  "longitude": -9.135277
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:45.000Z"
+              }
+            },
+            {
+              "id": 45790,
+              "order": 4,
+              "distance": 188,
+              "stop": {
+                "id": 707,
+                "publicId": "707",
+                "name": "R. Maria Andrade",
+                "position": {
+                  "latitude": 38.723434,
+                  "longitude": -9.133834
+                },
+                "visible": true,
+                "updateDate": "2012-01-13T12:37:48.000Z"
+              }
+            },
+            {
+              "id": 45791,
+              "order": 5,
+              "distance": 156,
+              "stop": {
+                "id": 709,
+                "publicId": "709",
+                "name": "R. Maria Fonte",
+                "position": {
+                  "latitude": 38.723116,
+                  "longitude": -9.132004
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:28:58.000Z"
+              }
+            },
+            {
+              "id": 45792,
+              "order": 6,
+              "distance": 201,
+              "stop": {
+                "id": 9127,
+                "publicId": "9127",
+                "name": "R. Angelina Vidal",
+                "position": {
+                  "latitude": 38.722311,
+                  "longitude": -9.131069
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 45793,
+              "order": 7,
+              "distance": 203,
+              "stop": {
+                "id": 9129,
+                "publicId": "9129",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.720979,
+                  "longitude": -9.130203
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:26:44.000Z"
+              }
+            },
+            {
+              "id": 45794,
+              "order": 8,
+              "distance": 217,
+              "stop": {
+                "id": 9131,
+                "publicId": "9131",
+                "name": "R. Graça",
+                "position": {
+                  "latitude": 38.719221,
+                  "longitude": -9.12988
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:40:00.000Z"
+              }
+            },
+            {
+              "id": 45795,
+              "order": 9,
+              "distance": 265,
+              "stop": {
+                "id": 14804,
+                "publicId": "14804",
+                "name": "Graça",
+                "position": {
+                  "latitude": 38.717268,
+                  "longitude": -9.129897
+                },
+                "visible": true,
+                "updateDate": "2017-03-14T16:43:08.000Z"
+              }
+            },
+            {
+              "id": 45796,
+              "order": 10,
+              "distance": 319,
+              "stop": {
+                "id": 14802,
+                "publicId": "14802",
+                "name": "Voz Operário",
+                "position": {
+                  "latitude": 38.715036,
+                  "longitude": -9.128831
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:38:18.000Z"
+              }
+            },
+            {
+              "id": 45797,
+              "order": 11,
+              "distance": 277,
+              "stop": {
+                "id": 2129,
+                "publicId": "2129",
+                "name": "Mercado De Santa Clara",
+                "position": {
+                  "latitude": 38.715383,
+                  "longitude": -9.125424
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:08:16.000Z"
+              }
+            },
+            {
+              "id": 45798,
+              "order": 12,
+              "distance": 226,
+              "stop": {
+                "id": 2124,
+                "publicId": "2124",
+                "name": "Campo Sta. Clara",
+                "position": {
+                  "latitude": 38.715436,
+                  "longitude": -9.123224
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:56:15.000Z"
+              }
+            },
+            {
+              "id": 45799,
+              "order": 13,
+              "distance": 202,
+              "stop": {
+                "id": 2122,
+                "publicId": "2122",
+                "name": "R. Paraíso",
+                "position": {
+                  "latitude": 38.713862,
+                  "longitude": -9.124712
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:54:58.000Z"
+              }
+            },
+            {
+              "id": 45800,
+              "order": 14,
+              "distance": 253,
+              "stop": {
+                "id": 2120,
+                "publicId": "2120",
+                "name": "Museu Militar",
+                "position": {
+                  "latitude": 38.712352,
+                  "longitude": -9.124901
+                },
+                "visible": true,
+                "updateDate": "2008-01-29T11:04:19.000Z"
+              }
+            },
+            {
+              "id": 45801,
+              "order": 15,
+              "distance": 0,
+              "stop": {
+                "id": 2115,
+                "publicId": "2115",
+                "name": "Estação Sta. Apolónia",
+                "position": {
+                  "latitude": 38.713548,
+                  "longitude": -9.123988
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:48:53.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 20882,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 45802,
+              "order": 1,
+              "distance": 199,
+              "stop": {
+                "id": 2115,
+                "publicId": "2115",
+                "name": "Estação Sta. Apolónia",
+                "position": {
+                  "latitude": 38.713548,
+                  "longitude": -9.123988
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:48:53.000Z"
+              }
+            },
+            {
+              "id": 45803,
+              "order": 2,
+              "distance": 242,
+              "stop": {
+                "id": 2119,
+                "publicId": "2119",
+                "name": "Museu Militar",
+                "position": {
+                  "latitude": 38.71245,
+                  "longitude": -9.124838
+                },
+                "visible": true,
+                "updateDate": "2014-08-22T11:22:19.000Z"
+              }
+            },
+            {
+              "id": 45804,
+              "order": 3,
+              "distance": 193,
+              "stop": {
+                "id": 2121,
+                "publicId": "2121",
+                "name": "R. Paraíso",
+                "position": {
+                  "latitude": 38.71399,
+                  "longitude": -9.124358
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:54:42.000Z"
+              }
+            },
+            {
+              "id": 45805,
+              "order": 4,
+              "distance": 310,
+              "stop": {
+                "id": 2123,
+                "publicId": "2123",
+                "name": "Campo Sta. Clara",
+                "position": {
+                  "latitude": 38.715389,
+                  "longitude": -9.123084
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:55:54.000Z"
+              }
+            },
+            {
+              "id": 45806,
+              "order": 5,
+              "distance": 300,
+              "stop": {
+                "id": 2130,
+                "publicId": "2130",
+                "name": "Mercado De Santa Clara",
+                "position": {
+                  "latitude": 38.715665,
+                  "longitude": -9.125821
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:08:21.000Z"
+              }
+            },
+            {
+              "id": 45807,
+              "order": 6,
+              "distance": 256,
+              "stop": {
+                "id": 14801,
+                "publicId": "14801",
+                "name": "Voz Operário",
+                "position": {
+                  "latitude": 38.715074,
+                  "longitude": -9.12873
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:37:58.000Z"
+              }
+            },
+            {
+              "id": 45808,
+              "order": 7,
+              "distance": 205,
+              "stop": {
+                "id": 14803,
+                "publicId": "14803",
+                "name": "Graça",
+                "position": {
+                  "latitude": 38.717222,
+                  "longitude": -9.129768
+                },
+                "visible": true,
+                "updateDate": "2017-03-14T16:42:17.000Z"
+              }
+            },
+            {
+              "id": 45809,
+              "order": 8,
+              "distance": 269,
+              "stop": {
+                "id": 9130,
+                "publicId": "9130",
+                "name": "R. Graça",
+                "position": {
+                  "latitude": 38.719031,
+                  "longitude": -9.129837
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:39:55.000Z"
+              }
+            },
+            {
+              "id": 45810,
+              "order": 9,
+              "distance": 218,
+              "stop": {
+                "id": 9128,
+                "publicId": "9128",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721337,
+                  "longitude": -9.129827
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:27:02.000Z"
+              }
+            },
+            {
+              "id": 45811,
+              "order": 10,
+              "distance": 133,
+              "stop": {
+                "id": 9126,
+                "publicId": "9126",
+                "name": "R. Angelina Vidal",
+                "position": {
+                  "latitude": 38.722851,
+                  "longitude": -9.13132
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:39:34.000Z"
+              }
+            },
+            {
+              "id": 45812,
+              "order": 11,
+              "distance": 154,
+              "stop": {
+                "id": 601,
+                "publicId": "601",
+                "name": "R. Forno Tijolo",
+                "position": {
+                  "latitude": 38.723908,
+                  "longitude": -9.132035
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:39:30.000Z"
+              }
+            },
+            {
+              "id": 45813,
+              "order": 12,
+              "distance": 150,
+              "stop": {
+                "id": 708,
+                "publicId": "708",
+                "name": "R. Maria",
+                "position": {
+                  "latitude": 38.723818,
+                  "longitude": -9.133251
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:28:50.000Z"
+              }
+            },
+            {
+              "id": 45814,
+              "order": 13,
+              "distance": 226,
+              "stop": {
+                "id": 706,
+                "publicId": "706",
+                "name": "R. Maria Andrade",
+                "position": {
+                  "latitude": 38.723561,
+                  "longitude": -9.134471
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:28:33.000Z"
+              }
+            },
+            {
+              "id": 45815,
+              "order": 14,
+              "distance": 330,
+              "stop": {
+                "id": 704,
+                "publicId": "704",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.722122,
+                  "longitude": -9.135445
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:37.000Z"
+              }
+            },
+            {
+              "id": 45816,
+              "order": 15,
+              "distance": 525,
+              "stop": {
+                "id": 804,
+                "publicId": "804",
+                "name": "R. Palma",
+                "position": {
+                  "latitude": 38.71916,
+                  "longitude": -9.135736
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:29:32.000Z"
+              }
+            },
+            {
+              "id": 45817,
+              "order": 16,
+              "distance": 140,
+              "stop": {
+                "id": 805,
+                "publicId": "805",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.714959,
+                  "longitude": -9.13662
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:48:11.000Z"
+              }
+            },
+            {
+              "id": 45818,
+              "order": 17,
+              "distance": 0,
+              "stop": {
+                "id": 816,
+                "publicId": "816",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.71587,
+                  "longitude": -9.135765
+                },
+                "visible": true,
+                "updateDate": "2015-11-20T16:34:20.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20282,
+      "variant": 4,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20883,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 45819,
+              "order": 1,
+              "distance": 380,
+              "stop": {
+                "id": 816,
+                "publicId": "816",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.71587,
+                  "longitude": -9.135765
+                },
+                "visible": true,
+                "updateDate": "2015-11-20T16:34:20.000Z"
+              }
+            },
+            {
+              "id": 45820,
+              "order": 2,
+              "distance": 312,
+              "stop": {
+                "id": 803,
+                "publicId": "803",
+                "name": "R. Palma",
+                "position": {
+                  "latitude": 38.7192,
+                  "longitude": -9.135564
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:29:28.000Z"
+              }
+            },
+            {
+              "id": 45821,
+              "order": 3,
+              "distance": 295,
+              "stop": {
+                "id": 705,
+                "publicId": "705",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.721997,
+                  "longitude": -9.135277
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:45.000Z"
+              }
+            },
+            {
+              "id": 45822,
+              "order": 4,
+              "distance": 188,
+              "stop": {
+                "id": 707,
+                "publicId": "707",
+                "name": "R. Maria Andrade",
+                "position": {
+                  "latitude": 38.723434,
+                  "longitude": -9.133834
+                },
+                "visible": true,
+                "updateDate": "2012-01-13T12:37:48.000Z"
+              }
+            },
+            {
+              "id": 45823,
+              "order": 5,
+              "distance": 156,
+              "stop": {
+                "id": 709,
+                "publicId": "709",
+                "name": "R. Maria Fonte",
+                "position": {
+                  "latitude": 38.723116,
+                  "longitude": -9.132004
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:28:58.000Z"
+              }
+            },
+            {
+              "id": 45824,
+              "order": 6,
+              "distance": 212,
+              "stop": {
+                "id": 9127,
+                "publicId": "9127",
+                "name": "R. Angelina Vidal",
+                "position": {
+                  "latitude": 38.722311,
+                  "longitude": -9.131069
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 45825,
+              "order": 7,
+              "distance": 0,
+              "stop": {
+                "id": 9118,
+                "publicId": "9118",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721287,
+                  "longitude": -9.129185
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:48:27.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 20884,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 45826,
+              "order": 1,
+              "distance": 281,
+              "stop": {
+                "id": 9118,
+                "publicId": "9118",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721287,
+                  "longitude": -9.129185
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:48:27.000Z"
+              }
+            },
+            {
+              "id": 45827,
+              "order": 2,
+              "distance": 237,
+              "stop": {
+                "id": 9105,
+                "publicId": "9105",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721553,
+                  "longitude": -9.129722
+                },
+                "visible": true,
+                "updateDate": "2019-11-18T12:31:48.000Z"
+              }
+            },
+            {
+              "id": 45828,
+              "order": 3,
+              "distance": 133,
+              "stop": {
+                "id": 9126,
+                "publicId": "9126",
+                "name": "R. Angelina Vidal",
+                "position": {
+                  "latitude": 38.722851,
+                  "longitude": -9.13132
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:39:34.000Z"
+              }
+            },
+            {
+              "id": 45829,
+              "order": 4,
+              "distance": 154,
+              "stop": {
+                "id": 601,
+                "publicId": "601",
+                "name": "R. Forno Tijolo",
+                "position": {
+                  "latitude": 38.723908,
+                  "longitude": -9.132035
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:39:30.000Z"
+              }
+            },
+            {
+              "id": 45830,
+              "order": 5,
+              "distance": 150,
+              "stop": {
+                "id": 708,
+                "publicId": "708",
+                "name": "R. Maria",
+                "position": {
+                  "latitude": 38.723818,
+                  "longitude": -9.133251
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:28:50.000Z"
+              }
+            },
+            {
+              "id": 45831,
+              "order": 6,
+              "distance": 226,
+              "stop": {
+                "id": 706,
+                "publicId": "706",
+                "name": "R. Maria Andrade",
+                "position": {
+                  "latitude": 38.723561,
+                  "longitude": -9.134471
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:28:33.000Z"
+              }
+            },
+            {
+              "id": 45832,
+              "order": 7,
+              "distance": 330,
+              "stop": {
+                "id": 704,
+                "publicId": "704",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.722122,
+                  "longitude": -9.135445
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:37.000Z"
+              }
+            },
+            {
+              "id": 45833,
+              "order": 8,
+              "distance": 525,
+              "stop": {
+                "id": 804,
+                "publicId": "804",
+                "name": "R. Palma",
+                "position": {
+                  "latitude": 38.71916,
+                  "longitude": -9.135736
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:29:32.000Z"
+              }
+            },
+            {
+              "id": 45834,
+              "order": 9,
+              "distance": 140,
+              "stop": {
+                "id": 805,
+                "publicId": "805",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.714959,
+                  "longitude": -9.13662
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:48:11.000Z"
+              }
+            },
+            {
+              "id": 45835,
+              "order": 10,
+              "distance": 0,
+              "stop": {
+                "id": 816,
+                "publicId": "816",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.71587,
+                  "longitude": -9.135765
+                },
+                "visible": true,
+                "updateDate": "2015-11-20T16:34:20.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20650,
+      "variant": 7,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21292,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 43254,
+              "order": 1,
+              "distance": 380,
+              "stop": {
+                "id": 816,
+                "publicId": "816",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.71587,
+                  "longitude": -9.135765
+                },
+                "visible": true,
+                "updateDate": "2015-11-20T16:34:20.000Z"
+              }
+            },
+            {
+              "id": 43255,
+              "order": 2,
+              "distance": 312,
+              "stop": {
+                "id": 803,
+                "publicId": "803",
+                "name": "R. Palma",
+                "position": {
+                  "latitude": 38.7192,
+                  "longitude": -9.135564
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:29:28.000Z"
+              }
+            },
+            {
+              "id": 43256,
+              "order": 3,
+              "distance": 399,
+              "stop": {
+                "id": 705,
+                "publicId": "705",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.721997,
+                  "longitude": -9.135277
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:45.000Z"
+              }
+            },
+            {
+              "id": 43257,
+              "order": 4,
+              "distance": 156,
+              "stop": {
+                "id": 607,
+                "publicId": "607",
+                "name": "Av. Almirante Reis / R. Angola",
+                "position": {
+                  "latitude": 38.725575,
+                  "longitude": -9.134932
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:42:39.000Z"
+              }
+            },
+            {
+              "id": 43258,
+              "order": 5,
+              "distance": 366,
+              "stop": {
+                "id": 604,
+                "publicId": "604",
+                "name": "Av. Almirante Reis / R. Angola",
+                "position": {
+                  "latitude": 38.726012,
+                  "longitude": -9.134327
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:41:32.000Z"
+              }
+            },
+            {
+              "id": 43259,
+              "order": 6,
+              "distance": 139,
+              "stop": {
+                "id": 602,
+                "publicId": "602",
+                "name": "R. Forno Tijolo",
+                "position": {
+                  "latitude": 38.723421,
+                  "longitude": -9.131793
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:39:47.000Z"
+              }
+            },
+            {
+              "id": 43260,
+              "order": 7,
+              "distance": 212,
+              "stop": {
+                "id": 9127,
+                "publicId": "9127",
+                "name": "R. Angelina Vidal",
+                "position": {
+                  "latitude": 38.722311,
+                  "longitude": -9.131069
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 43261,
+              "order": 8,
+              "distance": 0,
+              "stop": {
+                "id": 9118,
+                "publicId": "9118",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721287,
+                  "longitude": -9.129185
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:48:27.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20651,
+      "variant": 8,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21293,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 43262,
+              "order": 1,
+              "distance": 380,
+              "stop": {
+                "id": 816,
+                "publicId": "816",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.71587,
+                  "longitude": -9.135765
+                },
+                "visible": true,
+                "updateDate": "2015-11-20T16:34:20.000Z"
+              }
+            },
+            {
+              "id": 43263,
+              "order": 2,
+              "distance": 312,
+              "stop": {
+                "id": 803,
+                "publicId": "803",
+                "name": "R. Palma",
+                "position": {
+                  "latitude": 38.7192,
+                  "longitude": -9.135564
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:29:28.000Z"
+              }
+            },
+            {
+              "id": 43264,
+              "order": 3,
+              "distance": 399,
+              "stop": {
+                "id": 705,
+                "publicId": "705",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.721997,
+                  "longitude": -9.135277
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:45.000Z"
+              }
+            },
+            {
+              "id": 43265,
+              "order": 4,
+              "distance": 156,
+              "stop": {
+                "id": 607,
+                "publicId": "607",
+                "name": "Av. Almirante Reis / R. Angola",
+                "position": {
+                  "latitude": 38.725575,
+                  "longitude": -9.134932
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:42:39.000Z"
+              }
+            },
+            {
+              "id": 43266,
+              "order": 5,
+              "distance": 366,
+              "stop": {
+                "id": 604,
+                "publicId": "604",
+                "name": "Av. Almirante Reis / R. Angola",
+                "position": {
+                  "latitude": 38.726012,
+                  "longitude": -9.134327
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:41:32.000Z"
+              }
+            },
+            {
+              "id": 43267,
+              "order": 6,
+              "distance": 139,
+              "stop": {
+                "id": 602,
+                "publicId": "602",
+                "name": "R. Forno Tijolo",
+                "position": {
+                  "latitude": 38.723421,
+                  "longitude": -9.131793
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:39:47.000Z"
+              }
+            },
+            {
+              "id": 43268,
+              "order": 7,
+              "distance": 201,
+              "stop": {
+                "id": 9127,
+                "publicId": "9127",
+                "name": "R. Angelina Vidal",
+                "position": {
+                  "latitude": 38.722311,
+                  "longitude": -9.131069
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 43269,
+              "order": 8,
+              "distance": 203,
+              "stop": {
+                "id": 9129,
+                "publicId": "9129",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.720979,
+                  "longitude": -9.130203
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:26:44.000Z"
+              }
+            },
+            {
+              "id": 43270,
+              "order": 9,
+              "distance": 217,
+              "stop": {
+                "id": 9131,
+                "publicId": "9131",
+                "name": "R. Graça",
+                "position": {
+                  "latitude": 38.719221,
+                  "longitude": -9.12988
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:40:00.000Z"
+              }
+            },
+            {
+              "id": 43271,
+              "order": 10,
+              "distance": 265,
+              "stop": {
+                "id": 14804,
+                "publicId": "14804",
+                "name": "Graça",
+                "position": {
+                  "latitude": 38.717268,
+                  "longitude": -9.129897
+                },
+                "visible": true,
+                "updateDate": "2017-03-14T16:43:08.000Z"
+              }
+            },
+            {
+              "id": 43272,
+              "order": 11,
+              "distance": 319,
+              "stop": {
+                "id": 14802,
+                "publicId": "14802",
+                "name": "Voz Operário",
+                "position": {
+                  "latitude": 38.715036,
+                  "longitude": -9.128831
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:38:18.000Z"
+              }
+            },
+            {
+              "id": 43273,
+              "order": 12,
+              "distance": 277,
+              "stop": {
+                "id": 2129,
+                "publicId": "2129",
+                "name": "Mercado De Santa Clara",
+                "position": {
+                  "latitude": 38.715383,
+                  "longitude": -9.125424
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:08:16.000Z"
+              }
+            },
+            {
+              "id": 43274,
+              "order": 13,
+              "distance": 226,
+              "stop": {
+                "id": 2124,
+                "publicId": "2124",
+                "name": "Campo Sta. Clara",
+                "position": {
+                  "latitude": 38.715436,
+                  "longitude": -9.123224
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:56:15.000Z"
+              }
+            },
+            {
+              "id": 43275,
+              "order": 14,
+              "distance": 202,
+              "stop": {
+                "id": 2122,
+                "publicId": "2122",
+                "name": "R. Paraíso",
+                "position": {
+                  "latitude": 38.713862,
+                  "longitude": -9.124712
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:54:58.000Z"
+              }
+            },
+            {
+              "id": 43276,
+              "order": 15,
+              "distance": 253,
+              "stop": {
+                "id": 2120,
+                "publicId": "2120",
+                "name": "Museu Militar",
+                "position": {
+                  "latitude": 38.712352,
+                  "longitude": -9.124901
+                },
+                "visible": true,
+                "updateDate": "2008-01-29T11:04:19.000Z"
+              }
+            },
+            {
+              "id": 43277,
+              "order": 16,
+              "distance": 0,
+              "stop": {
+                "id": 2115,
+                "publicId": "2115",
+                "name": "Estação Sta. Apolónia",
+                "position": {
+                  "latitude": 38.713548,
+                  "longitude": -9.123988
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T14:48:53.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1391 @@
+{
+  "id": 115,
+  "number": "794",
+  "name": "Restauradores-Estação Oriente",
+  "visible": true,
+  "creationDate": "2020-05-20T09:55:47.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20323,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20924,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 41258,
+              "order": 1,
+              "distance": 321,
+              "stop": {
+                "id": 1005,
+                "publicId": "1005",
+                "name": "Restauradores",
+                "position": {
+                  "latitude": 38.715625,
+                  "longitude": -9.141916
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 41259,
+              "order": 2,
+              "distance": 360,
+              "stop": {
+                "id": 902,
+                "publicId": "902",
+                "name": "Rossio",
+                "position": {
+                  "latitude": 38.71357,
+                  "longitude": -9.139706
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:06:42.000Z"
+              }
+            },
+            {
+              "id": 41260,
+              "order": 3,
+              "distance": 367,
+              "stop": {
+                "id": 5510,
+                "publicId": "5510",
+                "name": "R. Ouro",
+                "position": {
+                  "latitude": 38.710845,
+                  "longitude": -9.138711
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:43:31.000Z"
+              }
+            },
+            {
+              "id": 41261,
+              "order": 4,
+              "distance": 286,
+              "stop": {
+                "id": 5501,
+                "publicId": "5501",
+                "name": "Pç. Comércio",
+                "position": {
+                  "latitude": 38.708331,
+                  "longitude": -9.136506
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:43:15.000Z"
+              }
+            },
+            {
+              "id": 41262,
+              "order": 5,
+              "distance": 367,
+              "stop": {
+                "id": 4501,
+                "publicId": "4501",
+                "name": "Sul E Sueste",
+                "position": {
+                  "latitude": 38.708517,
+                  "longitude": -9.133555
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:41:10.000Z"
+              }
+            },
+            {
+              "id": 41263,
+              "order": 6,
+              "distance": 331,
+              "stop": {
+                "id": 4503,
+                "publicId": "4503",
+                "name": "Campo Cebolas",
+                "position": {
+                  "latitude": 38.708686,
+                  "longitude": -9.130448
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:41:32.000Z"
+              }
+            },
+            {
+              "id": 41264,
+              "order": 7,
+              "distance": 487,
+              "stop": {
+                "id": 8201,
+                "publicId": "8201",
+                "name": "Alfândega (Terminal Cruzeiros)",
+                "position": {
+                  "latitude": 38.710505,
+                  "longitude": -9.127429
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:04:03.000Z"
+              }
+            },
+            {
+              "id": 41265,
+              "order": 8,
+              "distance": 538,
+              "stop": {
+                "id": 2111,
+                "publicId": "2111",
+                "name": "Estação Sta. Apolónia",
+                "position": {
+                  "latitude": 38.713031,
+                  "longitude": -9.122949
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:08:07.000Z"
+              }
+            },
+            {
+              "id": 41266,
+              "order": 9,
+              "distance": 870,
+              "stop": {
+                "id": 2127,
+                "publicId": "2127",
+                "name": "Estação Sta. Apolónia (Mercado",
+                "position": {
+                  "latitude": 38.716716,
+                  "longitude": -9.118934
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:09:10.000Z"
+              }
+            },
+            {
+              "id": 41267,
+              "order": 10,
+              "distance": 329,
+              "stop": {
+                "id": 9811,
+                "publicId": "9811",
+                "name": "Av. Inf. D. Henrique (Tipograf",
+                "position": {
+                  "latitude": 38.723053,
+                  "longitude": -9.113046
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:07:48.000Z"
+              }
+            },
+            {
+              "id": 41268,
+              "order": 11,
+              "distance": 137,
+              "stop": {
+                "id": 9822,
+                "publicId": "9822",
+                "name": "Av. Inf. D. Henrique (Ponte Xa",
+                "position": {
+                  "latitude": 38.725425,
+                  "longitude": -9.11217
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:08:23.000Z"
+              }
+            },
+            {
+              "id": 41269,
+              "order": 12,
+              "distance": 229,
+              "stop": {
+                "id": 8319,
+                "publicId": "8319",
+                "name": "Xabregas",
+                "position": {
+                  "latitude": 38.726108,
+                  "longitude": -9.113489
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:04:55.000Z"
+              }
+            },
+            {
+              "id": 41270,
+              "order": 13,
+              "distance": 430,
+              "stop": {
+                "id": 8321,
+                "publicId": "8321",
+                "name": "Mercado Xabregas",
+                "position": {
+                  "latitude": 38.727782,
+                  "longitude": -9.114676
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:05:24.000Z"
+              }
+            },
+            {
+              "id": 41271,
+              "order": 14,
+              "distance": 306,
+              "stop": {
+                "id": 17577,
+                "publicId": "83113",
+                "name": "R. Gualdim Pais",
+                "position": {
+                  "latitude": 38.731252,
+                  "longitude": -9.116804
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:42:19.000Z"
+              }
+            },
+            {
+              "id": 41272,
+              "order": 15,
+              "distance": 172,
+              "stop": {
+                "id": 17575,
+                "publicId": "83111",
+                "name": "Estr. Chelas",
+                "position": {
+                  "latitude": 38.733926,
+                  "longitude": -9.11725
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:41:52.000Z"
+              }
+            },
+            {
+              "id": 41273,
+              "order": 16,
+              "distance": 517,
+              "stop": {
+                "id": 17573,
+                "publicId": "83109",
+                "name": "Cç. Teixeira",
+                "position": {
+                  "latitude": 38.73547,
+                  "longitude": -9.117059
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:41:35.000Z"
+              }
+            },
+            {
+              "id": 41274,
+              "order": 17,
+              "distance": 266,
+              "stop": {
+                "id": 3602,
+                "publicId": "3602",
+                "name": "Lg. Chelas",
+                "position": {
+                  "latitude": 38.740017,
+                  "longitude": -9.117499
+                },
+                "visible": true,
+                "updateDate": "2019-08-19T14:15:28.000Z"
+              }
+            },
+            {
+              "id": 41275,
+              "order": 18,
+              "distance": 1016,
+              "stop": {
+                "id": 3604,
+                "publicId": "3604",
+                "name": "Lg. Broma",
+                "position": {
+                  "latitude": 38.742342,
+                  "longitude": -9.116778
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:44:33.000Z"
+              }
+            },
+            {
+              "id": 41276,
+              "order": 19,
+              "distance": 292,
+              "stop": {
+                "id": 3610,
+                "publicId": "3610",
+                "name": "Av. Vergílio Ferreira (Fundaçã",
+                "position": {
+                  "latitude": 38.744136,
+                  "longitude": -9.118447
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:40:36.000Z"
+              }
+            },
+            {
+              "id": 41277,
+              "order": 20,
+              "distance": 301,
+              "stop": {
+                "id": 3608,
+                "publicId": "3608",
+                "name": "B.º Armador",
+                "position": {
+                  "latitude": 38.746594,
+                  "longitude": -9.119256
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:39:54.000Z"
+              }
+            },
+            {
+              "id": 41278,
+              "order": 21,
+              "distance": 477,
+              "stop": {
+                "id": 3606,
+                "publicId": "3606",
+                "name": "Bela Vista (Centro Comercial)",
+                "position": {
+                  "latitude": 38.748422,
+                  "longitude": -9.118481
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:45:17.000Z"
+              }
+            },
+            {
+              "id": 41279,
+              "order": 22,
+              "distance": 216,
+              "stop": {
+                "id": 14730,
+                "publicId": "14730",
+                "name": "Av. Avelino Teixeira Mota (Cer",
+                "position": {
+                  "latitude": 38.752121,
+                  "longitude": -9.120852
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:37:02.000Z"
+              }
+            },
+            {
+              "id": 41280,
+              "order": 23,
+              "distance": 293,
+              "stop": {
+                "id": 14728,
+                "publicId": "14728",
+                "name": "B.º Flamenga",
+                "position": {
+                  "latitude": 38.752658,
+                  "longitude": -9.122997
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:36:34.000Z"
+              }
+            },
+            {
+              "id": 41281,
+              "order": 24,
+              "distance": 379,
+              "stop": {
+                "id": 14726,
+                "publicId": "14726",
+                "name": "Pq. Bela Vista",
+                "position": {
+                  "latitude": 38.751063,
+                  "longitude": -9.12455
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:35:38.000Z"
+              }
+            },
+            {
+              "id": 41282,
+              "order": 25,
+              "distance": 234,
+              "stop": {
+                "id": 14723,
+                "publicId": "14723",
+                "name": "Av. Dr. Arlindo Vicente",
+                "position": {
+                  "latitude": 38.753624,
+                  "longitude": -9.125934
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:34:53.000Z"
+              }
+            },
+            {
+              "id": 41283,
+              "order": 26,
+              "distance": 303,
+              "stop": {
+                "id": 14710,
+                "publicId": "14710",
+                "name": "Colégio Valsassina",
+                "position": {
+                  "latitude": 38.755498,
+                  "longitude": -9.126341
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:34:17.000Z"
+              }
+            },
+            {
+              "id": 41284,
+              "order": 27,
+              "distance": 280,
+              "stop": {
+                "id": 14708,
+                "publicId": "14708",
+                "name": "Esc. Damião Góis",
+                "position": {
+                  "latitude": 38.75762,
+                  "longitude": -9.126371
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:34:03.000Z"
+              }
+            },
+            {
+              "id": 41285,
+              "order": 28,
+              "distance": 272,
+              "stop": {
+                "id": 14706,
+                "publicId": "14706",
+                "name": "B.º Loios",
+                "position": {
+                  "latitude": 38.75912,
+                  "longitude": -9.124798
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:33:35.000Z"
+              }
+            },
+            {
+              "id": 41286,
+              "order": 29,
+              "distance": 305,
+              "stop": {
+                "id": 14704,
+                "publicId": "14704",
+                "name": "R. Luis Cristino Silva",
+                "position": {
+                  "latitude": 38.757901,
+                  "longitude": -9.12318
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:33:09.000Z"
+              }
+            },
+            {
+              "id": 41287,
+              "order": 30,
+              "distance": 334,
+              "stop": {
+                "id": 14702,
+                "publicId": "14702",
+                "name": "R. Adães Bermudes",
+                "position": {
+                  "latitude": 38.756203,
+                  "longitude": -9.120711
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:32:39.000Z"
+              }
+            },
+            {
+              "id": 41288,
+              "order": 31,
+              "distance": 367,
+              "stop": {
+                "id": 24380,
+                "publicId": "89916",
+                "name": "R. Eng. Rodrigues Carvalho",
+                "position": {
+                  "latitude": 38.754923,
+                  "longitude": -9.118126
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:45:09.000Z"
+              }
+            },
+            {
+              "id": 41289,
+              "order": 32,
+              "distance": 430,
+              "stop": {
+                "id": 24378,
+                "publicId": "89914",
+                "name": "R. Eng. Ferreira Dias",
+                "position": {
+                  "latitude": 38.752103,
+                  "longitude": -9.116653
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:44:47.000Z"
+              }
+            },
+            {
+              "id": 41290,
+              "order": 33,
+              "distance": 345,
+              "stop": {
+                "id": 24377,
+                "publicId": "89913",
+                "name": "Esc. D. Dinis",
+                "position": {
+                  "latitude": 38.752045,
+                  "longitude": -9.113501
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:44:35.000Z"
+              }
+            },
+            {
+              "id": 41291,
+              "order": 34,
+              "distance": 426,
+              "stop": {
+                "id": 24370,
+                "publicId": "89906",
+                "name": "Isel",
+                "position": {
+                  "latitude": 38.755092,
+                  "longitude": -9.113542
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:43:59.000Z"
+              }
+            },
+            {
+              "id": 41292,
+              "order": 35,
+              "distance": 361,
+              "stop": {
+                "id": 24365,
+                "publicId": "89901",
+                "name": "R. Capitão-Mor Lopes Sequeira",
+                "position": {
+                  "latitude": 38.754426,
+                  "longitude": -9.109351
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:42:57.000Z"
+              }
+            },
+            {
+              "id": 41293,
+              "order": 36,
+              "distance": 615,
+              "stop": {
+                "id": 24371,
+                "publicId": "89907",
+                "name": "R. Dr. José Espirito Santo",
+                "position": {
+                  "latitude": 38.75299,
+                  "longitude": -9.1057
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:44:15.000Z"
+              }
+            },
+            {
+              "id": 41294,
+              "order": 37,
+              "distance": 353,
+              "stop": {
+                "id": 2220,
+                "publicId": "2220",
+                "name": "Vale Formoso Cima",
+                "position": {
+                  "latitude": 38.750435,
+                  "longitude": -9.104392
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:10:17.000Z"
+              }
+            },
+            {
+              "id": 41295,
+              "order": 38,
+              "distance": 353,
+              "stop": {
+                "id": 2319,
+                "publicId": "2319",
+                "name": "Az. Baptista",
+                "position": {
+                  "latitude": 38.75347,
+                  "longitude": -9.103105
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:13:45.000Z"
+              }
+            },
+            {
+              "id": 41296,
+              "order": 39,
+              "distance": 323,
+              "stop": {
+                "id": 2328,
+                "publicId": "2328",
+                "name": "Rot. Cabo Ruivo",
+                "position": {
+                  "latitude": 38.75662,
+                  "longitude": -9.103018
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T14:23:55.000Z"
+              }
+            },
+            {
+              "id": 41297,
+              "order": 40,
+              "distance": 466,
+              "stop": {
+                "id": 2311,
+                "publicId": "2311",
+                "name": "Av. Inf. D. Henrique (Centieir",
+                "position": {
+                  "latitude": 38.759498,
+                  "longitude": -9.103315
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:12:31.000Z"
+              }
+            },
+            {
+              "id": 41298,
+              "order": 41,
+              "distance": 352,
+              "stop": {
+                "id": 2313,
+                "publicId": "2313",
+                "name": "Av. Inf. D. Henrique / Av. Pád",
+                "position": {
+                  "latitude": 38.763672,
+                  "longitude": -9.103666
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:12:46.000Z"
+              }
+            },
+            {
+              "id": 41299,
+              "order": 42,
+              "distance": 628,
+              "stop": {
+                "id": 2315,
+                "publicId": "2315",
+                "name": "Av. Inf. D. Henrique / Av. Ber",
+                "position": {
+                  "latitude": 38.766833,
+                  "longitude": -9.103999
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:13:28.000Z"
+              }
+            },
+            {
+              "id": 41300,
+              "order": 43,
+              "distance": 0,
+              "stop": {
+                "id": 7814,
+                "publicId": "7814",
+                "name": "Estação Oriente (Interface)",
+                "position": {
+                  "latitude": 38.768176,
+                  "longitude": -9.099927
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:35:38.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 20925,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 41301,
+              "order": 1,
+              "distance": 789,
+              "stop": {
+                "id": 7814,
+                "publicId": "7814",
+                "name": "Estação Oriente (Interface)",
+                "position": {
+                  "latitude": 38.768176,
+                  "longitude": -9.099927
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:35:38.000Z"
+              }
+            },
+            {
+              "id": 41302,
+              "order": 2,
+              "distance": 348,
+              "stop": {
+                "id": 2324,
+                "publicId": "2324",
+                "name": "Av. Inf. D. Henrique / Av. Ber",
+                "position": {
+                  "latitude": 38.766571,
+                  "longitude": -9.104371
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:15:52.000Z"
+              }
+            },
+            {
+              "id": 41303,
+              "order": 3,
+              "distance": 390,
+              "stop": {
+                "id": 2322,
+                "publicId": "2322",
+                "name": "Av. Inf. D. Henrique / Av. Pád",
+                "position": {
+                  "latitude": 38.763442,
+                  "longitude": -9.104083
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:15:18.000Z"
+              }
+            },
+            {
+              "id": 41304,
+              "order": 4,
+              "distance": 594,
+              "stop": {
+                "id": 2320,
+                "publicId": "2320",
+                "name": "Av. Inf. D. Henrique (Centieir",
+                "position": {
+                  "latitude": 38.759927,
+                  "longitude": -9.103668
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:14:51.000Z"
+              }
+            },
+            {
+              "id": 41305,
+              "order": 5,
+              "distance": 205,
+              "stop": {
+                "id": 2310,
+                "publicId": "2310",
+                "name": "Rot. Cabo Ruivo",
+                "position": {
+                  "latitude": 38.754646,
+                  "longitude": -9.103121
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:10:48.000Z"
+              }
+            },
+            {
+              "id": 41306,
+              "order": 6,
+              "distance": 327,
+              "stop": {
+                "id": 2312,
+                "publicId": "2312",
+                "name": "Az. Baptista",
+                "position": {
+                  "latitude": 38.752884,
+                  "longitude": -9.103631
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:11:50.000Z"
+              }
+            },
+            {
+              "id": 41307,
+              "order": 7,
+              "distance": 319,
+              "stop": {
+                "id": 24372,
+                "publicId": "89908",
+                "name": "R. Dr. José Espirito Santo",
+                "position": {
+                  "latitude": 38.753028,
+                  "longitude": -9.105511
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:44:24.000Z"
+              }
+            },
+            {
+              "id": 41308,
+              "order": 8,
+              "distance": 379,
+              "stop": {
+                "id": 24366,
+                "publicId": "89902",
+                "name": "R. Capitão-Mor Lopes Sequeira",
+                "position": {
+                  "latitude": 38.75439,
+                  "longitude": -9.108755
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:43:12.000Z"
+              }
+            },
+            {
+              "id": 41309,
+              "order": 9,
+              "distance": 295,
+              "stop": {
+                "id": 24368,
+                "publicId": "89904",
+                "name": "Isel",
+                "position": {
+                  "latitude": 38.755596,
+                  "longitude": -9.112823
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:43:32.000Z"
+              }
+            },
+            {
+              "id": 41310,
+              "order": 10,
+              "distance": 228,
+              "stop": {
+                "id": 24367,
+                "publicId": "89903",
+                "name": "Isel",
+                "position": {
+                  "latitude": 38.755758,
+                  "longitude": -9.113724
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T12:14:42.000Z"
+              }
+            },
+            {
+              "id": 41311,
+              "order": 11,
+              "distance": 192,
+              "stop": {
+                "id": 50070,
+                "publicId": "89905",
+                "name": "Av. Dr. Augusto Castro",
+                "position": {
+                  "latitude": 38.753725,
+                  "longitude": -9.114227
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:43:48.000Z"
+              }
+            },
+            {
+              "id": 41312,
+              "order": 12,
+              "distance": 194,
+              "stop": {
+                "id": 24382,
+                "publicId": "89918",
+                "name": "Esc. D. Dinis",
+                "position": {
+                  "latitude": 38.752535,
+                  "longitude": -9.114729
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:45:27.000Z"
+              }
+            },
+            {
+              "id": 41313,
+              "order": 13,
+              "distance": 369,
+              "stop": {
+                "id": 24379,
+                "publicId": "89915",
+                "name": "R. Eng. Ferreira Dias",
+                "position": {
+                  "latitude": 38.752186,
+                  "longitude": -9.11652
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:44:58.000Z"
+              }
+            },
+            {
+              "id": 41314,
+              "order": 14,
+              "distance": 373,
+              "stop": {
+                "id": 24381,
+                "publicId": "89917",
+                "name": "R. Eng. Rodrigues Carvalho",
+                "position": {
+                  "latitude": 38.754943,
+                  "longitude": -9.117948
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:45:17.000Z"
+              }
+            },
+            {
+              "id": 41315,
+              "order": 15,
+              "distance": 326,
+              "stop": {
+                "id": 14701,
+                "publicId": "14701",
+                "name": "R. Adães Bermudes",
+                "position": {
+                  "latitude": 38.756422,
+                  "longitude": -9.120636
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:32:28.000Z"
+              }
+            },
+            {
+              "id": 41316,
+              "order": 16,
+              "distance": 240,
+              "stop": {
+                "id": 14703,
+                "publicId": "14703",
+                "name": "R. Luis Cristino Silva",
+                "position": {
+                  "latitude": 38.758115,
+                  "longitude": -9.122924
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:32:56.000Z"
+              }
+            },
+            {
+              "id": 41317,
+              "order": 17,
+              "distance": 312,
+              "stop": {
+                "id": 14705,
+                "publicId": "14705",
+                "name": "B.º Loios",
+                "position": {
+                  "latitude": 38.759254,
+                  "longitude": -9.12471
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:33:24.000Z"
+              }
+            },
+            {
+              "id": 41318,
+              "order": 18,
+              "distance": 294,
+              "stop": {
+                "id": 14707,
+                "publicId": "14707",
+                "name": "Esc. Damião Góis",
+                "position": {
+                  "latitude": 38.757393,
+                  "longitude": -9.126541
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:33:47.000Z"
+              }
+            },
+            {
+              "id": 41319,
+              "order": 19,
+              "distance": 230,
+              "stop": {
+                "id": 14720,
+                "publicId": "14720",
+                "name": "Colégio Valsassina",
+                "position": {
+                  "latitude": 38.755317,
+                  "longitude": -9.126409
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:34:43.000Z"
+              }
+            },
+            {
+              "id": 41320,
+              "order": 20,
+              "distance": 381,
+              "stop": {
+                "id": 14724,
+                "publicId": "14724",
+                "name": "Av. Dr. Arlindo Vicente",
+                "position": {
+                  "latitude": 38.753725,
+                  "longitude": -9.126062
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:35:10.000Z"
+              }
+            },
+            {
+              "id": 41321,
+              "order": 21,
+              "distance": 280,
+              "stop": {
+                "id": 14725,
+                "publicId": "14725",
+                "name": "Pq. Bela Vista",
+                "position": {
+                  "latitude": 38.75104,
+                  "longitude": -9.1248
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:35:24.000Z"
+              }
+            },
+            {
+              "id": 41322,
+              "order": 22,
+              "distance": 207,
+              "stop": {
+                "id": 14727,
+                "publicId": "14727",
+                "name": "B.º Flamenga",
+                "position": {
+                  "latitude": 38.752276,
+                  "longitude": -9.123205
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:36:20.000Z"
+              }
+            },
+            {
+              "id": 41323,
+              "order": 23,
+              "distance": 525,
+              "stop": {
+                "id": 14729,
+                "publicId": "14729",
+                "name": "Av. Avelino Teixeira Mota (Cer",
+                "position": {
+                  "latitude": 38.752092,
+                  "longitude": -9.121308
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:36:52.000Z"
+              }
+            },
+            {
+              "id": 41324,
+              "order": 24,
+              "distance": 846,
+              "stop": {
+                "id": 3605,
+                "publicId": "3605",
+                "name": "Bela Vista (Centro Comercial)",
+                "position": {
+                  "latitude": 38.748233,
+                  "longitude": -9.118711
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:45:00.000Z"
+              }
+            },
+            {
+              "id": 41325,
+              "order": 25,
+              "distance": 321,
+              "stop": {
+                "id": 3607,
+                "publicId": "3607",
+                "name": "B.º Armador",
+                "position": {
+                  "latitude": 38.746248,
+                  "longitude": -9.119762
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:39:21.000Z"
+              }
+            },
+            {
+              "id": 41326,
+              "order": 26,
+              "distance": 1105,
+              "stop": {
+                "id": 3609,
+                "publicId": "3609",
+                "name": "Av. Vergílio Ferreira (Fundaçã",
+                "position": {
+                  "latitude": 38.743526,
+                  "longitude": -9.118858
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:40:18.000Z"
+              }
+            },
+            {
+              "id": 41327,
+              "order": 27,
+              "distance": 297,
+              "stop": {
+                "id": 3603,
+                "publicId": "3603",
+                "name": "Lg. Broma",
+                "position": {
+                  "latitude": 38.742328,
+                  "longitude": -9.116941
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:44:16.000Z"
+              }
+            },
+            {
+              "id": 41328,
+              "order": 28,
+              "distance": 580,
+              "stop": {
+                "id": 3601,
+                "publicId": "3601",
+                "name": "Lg. Chelas",
+                "position": {
+                  "latitude": 38.739827,
+                  "longitude": -9.117834
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:38:24.000Z"
+              }
+            },
+            {
+              "id": 41329,
+              "order": 29,
+              "distance": 395,
+              "stop": {
+                "id": 17576,
+                "publicId": "83112",
+                "name": "Estr. Chelas",
+                "position": {
+                  "latitude": 38.734632,
+                  "longitude": -9.117291
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:42:05.000Z"
+              }
+            },
+            {
+              "id": 41330,
+              "order": 30,
+              "distance": 379,
+              "stop": {
+                "id": 17578,
+                "publicId": "83114",
+                "name": "R. Gualdim Pais",
+                "position": {
+                  "latitude": 38.731132,
+                  "longitude": -9.116839
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:42:32.000Z"
+              }
+            },
+            {
+              "id": 41331,
+              "order": 31,
+              "distance": 309,
+              "stop": {
+                "id": 8322,
+                "publicId": "8322",
+                "name": "Mercado Xabregas",
+                "position": {
+                  "latitude": 38.728108,
+                  "longitude": -9.114923
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:05:37.000Z"
+              }
+            },
+            {
+              "id": 41332,
+              "order": 32,
+              "distance": 258,
+              "stop": {
+                "id": 8320,
+                "publicId": "8320",
+                "name": "Xabregas",
+                "position": {
+                  "latitude": 38.725754,
+                  "longitude": -9.113235
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:05:06.000Z"
+              }
+            },
+            {
+              "id": 41333,
+              "order": 33,
+              "distance": 226,
+              "stop": {
+                "id": 9810,
+                "publicId": "9810",
+                "name": "Av. Inf. D. Henrique (Ponte Xa",
+                "position": {
+                  "latitude": 38.724351,
+                  "longitude": -9.112061
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:07:32.000Z"
+              }
+            },
+            {
+              "id": 41334,
+              "order": 34,
+              "distance": 817,
+              "stop": {
+                "id": 9812,
+                "publicId": "9812",
+                "name": "Av. Inf. D. Henrique (Tipograf",
+                "position": {
+                  "latitude": 38.722659,
+                  "longitude": -9.113513
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:08:03.000Z"
+              }
+            },
+            {
+              "id": 41335,
+              "order": 35,
+              "distance": 498,
+              "stop": {
+                "id": 2128,
+                "publicId": "2128",
+                "name": "Estação Sta. Apolónia (Mercado",
+                "position": {
+                  "latitude": 38.716784,
+                  "longitude": -9.119135
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:09:36.000Z"
+              }
+            },
+            {
+              "id": 41336,
+              "order": 36,
+              "distance": 445,
+              "stop": {
+                "id": 2118,
+                "publicId": "2118",
+                "name": "Estação Sta. Apolónia",
+                "position": {
+                  "latitude": 38.713398,
+                  "longitude": -9.122892
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:08:23.000Z"
+              }
+            },
+            {
+              "id": 41337,
+              "order": 37,
+              "distance": 248,
+              "stop": {
+                "id": 8204,
+                "publicId": "8204",
+                "name": "Cais Lingueta",
+                "position": {
+                  "latitude": 38.711013,
+                  "longitude": -9.126847
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:04:32.000Z"
+              }
+            },
+            {
+              "id": 41338,
+              "order": 38,
+              "distance": 476,
+              "stop": {
+                "id": 8202,
+                "publicId": "8202",
+                "name": "Alfândega (Terminal Cruzeiros)",
+                "position": {
+                  "latitude": 38.709574,
+                  "longitude": -9.129024
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:04:14.000Z"
+              }
+            },
+            {
+              "id": 41339,
+              "order": 39,
+              "distance": 572,
+              "stop": {
+                "id": 4506,
+                "publicId": "4506",
+                "name": "Sul E Sueste",
+                "position": {
+                  "latitude": 38.70812,
+                  "longitude": -9.133277
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:42:37.000Z"
+              }
+            },
+            {
+              "id": 41340,
+              "order": 40,
+              "distance": 488,
+              "stop": {
+                "id": 5518,
+                "publicId": "5518",
+                "name": "R. Prata",
+                "position": {
+                  "latitude": 38.711025,
+                  "longitude": -9.136889
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:45:16.000Z"
+              }
+            },
+            {
+              "id": 41341,
+              "order": 41,
+              "distance": 479,
+              "stop": {
+                "id": 919,
+                "publicId": "919",
+                "name": "Rossio",
+                "position": {
+                  "latitude": 38.714399,
+                  "longitude": -9.139213
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:06:59.000Z"
+              }
+            },
+            {
+              "id": 41342,
+              "order": 42,
+              "distance": 0,
+              "stop": {
+                "id": 1005,
+                "publicId": "1005",
+                "name": "Restauradores",
+                "position": {
+                  "latitude": 38.715625,
+                  "longitude": -9.141916
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

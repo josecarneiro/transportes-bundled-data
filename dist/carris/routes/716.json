@@ -1,0 +1,799 @@
+{
+  "id": 164,
+  "number": "716",
+  "name": "Alameda-Benfica",
+  "visible": true,
+  "creationDate": "2020-05-20T09:14:36.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 21021,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21661,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 46872,
+              "order": 1,
+              "distance": 387,
+              "stop": {
+                "id": 50283,
+                "publicId": "11112",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736924,
+                  "longitude": -9.136349
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:14:16.000Z"
+              }
+            },
+            {
+              "id": 46873,
+              "order": 2,
+              "distance": 269,
+              "stop": {
+                "id": 11109,
+                "publicId": "11109",
+                "name": "Av. António José De Almeida",
+                "position": {
+                  "latitude": 38.738218,
+                  "longitude": -9.139937
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:18:19.000Z"
+              }
+            },
+            {
+              "id": 46874,
+              "order": 3,
+              "distance": 342,
+              "stop": {
+                "id": 11118,
+                "publicId": "11118",
+                "name": "Arco Cego - Av.Miguel Bombard",
+                "position": {
+                  "latitude": 38.737701,
+                  "longitude": -9.142836
+                },
+                "visible": true,
+                "updateDate": "2018-02-07T11:00:36.000Z"
+              }
+            },
+            {
+              "id": 46875,
+              "order": 4,
+              "distance": 332,
+              "stop": {
+                "id": 1811,
+                "publicId": "1811",
+                "name": "Av. Miguel Bombarda (Iscal)",
+                "position": {
+                  "latitude": 38.737161,
+                  "longitude": -9.146707
+                },
+                "visible": true,
+                "updateDate": "2018-02-07T11:01:32.000Z"
+              }
+            },
+            {
+              "id": 46876,
+              "order": 5,
+              "distance": 434,
+              "stop": {
+                "id": 1407,
+                "publicId": "1407",
+                "name": "Av. Visconde Valmor",
+                "position": {
+                  "latitude": 38.737521,
+                  "longitude": -9.149518
+                },
+                "visible": true,
+                "updateDate": "2008-02-27T16:10:44.000Z"
+              }
+            },
+            {
+              "id": 46877,
+              "order": 6,
+              "distance": 239,
+              "stop": {
+                "id": 33102,
+                "publicId": "33102",
+                "name": "Av. De Berna - Rego",
+                "position": {
+                  "latitude": 38.739811,
+                  "longitude": -9.151656
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T16:17:53.000Z"
+              }
+            },
+            {
+              "id": 46878,
+              "order": 7,
+              "distance": 813,
+              "stop": {
+                "id": 1503,
+                "publicId": "1503",
+                "name": "Praça De Espanha-Av. De Berna",
+                "position": {
+                  "latitude": 38.738738,
+                  "longitude": -9.154039
+                },
+                "visible": true,
+                "updateDate": "2012-06-15T13:29:59.000Z"
+              }
+            },
+            {
+              "id": 46879,
+              "order": 8,
+              "distance": 237,
+              "stop": {
+                "id": 1507,
+                "publicId": "1507",
+                "name": "Av. Madame Curie",
+                "position": {
+                  "latitude": 38.738336,
+                  "longitude": -9.161962
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T16:38:04.000Z"
+              }
+            },
+            {
+              "id": 46880,
+              "order": 9,
+              "distance": 338,
+              "stop": {
+                "id": 1601,
+                "publicId": "1601",
+                "name": "Rua António Granjo",
+                "position": {
+                  "latitude": 38.738837,
+                  "longitude": -9.164612
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:13:28.000Z"
+              }
+            },
+            {
+              "id": 46881,
+              "order": 10,
+              "distance": 310,
+              "stop": {
+                "id": 1621,
+                "publicId": "1621",
+                "name": "Estação De Sete Rios",
+                "position": {
+                  "latitude": 38.740566,
+                  "longitude": -9.167409
+                },
+                "visible": true,
+                "updateDate": "2012-04-16T17:04:22.000Z"
+              }
+            },
+            {
+              "id": 46882,
+              "order": 11,
+              "distance": 287,
+              "stop": {
+                "id": 1607,
+                "publicId": "1607",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.741989,
+                  "longitude": -9.169768
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:58:54.000Z"
+              }
+            },
+            {
+              "id": 46883,
+              "order": 12,
+              "distance": 273,
+              "stop": {
+                "id": 1616,
+                "publicId": "1616",
+                "name": "Estr. Benfica (Furnas)",
+                "position": {
+                  "latitude": 38.742583,
+                  "longitude": -9.172662
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:47:06.000Z"
+              }
+            },
+            {
+              "id": 46884,
+              "order": 13,
+              "distance": 332,
+              "stop": {
+                "id": 10706,
+                "publicId": "10706",
+                "name": "R. Duarte Galvão",
+                "position": {
+                  "latitude": 38.743614,
+                  "longitude": -9.175524
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:46:04.000Z"
+              }
+            },
+            {
+              "id": 46885,
+              "order": 14,
+              "distance": 261,
+              "stop": {
+                "id": 10704,
+                "publicId": "10704",
+                "name": "B.º Novo",
+                "position": {
+                  "latitude": 38.744557,
+                  "longitude": -9.17914
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:44:56.000Z"
+              }
+            },
+            {
+              "id": 46886,
+              "order": 15,
+              "distance": 280,
+              "stop": {
+                "id": 10702,
+                "publicId": "10702",
+                "name": "S. Domingos De Benfica",
+                "position": {
+                  "latitude": 38.745703,
+                  "longitude": -9.181725
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:44:23.000Z"
+              }
+            },
+            {
+              "id": 46887,
+              "order": 16,
+              "distance": 365,
+              "stop": {
+                "id": 10830,
+                "publicId": "10830",
+                "name": "Pupilos Do Exército",
+                "position": {
+                  "latitude": 38.746809,
+                  "longitude": -9.184617
+                },
+                "visible": true,
+                "updateDate": "2012-12-14T18:05:26.000Z"
+              }
+            },
+            {
+              "id": 46888,
+              "order": 17,
+              "distance": 349,
+              "stop": {
+                "id": 10826,
+                "publicId": "10826",
+                "name": "Rua Reinaldo Dos Santos",
+                "position": {
+                  "latitude": 38.747272,
+                  "longitude": -9.188895
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:35:34.000Z"
+              }
+            },
+            {
+              "id": 46889,
+              "order": 18,
+              "distance": 422,
+              "stop": {
+                "id": 10814,
+                "publicId": "10814",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748946,
+                  "longitude": -9.191185
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:08:41.000Z"
+              }
+            },
+            {
+              "id": 46890,
+              "order": 19,
+              "distance": 272,
+              "stop": {
+                "id": 10802,
+                "publicId": "10802",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.750137,
+                  "longitude": -9.195585
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:09.000Z"
+              }
+            },
+            {
+              "id": 46891,
+              "order": 20,
+              "distance": 275,
+              "stop": {
+                "id": 10906,
+                "publicId": "10906",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750692,
+                  "longitude": -9.198647
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:33:15.000Z"
+              }
+            },
+            {
+              "id": 46892,
+              "order": 21,
+              "distance": 197,
+              "stop": {
+                "id": 10904,
+                "publicId": "10904",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750776,
+                  "longitude": -9.201746
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 46893,
+              "order": 22,
+              "distance": 251,
+              "stop": {
+                "id": 10921,
+                "publicId": "10921",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.750138,
+                  "longitude": -9.203233
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:15.000Z"
+              }
+            },
+            {
+              "id": 46894,
+              "order": 23,
+              "distance": 0,
+              "stop": {
+                "id": 10915,
+                "publicId": "10915",
+                "name": "Benfica",
+                "position": {
+                  "latitude": 38.749252,
+                  "longitude": -9.202727
+                },
+                "visible": true,
+                "updateDate": "2018-06-29T15:28:58.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21662,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 46895,
+              "order": 1,
+              "distance": 120,
+              "stop": {
+                "id": 10915,
+                "publicId": "10915",
+                "name": "Benfica",
+                "position": {
+                  "latitude": 38.749252,
+                  "longitude": -9.202727
+                },
+                "visible": true,
+                "updateDate": "2018-06-29T15:28:58.000Z"
+              }
+            },
+            {
+              "id": 46896,
+              "order": 2,
+              "distance": 228,
+              "stop": {
+                "id": 10920,
+                "publicId": "10920",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.749936,
+                  "longitude": -9.203048
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:06.000Z"
+              }
+            },
+            {
+              "id": 46897,
+              "order": 3,
+              "distance": 251,
+              "stop": {
+                "id": 10903,
+                "publicId": "10903",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750615,
+                  "longitude": -9.201455
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:50:39.000Z"
+              }
+            },
+            {
+              "id": 46898,
+              "order": 4,
+              "distance": 378,
+              "stop": {
+                "id": 10905,
+                "publicId": "10905",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750593,
+                  "longitude": -9.19859
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:32:51.000Z"
+              }
+            },
+            {
+              "id": 46899,
+              "order": 5,
+              "distance": 302,
+              "stop": {
+                "id": 10801,
+                "publicId": "10801",
+                "name": "Escola Pedro Santarém",
+                "position": {
+                  "latitude": 38.749762,
+                  "longitude": -9.194393
+                },
+                "visible": true,
+                "updateDate": "2008-12-10T12:34:06.000Z"
+              }
+            },
+            {
+              "id": 46900,
+              "order": 6,
+              "distance": 357,
+              "stop": {
+                "id": 10803,
+                "publicId": "10803",
+                "name": "Calhariz (Escola)",
+                "position": {
+                  "latitude": 38.748208,
+                  "longitude": -9.192569
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:26.000Z"
+              }
+            },
+            {
+              "id": 46901,
+              "order": 7,
+              "distance": 361,
+              "stop": {
+                "id": 10821,
+                "publicId": "10821",
+                "name": "R. Prof. Reinaldo Santos",
+                "position": {
+                  "latitude": 38.747029,
+                  "longitude": -9.188711
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:53:27.000Z"
+              }
+            },
+            {
+              "id": 46902,
+              "order": 8,
+              "distance": 282,
+              "stop": {
+                "id": 10829,
+                "publicId": "10829",
+                "name": "Pupilos Exército",
+                "position": {
+                  "latitude": 38.746693,
+                  "longitude": -9.18459
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:54:21.000Z"
+              }
+            },
+            {
+              "id": 46903,
+              "order": 9,
+              "distance": 295,
+              "stop": {
+                "id": 10701,
+                "publicId": "10701",
+                "name": "S. Domingos Benfica",
+                "position": {
+                  "latitude": 38.745556,
+                  "longitude": -9.181756
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:51:29.000Z"
+              }
+            },
+            {
+              "id": 46904,
+              "order": 10,
+              "distance": 241,
+              "stop": {
+                "id": 10703,
+                "publicId": "10703",
+                "name": "B.º Novo",
+                "position": {
+                  "latitude": 38.744338,
+                  "longitude": -9.178742
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:44:49.000Z"
+              }
+            },
+            {
+              "id": 46905,
+              "order": 11,
+              "distance": 351,
+              "stop": {
+                "id": 10705,
+                "publicId": "10705",
+                "name": "R. Duarte Galvão",
+                "position": {
+                  "latitude": 38.743595,
+                  "longitude": -9.176138
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:45:25.000Z"
+              }
+            },
+            {
+              "id": 46906,
+              "order": 12,
+              "distance": 279,
+              "stop": {
+                "id": 1615,
+                "publicId": "1615",
+                "name": "Estr. Benfica (Furnas)",
+                "position": {
+                  "latitude": 38.742416,
+                  "longitude": -9.172404
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:48:11.000Z"
+              }
+            },
+            {
+              "id": 46907,
+              "order": 13,
+              "distance": 375,
+              "stop": {
+                "id": 1610,
+                "publicId": "1610",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.742006,
+                  "longitude": -9.169437
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:58:31.000Z"
+              }
+            },
+            {
+              "id": 46908,
+              "order": 14,
+              "distance": 274,
+              "stop": {
+                "id": 1620,
+                "publicId": "1620",
+                "name": "Estação De Sete Rios",
+                "position": {
+                  "latitude": 38.739162,
+                  "longitude": -9.167512
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T16:32:54.000Z"
+              }
+            },
+            {
+              "id": 46909,
+              "order": 15,
+              "distance": 246,
+              "stop": {
+                "id": 1602,
+                "publicId": "1602",
+                "name": "Rua António Granjo",
+                "position": {
+                  "latitude": 38.73864,
+                  "longitude": -9.164591
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:14:18.000Z"
+              }
+            },
+            {
+              "id": 46910,
+              "order": 16,
+              "distance": 274,
+              "stop": {
+                "id": 1510,
+                "publicId": "1510",
+                "name": "Av. Madame Curie",
+                "position": {
+                  "latitude": 38.738157,
+                  "longitude": -9.161844
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T16:38:18.000Z"
+              }
+            },
+            {
+              "id": 46911,
+              "order": 17,
+              "distance": 396,
+              "stop": {
+                "id": 1508,
+                "publicId": "1508",
+                "name": "Praça De Espanha",
+                "position": {
+                  "latitude": 38.738047,
+                  "longitude": -9.158525
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T11:25:36.000Z"
+              }
+            },
+            {
+              "id": 46912,
+              "order": 18,
+              "distance": 385,
+              "stop": {
+                "id": 1504,
+                "publicId": "1504",
+                "name": "Praça De Espanha-Av. De Berna",
+                "position": {
+                  "latitude": 38.737789,
+                  "longitude": -9.155548
+                },
+                "visible": true,
+                "updateDate": "2012-06-15T13:29:47.000Z"
+              }
+            },
+            {
+              "id": 46913,
+              "order": 19,
+              "distance": 383,
+              "stop": {
+                "id": 33101,
+                "publicId": "33101",
+                "name": "Av. De Berna - Rego",
+                "position": {
+                  "latitude": 38.739537,
+                  "longitude": -9.151723
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T16:17:39.000Z"
+              }
+            },
+            {
+              "id": 46914,
+              "order": 20,
+              "distance": 199,
+              "stop": {
+                "id": 1408,
+                "publicId": "1408",
+                "name": "Av. Visconde Valmor",
+                "position": {
+                  "latitude": 38.737902,
+                  "longitude": -9.149888
+                },
+                "visible": true,
+                "updateDate": "2008-01-28T10:54:37.000Z"
+              }
+            },
+            {
+              "id": 46915,
+              "order": 21,
+              "distance": 381,
+              "stop": {
+                "id": 1412,
+                "publicId": "1412",
+                "name": "Av. Marquês De Tomar",
+                "position": {
+                  "latitude": 38.736137,
+                  "longitude": -9.149481
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T16:40:41.000Z"
+              }
+            },
+            {
+              "id": 46916,
+              "order": 22,
+              "distance": 336,
+              "stop": {
+                "id": 1806,
+                "publicId": "1806",
+                "name": "Av. Duque D'ávila",
+                "position": {
+                  "latitude": 38.735014,
+                  "longitude": -9.14629
+                },
+                "visible": true,
+                "updateDate": "2018-02-07T11:53:12.000Z"
+              }
+            },
+            {
+              "id": 46917,
+              "order": 23,
+              "distance": 248,
+              "stop": {
+                "id": 11101,
+                "publicId": "11101",
+                "name": "Arco Cego",
+                "position": {
+                  "latitude": 38.73511,
+                  "longitude": -9.142426
+                },
+                "visible": true,
+                "updateDate": "2016-03-23T18:07:14.000Z"
+              }
+            },
+            {
+              "id": 46918,
+              "order": 24,
+              "distance": 387,
+              "stop": {
+                "id": 11108,
+                "publicId": "11108",
+                "name": "Av. Rovisco Pais",
+                "position": {
+                  "latitude": 38.735189,
+                  "longitude": -9.139572
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:18:05.000Z"
+              }
+            },
+            {
+              "id": 46919,
+              "order": 25,
+              "distance": 0,
+              "stop": {
+                "id": 50283,
+                "publicId": "11112",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736924,
+                  "longitude": -9.136349
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:14:16.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

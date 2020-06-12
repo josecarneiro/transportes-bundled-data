@@ -1,0 +1,19 @@
+{
+  "name": "transportes-bundled-data",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/index.js",
+    "build:dev": "nodemon scripts/index.js -e js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "transportes": "^0.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

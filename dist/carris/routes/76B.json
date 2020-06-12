@@ -1,0 +1,488 @@
+{
+  "id": 219,
+  "number": "76B",
+  "name": "Boa-Hora (circ.)",
+  "visible": true,
+  "creationDate": "2020-05-20T16:36:37.000Z",
+  "circular": true,
+  "variants": [
+    {
+      "id": 19882,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20463,
+          "type": "CIRC",
+          "direction": "CIRC",
+          "connections": [
+            {
+              "id": 38374,
+              "order": 29,
+              "distance": 0,
+              "stop": {
+                "id": 50366,
+                "publicId": "13402",
+                "name": "Boa Hora (R. Guarda Jóias)",
+                "position": {
+                  "latitude": 38.704861,
+                  "longitude": -9.193811
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T09:09:24.000Z"
+              }
+            },
+            {
+              "id": 38375,
+              "order": 2,
+              "distance": 171,
+              "stop": {
+                "id": 13410,
+                "publicId": "13410",
+                "name": "Boa Hora",
+                "position": {
+                  "latitude": 38.703711,
+                  "longitude": -9.19523
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:13:24.000Z"
+              }
+            },
+            {
+              "id": 38376,
+              "order": 3,
+              "distance": 280,
+              "stop": {
+                "id": 13401,
+                "publicId": "13401",
+                "name": "Boa Hora",
+                "position": {
+                  "latitude": 38.702931,
+                  "longitude": -9.19474
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:12:03.000Z"
+              }
+            },
+            {
+              "id": 38377,
+              "order": 4,
+              "distance": 256,
+              "stop": {
+                "id": 13405,
+                "publicId": "13405",
+                "name": "Rio Seco",
+                "position": {
+                  "latitude": 38.703409,
+                  "longitude": -9.191608
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:13:03.000Z"
+              }
+            },
+            {
+              "id": 38378,
+              "order": 5,
+              "distance": 248,
+              "stop": {
+                "id": 50371,
+                "publicId": "13411",
+                "name": "R. D. João Castro",
+                "position": {
+                  "latitude": 38.705045,
+                  "longitude": -9.189897
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T09:09:24.000Z"
+              }
+            },
+            {
+              "id": 38379,
+              "order": 6,
+              "distance": 191,
+              "stop": {
+                "id": 50369,
+                "publicId": "12015",
+                "name": "Tv. Fornos / R. Cruzeiro",
+                "position": {
+                  "latitude": 38.706247,
+                  "longitude": -9.189766
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T09:09:24.000Z"
+              }
+            },
+            {
+              "id": 38380,
+              "order": 7,
+              "distance": 190,
+              "stop": {
+                "id": 50331,
+                "publicId": "10318",
+                "name": "R. Cruzeiro/Tv. Pardal",
+                "position": {
+                  "latitude": 38.706865,
+                  "longitude": -9.191104
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 38381,
+              "order": 8,
+              "distance": 210,
+              "stop": {
+                "id": 50367,
+                "publicId": "10319",
+                "name": "R. Cruzeiro/Tv. José Fernandes",
+                "position": {
+                  "latitude": 38.708035,
+                  "longitude": -9.192725
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T09:09:24.000Z"
+              }
+            },
+            {
+              "id": 38382,
+              "order": 9,
+              "distance": 333,
+              "stop": {
+                "id": 50368,
+                "publicId": "10320",
+                "name": "R. Cruzeiro",
+                "position": {
+                  "latitude": 38.709207,
+                  "longitude": -9.194622
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T09:09:24.000Z"
+              }
+            },
+            {
+              "id": 38383,
+              "order": 10,
+              "distance": 466,
+              "stop": {
+                "id": 10303,
+                "publicId": "10303",
+                "name": "Lg. Ajuda (Palácio)",
+                "position": {
+                  "latitude": 38.707644,
+                  "longitude": -9.196393
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:13:00.000Z"
+              }
+            },
+            {
+              "id": 38384,
+              "order": 11,
+              "distance": 465,
+              "stop": {
+                "id": 10311,
+                "publicId": "10311",
+                "name": "Cç. Da Ajuda - Palácio",
+                "position": {
+                  "latitude": 38.707167,
+                  "longitude": -9.199103
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:37:48.000Z"
+              }
+            },
+            {
+              "id": 38385,
+              "order": 12,
+              "distance": 196,
+              "stop": {
+                "id": 12920,
+                "publicId": "12920",
+                "name": "Ajuda - Rua Das Açucenas",
+                "position": {
+                  "latitude": 38.708942,
+                  "longitude": -9.200343
+                },
+                "visible": true,
+                "updateDate": "2017-01-19T15:04:32.000Z"
+              }
+            },
+            {
+              "id": 38386,
+              "order": 13,
+              "distance": 245,
+              "stop": {
+                "id": 12908,
+                "publicId": "12908",
+                "name": "Pólo Universitário Ajuda - Est",
+                "position": {
+                  "latitude": 38.713328,
+                  "longitude": -9.20087
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:19:09.000Z"
+              }
+            },
+            {
+              "id": 38387,
+              "order": 14,
+              "distance": 228,
+              "stop": {
+                "id": 12907,
+                "publicId": "12907",
+                "name": "Estr. Marcos",
+                "position": {
+                  "latitude": 38.713409,
+                  "longitude": -9.202657
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:18:17.000Z"
+              }
+            },
+            {
+              "id": 38388,
+              "order": 15,
+              "distance": 208,
+              "stop": {
+                "id": 12906,
+                "publicId": "12906",
+                "name": "Caramão (Ajuda)",
+                "position": {
+                  "latitude": 38.714579,
+                  "longitude": -9.204519
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:17:45.000Z"
+              }
+            },
+            {
+              "id": 38389,
+              "order": 16,
+              "distance": 157,
+              "stop": {
+                "id": 12918,
+                "publicId": "12918",
+                "name": "R. José Pinto Bastos",
+                "position": {
+                  "latitude": 38.714019,
+                  "longitude": -9.206034
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 38390,
+              "order": 17,
+              "distance": 149,
+              "stop": {
+                "id": 12925,
+                "publicId": "12925",
+                "name": "Clube Atlético Caramão",
+                "position": {
+                  "latitude": 38.712848,
+                  "longitude": -9.206846
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 38391,
+              "order": 18,
+              "distance": 251,
+              "stop": {
+                "id": 12926,
+                "publicId": "12926",
+                "name": "Av. Helen Keller",
+                "position": {
+                  "latitude": 38.711675,
+                  "longitude": -9.207681
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 38392,
+              "order": 19,
+              "distance": 329,
+              "stop": {
+                "id": 12913,
+                "publicId": "12913",
+                "name": "B.º Caramão",
+                "position": {
+                  "latitude": 38.710867,
+                  "longitude": -9.205378
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:19:49.000Z"
+              }
+            },
+            {
+              "id": 38393,
+              "order": 20,
+              "distance": 189,
+              "stop": {
+                "id": 12915,
+                "publicId": "12915",
+                "name": "Cemitério Ajuda",
+                "position": {
+                  "latitude": 38.70904,
+                  "longitude": -9.203214
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:20:26.000Z"
+              }
+            },
+            {
+              "id": 38394,
+              "order": 21,
+              "distance": 201,
+              "stop": {
+                "id": 13111,
+                "publicId": "13111",
+                "name": "Cç. Galvão (Gnr)",
+                "position": {
+                  "latitude": 38.707422,
+                  "longitude": -9.202628
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:06:46.000Z"
+              }
+            },
+            {
+              "id": 38395,
+              "order": 22,
+              "distance": 353,
+              "stop": {
+                "id": 13113,
+                "publicId": "13113",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70562,
+                  "longitude": -9.202441
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:07:18.000Z"
+              }
+            },
+            {
+              "id": 38396,
+              "order": 23,
+              "distance": 219,
+              "stop": {
+                "id": 13309,
+                "publicId": "13309",
+                "name": "Igreja Memória",
+                "position": {
+                  "latitude": 38.702456,
+                  "longitude": -9.202529
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:10:40.000Z"
+              }
+            },
+            {
+              "id": 38397,
+              "order": 24,
+              "distance": 286,
+              "stop": {
+                "id": 50370,
+                "publicId": "13315",
+                "name": "Tv. Memória",
+                "position": {
+                  "latitude": 38.702567,
+                  "longitude": -9.200849
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T09:09:24.000Z"
+              }
+            },
+            {
+              "id": 38398,
+              "order": 25,
+              "distance": 100,
+              "stop": {
+                "id": 13308,
+                "publicId": "13308",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704327,
+                  "longitude": -9.199301
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:28:45.000Z"
+              }
+            },
+            {
+              "id": 38399,
+              "order": 26,
+              "distance": 211,
+              "stop": {
+                "id": 13303,
+                "publicId": "13303",
+                "name": "R. Bica Marquês",
+                "position": {
+                  "latitude": 38.704697,
+                  "longitude": -9.198659
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:08:39.000Z"
+              }
+            },
+            {
+              "id": 38400,
+              "order": 27,
+              "distance": 218,
+              "stop": {
+                "id": 13305,
+                "publicId": "13305",
+                "name": "R. D. Vasco",
+                "position": {
+                  "latitude": 38.704888,
+                  "longitude": -9.196248
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:09:51.000Z"
+              }
+            },
+            {
+              "id": 38401,
+              "order": 28,
+              "distance": 114,
+              "stop": {
+                "id": 50372,
+                "publicId": "13412",
+                "name": "Centro Saúde Ajuda",
+                "position": {
+                  "latitude": 38.705521,
+                  "longitude": -9.194308
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T09:09:24.000Z"
+              }
+            },
+            {
+              "id": 46185,
+              "order": 1,
+              "distance": 259,
+              "stop": {
+                "id": 50366,
+                "publicId": "13402",
+                "name": "Boa Hora (R. Guarda Jóias)",
+                "position": {
+                  "latitude": 38.704861,
+                  "longitude": -9.193811
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T09:09:24.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

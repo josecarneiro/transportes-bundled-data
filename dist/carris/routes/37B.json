@@ -1,0 +1,408 @@
+{
+  "id": 224,
+  "number": "37B",
+  "name": "Cruz Pedra (circ.)",
+  "visible": true,
+  "creationDate": "2020-05-20T16:36:37.000Z",
+  "circular": true,
+  "variants": [
+    {
+      "id": 20468,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21094,
+          "type": "CIRC",
+          "direction": "CIRC",
+          "connections": [
+            {
+              "id": 42370,
+              "order": 24,
+              "distance": 0,
+              "stop": {
+                "id": 50400,
+                "publicId": "9817",
+                "name": "Cruz Da Pedra",
+                "position": {
+                  "latitude": 38.723685,
+                  "longitude": -9.115432
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:41:41.000Z"
+              }
+            },
+            {
+              "id": 42371,
+              "order": 2,
+              "distance": 378,
+              "stop": {
+                "id": 9816,
+                "publicId": "9816",
+                "name": "R. Madre Deus",
+                "position": {
+                  "latitude": 38.722636,
+                  "longitude": -9.115659
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:40:15.000Z"
+              }
+            },
+            {
+              "id": 42372,
+              "order": 3,
+              "distance": 242,
+              "stop": {
+                "id": 9824,
+                "publicId": "9824",
+                "name": "Cç. Cruz Pedra",
+                "position": {
+                  "latitude": 38.720459,
+                  "longitude": -9.117806
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:43:54.000Z"
+              }
+            },
+            {
+              "id": 42373,
+              "order": 4,
+              "distance": 254,
+              "stop": {
+                "id": 9819,
+                "publicId": "9819",
+                "name": "Esc. Patricio Prazeres",
+                "position": {
+                  "latitude": 38.721809,
+                  "longitude": -9.119961
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:42:55.000Z"
+              }
+            },
+            {
+              "id": 42374,
+              "order": 5,
+              "distance": 255,
+              "stop": {
+                "id": 9821,
+                "publicId": "9821",
+                "name": "Qta. Peixinhos",
+                "position": {
+                  "latitude": 38.723519,
+                  "longitude": -9.121702
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:43:28.000Z"
+              }
+            },
+            {
+              "id": 42375,
+              "order": 6,
+              "distance": 497,
+              "stop": {
+                "id": 11707,
+                "publicId": "11707",
+                "name": "R. Castelo Branco Saraiva",
+                "position": {
+                  "latitude": 38.725765,
+                  "longitude": -9.122421
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:45:09.000Z"
+              }
+            },
+            {
+              "id": 42376,
+              "order": 7,
+              "distance": 227,
+              "stop": {
+                "id": 50397,
+                "publicId": "9123",
+                "name": "R. Gen. Themudo Barata",
+                "position": {
+                  "latitude": 38.726935,
+                  "longitude": -9.124214
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:36:54.000Z"
+              }
+            },
+            {
+              "id": 42377,
+              "order": 8,
+              "distance": 240,
+              "stop": {
+                "id": 50398,
+                "publicId": "9134",
+                "name": "R. Castelo Branco Saraiva",
+                "position": {
+                  "latitude": 38.726065,
+                  "longitude": -9.125523
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:37:39.000Z"
+              }
+            },
+            {
+              "id": 42378,
+              "order": 9,
+              "distance": 242,
+              "stop": {
+                "id": 50399,
+                "publicId": "9135",
+                "name": "R. Franciso Pedro Curado",
+                "position": {
+                  "latitude": 38.727234,
+                  "longitude": -9.125697
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:38:16.000Z"
+              }
+            },
+            {
+              "id": 42379,
+              "order": 10,
+              "distance": 407,
+              "stop": {
+                "id": 7006,
+                "publicId": "7006",
+                "name": "Esc. Nuno Gonçalves",
+                "position": {
+                  "latitude": 38.727193,
+                  "longitude": -9.12839
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:32:36.000Z"
+              }
+            },
+            {
+              "id": 42380,
+              "order": 11,
+              "distance": 177,
+              "stop": {
+                "id": 7005,
+                "publicId": "7005",
+                "name": "Penha França",
+                "position": {
+                  "latitude": 38.728516,
+                  "longitude": -9.130831
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:32:10.000Z"
+              }
+            },
+            {
+              "id": 42381,
+              "order": 12,
+              "distance": 287,
+              "stop": {
+                "id": 50395,
+                "publicId": "7017",
+                "name": "Igreja Penha França",
+                "position": {
+                  "latitude": 38.729893,
+                  "longitude": -9.130941
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:34:23.000Z"
+              }
+            },
+            {
+              "id": 42382,
+              "order": 13,
+              "distance": 457,
+              "stop": {
+                "id": 508,
+                "publicId": "508",
+                "name": "R. Morais Soares",
+                "position": {
+                  "latitude": 38.732437,
+                  "longitude": -9.130846
+                },
+                "visible": false,
+                "updateDate": "2019-07-25T11:24:59.517Z"
+              }
+            },
+            {
+              "id": 42383,
+              "order": 14,
+              "distance": 388,
+              "stop": {
+                "id": 50394,
+                "publicId": "401",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736504,
+                  "longitude": -9.131137
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:02.000Z"
+              }
+            },
+            {
+              "id": 42384,
+              "order": 15,
+              "distance": 323,
+              "stop": {
+                "id": 9002,
+                "publicId": "9002",
+                "name": "Alto Pina",
+                "position": {
+                  "latitude": 38.737503,
+                  "longitude": -9.127447
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:36:06.000Z"
+              }
+            },
+            {
+              "id": 42385,
+              "order": 16,
+              "distance": 242,
+              "stop": {
+                "id": 8911,
+                "publicId": "8911",
+                "name": "R. Eng.º Santos Simões",
+                "position": {
+                  "latitude": 38.735827,
+                  "longitude": -9.125687
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 42386,
+              "order": 17,
+              "distance": 406,
+              "stop": {
+                "id": 50396,
+                "publicId": "8920",
+                "name": "Qta. Lavrado",
+                "position": {
+                  "latitude": 38.734349,
+                  "longitude": -9.125134
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:35:44.000Z"
+              }
+            },
+            {
+              "id": 42387,
+              "order": 18,
+              "distance": 224,
+              "stop": {
+                "id": 7010,
+                "publicId": "7010",
+                "name": "Pç. Paiva Couceiro",
+                "position": {
+                  "latitude": 38.731363,
+                  "longitude": -9.127089
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:33:26.000Z"
+              }
+            },
+            {
+              "id": 42388,
+              "order": 19,
+              "distance": 285,
+              "stop": {
+                "id": 7012,
+                "publicId": "7012",
+                "name": "R. Morais Soares (Cemitério)",
+                "position": {
+                  "latitude": 38.730261,
+                  "longitude": -9.124928
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:33:44.000Z"
+              }
+            },
+            {
+              "id": 42389,
+              "order": 20,
+              "distance": 274,
+              "stop": {
+                "id": 11702,
+                "publicId": "11702",
+                "name": "Cemitério Alto S. João",
+                "position": {
+                  "latitude": 38.728859,
+                  "longitude": -9.122188
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:44:27.000Z"
+              }
+            },
+            {
+              "id": 42390,
+              "order": 21,
+              "distance": 223,
+              "stop": {
+                "id": 11704,
+                "publicId": "11704",
+                "name": "Av. Afonso Iii",
+                "position": {
+                  "latitude": 38.727483,
+                  "longitude": -9.119604
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:44:44.000Z"
+              }
+            },
+            {
+              "id": 42391,
+              "order": 22,
+              "distance": 209,
+              "stop": {
+                "id": 9801,
+                "publicId": "9801",
+                "name": "Cç. Lajes",
+                "position": {
+                  "latitude": 38.725662,
+                  "longitude": -9.118894
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:38:47.000Z"
+              }
+            },
+            {
+              "id": 42392,
+              "order": 23,
+              "distance": 268,
+              "stop": {
+                "id": 9803,
+                "publicId": "9803",
+                "name": "R. D. Fuas Roupinho",
+                "position": {
+                  "latitude": 38.724404,
+                  "longitude": -9.11739
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:39:05.000Z"
+              }
+            },
+            {
+              "id": 46190,
+              "order": 1,
+              "distance": 125,
+              "stop": {
+                "id": 50400,
+                "publicId": "9817",
+                "name": "Cruz Da Pedra",
+                "position": {
+                  "latitude": 38.723685,
+                  "longitude": -9.115432
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:41:41.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

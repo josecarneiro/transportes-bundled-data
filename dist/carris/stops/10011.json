@@ -1,0 +1,11 @@
+{
+  "id": 10011,
+  "publicId": "10011",
+  "name": "Rua Buenos Aires",
+  "position": {
+    "latitude": 38.711322,
+    "longitude": -9.160938
+  },
+  "visible": true,
+  "updateDate": "2008-12-05T17:22:54.000Z"
+}

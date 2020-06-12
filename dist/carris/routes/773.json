@@ -1,0 +1,847 @@
+{
+  "id": 124,
+  "number": "773",
+  "name": "Rato-Alcântara",
+  "visible": true,
+  "creationDate": "2020-05-20T09:48:12.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20741,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21381,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 44113,
+              "order": 1,
+              "distance": 214,
+              "stop": {
+                "id": 6825,
+                "publicId": "6825",
+                "name": "Rato",
+                "position": {
+                  "latitude": 38.720351,
+                  "longitude": -9.153665
+                },
+                "visible": true,
+                "updateDate": "2015-10-20T11:29:49.000Z"
+              }
+            },
+            {
+              "id": 44114,
+              "order": 2,
+              "distance": 223,
+              "stop": {
+                "id": 50186,
+                "publicId": "6814",
+                "name": "Rua Rodrigo Da Fonseca",
+                "position": {
+                  "latitude": 38.721198,
+                  "longitude": -9.151792
+                },
+                "visible": true,
+                "updateDate": "2016-05-16T14:10:26.000Z"
+              }
+            },
+            {
+              "id": 44115,
+              "order": 3,
+              "distance": 335,
+              "stop": {
+                "id": 50146,
+                "publicId": "10612",
+                "name": "R. Nova S. Mamede",
+                "position": {
+                  "latitude": 38.719648,
+                  "longitude": -9.151141
+                },
+                "visible": true,
+                "updateDate": "2018-09-26T10:36:42.000Z"
+              }
+            },
+            {
+              "id": 44116,
+              "order": 4,
+              "distance": 375,
+              "stop": {
+                "id": 10608,
+                "publicId": "10608",
+                "name": "Rua Da Escola Politécnica",
+                "position": {
+                  "latitude": 38.717537,
+                  "longitude": -9.151047
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:13:53.000Z"
+              }
+            },
+            {
+              "id": 44117,
+              "order": 5,
+              "distance": 263,
+              "stop": {
+                "id": 50075,
+                "publicId": "10610",
+                "name": "Rua Dom Pedro V",
+                "position": {
+                  "latitude": 38.715387,
+                  "longitude": -9.146117
+                },
+                "visible": true,
+                "updateDate": "2020-03-06T10:57:31.140Z"
+              }
+            },
+            {
+              "id": 44118,
+              "order": 6,
+              "distance": 132,
+              "stop": {
+                "id": 6716,
+                "publicId": "6716",
+                "name": "Rua Da Palmeira",
+                "position": {
+                  "latitude": 38.714839,
+                  "longitude": -9.150155
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:41:22.000Z"
+              }
+            },
+            {
+              "id": 44119,
+              "order": 7,
+              "distance": 249,
+              "stop": {
+                "id": 6714,
+                "publicId": "6714",
+                "name": "Praça Das Flores",
+                "position": {
+                  "latitude": 38.714907,
+                  "longitude": -9.151562
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:55:27.000Z"
+              }
+            },
+            {
+              "id": 44120,
+              "order": 8,
+              "distance": 443,
+              "stop": {
+                "id": 6704,
+                "publicId": "6704",
+                "name": "Palácio De São Bento (Jardim)",
+                "position": {
+                  "latitude": 38.713484,
+                  "longitude": -9.153328
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T15:41:02.000Z"
+              }
+            },
+            {
+              "id": 44121,
+              "order": 9,
+              "distance": 89,
+              "stop": {
+                "id": 6720,
+                "publicId": "6720",
+                "name": "Cç. Estrela / R. Borges Carnei",
+                "position": {
+                  "latitude": 38.712478,
+                  "longitude": -9.155726
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:33:08.000Z"
+              }
+            },
+            {
+              "id": 44122,
+              "order": 10,
+              "distance": 190,
+              "stop": {
+                "id": 6707,
+                "publicId": "6707",
+                "name": "R. Borges Carneiro / Cç. Estre",
+                "position": {
+                  "latitude": 38.712266,
+                  "longitude": -9.156625
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:35:14.000Z"
+              }
+            },
+            {
+              "id": 44123,
+              "order": 11,
+              "distance": 316,
+              "stop": {
+                "id": 10003,
+                "publicId": "10003",
+                "name": "Lapa",
+                "position": {
+                  "latitude": 38.7112,
+                  "longitude": -9.158328
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:36:36.000Z"
+              }
+            },
+            {
+              "id": 44124,
+              "order": 12,
+              "distance": 130,
+              "stop": {
+                "id": 10001,
+                "publicId": "10001",
+                "name": "R. Santana À Lapa / R. Buenos",
+                "position": {
+                  "latitude": 38.710332,
+                  "longitude": -9.161413
+                },
+                "visible": true,
+                "updateDate": "2018-04-06T16:53:06.000Z"
+              }
+            },
+            {
+              "id": 44125,
+              "order": 13,
+              "distance": 177,
+              "stop": {
+                "id": 10014,
+                "publicId": "10014",
+                "name": "Rua Santana À Lapa",
+                "position": {
+                  "latitude": 38.710835,
+                  "longitude": -9.161372
+                },
+                "visible": true,
+                "updateDate": "2015-08-11T15:51:42.000Z"
+              }
+            },
+            {
+              "id": 44126,
+              "order": 14,
+              "distance": 272,
+              "stop": {
+                "id": 10012,
+                "publicId": "10012",
+                "name": "Rua Buenos Aires",
+                "position": {
+                  "latitude": 38.71212,
+                  "longitude": -9.160362
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:26:11.000Z"
+              }
+            },
+            {
+              "id": 44127,
+              "order": 15,
+              "distance": 185,
+              "stop": {
+                "id": 8112,
+                "publicId": "8112",
+                "name": "Estrela (Basílica)",
+                "position": {
+                  "latitude": 38.713735,
+                  "longitude": -9.16023
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:38:59.000Z"
+              }
+            },
+            {
+              "id": 44128,
+              "order": 16,
+              "distance": 228,
+              "stop": {
+                "id": 8102,
+                "publicId": "8102",
+                "name": "Estrela",
+                "position": {
+                  "latitude": 38.713272,
+                  "longitude": -9.162173
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T11:41:31.000Z"
+              }
+            },
+            {
+              "id": 44129,
+              "order": 17,
+              "distance": 162,
+              "stop": {
+                "id": 10109,
+                "publicId": "10109",
+                "name": "Av. Infante Santo",
+                "position": {
+                  "latitude": 38.711755,
+                  "longitude": -9.163928
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:05:23.000Z"
+              }
+            },
+            {
+              "id": 44130,
+              "order": 18,
+              "distance": 179,
+              "stop": {
+                "id": 50148,
+                "publicId": "10111",
+                "name": "Rua Do Possolo",
+                "position": {
+                  "latitude": 38.712614,
+                  "longitude": -9.164983
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:47:47.000Z"
+              }
+            },
+            {
+              "id": 44131,
+              "order": 19,
+              "distance": 210,
+              "stop": {
+                "id": 10107,
+                "publicId": "10107",
+                "name": "Escola Josefa De Óbidos",
+                "position": {
+                  "latitude": 38.71273,
+                  "longitude": -9.166951
+                },
+                "visible": true,
+                "updateDate": "2008-12-09T09:57:02.000Z"
+              }
+            },
+            {
+              "id": 44132,
+              "order": 20,
+              "distance": 262,
+              "stop": {
+                "id": 10105,
+                "publicId": "10105",
+                "name": "Fonte Santa",
+                "position": {
+                  "latitude": 38.711896,
+                  "longitude": -9.16897
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:27:43.000Z"
+              }
+            },
+            {
+              "id": 44133,
+              "order": 21,
+              "distance": 222,
+              "stop": {
+                "id": 9421,
+                "publicId": "9421",
+                "name": "Rua Possidónio Da Silva",
+                "position": {
+                  "latitude": 38.710425,
+                  "longitude": -9.171328
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:38:26.000Z"
+              }
+            },
+            {
+              "id": 44134,
+              "order": 22,
+              "distance": 153,
+              "stop": {
+                "id": 50080,
+                "publicId": "9407",
+                "name": "Rua Capitão Afonso Pala",
+                "position": {
+                  "latitude": 38.70848,
+                  "longitude": -9.171467
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:06:35.000Z"
+              }
+            },
+            {
+              "id": 44135,
+              "order": 23,
+              "distance": 210,
+              "stop": {
+                "id": 9419,
+                "publicId": "9419",
+                "name": "Largo Das Necessidades",
+                "position": {
+                  "latitude": 38.707101,
+                  "longitude": -9.171525
+                },
+                "visible": true,
+                "updateDate": "2015-09-24T08:36:33.000Z"
+              }
+            },
+            {
+              "id": 44136,
+              "order": 24,
+              "distance": 172,
+              "stop": {
+                "id": 50147,
+                "publicId": "9413",
+                "name": "Cç. Do Livramento",
+                "position": {
+                  "latitude": 38.705815,
+                  "longitude": -9.171749
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:51:55.000Z"
+              }
+            },
+            {
+              "id": 44137,
+              "order": 25,
+              "distance": 156,
+              "stop": {
+                "id": 9417,
+                "publicId": "9417",
+                "name": "Alcântara",
+                "position": {
+                  "latitude": 38.706277,
+                  "longitude": -9.173385
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:24:04.000Z"
+              }
+            },
+            {
+              "id": 44138,
+              "order": 26,
+              "distance": 0,
+              "stop": {
+                "id": 50357,
+                "publicId": "9414",
+                "name": "Alcântara",
+                "position": {
+                  "latitude": 38.706882,
+                  "longitude": -9.173145
+                },
+                "visible": true,
+                "updateDate": "2018-03-15T10:14:16.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21382,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 44139,
+              "order": 1,
+              "distance": 170,
+              "stop": {
+                "id": 50357,
+                "publicId": "9414",
+                "name": "Alcântara",
+                "position": {
+                  "latitude": 38.706882,
+                  "longitude": -9.173145
+                },
+                "visible": true,
+                "updateDate": "2018-03-15T10:14:16.000Z"
+              }
+            },
+            {
+              "id": 44140,
+              "order": 2,
+              "distance": 236,
+              "stop": {
+                "id": 9418,
+                "publicId": "9418",
+                "name": "Alcântara",
+                "position": {
+                  "latitude": 38.705883,
+                  "longitude": -9.172712
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:23:53.000Z"
+              }
+            },
+            {
+              "id": 44141,
+              "order": 3,
+              "distance": 245,
+              "stop": {
+                "id": 10207,
+                "publicId": "10207",
+                "name": "Praça Da Armada",
+                "position": {
+                  "latitude": 38.704975,
+                  "longitude": -9.170297
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T15:40:02.000Z"
+              }
+            },
+            {
+              "id": 44142,
+              "order": 4,
+              "distance": 223,
+              "stop": {
+                "id": 9426,
+                "publicId": "9426",
+                "name": "Rua Das Necessidades",
+                "position": {
+                  "latitude": 38.705743,
+                  "longitude": -9.16976
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:19:26.000Z"
+              }
+            },
+            {
+              "id": 44143,
+              "order": 5,
+              "distance": 154,
+              "stop": {
+                "id": 9420,
+                "publicId": "9420",
+                "name": "Largo Das Necessidades",
+                "position": {
+                  "latitude": 38.70711,
+                  "longitude": -9.171423
+                },
+                "visible": true,
+                "updateDate": "2015-09-24T08:37:41.000Z"
+              }
+            },
+            {
+              "id": 44144,
+              "order": 6,
+              "distance": 243,
+              "stop": {
+                "id": 50081,
+                "publicId": "9408",
+                "name": "Rua Capitão Afonso Pala",
+                "position": {
+                  "latitude": 38.708476,
+                  "longitude": -9.171363
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:51:39.000Z"
+              }
+            },
+            {
+              "id": 44145,
+              "order": 7,
+              "distance": 270,
+              "stop": {
+                "id": 9422,
+                "publicId": "9422",
+                "name": "Rua Possidónio Da Silva",
+                "position": {
+                  "latitude": 38.710493,
+                  "longitude": -9.171064
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:38:02.000Z"
+              }
+            },
+            {
+              "id": 44146,
+              "order": 8,
+              "distance": 218,
+              "stop": {
+                "id": 10106,
+                "publicId": "10106",
+                "name": "Fonte Santa",
+                "position": {
+                  "latitude": 38.711993,
+                  "longitude": -9.168629
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:27:44.000Z"
+              }
+            },
+            {
+              "id": 44147,
+              "order": 9,
+              "distance": 359,
+              "stop": {
+                "id": 10108,
+                "publicId": "10108",
+                "name": "Escola Josefa De Óbidos",
+                "position": {
+                  "latitude": 38.712682,
+                  "longitude": -9.166471
+                },
+                "visible": true,
+                "updateDate": "2008-12-09T09:56:46.000Z"
+              }
+            },
+            {
+              "id": 44148,
+              "order": 10,
+              "distance": 171,
+              "stop": {
+                "id": 10103,
+                "publicId": "10103",
+                "name": "Av. Inf. Santo / R. Santana À",
+                "position": {
+                  "latitude": 38.712024,
+                  "longitude": -9.163343
+                },
+                "visible": true,
+                "updateDate": "2018-08-20T16:46:12.000Z"
+              }
+            },
+            {
+              "id": 44149,
+              "order": 11,
+              "distance": 202,
+              "stop": {
+                "id": 8101,
+                "publicId": "8101",
+                "name": "Estrela",
+                "position": {
+                  "latitude": 38.713163,
+                  "longitude": -9.162023
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 44150,
+              "order": 12,
+              "distance": 166,
+              "stop": {
+                "id": 8111,
+                "publicId": "8111",
+                "name": "Estrela (Basílica)",
+                "position": {
+                  "latitude": 38.713627,
+                  "longitude": -9.160065
+                },
+                "visible": true,
+                "updateDate": "2019-10-02T09:49:06.000Z"
+              }
+            },
+            {
+              "id": 44151,
+              "order": 13,
+              "distance": 183,
+              "stop": {
+                "id": 8113,
+                "publicId": "8113",
+                "name": "Rua João De Deus",
+                "position": {
+                  "latitude": 38.712681,
+                  "longitude": -9.160224
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:03:38.000Z"
+              }
+            },
+            {
+              "id": 44152,
+              "order": 14,
+              "distance": 193,
+              "stop": {
+                "id": 10011,
+                "publicId": "10011",
+                "name": "Rua Buenos Aires",
+                "position": {
+                  "latitude": 38.711322,
+                  "longitude": -9.160938
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:22:54.000Z"
+              }
+            },
+            {
+              "id": 44153,
+              "order": 15,
+              "distance": 152,
+              "stop": {
+                "id": 10013,
+                "publicId": "10013",
+                "name": "Rua Santana À Lapa",
+                "position": {
+                  "latitude": 38.710054,
+                  "longitude": -9.162462
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:43:01.000Z"
+              }
+            },
+            {
+              "id": 44154,
+              "order": 16,
+              "distance": 337,
+              "stop": {
+                "id": 10006,
+                "publicId": "10006",
+                "name": "R. S. Domingos À Lapa",
+                "position": {
+                  "latitude": 38.709305,
+                  "longitude": -9.161713
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:36:47.000Z"
+              }
+            },
+            {
+              "id": 44155,
+              "order": 17,
+              "distance": 236,
+              "stop": {
+                "id": 10004,
+                "publicId": "10004",
+                "name": "Lapa",
+                "position": {
+                  "latitude": 38.710984,
+                  "longitude": -9.158476
+                },
+                "visible": true,
+                "updateDate": "2007-12-20T11:19:46.000Z"
+              }
+            },
+            {
+              "id": 44156,
+              "order": 18,
+              "distance": 384,
+              "stop": {
+                "id": 6708,
+                "publicId": "6708",
+                "name": "R. Borges Carneiro / Cç. Estre",
+                "position": {
+                  "latitude": 38.71229,
+                  "longitude": -9.15634
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:35:26.000Z"
+              }
+            },
+            {
+              "id": 44157,
+              "order": 19,
+              "distance": 137,
+              "stop": {
+                "id": 6712,
+                "publicId": "6712",
+                "name": "Palácio De São Bento",
+                "position": {
+                  "latitude": 38.712209,
+                  "longitude": -9.15276
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T12:40:45.000Z"
+              }
+            },
+            {
+              "id": 44158,
+              "order": 20,
+              "distance": 273,
+              "stop": {
+                "id": 6703,
+                "publicId": "6703",
+                "name": "Palácio De São Bento (Jardim)",
+                "position": {
+                  "latitude": 38.71339,
+                  "longitude": -9.153158
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T15:40:35.000Z"
+              }
+            },
+            {
+              "id": 44159,
+              "order": 21,
+              "distance": 147,
+              "stop": {
+                "id": 6713,
+                "publicId": "6713",
+                "name": "Praça Das Flores",
+                "position": {
+                  "latitude": 38.714909,
+                  "longitude": -9.151419
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:55:41.000Z"
+              }
+            },
+            {
+              "id": 44160,
+              "order": 22,
+              "distance": 332,
+              "stop": {
+                "id": 6715,
+                "publicId": "6715",
+                "name": "Rua Da Palmeira",
+                "position": {
+                  "latitude": 38.714648,
+                  "longitude": -9.150005
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:43:27.000Z"
+              }
+            },
+            {
+              "id": 44161,
+              "order": 23,
+              "distance": 377,
+              "stop": {
+                "id": 10605,
+                "publicId": "10605",
+                "name": "Príncipe Real",
+                "position": {
+                  "latitude": 38.71657,
+                  "longitude": -9.14811
+                },
+                "visible": true,
+                "updateDate": "2018-04-26T16:19:18.000Z"
+              }
+            },
+            {
+              "id": 44162,
+              "order": 24,
+              "distance": 371,
+              "stop": {
+                "id": 10607,
+                "publicId": "10607",
+                "name": "R. Escola Politécnica",
+                "position": {
+                  "latitude": 38.71807,
+                  "longitude": -9.151939
+                },
+                "visible": true,
+                "updateDate": "2018-05-04T11:25:39.000Z"
+              }
+            },
+            {
+              "id": 44163,
+              "order": 25,
+              "distance": 0,
+              "stop": {
+                "id": 6825,
+                "publicId": "6825",
+                "name": "Rato",
+                "position": {
+                  "latitude": 38.720351,
+                  "longitude": -9.153665
+                },
+                "visible": true,
+                "updateDate": "2015-10-20T11:29:49.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

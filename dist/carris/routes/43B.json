@@ -1,0 +1,440 @@
+{
+  "id": 222,
+  "number": "43B",
+  "name": "Paço Lumiar (circ.)",
+  "visible": true,
+  "creationDate": "2020-05-20T16:36:37.000Z",
+  "circular": true,
+  "variants": [
+    {
+      "id": 19761,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20341,
+          "type": "CIRC",
+          "direction": "CIRC",
+          "connections": [
+            {
+              "id": 37259,
+              "order": 26,
+              "distance": 0,
+              "stop": {
+                "id": 5954,
+                "publicId": "5954",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.769403,
+                  "longitude": -9.173615
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:17:52.000Z"
+              }
+            },
+            {
+              "id": 37260,
+              "order": 2,
+              "distance": 622,
+              "stop": {
+                "id": 5953,
+                "publicId": "5953",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.768973,
+                  "longitude": -9.172812
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:17:39.000Z"
+              }
+            },
+            {
+              "id": 37261,
+              "order": 3,
+              "distance": 197,
+              "stop": {
+                "id": 50281,
+                "publicId": "50032",
+                "name": "R. Armindo Rodrigues",
+                "position": {
+                  "latitude": 38.768799,
+                  "longitude": -9.167451
+                },
+                "visible": true,
+                "updateDate": "2019-03-11T10:47:14.000Z"
+              }
+            },
+            {
+              "id": 37262,
+              "order": 4,
+              "distance": 365,
+              "stop": {
+                "id": 50030,
+                "publicId": "50030",
+                "name": "Alto Faia",
+                "position": {
+                  "latitude": 38.768147,
+                  "longitude": -9.168067
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:37:55.000Z"
+              }
+            },
+            {
+              "id": 37263,
+              "order": 5,
+              "distance": 204,
+              "stop": {
+                "id": 50026,
+                "publicId": "50026",
+                "name": "R. Prof. Prado Coelho",
+                "position": {
+                  "latitude": 38.766944,
+                  "longitude": -9.170978
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:36:35.000Z"
+              }
+            },
+            {
+              "id": 37264,
+              "order": 6,
+              "distance": 366,
+              "stop": {
+                "id": 50024,
+                "publicId": "50024",
+                "name": "Alto Faia Sul",
+                "position": {
+                  "latitude": 38.765239,
+                  "longitude": -9.171803
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:36:00.000Z"
+              }
+            },
+            {
+              "id": 37265,
+              "order": 7,
+              "distance": 359,
+              "stop": {
+                "id": 50010,
+                "publicId": "50010",
+                "name": "R. Prof. João Barreira",
+                "position": {
+                  "latitude": 38.76254,
+                  "longitude": -9.170813
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:32:55.000Z"
+              }
+            },
+            {
+              "id": 37266,
+              "order": 8,
+              "distance": 170,
+              "stop": {
+                "id": 50012,
+                "publicId": "50012",
+                "name": "Telheiras",
+                "position": {
+                  "latitude": 38.760467,
+                  "longitude": -9.169222
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:34:11.000Z"
+              }
+            },
+            {
+              "id": 37267,
+              "order": 9,
+              "distance": 301,
+              "stop": {
+                "id": 50006,
+                "publicId": "50006",
+                "name": "R. Prof. Francisco Gentil (Met",
+                "position": {
+                  "latitude": 38.760516,
+                  "longitude": -9.167263
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:28:29.000Z"
+              }
+            },
+            {
+              "id": 37268,
+              "order": 10,
+              "distance": 916,
+              "stop": {
+                "id": 50014,
+                "publicId": "50014",
+                "name": "R. Prof. Fernando Fonseca",
+                "position": {
+                  "latitude": 38.761573,
+                  "longitude": -9.165074
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:35:18.000Z"
+              }
+            },
+            {
+              "id": 37269,
+              "order": 11,
+              "distance": 135,
+              "stop": {
+                "id": 5828,
+                "publicId": "5828",
+                "name": "Campo Grande (Metro) - Só Desc",
+                "position": {
+                  "latitude": 38.760369,
+                  "longitude": -9.158239
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:11:34.000Z"
+              }
+            },
+            {
+              "id": 37270,
+              "order": 12,
+              "distance": 445,
+              "stop": {
+                "id": 5825,
+                "publicId": "5825",
+                "name": "Campo Grande-Metro",
+                "position": {
+                  "latitude": 38.760944,
+                  "longitude": -9.157131
+                },
+                "visible": true,
+                "updateDate": "2015-04-07T16:33:41.000Z"
+              }
+            },
+            {
+              "id": 37271,
+              "order": 13,
+              "distance": 441,
+              "stop": {
+                "id": 5811,
+                "publicId": "5811",
+                "name": "Hosp. Pulido Valente",
+                "position": {
+                  "latitude": 38.764564,
+                  "longitude": -9.156996
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:48:28.000Z"
+              }
+            },
+            {
+              "id": 37272,
+              "order": 14,
+              "distance": 160,
+              "stop": {
+                "id": 5836,
+                "publicId": "5836",
+                "name": "Rua Amílcar Cabral",
+                "position": {
+                  "latitude": 38.764728,
+                  "longitude": -9.153885
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T12:23:41.000Z"
+              }
+            },
+            {
+              "id": 37273,
+              "order": 15,
+              "distance": 186,
+              "stop": {
+                "id": 5837,
+                "publicId": "5837",
+                "name": "Rua Amílcar Cabral",
+                "position": {
+                  "latitude": 38.764831,
+                  "longitude": -9.152828
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:54:43.000Z"
+              }
+            },
+            {
+              "id": 37274,
+              "order": 16,
+              "distance": 421,
+              "stop": {
+                "id": 5838,
+                "publicId": "5838",
+                "name": "Alto Do Lumiar - Parque Europa",
+                "position": {
+                  "latitude": 38.766451,
+                  "longitude": -9.152747
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T13:13:23.000Z"
+              }
+            },
+            {
+              "id": 37275,
+              "order": 17,
+              "distance": 89,
+              "stop": {
+                "id": 50390,
+                "publicId": "5830",
+                "name": "Qta. Conchas (Metro)",
+                "position": {
+                  "latitude": 38.766781,
+                  "longitude": -9.157417
+                },
+                "visible": true,
+                "updateDate": "2019-03-13T13:48:54.000Z"
+              }
+            },
+            {
+              "id": 37276,
+              "order": 18,
+              "distance": 383,
+              "stop": {
+                "id": 5901,
+                "publicId": "5901",
+                "name": "Av. Rainha D. Leonor",
+                "position": {
+                  "latitude": 38.767186,
+                  "longitude": -9.157918
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:54:09.000Z"
+              }
+            },
+            {
+              "id": 37277,
+              "order": 19,
+              "distance": 396,
+              "stop": {
+                "id": 5903,
+                "publicId": "5903",
+                "name": "Qta. Conchas",
+                "position": {
+                  "latitude": 38.770339,
+                  "longitude": -9.159706
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:54:31.000Z"
+              }
+            },
+            {
+              "id": 37278,
+              "order": 20,
+              "distance": 240,
+              "stop": {
+                "id": 5907,
+                "publicId": "5907",
+                "name": "Lumiar",
+                "position": {
+                  "latitude": 38.773573,
+                  "longitude": -9.161641
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T10:54:29.000Z"
+              }
+            },
+            {
+              "id": 37279,
+              "order": 21,
+              "distance": 148,
+              "stop": {
+                "id": 5912,
+                "publicId": "5912",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774712,
+                  "longitude": -9.163137
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:14.000Z"
+              }
+            },
+            {
+              "id": 37280,
+              "order": 22,
+              "distance": 783,
+              "stop": {
+                "id": 5915,
+                "publicId": "5915",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774496,
+                  "longitude": -9.163784
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:43.000Z"
+              }
+            },
+            {
+              "id": 37281,
+              "order": 23,
+              "distance": 280,
+              "stop": {
+                "id": 50095,
+                "publicId": "5942",
+                "name": "R. Prof. Fernando Mello Moser",
+                "position": {
+                  "latitude": 38.770945,
+                  "longitude": -9.168719
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:13:49.000Z"
+              }
+            },
+            {
+              "id": 37282,
+              "order": 24,
+              "distance": 458,
+              "stop": {
+                "id": 5914,
+                "publicId": "5914",
+                "name": "Az. Poço Baixo",
+                "position": {
+                  "latitude": 38.772626,
+                  "longitude": -9.170421
+                },
+                "visible": true,
+                "updateDate": "2019-03-11T10:44:35.000Z"
+              }
+            },
+            {
+              "id": 37283,
+              "order": 25,
+              "distance": 151,
+              "stop": {
+                "id": 50097,
+                "publicId": "5948",
+                "name": "R. Teófilo Carvalho Santos",
+                "position": {
+                  "latitude": 38.770413,
+                  "longitude": -9.173088
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:16:26.000Z"
+              }
+            },
+            {
+              "id": 46188,
+              "order": 1,
+              "distance": 103,
+              "stop": {
+                "id": 5954,
+                "publicId": "5954",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.769403,
+                  "longitude": -9.173615
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:17:52.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

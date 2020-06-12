@@ -1,0 +1,269 @@
+{
+  "id": 77,
+  "number": "12E",
+  "name": "Martim Moniz (circ.)",
+  "visible": true,
+  "creationDate": "2020-05-20T16:36:37.000Z",
+  "circular": true,
+  "variants": [
+    {
+      "id": 18641,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 19121,
+          "type": "CIRC",
+          "direction": "CIRC",
+          "shape": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -9.1360362,
+                38.7153889
+              ],
+              [
+                -9.135152,
+                38.71671
+              ],
+              [
+                -9.133056,
+                38.716115
+              ],
+              [
+                -9.13209,
+                38.715464
+              ],
+              [
+                -9.1306519,
+                38.7134991
+              ],
+              [
+                -9.130408,
+                38.712182
+              ],
+              [
+                -9.130714,
+                38.711314
+              ],
+              [
+                -9.1323033,
+                38.7101821
+              ],
+              [
+                -9.134211,
+                38.7100466
+              ],
+              [
+                -9.135962,
+                38.709944
+              ],
+              [
+                -9.137256,
+                38.713393
+              ],
+              [
+                -9.136012,
+                38.715277
+              ]
+            ]
+          },
+          "connections": [
+            {
+              "id": 25421,
+              "order": 12,
+              "distance": 0,
+              "stop": {
+                "id": 801,
+                "publicId": "801",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.715277,
+                  "longitude": -9.136012
+                },
+                "visible": true,
+                "updateDate": "2018-01-29T12:19:11.000Z"
+              }
+            },
+            {
+              "id": 25422,
+              "order": 2,
+              "distance": 196,
+              "stop": {
+                "id": 817,
+                "publicId": "817",
+                "name": "Socorro",
+                "position": {
+                  "latitude": 38.71671,
+                  "longitude": -9.135152
+                },
+                "visible": true,
+                "updateDate": "2006-08-25T15:45:03.000Z"
+              }
+            },
+            {
+              "id": 25423,
+              "order": 3,
+              "distance": 113,
+              "stop": {
+                "id": 13824,
+                "publicId": "13824",
+                "name": "Largo Do Terreirinho",
+                "position": {
+                  "latitude": 38.716115,
+                  "longitude": -9.133056
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:04:52.000Z"
+              }
+            },
+            {
+              "id": 25424,
+              "order": 4,
+              "distance": 271,
+              "stop": {
+                "id": 13822,
+                "publicId": "13822",
+                "name": "Rua Dos Lagares",
+                "position": {
+                  "latitude": 38.715464,
+                  "longitude": -9.13209
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:07:19.000Z"
+              }
+            },
+            {
+              "id": 25425,
+              "order": 5,
+              "distance": 148,
+              "stop": {
+                "id": 13809,
+                "publicId": "13809",
+                "name": "São Tomé",
+                "position": {
+                  "latitude": 38.713425,
+                  "longitude": -9.130651
+                },
+                "visible": true,
+                "updateDate": "2015-01-27T09:50:11.000Z"
+              }
+            },
+            {
+              "id": 25426,
+              "order": 6,
+              "distance": 108,
+              "stop": {
+                "id": 13812,
+                "publicId": "13812",
+                "name": "Lg. Portas Sol",
+                "position": {
+                  "latitude": 38.712182,
+                  "longitude": -9.130408
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:38:53.000Z"
+              }
+            },
+            {
+              "id": 25427,
+              "order": 7,
+              "distance": 213,
+              "stop": {
+                "id": 13816,
+                "publicId": "13816",
+                "name": "Miradouro Sta. Luzia",
+                "position": {
+                  "latitude": 38.711314,
+                  "longitude": -9.130714
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:39:02.000Z"
+              }
+            },
+            {
+              "id": 25428,
+              "order": 8,
+              "distance": 190,
+              "stop": {
+                "id": 13804,
+                "publicId": "13804",
+                "name": "Limoeiro",
+                "position": {
+                  "latitude": 38.710166,
+                  "longitude": -9.13234
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:39:11.000Z"
+              }
+            },
+            {
+              "id": 25429,
+              "order": 9,
+              "distance": 162,
+              "stop": {
+                "id": 13802,
+                "publicId": "13802",
+                "name": "Sé",
+                "position": {
+                  "latitude": 38.710052,
+                  "longitude": -9.134268
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:39:18.000Z"
+              }
+            },
+            {
+              "id": 25430,
+              "order": 10,
+              "distance": 517,
+              "stop": {
+                "id": 5602,
+                "publicId": "5602",
+                "name": "Rua Da Conceição",
+                "position": {
+                  "latitude": 38.709944,
+                  "longitude": -9.135962
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:24:25.000Z"
+              }
+            },
+            {
+              "id": 25431,
+              "order": 11,
+              "distance": 260,
+              "stop": {
+                "id": 917,
+                "publicId": "917",
+                "name": "Praça Da Figueira",
+                "position": {
+                  "latitude": 38.713393,
+                  "longitude": -9.137256
+                },
+                "visible": true,
+                "updateDate": "2012-08-31T10:34:58.000Z"
+              }
+            },
+            {
+              "id": 46153,
+              "order": 1,
+              "distance": 222,
+              "stop": {
+                "id": 801,
+                "publicId": "801",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.715277,
+                  "longitude": -9.136012
+                },
+                "visible": true,
+                "updateDate": "2018-01-29T12:19:11.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

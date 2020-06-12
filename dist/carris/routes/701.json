@@ -1,0 +1,1684 @@
+{
+  "id": 123,
+  "number": "701",
+  "name": "C. Grande-Metro-Campo Ourique",
+  "visible": true,
+  "creationDate": "2020-05-21T11:02:00.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20881,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21521,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 45926,
+              "order": 1,
+              "distance": 380,
+              "stop": {
+                "id": 5829,
+                "publicId": "5829",
+                "name": "Campo Grande-Metro",
+                "position": {
+                  "latitude": 38.760667,
+                  "longitude": -9.157545
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T09:16:27.000Z"
+              }
+            },
+            {
+              "id": 45927,
+              "order": 2,
+              "distance": 348,
+              "stop": {
+                "id": 5824,
+                "publicId": "5824",
+                "name": "Campo Grande (Metro)",
+                "position": {
+                  "latitude": 38.760339,
+                  "longitude": -9.157123
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:55:38.000Z"
+              }
+            },
+            {
+              "id": 45928,
+              "order": 3,
+              "distance": 476,
+              "stop": {
+                "id": 5806,
+                "publicId": "5806",
+                "name": "Campo Grande Norte",
+                "position": {
+                  "latitude": 38.757628,
+                  "longitude": -9.155279
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:48:13.000Z"
+              }
+            },
+            {
+              "id": 45929,
+              "order": 4,
+              "distance": 230,
+              "stop": {
+                "id": 5704,
+                "publicId": "5704",
+                "name": "Campo Grande - Av. Brasil",
+                "position": {
+                  "latitude": 38.753919,
+                  "longitude": -9.152565
+                },
+                "visible": true,
+                "updateDate": "2018-04-06T16:52:10.000Z"
+              }
+            },
+            {
+              "id": 45930,
+              "order": 5,
+              "distance": 379,
+              "stop": {
+                "id": 2008,
+                "publicId": "2008",
+                "name": "Campo Grande",
+                "position": {
+                  "latitude": 38.752122,
+                  "longitude": -9.151244
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:41:01.000Z"
+              }
+            },
+            {
+              "id": 45931,
+              "order": 6,
+              "distance": 296,
+              "stop": {
+                "id": 2006,
+                "publicId": "2006",
+                "name": "Entrecampos Norte",
+                "position": {
+                  "latitude": 38.749116,
+                  "longitude": -9.149208
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:38:06.000Z"
+              }
+            },
+            {
+              "id": 45932,
+              "order": 7,
+              "distance": 149,
+              "stop": {
+                "id": 2007,
+                "publicId": "2007",
+                "name": "Av. Das Forças Armadas",
+                "position": {
+                  "latitude": 38.748047,
+                  "longitude": -9.150905
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:38:25.000Z"
+              }
+            },
+            {
+              "id": 45933,
+              "order": 8,
+              "distance": 236,
+              "stop": {
+                "id": 2009,
+                "publicId": "2009",
+                "name": "Av. Forças Armadas / R. Sanche",
+                "position": {
+                  "latitude": 38.747735,
+                  "longitude": -9.152573
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:41:25.000Z"
+              }
+            },
+            {
+              "id": 45934,
+              "order": 9,
+              "distance": 292,
+              "stop": {
+                "id": 13501,
+                "publicId": "13501",
+                "name": "Faculdade De Farmácia",
+                "position": {
+                  "latitude": 38.74738,
+                  "longitude": -9.155252
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:50:35.000Z"
+              }
+            },
+            {
+              "id": 45935,
+              "order": 10,
+              "distance": 476,
+              "stop": {
+                "id": 13503,
+                "publicId": "13503",
+                "name": "Hospital De Santa Maria",
+                "position": {
+                  "latitude": 38.748551,
+                  "longitude": -9.157394
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:33:42.000Z"
+              }
+            },
+            {
+              "id": 45936,
+              "order": 11,
+              "distance": 628,
+              "stop": {
+                "id": 13508,
+                "publicId": "13508",
+                "name": "Hospital De Santa Maria",
+                "position": {
+                  "latitude": 38.75019,
+                  "longitude": -9.161581
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:34:45.000Z"
+              }
+            },
+            {
+              "id": 45937,
+              "order": 12,
+              "distance": 373,
+              "stop": {
+                "id": 13619,
+                "publicId": "13619",
+                "name": "Rua Tomás De Aquino",
+                "position": {
+                  "latitude": 38.751631,
+                  "longitude": -9.167508
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T15:42:55.000Z"
+              }
+            },
+            {
+              "id": 45938,
+              "order": 13,
+              "distance": 327,
+              "stop": {
+                "id": 13621,
+                "publicId": "13621",
+                "name": "Rua António Albino Machado",
+                "position": {
+                  "latitude": 38.754345,
+                  "longitude": -9.169218
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:25:36.000Z"
+              }
+            },
+            {
+              "id": 45939,
+              "order": 14,
+              "distance": 487,
+              "stop": {
+                "id": 50177,
+                "publicId": "13610",
+                "name": "Rua Tomás Da Fonseca",
+                "position": {
+                  "latitude": 38.755984,
+                  "longitude": -9.170861
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T15:42:35.000Z"
+              }
+            },
+            {
+              "id": 45940,
+              "order": 15,
+              "distance": 249,
+              "stop": {
+                "id": 50143,
+                "publicId": "13602",
+                "name": "R. Tomás Fonseca",
+                "position": {
+                  "latitude": 38.756125,
+                  "longitude": -9.176444
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:55:15.000Z"
+              }
+            },
+            {
+              "id": 45941,
+              "order": 16,
+              "distance": 604,
+              "stop": {
+                "id": 13618,
+                "publicId": "13618",
+                "name": "Bº São João",
+                "position": {
+                  "latitude": 38.754522,
+                  "longitude": -9.175604
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:13:40.000Z"
+              }
+            },
+            {
+              "id": 45942,
+              "order": 17,
+              "distance": 244,
+              "stop": {
+                "id": 12712,
+                "publicId": "12712",
+                "name": "Estr. Luz (Loja Cidadão)",
+                "position": {
+                  "latitude": 38.749661,
+                  "longitude": -9.172599
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:07:41.000Z"
+              }
+            },
+            {
+              "id": 45943,
+              "order": 18,
+              "distance": 328,
+              "stop": {
+                "id": 12710,
+                "publicId": "12710",
+                "name": "Laranjeiras (Metro)",
+                "position": {
+                  "latitude": 38.747742,
+                  "longitude": -9.171256
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:06:43.000Z"
+              }
+            },
+            {
+              "id": 45944,
+              "order": 19,
+              "distance": 457,
+              "stop": {
+                "id": 12708,
+                "publicId": "12708",
+                "name": "Estr. Laranjeiras",
+                "position": {
+                  "latitude": 38.745263,
+                  "longitude": -9.169309
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:05:34.000Z"
+              }
+            },
+            {
+              "id": 45945,
+              "order": 20,
+              "distance": 492,
+              "stop": {
+                "id": 1604,
+                "publicId": "1604",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.742544,
+                  "longitude": -9.168598
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:58:50.000Z"
+              }
+            },
+            {
+              "id": 45946,
+              "order": 21,
+              "distance": 303,
+              "stop": {
+                "id": 2712,
+                "publicId": "2712",
+                "name": "Estação Sete Rios",
+                "position": {
+                  "latitude": 38.738832,
+                  "longitude": -9.16853
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:51:15.000Z"
+              }
+            },
+            {
+              "id": 45947,
+              "order": 22,
+              "distance": 301,
+              "stop": {
+                "id": 2718,
+                "publicId": "2718",
+                "name": "Rua De Campolide - José Malhoa",
+                "position": {
+                  "latitude": 38.736776,
+                  "longitude": -9.167456
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T11:55:43.000Z"
+              }
+            },
+            {
+              "id": 45948,
+              "order": 23,
+              "distance": 426,
+              "stop": {
+                "id": 2710,
+                "publicId": "2710",
+                "name": "Tarujo",
+                "position": {
+                  "latitude": 38.735177,
+                  "longitude": -9.165441
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:51.000Z"
+              }
+            },
+            {
+              "id": 45949,
+              "order": 24,
+              "distance": 326,
+              "stop": {
+                "id": 6124,
+                "publicId": "6124",
+                "name": "R. Campolide (Escola)",
+                "position": {
+                  "latitude": 38.732213,
+                  "longitude": -9.162743
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:53:57.000Z"
+              }
+            },
+            {
+              "id": 45950,
+              "order": 25,
+              "distance": 324,
+              "stop": {
+                "id": 6122,
+                "publicId": "6122",
+                "name": "R. Campolide",
+                "position": {
+                  "latitude": 38.72932,
+                  "longitude": -9.162442
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:57:06.000Z"
+              }
+            },
+            {
+              "id": 45951,
+              "order": 26,
+              "distance": 180,
+              "stop": {
+                "id": 6113,
+                "publicId": "6113",
+                "name": "Campolide",
+                "position": {
+                  "latitude": 38.726425,
+                  "longitude": -9.162436
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 45952,
+              "order": 27,
+              "distance": 188,
+              "stop": {
+                "id": 8507,
+                "publicId": "8507",
+                "name": "Cruz Das Almas",
+                "position": {
+                  "latitude": 38.725345,
+                  "longitude": -9.163631
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:10:25.000Z"
+              }
+            },
+            {
+              "id": 45953,
+              "order": 28,
+              "distance": 344,
+              "stop": {
+                "id": 8609,
+                "publicId": "8609",
+                "name": "Arco Carvalhão",
+                "position": {
+                  "latitude": 38.724206,
+                  "longitude": -9.165266
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T13:04:39.000Z"
+              }
+            },
+            {
+              "id": 45954,
+              "order": 29,
+              "distance": 438,
+              "stop": {
+                "id": 8010,
+                "publicId": "8010",
+                "name": "Terramotos",
+                "position": {
+                  "latitude": 38.721557,
+                  "longitude": -9.167202
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T11:14:23.000Z"
+              }
+            },
+            {
+              "id": 45955,
+              "order": 30,
+              "distance": 181,
+              "stop": {
+                "id": 8015,
+                "publicId": "8015",
+                "name": "Rua Sampaio Bruno",
+                "position": {
+                  "latitude": 38.718617,
+                  "longitude": -9.169966
+                },
+                "visible": true,
+                "updateDate": "2015-11-06T16:01:42.000Z"
+              }
+            },
+            {
+              "id": 45956,
+              "order": 31,
+              "distance": 323,
+              "stop": {
+                "id": 8013,
+                "publicId": "8013",
+                "name": "Escola Manuel Da Maia",
+                "position": {
+                  "latitude": 38.716991,
+                  "longitude": -9.169629
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:30:23.000Z"
+              }
+            },
+            {
+              "id": 45957,
+              "order": 32,
+              "distance": 0,
+              "stop": {
+                "id": 8016,
+                "publicId": "8016",
+                "name": "Campo De Ourique / Prazeres",
+                "position": {
+                  "latitude": 38.714399,
+                  "longitude": -9.170026
+                },
+                "visible": true,
+                "updateDate": "2019-02-26T18:11:38.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21522,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 45958,
+              "order": 1,
+              "distance": 448,
+              "stop": {
+                "id": 8016,
+                "publicId": "8016",
+                "name": "Campo De Ourique / Prazeres",
+                "position": {
+                  "latitude": 38.714399,
+                  "longitude": -9.170026
+                },
+                "visible": true,
+                "updateDate": "2019-02-26T18:11:38.000Z"
+              }
+            },
+            {
+              "id": 45959,
+              "order": 2,
+              "distance": 206,
+              "stop": {
+                "id": 8012,
+                "publicId": "8012",
+                "name": "Esc. Manuel Maia",
+                "position": {
+                  "latitude": 38.717115,
+                  "longitude": -9.169498
+                },
+                "visible": true,
+                "updateDate": "2018-02-07T12:46:21.000Z"
+              }
+            },
+            {
+              "id": 45960,
+              "order": 3,
+              "distance": 344,
+              "stop": {
+                "id": 8014,
+                "publicId": "8014",
+                "name": "Rua Sampaio Bruno",
+                "position": {
+                  "latitude": 38.718959,
+                  "longitude": -9.169559
+                },
+                "visible": true,
+                "updateDate": "2015-11-06T16:02:30.000Z"
+              }
+            },
+            {
+              "id": 45961,
+              "order": 4,
+              "distance": 379,
+              "stop": {
+                "id": 8011,
+                "publicId": "8011",
+                "name": "Terramotos",
+                "position": {
+                  "latitude": 38.721114,
+                  "longitude": -9.167452
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:55.000Z"
+              }
+            },
+            {
+              "id": 45962,
+              "order": 5,
+              "distance": 232,
+              "stop": {
+                "id": 8610,
+                "publicId": "8610",
+                "name": "Arco Carvalhão",
+                "position": {
+                  "latitude": 38.724023,
+                  "longitude": -9.165377
+                },
+                "visible": true,
+                "updateDate": "2008-04-02T16:21:48.000Z"
+              }
+            },
+            {
+              "id": 45963,
+              "order": 6,
+              "distance": 154,
+              "stop": {
+                "id": 8508,
+                "publicId": "8508",
+                "name": "Cruz Das Almas",
+                "position": {
+                  "latitude": 38.725309,
+                  "longitude": -9.163318
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T13:00:39.000Z"
+              }
+            },
+            {
+              "id": 45964,
+              "order": 7,
+              "distance": 440,
+              "stop": {
+                "id": 6104,
+                "publicId": "6104",
+                "name": "Campolide",
+                "position": {
+                  "latitude": 38.726242,
+                  "longitude": -9.162287
+                },
+                "visible": true,
+                "updateDate": "2017-06-29T15:09:17.000Z"
+              }
+            },
+            {
+              "id": 45965,
+              "order": 8,
+              "distance": 221,
+              "stop": {
+                "id": 6121,
+                "publicId": "6121",
+                "name": "R. Campolide",
+                "position": {
+                  "latitude": 38.730336,
+                  "longitude": -9.162242
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:57:21.000Z"
+              }
+            },
+            {
+              "id": 45966,
+              "order": 9,
+              "distance": 402,
+              "stop": {
+                "id": 6123,
+                "publicId": "6123",
+                "name": "R. Campolide (Escola)",
+                "position": {
+                  "latitude": 38.732267,
+                  "longitude": -9.162436
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:54:27.000Z"
+              }
+            },
+            {
+              "id": 45967,
+              "order": 10,
+              "distance": 466,
+              "stop": {
+                "id": 2711,
+                "publicId": "2711",
+                "name": "Tarujo",
+                "position": {
+                  "latitude": 38.735087,
+                  "longitude": -9.165179
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:51.000Z"
+              }
+            },
+            {
+              "id": 45968,
+              "order": 11,
+              "distance": 330,
+              "stop": {
+                "id": 2713,
+                "publicId": "2713",
+                "name": "Av. José Malhoa",
+                "position": {
+                  "latitude": 38.737727,
+                  "longitude": -9.167631
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T07:52:33.000Z"
+              }
+            },
+            {
+              "id": 45969,
+              "order": 12,
+              "distance": 216,
+              "stop": {
+                "id": 1621,
+                "publicId": "1621",
+                "name": "Estação De Sete Rios",
+                "position": {
+                  "latitude": 38.740566,
+                  "longitude": -9.167409
+                },
+                "visible": true,
+                "updateDate": "2012-04-16T17:04:22.000Z"
+              }
+            },
+            {
+              "id": 45970,
+              "order": 13,
+              "distance": 557,
+              "stop": {
+                "id": 1611,
+                "publicId": "1611",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.742127,
+                  "longitude": -9.168798
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:58:36.000Z"
+              }
+            },
+            {
+              "id": 45971,
+              "order": 14,
+              "distance": 265,
+              "stop": {
+                "id": 12707,
+                "publicId": "12707",
+                "name": "Estr. Laranjeiras",
+                "position": {
+                  "latitude": 38.745558,
+                  "longitude": -9.169341
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:04:12.000Z"
+              }
+            },
+            {
+              "id": 45972,
+              "order": 15,
+              "distance": 417,
+              "stop": {
+                "id": 12709,
+                "publicId": "12709",
+                "name": "Laranjeiras (Metro)",
+                "position": {
+                  "latitude": 38.747561,
+                  "longitude": -9.170919
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:06:22.000Z"
+              }
+            },
+            {
+              "id": 45973,
+              "order": 16,
+              "distance": 327,
+              "stop": {
+                "id": 12711,
+                "publicId": "12711",
+                "name": "Estr. Luz (Loja Cidadão)",
+                "position": {
+                  "latitude": 38.750864,
+                  "longitude": -9.173131
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:07:06.000Z"
+              }
+            },
+            {
+              "id": 45974,
+              "order": 17,
+              "distance": 409,
+              "stop": {
+                "id": 13617,
+                "publicId": "13617",
+                "name": "Bº São João",
+                "position": {
+                  "latitude": 38.753612,
+                  "longitude": -9.174539
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:13:37.000Z"
+              }
+            },
+            {
+              "id": 45975,
+              "order": 18,
+              "distance": 436,
+              "stop": {
+                "id": 50144,
+                "publicId": "13601",
+                "name": "Rua Tomás Da Fonseca",
+                "position": {
+                  "latitude": 38.755949,
+                  "longitude": -9.175455
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:36:39.000Z"
+              }
+            },
+            {
+              "id": 45976,
+              "order": 19,
+              "distance": 207,
+              "stop": {
+                "id": 50145,
+                "publicId": "13609",
+                "name": "Rua Tomás Da Fonseca",
+                "position": {
+                  "latitude": 38.755759,
+                  "longitude": -9.170455
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:40:06.000Z"
+              }
+            },
+            {
+              "id": 45977,
+              "order": 20,
+              "distance": 191,
+              "stop": {
+                "id": 50017,
+                "publicId": "50017",
+                "name": "Qta Dos Barros",
+                "position": {
+                  "latitude": 38.755724,
+                  "longitude": -9.168293
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:44:00.000Z"
+              }
+            },
+            {
+              "id": 45978,
+              "order": 21,
+              "distance": 268,
+              "stop": {
+                "id": 13622,
+                "publicId": "13622",
+                "name": "Rua António Albino Machado",
+                "position": {
+                  "latitude": 38.754603,
+                  "longitude": -9.168143
+                },
+                "visible": true,
+                "updateDate": "2017-11-15T16:28:26.000Z"
+              }
+            },
+            {
+              "id": 45979,
+              "order": 22,
+              "distance": 112,
+              "stop": {
+                "id": 50462,
+                "publicId": "13616",
+                "name": "R. A. A. Machado / R. S. Tomás",
+                "position": {
+                  "latitude": 38.75281,
+                  "longitude": -9.167911
+                },
+                "visible": true,
+                "updateDate": "2020-02-27T16:47:43.000Z"
+              }
+            },
+            {
+              "id": 45980,
+              "order": 23,
+              "distance": 860,
+              "stop": {
+                "id": 13620,
+                "publicId": "13620",
+                "name": "R. S. Tomás Aquino",
+                "position": {
+                  "latitude": 38.751873,
+                  "longitude": -9.16778
+                },
+                "visible": true,
+                "updateDate": "2020-02-27T16:44:22.000Z"
+              }
+            },
+            {
+              "id": 45981,
+              "order": 24,
+              "distance": 679,
+              "stop": {
+                "id": 13509,
+                "publicId": "13509",
+                "name": "Hospital De Santa Maria",
+                "position": {
+                  "latitude": 38.750002,
+                  "longitude": -9.159708
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 45982,
+              "order": 25,
+              "distance": 253,
+              "stop": {
+                "id": 13502,
+                "publicId": "13502",
+                "name": "Faculdade De Farmácia",
+                "position": {
+                  "latitude": 38.74719,
+                  "longitude": -9.154625
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T15:11:30.000Z"
+              }
+            },
+            {
+              "id": 45983,
+              "order": 26,
+              "distance": 539,
+              "stop": {
+                "id": 2010,
+                "publicId": "2010",
+                "name": "Av. Forças Armadas / R. Sanche",
+                "position": {
+                  "latitude": 38.747648,
+                  "longitude": -9.15177
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:41:43.000Z"
+              }
+            },
+            {
+              "id": 45984,
+              "order": 27,
+              "distance": 281,
+              "stop": {
+                "id": 2015,
+                "publicId": "2015",
+                "name": "Entrecampos Norte",
+                "position": {
+                  "latitude": 38.749993,
+                  "longitude": -9.148346
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:42:37.000Z"
+              }
+            },
+            {
+              "id": 45985,
+              "order": 28,
+              "distance": 400,
+              "stop": {
+                "id": 2017,
+                "publicId": "2017",
+                "name": "Campo Grande",
+                "position": {
+                  "latitude": 38.752315,
+                  "longitude": -9.149642
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:43:10.000Z"
+              }
+            },
+            {
+              "id": 45986,
+              "order": 29,
+              "distance": 399,
+              "stop": {
+                "id": 5705,
+                "publicId": "5705",
+                "name": "Campo Grande - Av. Brasil",
+                "position": {
+                  "latitude": 38.755629,
+                  "longitude": -9.151437
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:47:40.000Z"
+              }
+            },
+            {
+              "id": 45987,
+              "order": 30,
+              "distance": 467,
+              "stop": {
+                "id": 5805,
+                "publicId": "5805",
+                "name": "Campo Grande Norte",
+                "position": {
+                  "latitude": 38.758587,
+                  "longitude": -9.154029
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:46:55.000Z"
+              }
+            },
+            {
+              "id": 45988,
+              "order": 31,
+              "distance": 0,
+              "stop": {
+                "id": 5829,
+                "publicId": "5829",
+                "name": "Campo Grande-Metro",
+                "position": {
+                  "latitude": 38.760667,
+                  "longitude": -9.157545
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T09:16:27.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20882,
+      "variant": 3,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21523,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 45989,
+              "order": 1,
+              "distance": 380,
+              "stop": {
+                "id": 5829,
+                "publicId": "5829",
+                "name": "Campo Grande-Metro",
+                "position": {
+                  "latitude": 38.760667,
+                  "longitude": -9.157545
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T09:16:27.000Z"
+              }
+            },
+            {
+              "id": 45990,
+              "order": 2,
+              "distance": 348,
+              "stop": {
+                "id": 5824,
+                "publicId": "5824",
+                "name": "Campo Grande (Metro)",
+                "position": {
+                  "latitude": 38.760339,
+                  "longitude": -9.157123
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:55:38.000Z"
+              }
+            },
+            {
+              "id": 45991,
+              "order": 3,
+              "distance": 476,
+              "stop": {
+                "id": 5806,
+                "publicId": "5806",
+                "name": "Campo Grande Norte",
+                "position": {
+                  "latitude": 38.757628,
+                  "longitude": -9.155279
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:48:13.000Z"
+              }
+            },
+            {
+              "id": 45992,
+              "order": 4,
+              "distance": 230,
+              "stop": {
+                "id": 5704,
+                "publicId": "5704",
+                "name": "Campo Grande - Av. Brasil",
+                "position": {
+                  "latitude": 38.753919,
+                  "longitude": -9.152565
+                },
+                "visible": true,
+                "updateDate": "2018-04-06T16:52:10.000Z"
+              }
+            },
+            {
+              "id": 45993,
+              "order": 5,
+              "distance": 379,
+              "stop": {
+                "id": 2008,
+                "publicId": "2008",
+                "name": "Campo Grande",
+                "position": {
+                  "latitude": 38.752122,
+                  "longitude": -9.151244
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:41:01.000Z"
+              }
+            },
+            {
+              "id": 45994,
+              "order": 6,
+              "distance": 296,
+              "stop": {
+                "id": 2006,
+                "publicId": "2006",
+                "name": "Entrecampos Norte",
+                "position": {
+                  "latitude": 38.749116,
+                  "longitude": -9.149208
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:38:06.000Z"
+              }
+            },
+            {
+              "id": 45995,
+              "order": 7,
+              "distance": 149,
+              "stop": {
+                "id": 2007,
+                "publicId": "2007",
+                "name": "Av. Das Forças Armadas",
+                "position": {
+                  "latitude": 38.748047,
+                  "longitude": -9.150905
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:38:25.000Z"
+              }
+            },
+            {
+              "id": 45996,
+              "order": 8,
+              "distance": 236,
+              "stop": {
+                "id": 2009,
+                "publicId": "2009",
+                "name": "Av. Forças Armadas / R. Sanche",
+                "position": {
+                  "latitude": 38.747735,
+                  "longitude": -9.152573
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:41:25.000Z"
+              }
+            },
+            {
+              "id": 45997,
+              "order": 9,
+              "distance": 292,
+              "stop": {
+                "id": 13501,
+                "publicId": "13501",
+                "name": "Faculdade De Farmácia",
+                "position": {
+                  "latitude": 38.74738,
+                  "longitude": -9.155252
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:50:35.000Z"
+              }
+            },
+            {
+              "id": 45998,
+              "order": 10,
+              "distance": 476,
+              "stop": {
+                "id": 13503,
+                "publicId": "13503",
+                "name": "Hospital De Santa Maria",
+                "position": {
+                  "latitude": 38.748551,
+                  "longitude": -9.157394
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:33:42.000Z"
+              }
+            },
+            {
+              "id": 45999,
+              "order": 11,
+              "distance": 628,
+              "stop": {
+                "id": 13508,
+                "publicId": "13508",
+                "name": "Hospital De Santa Maria",
+                "position": {
+                  "latitude": 38.75019,
+                  "longitude": -9.161581
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:34:45.000Z"
+              }
+            },
+            {
+              "id": 46000,
+              "order": 12,
+              "distance": 373,
+              "stop": {
+                "id": 13619,
+                "publicId": "13619",
+                "name": "Rua Tomás De Aquino",
+                "position": {
+                  "latitude": 38.751631,
+                  "longitude": -9.167508
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T15:42:55.000Z"
+              }
+            },
+            {
+              "id": 46001,
+              "order": 13,
+              "distance": 327,
+              "stop": {
+                "id": 13621,
+                "publicId": "13621",
+                "name": "Rua António Albino Machado",
+                "position": {
+                  "latitude": 38.754345,
+                  "longitude": -9.169218
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:25:36.000Z"
+              }
+            },
+            {
+              "id": 46002,
+              "order": 14,
+              "distance": 487,
+              "stop": {
+                "id": 50177,
+                "publicId": "13610",
+                "name": "Rua Tomás Da Fonseca",
+                "position": {
+                  "latitude": 38.755984,
+                  "longitude": -9.170861
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T15:42:35.000Z"
+              }
+            },
+            {
+              "id": 46003,
+              "order": 15,
+              "distance": 249,
+              "stop": {
+                "id": 50143,
+                "publicId": "13602",
+                "name": "R. Tomás Fonseca",
+                "position": {
+                  "latitude": 38.756125,
+                  "longitude": -9.176444
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:55:15.000Z"
+              }
+            },
+            {
+              "id": 46004,
+              "order": 16,
+              "distance": 604,
+              "stop": {
+                "id": 13618,
+                "publicId": "13618",
+                "name": "Bº São João",
+                "position": {
+                  "latitude": 38.754522,
+                  "longitude": -9.175604
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:13:40.000Z"
+              }
+            },
+            {
+              "id": 46005,
+              "order": 17,
+              "distance": 244,
+              "stop": {
+                "id": 12712,
+                "publicId": "12712",
+                "name": "Estr. Luz (Loja Cidadão)",
+                "position": {
+                  "latitude": 38.749661,
+                  "longitude": -9.172599
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:07:41.000Z"
+              }
+            },
+            {
+              "id": 46006,
+              "order": 18,
+              "distance": 328,
+              "stop": {
+                "id": 12710,
+                "publicId": "12710",
+                "name": "Laranjeiras (Metro)",
+                "position": {
+                  "latitude": 38.747742,
+                  "longitude": -9.171256
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:06:43.000Z"
+              }
+            },
+            {
+              "id": 46007,
+              "order": 19,
+              "distance": 621,
+              "stop": {
+                "id": 12708,
+                "publicId": "12708",
+                "name": "Estr. Laranjeiras",
+                "position": {
+                  "latitude": 38.745263,
+                  "longitude": -9.169309
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:05:34.000Z"
+              }
+            },
+            {
+              "id": 46008,
+              "order": 20,
+              "distance": 0,
+              "stop": {
+                "id": 50088,
+                "publicId": "1622",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.741556,
+                  "longitude": -9.169448
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:58:41.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21524,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 46009,
+              "order": 1,
+              "distance": 729,
+              "stop": {
+                "id": 50088,
+                "publicId": "1622",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.741556,
+                  "longitude": -9.169448
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:58:41.000Z"
+              }
+            },
+            {
+              "id": 46010,
+              "order": 2,
+              "distance": 265,
+              "stop": {
+                "id": 12707,
+                "publicId": "12707",
+                "name": "Estr. Laranjeiras",
+                "position": {
+                  "latitude": 38.745558,
+                  "longitude": -9.169341
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:04:12.000Z"
+              }
+            },
+            {
+              "id": 46011,
+              "order": 3,
+              "distance": 417,
+              "stop": {
+                "id": 12709,
+                "publicId": "12709",
+                "name": "Laranjeiras (Metro)",
+                "position": {
+                  "latitude": 38.747561,
+                  "longitude": -9.170919
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:06:22.000Z"
+              }
+            },
+            {
+              "id": 46012,
+              "order": 4,
+              "distance": 327,
+              "stop": {
+                "id": 12711,
+                "publicId": "12711",
+                "name": "Estr. Luz (Loja Cidadão)",
+                "position": {
+                  "latitude": 38.750864,
+                  "longitude": -9.173131
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T16:07:06.000Z"
+              }
+            },
+            {
+              "id": 46013,
+              "order": 5,
+              "distance": 409,
+              "stop": {
+                "id": 13617,
+                "publicId": "13617",
+                "name": "Bº São João",
+                "position": {
+                  "latitude": 38.753612,
+                  "longitude": -9.174539
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:13:37.000Z"
+              }
+            },
+            {
+              "id": 46014,
+              "order": 6,
+              "distance": 436,
+              "stop": {
+                "id": 50144,
+                "publicId": "13601",
+                "name": "Rua Tomás Da Fonseca",
+                "position": {
+                  "latitude": 38.755949,
+                  "longitude": -9.175455
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:36:39.000Z"
+              }
+            },
+            {
+              "id": 46015,
+              "order": 7,
+              "distance": 207,
+              "stop": {
+                "id": 50145,
+                "publicId": "13609",
+                "name": "Rua Tomás Da Fonseca",
+                "position": {
+                  "latitude": 38.755759,
+                  "longitude": -9.170455
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:40:06.000Z"
+              }
+            },
+            {
+              "id": 46016,
+              "order": 8,
+              "distance": 191,
+              "stop": {
+                "id": 50017,
+                "publicId": "50017",
+                "name": "Qta Dos Barros",
+                "position": {
+                  "latitude": 38.755724,
+                  "longitude": -9.168293
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:44:00.000Z"
+              }
+            },
+            {
+              "id": 46017,
+              "order": 9,
+              "distance": 268,
+              "stop": {
+                "id": 13622,
+                "publicId": "13622",
+                "name": "Rua António Albino Machado",
+                "position": {
+                  "latitude": 38.754603,
+                  "longitude": -9.168143
+                },
+                "visible": true,
+                "updateDate": "2017-11-15T16:28:26.000Z"
+              }
+            },
+            {
+              "id": 46018,
+              "order": 10,
+              "distance": 112,
+              "stop": {
+                "id": 50462,
+                "publicId": "13616",
+                "name": "R. A. A. Machado / R. S. Tomás",
+                "position": {
+                  "latitude": 38.75281,
+                  "longitude": -9.167911
+                },
+                "visible": true,
+                "updateDate": "2020-02-27T16:47:43.000Z"
+              }
+            },
+            {
+              "id": 46019,
+              "order": 11,
+              "distance": 860,
+              "stop": {
+                "id": 13620,
+                "publicId": "13620",
+                "name": "R. S. Tomás Aquino",
+                "position": {
+                  "latitude": 38.751873,
+                  "longitude": -9.16778
+                },
+                "visible": true,
+                "updateDate": "2020-02-27T16:44:22.000Z"
+              }
+            },
+            {
+              "id": 46020,
+              "order": 12,
+              "distance": 679,
+              "stop": {
+                "id": 13509,
+                "publicId": "13509",
+                "name": "Hospital De Santa Maria",
+                "position": {
+                  "latitude": 38.750002,
+                  "longitude": -9.159708
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 46021,
+              "order": 13,
+              "distance": 253,
+              "stop": {
+                "id": 13502,
+                "publicId": "13502",
+                "name": "Faculdade De Farmácia",
+                "position": {
+                  "latitude": 38.74719,
+                  "longitude": -9.154625
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T15:11:30.000Z"
+              }
+            },
+            {
+              "id": 46022,
+              "order": 14,
+              "distance": 539,
+              "stop": {
+                "id": 2010,
+                "publicId": "2010",
+                "name": "Av. Forças Armadas / R. Sanche",
+                "position": {
+                  "latitude": 38.747648,
+                  "longitude": -9.15177
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:41:43.000Z"
+              }
+            },
+            {
+              "id": 46023,
+              "order": 15,
+              "distance": 281,
+              "stop": {
+                "id": 2015,
+                "publicId": "2015",
+                "name": "Entrecampos Norte",
+                "position": {
+                  "latitude": 38.749993,
+                  "longitude": -9.148346
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:42:37.000Z"
+              }
+            },
+            {
+              "id": 46024,
+              "order": 16,
+              "distance": 400,
+              "stop": {
+                "id": 2017,
+                "publicId": "2017",
+                "name": "Campo Grande",
+                "position": {
+                  "latitude": 38.752315,
+                  "longitude": -9.149642
+                },
+                "visible": true,
+                "updateDate": "2018-11-02T11:43:10.000Z"
+              }
+            },
+            {
+              "id": 46025,
+              "order": 17,
+              "distance": 399,
+              "stop": {
+                "id": 5705,
+                "publicId": "5705",
+                "name": "Campo Grande - Av. Brasil",
+                "position": {
+                  "latitude": 38.755629,
+                  "longitude": -9.151437
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:47:40.000Z"
+              }
+            },
+            {
+              "id": 46026,
+              "order": 18,
+              "distance": 467,
+              "stop": {
+                "id": 5805,
+                "publicId": "5805",
+                "name": "Campo Grande Norte",
+                "position": {
+                  "latitude": 38.758587,
+                  "longitude": -9.154029
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:46:55.000Z"
+              }
+            },
+            {
+              "id": 46027,
+              "order": 19,
+              "distance": 0,
+              "stop": {
+                "id": 5829,
+                "publicId": "5829",
+                "name": "Campo Grande-Metro",
+                "position": {
+                  "latitude": 38.760667,
+                  "longitude": -9.157545
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T09:16:27.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

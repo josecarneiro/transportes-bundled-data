@@ -1,0 +1,1647 @@
+[
+  {
+    "id": 1,
+    "number": "5",
+    "name": "Estação Oriente-Estação Roma-Areeiro",
+    "visible": false,
+    "creationDate": "2020-05-20T08:40:37.000Z"
+  },
+  {
+    "id": 2,
+    "number": "17",
+    "name": "Pç. Chile-Fetais",
+    "visible": false,
+    "creationDate": "2020-05-20T08:04:10.000Z"
+  },
+  {
+    "id": 3,
+    "number": "21",
+    "name": "Moscavide Centro-Saldanha",
+    "visible": false,
+    "creationDate": "2020-04-09T11:16:53.000Z"
+  },
+  {
+    "id": 4,
+    "number": "22",
+    "name": "Pç. Londres-Portela",
+    "visible": false,
+    "creationDate": "2020-05-20T08:06:15.000Z"
+  },
+  {
+    "id": 5,
+    "number": "44",
+    "name": "Marquês Pombal-Moscavide",
+    "visible": false,
+    "creationDate": "2020-05-20T08:35:33.000Z"
+  },
+  {
+    "id": 6,
+    "number": "45",
+    "name": "Prior Velho-Cais Sodré",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.080Z"
+  },
+  {
+    "id": 7,
+    "number": "50",
+    "name": "Estação Oriente-Algés",
+    "visible": false,
+    "creationDate": "2020-05-20T08:41:12.000Z"
+  },
+  {
+    "id": 8,
+    "number": "83",
+    "name": "Portela-R. Mou. Alb.-Amoreiras",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.080Z"
+  },
+  {
+    "id": 9,
+    "number": "108",
+    "name": "Galinheiras-Campo Grande - Metro",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.080Z"
+  },
+  {
+    "id": 10,
+    "number": "204",
+    "name": "Est. Oriente-Belém (Jerónimos)",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.080Z"
+  },
+  {
+    "id": 11,
+    "number": "94",
+    "name": "Alcantara-Carnide (Metro)",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.080Z"
+  },
+  {
+    "id": 12,
+    "number": "16",
+    "name": "Alameda-Benfica",
+    "visible": false,
+    "creationDate": "2020-05-20T08:04:10.000Z"
+  },
+  {
+    "id": 13,
+    "number": "1",
+    "name": "Belém (Est. Fluvial)-M. Pombal",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.097Z"
+  },
+  {
+    "id": 14,
+    "number": "9",
+    "name": "Campo Ourique-Est. Sta. Apolónia",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.097Z"
+  },
+  {
+    "id": 16,
+    "number": "18",
+    "name": "Alameda-Isel",
+    "visible": false,
+    "creationDate": "2020-05-20T08:04:10.000Z"
+  },
+  {
+    "id": 17,
+    "number": "28",
+    "name": "Restelo-Portela",
+    "visible": false,
+    "creationDate": "2020-05-20T08:16:33.000Z"
+  },
+  {
+    "id": 18,
+    "number": "38",
+    "name": "Qta. Barros-Alto Sto. Amaro",
+    "visible": false,
+    "creationDate": "2020-05-20T08:31:46.000Z"
+  },
+  {
+    "id": 19,
+    "number": "42",
+    "name": "B.º Madre Deus-Pólo Univ. Ajuda",
+    "visible": false,
+    "creationDate": "2020-05-20T08:34:10.000Z"
+  },
+  {
+    "id": 20,
+    "number": "46",
+    "name": "Marquês Pombal-Estação Damaia",
+    "visible": false,
+    "creationDate": "2020-05-20T08:36:44.000Z"
+  },
+  {
+    "id": 21,
+    "number": "55",
+    "name": "Poço Bispo-Sete Rios",
+    "visible": false,
+    "creationDate": "2020-05-20T08:47:49.000Z"
+  },
+  {
+    "id": 22,
+    "number": "56",
+    "name": "Olaias-Junqueira",
+    "visible": false,
+    "creationDate": "2020-05-20T08:48:26.000Z"
+  },
+  {
+    "id": 23,
+    "number": "58",
+    "name": "Cais Sodré-Portas Benfica",
+    "visible": false,
+    "creationDate": "2020-05-20T08:48:49.000Z"
+  },
+  {
+    "id": 24,
+    "number": "63",
+    "name": "Alto Damaia-Cidade Universitaria",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.097Z"
+  },
+  {
+    "id": 25,
+    "number": "113",
+    "name": "Estacao Campolide-Marques Pombal",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.097Z"
+  },
+  {
+    "id": 26,
+    "number": "110",
+    "name": "Estação Campolide-Alcântara Mar",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.097Z"
+  },
+  {
+    "id": 27,
+    "number": "112",
+    "name": "Estação Campolide-Belém (Jerónimos)",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.097Z"
+  },
+  {
+    "id": 28,
+    "number": "33",
+    "name": "Benfica (Cemit.)-C. M. Pátria",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.097Z"
+  },
+  {
+    "id": 29,
+    "number": "67",
+    "name": "C. Mártires Pátria-Reboleira-Metro",
+    "visible": false,
+    "creationDate": "2020-05-20T08:59:38.000Z"
+  },
+  {
+    "id": 30,
+    "number": "53",
+    "name": "Pç. José Fontana-Centro Sul",
+    "visible": false,
+    "creationDate": "2020-05-20T08:44:55.000Z"
+  },
+  {
+    "id": 31,
+    "number": "2",
+    "name": "Alc. Mar (Docas)-Cais Sodré",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.113Z"
+  },
+  {
+    "id": 32,
+    "number": "4",
+    "name": "Col. Militar-Lumiar",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.113Z"
+  },
+  {
+    "id": 33,
+    "number": "6",
+    "name": "Cais Sodré-Est. Sta. Apolónia",
+    "visible": false,
+    "creationDate": "2020-05-20T08:53:55.000Z"
+  },
+  {
+    "id": 34,
+    "number": "8",
+    "name": "Moscavide-Martim Moniz",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.113Z"
+  },
+  {
+    "id": 35,
+    "number": "10",
+    "name": "Praça Chile-I.S.E.L.",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.113Z"
+  },
+  {
+    "id": 36,
+    "number": "11",
+    "name": "Damaia-Pr. Comércio",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.113Z"
+  },
+  {
+    "id": 37,
+    "number": "20",
+    "name": "Picheleira-Alto Sto. Amaro",
+    "visible": false,
+    "creationDate": "2020-05-20T08:04:10.000Z"
+  },
+  {
+    "id": 38,
+    "number": "24",
+    "name": "Calvário-Pontinha",
+    "visible": false,
+    "creationDate": "2020-05-20T08:08:27.000Z"
+  },
+  {
+    "id": 39,
+    "number": "26",
+    "name": "Sapadores-Pontinha Centro",
+    "visible": false,
+    "creationDate": "2020-05-20T08:11:36.000Z"
+  },
+  {
+    "id": 40,
+    "number": "27",
+    "name": "Est.Roma-Areeiro-Restelo",
+    "visible": false,
+    "creationDate": "2020-05-20T08:15:51.000Z"
+  },
+  {
+    "id": 41,
+    "number": "29",
+    "name": "B.º Padre Cruz-Algés",
+    "visible": false,
+    "creationDate": "2020-05-20T08:18:09.000Z"
+  },
+  {
+    "id": 42,
+    "number": "31",
+    "name": "Av. José Malhoa-Moscavide Centro",
+    "visible": false,
+    "creationDate": "2020-05-20T08:21:28.000Z"
+  },
+  {
+    "id": 43,
+    "number": "31A",
+    "name": "Entrecampos Norte-Sete Rios",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.113Z"
+  },
+  {
+    "id": 44,
+    "number": "32",
+    "name": "Marquês Pombal-Caselas",
+    "visible": false,
+    "creationDate": "2020-05-20T08:26:05.000Z"
+  },
+  {
+    "id": 45,
+    "number": "34",
+    "name": "Martim Moniz-Est. Sta. Apolonia",
+    "visible": false,
+    "creationDate": "2020-05-20T08:28:12.000Z"
+  },
+  {
+    "id": 46,
+    "number": "39",
+    "name": "Marvila-Xabregas",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.130Z"
+  },
+  {
+    "id": 47,
+    "number": "40",
+    "name": "Olaias-Cais Sodré",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.130Z"
+  },
+  {
+    "id": 48,
+    "number": "43",
+    "name": "Buraca-Cais Sodré",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.130Z"
+  },
+  {
+    "id": 49,
+    "number": "49",
+    "name": "Isel-Est. Entrecampos",
+    "visible": false,
+    "creationDate": "2020-05-20T08:40:06.000Z"
+  },
+  {
+    "id": 50,
+    "number": "52",
+    "name": "Centro Sul-Centro Norte",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.130Z"
+  },
+  {
+    "id": 51,
+    "number": "64",
+    "name": "Cidade Universitária-Damaia Cima",
+    "visible": false,
+    "creationDate": "2020-05-20T08:56:53.000Z"
+  },
+  {
+    "id": 52,
+    "number": "68",
+    "name": "Cidade Universitária-Qta. Alcoutins",
+    "visible": false,
+    "creationDate": "2020-05-20T09:01:13.000Z"
+  },
+  {
+    "id": 53,
+    "number": "70",
+    "name": "Sete Rios (Circ.)",
+    "visible": false,
+    "creationDate": "2020-05-20T09:02:12.000Z"
+  },
+  {
+    "id": 54,
+    "number": "79",
+    "name": "Olivais/Olivais",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.130Z"
+  },
+  {
+    "id": 55,
+    "number": "85",
+    "name": "Estação Benfica-Poço Bispo",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.130Z"
+  },
+  {
+    "id": 56,
+    "number": "91",
+    "name": "Aeroporto-Cais Sodré",
+    "visible": false,
+    "creationDate": "2009-12-28T12:22:27.000Z"
+  },
+  {
+    "id": 57,
+    "number": "107",
+    "name": "Arco Cego-Sapadores",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.143Z"
+  },
+  {
+    "id": 58,
+    "number": "115",
+    "name": "B. Padre Cruz-Amoreiras",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.143Z"
+  },
+  {
+    "id": 59,
+    "number": "60",
+    "name": "Gomes Freire-Cemitério Ajuda",
+    "visible": false,
+    "creationDate": "2020-05-20T08:56:04.000Z"
+  },
+  {
+    "id": 60,
+    "number": "201",
+    "name": "Cais Sodré-Linda-A-Velha",
+    "visible": true,
+    "creationDate": "2020-05-20T10:03:32.000Z"
+  },
+  {
+    "id": 61,
+    "number": "202",
+    "name": "Cais Sodré-B.º Padre Cruz",
+    "visible": true,
+    "creationDate": "2020-05-20T10:04:01.000Z"
+  },
+  {
+    "id": 62,
+    "number": "203",
+    "name": "Boa Hora-Isel",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.143Z"
+  },
+  {
+    "id": 63,
+    "number": "205",
+    "name": "B. Padre Cruz-Cais Sodré",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.143Z"
+  },
+  {
+    "id": 64,
+    "number": "207",
+    "name": "Cais Sodré-Fetais",
+    "visible": true,
+    "creationDate": "2020-05-20T08:04:10.000Z"
+  },
+  {
+    "id": 65,
+    "number": "208",
+    "name": "Cais Sodré-Estação Oriente",
+    "visible": true,
+    "creationDate": "2020-05-20T08:05:25.000Z"
+  },
+  {
+    "id": 66,
+    "number": "210",
+    "name": "Cais Sodré-Prior Velho",
+    "visible": true,
+    "creationDate": "2020-05-20T08:05:25.000Z"
+  },
+  {
+    "id": 67,
+    "number": "101",
+    "name": "Pontinha - Teste",
+    "visible": false,
+    "creationDate": "2010-07-13T14:25:57.000Z"
+  },
+  {
+    "id": 68,
+    "number": "36",
+    "name": "Cais Sodré-Odivelas",
+    "visible": false,
+    "creationDate": "2020-05-20T08:29:35.000Z"
+  },
+  {
+    "id": 69,
+    "number": "7",
+    "name": "Sr. Roubado-Pr. Chile",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.160Z"
+  },
+  {
+    "id": 70,
+    "number": "59",
+    "name": "Restauradores-Estação Oriente",
+    "visible": false,
+    "creationDate": "2020-05-20T08:49:41.000Z"
+  },
+  {
+    "id": 71,
+    "number": "105",
+    "name": "Qta. Morgado-M. Moniz",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.160Z"
+  },
+  {
+    "id": 72,
+    "number": "81",
+    "name": "Prior Velho-Pr. Comércio",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.160Z"
+  },
+  {
+    "id": 73,
+    "number": "82",
+    "name": "Moscavide-Cais Sodré",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.160Z"
+  },
+  {
+    "id": 74,
+    "number": "90",
+    "name": "Est. Entrecampos-Est. Sta. Apolónia",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.160Z"
+  },
+  {
+    "id": 75,
+    "number": "28E",
+    "name": "Martim Moniz-Campo Ourique",
+    "visible": true,
+    "creationDate": "2020-05-20T08:17:21.000Z"
+  },
+  {
+    "id": 76,
+    "number": "15E",
+    "name": "Pç. Figueira-Algés",
+    "visible": true,
+    "creationDate": "2020-05-20T08:04:10.000Z"
+  },
+  {
+    "id": 77,
+    "number": "12E",
+    "name": "Martim Moniz (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 78,
+    "number": "18E",
+    "name": "Cais Sodré-Cemitério Ajuda",
+    "visible": true,
+    "creationDate": "2020-05-20T10:02:42.000Z"
+  },
+  {
+    "id": 79,
+    "number": "25E",
+    "name": "Pç. Figueira-Campo Ourique",
+    "visible": true,
+    "creationDate": "2020-05-20T08:10:55.000Z"
+  },
+  {
+    "id": 80,
+    "number": "25",
+    "name": "Estação Oriente-Prior Velho",
+    "visible": false,
+    "creationDate": "2020-05-20T08:09:33.000Z"
+  },
+  {
+    "id": 81,
+    "number": "104",
+    "name": "Miraflores",
+    "visible": false,
+    "creationDate": "2010-07-13T14:28:02.000Z"
+  },
+  {
+    "id": 82,
+    "number": "75",
+    "name": "Costa Caparica-C. Grande (Metro)",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.177Z"
+  },
+  {
+    "id": 83,
+    "number": "103",
+    "name": "Musgueira",
+    "visible": false,
+    "creationDate": "2010-07-13T14:27:13.000Z"
+  },
+  {
+    "id": 84,
+    "number": "109",
+    "name": "Alfragide - Norte-Col. Militar",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.177Z"
+  },
+  {
+    "id": 85,
+    "number": "73",
+    "name": "Polo Universitario-Belem",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.177Z"
+  },
+  {
+    "id": 86,
+    "number": "37",
+    "name": "Pç. Figueira-Castelo",
+    "visible": false,
+    "creationDate": "2020-05-20T08:30:29.000Z"
+  },
+  {
+    "id": 87,
+    "number": "74",
+    "name": "Campo Ourique-Gomes Freire",
+    "visible": false,
+    "creationDate": "2020-05-20T09:25:56.000Z"
+  },
+  {
+    "id": 88,
+    "number": "77",
+    "name": "B. Sete Ceus-C. Grande (Metro)",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.177Z"
+  },
+  {
+    "id": 89,
+    "number": "76",
+    "name": "C. Quebrada-Algés",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.177Z"
+  },
+  {
+    "id": 90,
+    "number": "13",
+    "name": "B. Serafina-Pr. Comércio",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.177Z"
+  },
+  {
+    "id": 91,
+    "number": "19",
+    "name": "Moscavide-P. Chile",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.177Z"
+  },
+  {
+    "id": 92,
+    "number": "92",
+    "name": "Bairro Alto-Pr. Comércio",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.177Z"
+  },
+  {
+    "id": 93,
+    "number": "54",
+    "name": "Campo Pequeno-Alfragide",
+    "visible": false,
+    "creationDate": "2020-05-20T08:46:52.000Z"
+  },
+  {
+    "id": 94,
+    "number": "102",
+    "name": "Cabo Ruivo",
+    "visible": false,
+    "creationDate": "2010-07-13T14:26:40.000Z"
+  },
+  {
+    "id": 95,
+    "number": "78",
+    "name": "Formação 1-Formação 2",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.190Z"
+  },
+  {
+    "id": 96,
+    "number": "84",
+    "name": "Teste-Teste2",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.190Z"
+  },
+  {
+    "id": 97,
+    "number": "28A",
+    "name": "Graça-Martim Moniz",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.190Z"
+  },
+  {
+    "id": 98,
+    "number": "28B",
+    "name": "L. Camões-Esc. Gerais",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.190Z"
+  },
+  {
+    "id": 99,
+    "number": "28C",
+    "name": "Prazeres-L. Camões",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.190Z"
+  },
+  {
+    "id": 100,
+    "number": "708",
+    "name": "Martim Moniz-Sacavém",
+    "visible": true,
+    "creationDate": "2020-05-20T09:10:40.000Z"
+  },
+  {
+    "id": 101,
+    "number": "711",
+    "name": "Terreiro Do Paço-Alto Damaia",
+    "visible": true,
+    "creationDate": "2020-05-20T09:11:49.000Z"
+  },
+  {
+    "id": 102,
+    "number": "714",
+    "name": "Pç. Figueira-Outurela",
+    "visible": true,
+    "creationDate": "2020-05-20T09:14:17.000Z"
+  },
+  {
+    "id": 103,
+    "number": "727",
+    "name": "Estação Roma-Areeiro-Restelo",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 104,
+    "number": "729",
+    "name": "B.º Padre Cruz-Algés",
+    "visible": true,
+    "creationDate": "2020-05-20T09:20:31.000Z"
+  },
+  {
+    "id": 105,
+    "number": "718",
+    "name": "Isel-Alameda",
+    "visible": true,
+    "creationDate": "2020-05-20T09:15:18.000Z"
+  },
+  {
+    "id": 106,
+    "number": "750",
+    "name": "Estação Oriente-Algés",
+    "visible": true,
+    "creationDate": "2020-05-20T09:37:03.000Z"
+  },
+  {
+    "id": 107,
+    "number": "732",
+    "name": "Marquês Pombal-Caselas",
+    "visible": true,
+    "creationDate": "2020-05-20T09:23:07.000Z"
+  },
+  {
+    "id": 108,
+    "number": "746",
+    "name": "Marquês Pombal-Estação Damaia",
+    "visible": true,
+    "creationDate": "2020-05-20T09:27:21.000Z"
+  },
+  {
+    "id": 109,
+    "number": "751",
+    "name": "Estação Campolide-Linda-A-Velha",
+    "visible": true,
+    "creationDate": "2020-05-20T09:37:54.000Z"
+  },
+  {
+    "id": 110,
+    "number": "765",
+    "name": "Col. Militar - Metro-Portas Benfica",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 111,
+    "number": "768",
+    "name": "Cidade Universitária-Qta. Alcoutins",
+    "visible": true,
+    "creationDate": "2020-05-20T09:47:16.000Z"
+  },
+  {
+    "id": 112,
+    "number": "767",
+    "name": "C. Mártires Pátria-Reboleira-Metro",
+    "visible": true,
+    "creationDate": "2020-05-21T11:02:00.000Z"
+  },
+  {
+    "id": 113,
+    "number": "790",
+    "name": "Principe Real-Gomes Freire",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.957Z"
+  },
+  {
+    "id": 114,
+    "number": "742",
+    "name": "B.º Madre Deus-Pólo Univ. Ajuda",
+    "visible": true,
+    "creationDate": "2020-05-20T09:26:27.000Z"
+  },
+  {
+    "id": 115,
+    "number": "794",
+    "name": "Restauradores-Estação Oriente",
+    "visible": true,
+    "creationDate": "2020-05-20T09:55:47.000Z"
+  },
+  {
+    "id": 116,
+    "number": "726",
+    "name": "Sapadores-Pontinha Centro",
+    "visible": true,
+    "creationDate": "2020-05-20T09:19:03.000Z"
+  },
+  {
+    "id": 117,
+    "number": "738",
+    "name": "Qta. Barros-Alto Sto. Amaro",
+    "visible": true,
+    "creationDate": "2020-05-20T09:25:07.000Z"
+  },
+  {
+    "id": 118,
+    "number": "755",
+    "name": "Poço Bispo-Sete Rios",
+    "visible": true,
+    "creationDate": "2020-05-20T09:39:50.000Z"
+  },
+  {
+    "id": 119,
+    "number": "71",
+    "name": "Serafina/E. Campol.",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.957Z"
+  },
+  {
+    "id": 120,
+    "number": "799",
+    "name": "Col. Militar-Metro-Alfragide Norte",
+    "visible": true,
+    "creationDate": "2020-05-21T11:02:00.000Z"
+  },
+  {
+    "id": 121,
+    "number": "723",
+    "name": "Desterro-Algés",
+    "visible": true,
+    "creationDate": "2020-05-20T09:16:57.000Z"
+  },
+  {
+    "id": 122,
+    "number": "713",
+    "name": "Alameda-Estação Campolide",
+    "visible": true,
+    "creationDate": "2020-05-20T09:13:30.000Z"
+  },
+  {
+    "id": 123,
+    "number": "701",
+    "name": "C. Grande-Metro-Campo Ourique",
+    "visible": true,
+    "creationDate": "2020-05-21T11:02:00.000Z"
+  },
+  {
+    "id": 124,
+    "number": "773",
+    "name": "Rato-Alcântara",
+    "visible": true,
+    "creationDate": "2020-05-20T09:48:12.000Z"
+  },
+  {
+    "id": 125,
+    "number": "777",
+    "name": "Ameixoeira-Metro-Campo Grande-Metro",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.973Z"
+  },
+  {
+    "id": 126,
+    "number": "95",
+    "name": "S. Amaro-Miraflores (Norte)",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.973Z"
+  },
+  {
+    "id": 127,
+    "number": "23",
+    "name": "Desterro-Algés",
+    "visible": false,
+    "creationDate": "2020-05-20T08:07:45.000Z"
+  },
+  {
+    "id": 128,
+    "number": "48",
+    "name": "Marquês Pombal-Linda-A-Velha",
+    "visible": false,
+    "creationDate": "2020-05-20T08:39:28.000Z"
+  },
+  {
+    "id": 129,
+    "number": "65",
+    "name": "C. Militar-Metro-Portas Benfica",
+    "visible": false,
+    "creationDate": "2020-05-20T08:58:16.000Z"
+  },
+  {
+    "id": 130,
+    "number": "3",
+    "name": "Charneca-B.º Sta. Cruz",
+    "visible": false,
+    "creationDate": "2020-05-20T08:19:58.000Z"
+  },
+  {
+    "id": 131,
+    "number": "14",
+    "name": "Outurela-Pr. Figueira",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.973Z"
+  },
+  {
+    "id": 132,
+    "number": "30",
+    "name": "Picheleira-Picoas",
+    "visible": false,
+    "creationDate": "2020-05-20T08:20:51.000Z"
+  },
+  {
+    "id": 133,
+    "number": "35",
+    "name": "Cais Sodré-Hosp. Sta. Maria",
+    "visible": false,
+    "creationDate": "2020-05-20T08:29:16.000Z"
+  },
+  {
+    "id": 134,
+    "number": "66A",
+    "name": "Pontinha/Cemit. Carn",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.973Z"
+  },
+  {
+    "id": 135,
+    "number": "100",
+    "name": "Portaria-Pontinha Parque",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.973Z"
+  },
+  {
+    "id": 136,
+    "number": "206",
+    "name": "Cais Sodré-Odivelas",
+    "visible": true,
+    "creationDate": "2020-05-20T08:04:10.000Z"
+  },
+  {
+    "id": 137,
+    "number": "106",
+    "name": "Galinheiras-C. Grande (Metro)",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.973Z"
+  },
+  {
+    "id": 138,
+    "number": "114",
+    "name": "P. Nações Norte-P. Nações Sul",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.987Z"
+  },
+  {
+    "id": 139,
+    "number": "47",
+    "name": "Campo Grande-Metro-Pontinha Metro",
+    "visible": false,
+    "creationDate": "2020-05-20T08:38:31.000Z"
+  },
+  {
+    "id": 140,
+    "number": "72",
+    "name": "Est. Benfica/S.Rios",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.987Z"
+  },
+  {
+    "id": 141,
+    "number": "51",
+    "name": "Estação Campolide-Linda-A-Velha",
+    "visible": false,
+    "creationDate": "2020-05-20T08:42:07.000Z"
+  },
+  {
+    "id": 142,
+    "number": "17C",
+    "name": "Alto Chapeleiro",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.987Z"
+  },
+  {
+    "id": 143,
+    "number": "720",
+    "name": "Picheleira-Alto Sto. Amaro",
+    "visible": true,
+    "creationDate": "2020-05-20T09:16:11.000Z"
+  },
+  {
+    "id": 144,
+    "number": "759",
+    "name": "Restauradores-Estação Oriente",
+    "visible": true,
+    "creationDate": "2020-05-20T09:42:07.000Z"
+  },
+  {
+    "id": 145,
+    "number": "793",
+    "name": "Marvila-Estação Roma-Areeiro",
+    "visible": true,
+    "creationDate": "2020-05-20T09:53:31.000Z"
+  },
+  {
+    "id": 146,
+    "number": "702",
+    "name": "Marquês Pombal-Serafina",
+    "visible": true,
+    "creationDate": "2020-05-20T09:05:51.000Z"
+  },
+  {
+    "id": 147,
+    "number": "706",
+    "name": "Cais Sodré-Est. Sta. Apolónia",
+    "visible": true,
+    "creationDate": "2020-05-20T09:09:43.000Z"
+  },
+  {
+    "id": 148,
+    "number": "709",
+    "name": "Restauradores-Campo Ourique",
+    "visible": true,
+    "creationDate": "2020-05-20T09:11:13.000Z"
+  },
+  {
+    "id": 149,
+    "number": "745",
+    "name": "Prior Velho-Terreiro Paço",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:46.987Z"
+  },
+  {
+    "id": 150,
+    "number": "758",
+    "name": "Cais Sodré-Portas Benfica",
+    "visible": true,
+    "creationDate": "2020-05-20T09:40:44.000Z"
+  },
+  {
+    "id": 151,
+    "number": "781",
+    "name": "Cais Sodré-Prior Velho",
+    "visible": true,
+    "creationDate": "2020-05-20T09:51:02.000Z"
+  },
+  {
+    "id": 152,
+    "number": "782",
+    "name": "Cais Sodré-Moscavide",
+    "visible": true,
+    "creationDate": "2020-05-20T09:51:21.000Z"
+  },
+  {
+    "id": 153,
+    "number": "757",
+    "name": "Charneca-Alto Chapeleiro",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.003Z"
+  },
+  {
+    "id": 154,
+    "number": "96",
+    "name": "Est. Oriente-M. Pombal",
+    "visible": false,
+    "creationDate": "2008-03-14T21:29:51.000Z"
+  },
+  {
+    "id": 155,
+    "number": "120",
+    "name": "Mq. Pombal-Rossio",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.003Z"
+  },
+  {
+    "id": 156,
+    "number": "780",
+    "name": "Benfica-Saldanha",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.003Z"
+  },
+  {
+    "id": 157,
+    "number": "97",
+    "name": "Pmr-Pmr",
+    "visible": false,
+    "creationDate": "2017-05-29T10:11:07.000Z"
+  },
+  {
+    "id": 158,
+    "number": "51E",
+    "name": "Restauradores-S. Pedro Alcantâra",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 159,
+    "number": "52E",
+    "name": "Lg. Anunciada-R. Câmara Pestana",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 160,
+    "number": "53E",
+    "name": "R. S. Paulo-Lg. Calhariz",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 161,
+    "number": "54E",
+    "name": "R. Ouro-Lg. Carmo",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 162,
+    "number": "740",
+    "name": "Cais Sodré-Praça Londres",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.003Z"
+  },
+  {
+    "id": 163,
+    "number": "797",
+    "name": "Alameda-Sapadores",
+    "visible": true,
+    "creationDate": "2020-05-20T09:57:51.000Z"
+  },
+  {
+    "id": 164,
+    "number": "716",
+    "name": "Alameda-Benfica",
+    "visible": true,
+    "creationDate": "2020-05-20T09:14:36.000Z"
+  },
+  {
+    "id": 165,
+    "number": "703",
+    "name": "Charneca-B.º Sta. Cruz",
+    "visible": true,
+    "creationDate": "2020-05-20T09:06:27.000Z"
+  },
+  {
+    "id": 166,
+    "number": "752",
+    "name": "Centro Norte-Centro Sul",
+    "visible": false,
+    "creationDate": "2020-05-20T09:38:33.000Z"
+  },
+  {
+    "id": 167,
+    "number": "753",
+    "name": "Pç. José Fontana-Centro Sul",
+    "visible": true,
+    "creationDate": "2020-05-20T09:38:53.000Z"
+  },
+  {
+    "id": 168,
+    "number": "764",
+    "name": "Cidade Universitária-Damaia Cima",
+    "visible": true,
+    "creationDate": "2020-05-20T09:44:36.000Z"
+  },
+  {
+    "id": 169,
+    "number": "748",
+    "name": "Marquês Pombal-Linda-A-Velha",
+    "visible": true,
+    "creationDate": "2020-05-20T09:29:01.000Z"
+  },
+  {
+    "id": 170,
+    "number": "717",
+    "name": "Pç. Chile-Fetais",
+    "visible": true,
+    "creationDate": "2020-05-20T09:14:58.000Z"
+  },
+  {
+    "id": 171,
+    "number": "760",
+    "name": "Gomes Freire-Cemitério Ajuda",
+    "visible": true,
+    "creationDate": "2020-05-20T09:43:36.000Z"
+  },
+  {
+    "id": 172,
+    "number": "735",
+    "name": "Cais Sodré-Hosp. Sta. Maria",
+    "visible": true,
+    "creationDate": "2020-05-20T09:23:55.000Z"
+  },
+  {
+    "id": 173,
+    "number": "737",
+    "name": "Pç. Figueira-Castelo",
+    "visible": true,
+    "creationDate": "2020-05-20T09:24:34.000Z"
+  },
+  {
+    "id": 174,
+    "number": "796",
+    "name": "C. Grande-Metro-Galinheiras",
+    "visible": true,
+    "creationDate": "2020-05-21T11:02:00.000Z"
+  },
+  {
+    "id": 175,
+    "number": "756",
+    "name": "Olaias-Junqueira",
+    "visible": true,
+    "creationDate": "2020-05-20T09:40:14.000Z"
+  },
+  {
+    "id": 176,
+    "number": "705",
+    "name": "Estação Oriente-Estação Roma-Areeiro",
+    "visible": true,
+    "creationDate": "2020-05-20T09:07:56.000Z"
+  },
+  {
+    "id": 177,
+    "number": "747",
+    "name": "C. Grande-Metro-Pontinha-Metro",
+    "visible": true,
+    "creationDate": "2020-05-21T11:02:00.000Z"
+  },
+  {
+    "id": 178,
+    "number": "724",
+    "name": "Calvário-Pontinha",
+    "visible": true,
+    "creationDate": "2020-05-20T09:17:37.000Z"
+  },
+  {
+    "id": 179,
+    "number": "778",
+    "name": "C. Grande-Metro-Col. Militar-Metro",
+    "visible": true,
+    "creationDate": "2020-05-21T11:02:00.000Z"
+  },
+  {
+    "id": 180,
+    "number": "1001",
+    "name": "Pontinha Portaria-Pontinha Parque",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.033Z"
+  },
+  {
+    "id": 181,
+    "number": "1002",
+    "name": "Cabo Ruivo-Portaria-Cabo Ruivo-Expedição",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.033Z"
+  },
+  {
+    "id": 182,
+    "number": "1003",
+    "name": "Portaria Musgueira-Musgueira",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.033Z"
+  },
+  {
+    "id": 183,
+    "number": "1004",
+    "name": "Miraflores- Portaria-Miraflores- Parque",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.033Z"
+  },
+  {
+    "id": 184,
+    "number": "98",
+    "name": "Algés-F. Champalimaud",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.033Z"
+  },
+  {
+    "id": 185,
+    "number": "400",
+    "name": "Pq. Nações Norte-Pq. Nações Sul",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.033Z"
+  },
+  {
+    "id": 186,
+    "number": "A",
+    "name": "Rot. Oliveiras-Pq. Nações Sul",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.033Z"
+  },
+  {
+    "id": 187,
+    "number": "1128",
+    "name": "Portela-Restelo",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.033Z"
+  },
+  {
+    "id": 188,
+    "number": "928",
+    "name": "Formação 1-Formação 2",
+    "visible": false,
+    "creationDate": "2011-03-29T11:04:56.000Z"
+  },
+  {
+    "id": 189,
+    "number": "712",
+    "name": "Est. Sta. Apolónia-Alcântara Mar",
+    "visible": true,
+    "creationDate": "2020-05-20T09:12:26.000Z"
+  },
+  {
+    "id": 190,
+    "number": "731",
+    "name": "Av. José Malhoa-Moscavide Centro",
+    "visible": true,
+    "creationDate": "2020-05-20T09:22:38.000Z"
+  },
+  {
+    "id": 191,
+    "number": "770",
+    "name": "Sete Rios (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 192,
+    "number": "774",
+    "name": "Campo Ourique-Gomes Freire",
+    "visible": true,
+    "creationDate": "2020-05-20T09:48:45.000Z"
+  },
+  {
+    "id": 193,
+    "number": "776",
+    "name": "Algés-Cruz Quebrada",
+    "visible": true,
+    "creationDate": "2020-05-20T09:49:07.000Z"
+  },
+  {
+    "id": 194,
+    "number": "798",
+    "name": "C. Grande-Metro-Galinheiras",
+    "visible": true,
+    "creationDate": "2020-05-21T11:02:00.000Z"
+  },
+  {
+    "id": 195,
+    "number": "749",
+    "name": "Isel-Estação Entrecampos",
+    "visible": true,
+    "creationDate": "2020-05-20T09:29:42.000Z"
+  },
+  {
+    "id": 196,
+    "number": "722",
+    "name": "Pç. Londres-Portela",
+    "visible": true,
+    "creationDate": "2020-05-20T09:16:42.000Z"
+  },
+  {
+    "id": 197,
+    "number": "725",
+    "name": "Estação Oriente-Prior Velho",
+    "visible": true,
+    "creationDate": "2020-05-20T09:18:09.000Z"
+  },
+  {
+    "id": 198,
+    "number": "730",
+    "name": "Picheleira-Picoas",
+    "visible": true,
+    "creationDate": "2020-05-20T09:22:13.000Z"
+  },
+  {
+    "id": 199,
+    "number": "736",
+    "name": "Cais Sodré-Odivelas",
+    "visible": true,
+    "creationDate": "2020-05-20T09:24:14.000Z"
+  },
+  {
+    "id": 200,
+    "number": "744",
+    "name": "Marquês Pombal-Moscavide",
+    "visible": true,
+    "creationDate": "2020-05-20T09:26:54.000Z"
+  },
+  {
+    "id": 201,
+    "number": "754",
+    "name": "Campo Pequeno-Alfragide",
+    "visible": true,
+    "creationDate": "2020-05-20T09:39:35.000Z"
+  },
+  {
+    "id": 202,
+    "number": "779",
+    "name": "Olivais-Olivais",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.050Z"
+  },
+  {
+    "id": 203,
+    "number": "783",
+    "name": "Amoreiras-Portela / Pr. Velho",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 204,
+    "number": "728",
+    "name": "Restelo-Portela",
+    "visible": true,
+    "creationDate": "2020-05-20T09:20:07.000Z"
+  },
+  {
+    "id": 205,
+    "number": "734",
+    "name": "Martim Moniz-Est. Sta. Apolónia",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 206,
+    "number": "9F",
+    "name": "Pq. Bela Vista-Cais Sodré",
+    "visible": false,
+    "creationDate": "2014-04-29T14:04:43.000Z"
+  },
+  {
+    "id": 207,
+    "number": "9C",
+    "name": "Pq. Bela Vista-Est. Oriente",
+    "visible": false,
+    "creationDate": "2014-04-29T14:04:31.000Z"
+  },
+  {
+    "id": 208,
+    "number": "26B",
+    "name": "Parque Nações Norte-Parque Nações Sul",
+    "visible": true,
+    "creationDate": "2017-06-21T17:17:23.000Z"
+  },
+  {
+    "id": 209,
+    "number": "29B",
+    "name": "C.C. Olivais (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 210,
+    "number": "31B",
+    "name": "Vale Formoso-B.º Alfinetes",
+    "visible": true,
+    "creationDate": "2020-05-20T08:23:45.000Z"
+  },
+  {
+    "id": 211,
+    "number": "32B",
+    "name": "Amendoeiras (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 212,
+    "number": "40B",
+    "name": "Alto Chapeleiro-Lumiar",
+    "visible": true,
+    "creationDate": "2020-05-20T08:32:55.000Z"
+  },
+  {
+    "id": 213,
+    "number": "24E",
+    "name": "Pç. Luis Camões-Campolide",
+    "visible": true,
+    "creationDate": "2018-04-19T16:14:47.000Z"
+  },
+  {
+    "id": 214,
+    "number": "9R",
+    "name": "Pq. Bela Vista-Cais Sodré",
+    "visible": false,
+    "creationDate": "2019-03-04T11:52:47.067Z"
+  },
+  {
+    "id": 215,
+    "number": "9A",
+    "name": "Algés (Docapesca)-Cais Sodré",
+    "visible": false,
+    "creationDate": "2019-07-12T11:16:06.587Z"
+  },
+  {
+    "id": 216,
+    "number": "9B",
+    "name": "Algés (Docapesca)-Marquês Pombal",
+    "visible": false,
+    "creationDate": "2019-07-12T11:16:06.587Z"
+  },
+  {
+    "id": 217,
+    "number": "9D",
+    "name": "Algés (Docapesca)-Parque Campismo",
+    "visible": false,
+    "creationDate": "2019-07-12T11:16:06.587Z"
+  },
+  {
+    "id": 218,
+    "number": "9E",
+    "name": "Algés (Docapesca)-Estação Oriente",
+    "visible": false,
+    "creationDate": "2019-07-12T11:16:06.587Z"
+  },
+  {
+    "id": 219,
+    "number": "76B",
+    "name": "Boa-Hora (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 220,
+    "number": "73B",
+    "name": "C.Congressos (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 221,
+    "number": "79B",
+    "name": "Algés (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 222,
+    "number": "43B",
+    "name": "Paço Lumiar (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 223,
+    "number": "44B",
+    "name": "Paço Lumiar (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 224,
+    "number": "37B",
+    "name": "Cruz Pedra (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 225,
+    "number": "70B",
+    "name": "Col. Militar (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 226,
+    "number": "34B",
+    "name": "Olaias (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 227,
+    "number": "58B",
+    "name": "Sete Rios (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  },
+  {
+    "id": 228,
+    "number": "8A",
+    "name": "Campolide-Web Summit",
+    "visible": false,
+    "creationDate": "2019-10-17T01:00:06.540Z"
+  },
+  {
+    "id": 229,
+    "number": "8B",
+    "name": "Restauradores-Web Summit",
+    "visible": false,
+    "creationDate": "2019-10-17T01:00:06.553Z"
+  },
+  {
+    "id": 230,
+    "number": "8C",
+    "name": "Cais Sodré-Web Summit",
+    "visible": false,
+    "creationDate": "2019-10-17T01:00:06.553Z"
+  },
+  {
+    "id": 231,
+    "number": "8D",
+    "name": "Web Summit-Cais Do Sodré",
+    "visible": false,
+    "creationDate": "2019-10-17T01:00:06.553Z"
+  },
+  {
+    "id": 232,
+    "number": "41B",
+    "name": "Galinheiras-Qta. Lavadeiras",
+    "visible": true,
+    "creationDate": "2019-11-19T11:52:19.007Z"
+  },
+  {
+    "id": 233,
+    "number": "88A",
+    "name": "Parque Nações-R. Castilho",
+    "visible": false,
+    "creationDate": "2020-01-29T12:17:18.540Z"
+  },
+  {
+    "id": 234,
+    "number": "88B",
+    "name": "Parque Nações-Restauradores",
+    "visible": false,
+    "creationDate": "2020-01-29T12:17:18.540Z"
+  },
+  {
+    "id": 235,
+    "number": "88C",
+    "name": "Parque Nações-Cais Sodré",
+    "visible": false,
+    "creationDate": "2020-01-29T12:17:18.540Z"
+  },
+  {
+    "id": 236,
+    "number": "22B",
+    "name": "Cais Sodré (Circ.)",
+    "visible": true,
+    "creationDate": "2020-05-20T16:36:37.000Z"
+  }
+]

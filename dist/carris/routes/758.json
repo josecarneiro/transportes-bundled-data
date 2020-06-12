@@ -1,0 +1,5161 @@
+{
+  "id": 150,
+  "number": "758",
+  "name": "Cais Sodré-Portas Benfica",
+  "visible": true,
+  "creationDate": "2020-05-20T09:40:44.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20666,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21311,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 43794,
+              "order": 1,
+              "distance": 237,
+              "stop": {
+                "id": 3807,
+                "publicId": "3807",
+                "name": "Cais Sodré",
+                "position": {
+                  "latitude": 38.705582,
+                  "longitude": -9.143242
+                },
+                "visible": true,
+                "updateDate": "2018-12-13T15:29:03.000Z"
+              }
+            },
+            {
+              "id": 43795,
+              "order": 2,
+              "distance": 375,
+              "stop": {
+                "id": 3825,
+                "publicId": "3825",
+                "name": "Rua Do Alecrim",
+                "position": {
+                  "latitude": 38.707592,
+                  "longitude": -9.143346
+                },
+                "visible": true,
+                "updateDate": "2015-08-11T15:45:07.000Z"
+              }
+            },
+            {
+              "id": 43796,
+              "order": 3,
+              "distance": 249,
+              "stop": {
+                "id": 10501,
+                "publicId": "10501",
+                "name": "Praça Luís De Camões",
+                "position": {
+                  "latitude": 38.710957,
+                  "longitude": -9.142904
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 43797,
+              "order": 4,
+              "distance": 217,
+              "stop": {
+                "id": 10503,
+                "publicId": "10503",
+                "name": "Largo Trindade Coelho",
+                "position": {
+                  "latitude": 38.713181,
+                  "longitude": -9.143334
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:04:59.000Z"
+              }
+            },
+            {
+              "id": 43798,
+              "order": 5,
+              "distance": 382,
+              "stop": {
+                "id": 10601,
+                "publicId": "10601",
+                "name": "Elevador Da Glória",
+                "position": {
+                  "latitude": 38.714911,
+                  "longitude": -9.144479
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:24:13.000Z"
+              }
+            },
+            {
+              "id": 43799,
+              "order": 6,
+              "distance": 377,
+              "stop": {
+                "id": 10605,
+                "publicId": "10605",
+                "name": "Príncipe Real",
+                "position": {
+                  "latitude": 38.71657,
+                  "longitude": -9.14811
+                },
+                "visible": true,
+                "updateDate": "2018-04-26T16:19:18.000Z"
+              }
+            },
+            {
+              "id": 43800,
+              "order": 7,
+              "distance": 374,
+              "stop": {
+                "id": 10607,
+                "publicId": "10607",
+                "name": "R. Escola Politécnica",
+                "position": {
+                  "latitude": 38.71807,
+                  "longitude": -9.151939
+                },
+                "visible": true,
+                "updateDate": "2018-05-04T11:25:39.000Z"
+              }
+            },
+            {
+              "id": 43801,
+              "order": 8,
+              "distance": 424,
+              "stop": {
+                "id": 6812,
+                "publicId": "6812",
+                "name": "Rato",
+                "position": {
+                  "latitude": 38.720248,
+                  "longitude": -9.15489
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 43802,
+              "order": 9,
+              "distance": 202,
+              "stop": {
+                "id": 6816,
+                "publicId": "6816",
+                "name": "R. Custódio Vieira",
+                "position": {
+                  "latitude": 38.72047,
+                  "longitude": -9.159156
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T13:01:08.000Z"
+              }
+            },
+            {
+              "id": 43803,
+              "order": 10,
+              "distance": 398,
+              "stop": {
+                "id": 8513,
+                "publicId": "8513",
+                "name": "R. D. João V",
+                "position": {
+                  "latitude": 38.721021,
+                  "longitude": -9.161366
+                },
+                "visible": true,
+                "updateDate": "2019-11-14T18:13:26.000Z"
+              }
+            },
+            {
+              "id": 43804,
+              "order": 11,
+              "distance": 168,
+              "stop": {
+                "id": 8511,
+                "publicId": "8511",
+                "name": "Amoreiras",
+                "position": {
+                  "latitude": 38.723867,
+                  "longitude": -9.16058
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 43805,
+              "order": 12,
+              "distance": 371,
+              "stop": {
+                "id": 8509,
+                "publicId": "8509",
+                "name": "Rua Conselheiro Fernando Sousa",
+                "position": {
+                  "latitude": 38.725223,
+                  "longitude": -9.159972
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:40:50.000Z"
+              }
+            },
+            {
+              "id": 43806,
+              "order": 13,
+              "distance": 347,
+              "stop": {
+                "id": 6119,
+                "publicId": "6119",
+                "name": "Campolide",
+                "position": {
+                  "latitude": 38.727726,
+                  "longitude": -9.162049
+                },
+                "visible": true,
+                "updateDate": "2019-03-06T18:05:16.000Z"
+              }
+            },
+            {
+              "id": 43807,
+              "order": 14,
+              "distance": 221,
+              "stop": {
+                "id": 6121,
+                "publicId": "6121",
+                "name": "R. Campolide",
+                "position": {
+                  "latitude": 38.730336,
+                  "longitude": -9.162242
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:57:21.000Z"
+              }
+            },
+            {
+              "id": 43808,
+              "order": 15,
+              "distance": 402,
+              "stop": {
+                "id": 6123,
+                "publicId": "6123",
+                "name": "R. Campolide (Escola)",
+                "position": {
+                  "latitude": 38.732267,
+                  "longitude": -9.162436
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:54:27.000Z"
+              }
+            },
+            {
+              "id": 43809,
+              "order": 16,
+              "distance": 466,
+              "stop": {
+                "id": 2711,
+                "publicId": "2711",
+                "name": "Tarujo",
+                "position": {
+                  "latitude": 38.735087,
+                  "longitude": -9.165179
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:51.000Z"
+              }
+            },
+            {
+              "id": 43810,
+              "order": 17,
+              "distance": 330,
+              "stop": {
+                "id": 2713,
+                "publicId": "2713",
+                "name": "Av. José Malhoa",
+                "position": {
+                  "latitude": 38.737727,
+                  "longitude": -9.167631
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T07:52:33.000Z"
+              }
+            },
+            {
+              "id": 43811,
+              "order": 18,
+              "distance": 305,
+              "stop": {
+                "id": 1621,
+                "publicId": "1621",
+                "name": "Estação De Sete Rios",
+                "position": {
+                  "latitude": 38.740566,
+                  "longitude": -9.167409
+                },
+                "visible": true,
+                "updateDate": "2012-04-16T17:04:22.000Z"
+              }
+            },
+            {
+              "id": 43812,
+              "order": 19,
+              "distance": 287,
+              "stop": {
+                "id": 1607,
+                "publicId": "1607",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.741989,
+                  "longitude": -9.169768
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:58:54.000Z"
+              }
+            },
+            {
+              "id": 43813,
+              "order": 20,
+              "distance": 273,
+              "stop": {
+                "id": 1616,
+                "publicId": "1616",
+                "name": "Estr. Benfica (Furnas)",
+                "position": {
+                  "latitude": 38.742583,
+                  "longitude": -9.172662
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:47:06.000Z"
+              }
+            },
+            {
+              "id": 43814,
+              "order": 21,
+              "distance": 332,
+              "stop": {
+                "id": 10706,
+                "publicId": "10706",
+                "name": "R. Duarte Galvão",
+                "position": {
+                  "latitude": 38.743614,
+                  "longitude": -9.175524
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:46:04.000Z"
+              }
+            },
+            {
+              "id": 43815,
+              "order": 22,
+              "distance": 261,
+              "stop": {
+                "id": 10704,
+                "publicId": "10704",
+                "name": "B.º Novo",
+                "position": {
+                  "latitude": 38.744557,
+                  "longitude": -9.17914
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:44:56.000Z"
+              }
+            },
+            {
+              "id": 43816,
+              "order": 23,
+              "distance": 280,
+              "stop": {
+                "id": 10702,
+                "publicId": "10702",
+                "name": "S. Domingos De Benfica",
+                "position": {
+                  "latitude": 38.745703,
+                  "longitude": -9.181725
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:44:23.000Z"
+              }
+            },
+            {
+              "id": 43817,
+              "order": 24,
+              "distance": 365,
+              "stop": {
+                "id": 10830,
+                "publicId": "10830",
+                "name": "Pupilos Do Exército",
+                "position": {
+                  "latitude": 38.746809,
+                  "longitude": -9.184617
+                },
+                "visible": true,
+                "updateDate": "2012-12-14T18:05:26.000Z"
+              }
+            },
+            {
+              "id": 43818,
+              "order": 25,
+              "distance": 349,
+              "stop": {
+                "id": 10826,
+                "publicId": "10826",
+                "name": "Rua Reinaldo Dos Santos",
+                "position": {
+                  "latitude": 38.747272,
+                  "longitude": -9.188895
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:35:34.000Z"
+              }
+            },
+            {
+              "id": 43819,
+              "order": 26,
+              "distance": 422,
+              "stop": {
+                "id": 10814,
+                "publicId": "10814",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748946,
+                  "longitude": -9.191185
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:08:41.000Z"
+              }
+            },
+            {
+              "id": 43820,
+              "order": 27,
+              "distance": 272,
+              "stop": {
+                "id": 10802,
+                "publicId": "10802",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.750137,
+                  "longitude": -9.195585
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:09.000Z"
+              }
+            },
+            {
+              "id": 43821,
+              "order": 28,
+              "distance": 275,
+              "stop": {
+                "id": 10906,
+                "publicId": "10906",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750692,
+                  "longitude": -9.198647
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:33:15.000Z"
+              }
+            },
+            {
+              "id": 43822,
+              "order": 29,
+              "distance": 333,
+              "stop": {
+                "id": 10904,
+                "publicId": "10904",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750776,
+                  "longitude": -9.201746
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 43823,
+              "order": 30,
+              "distance": 354,
+              "stop": {
+                "id": 10902,
+                "publicId": "10902",
+                "name": "Estrada De Benfica - Mercado",
+                "position": {
+                  "latitude": 38.75199,
+                  "longitude": -9.205249
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:50:25.000Z"
+              }
+            },
+            {
+              "id": 43824,
+              "order": 31,
+              "distance": 162,
+              "stop": {
+                "id": 11006,
+                "publicId": "11006",
+                "name": "Portas Benfica",
+                "position": {
+                  "latitude": 38.753411,
+                  "longitude": -9.208495
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:16:09.000Z"
+              }
+            },
+            {
+              "id": 43825,
+              "order": 32,
+              "distance": 0,
+              "stop": {
+                "id": 11007,
+                "publicId": "11007",
+                "name": "Portas De Benfica",
+                "position": {
+                  "latitude": 38.752628,
+                  "longitude": -9.209499
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T10:01:47.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21312,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 43826,
+              "order": 1,
+              "distance": 62,
+              "stop": {
+                "id": 11007,
+                "publicId": "11007",
+                "name": "Portas De Benfica",
+                "position": {
+                  "latitude": 38.752628,
+                  "longitude": -9.209499
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T10:01:47.000Z"
+              }
+            },
+            {
+              "id": 43827,
+              "order": 2,
+              "distance": 314,
+              "stop": {
+                "id": 11001,
+                "publicId": "11001",
+                "name": "Portas Benfica",
+                "position": {
+                  "latitude": 38.752705,
+                  "longitude": -9.208776
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:14:34.000Z"
+              }
+            },
+            {
+              "id": 43828,
+              "order": 3,
+              "distance": 386,
+              "stop": {
+                "id": 10901,
+                "publicId": "10901",
+                "name": "Estrada De Benfica - Mercado",
+                "position": {
+                  "latitude": 38.752021,
+                  "longitude": -9.205515
+                },
+                "visible": true,
+                "updateDate": "2016-04-27T15:05:32.000Z"
+              }
+            },
+            {
+              "id": 43829,
+              "order": 4,
+              "distance": 251,
+              "stop": {
+                "id": 10903,
+                "publicId": "10903",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750615,
+                  "longitude": -9.201455
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:50:39.000Z"
+              }
+            },
+            {
+              "id": 43830,
+              "order": 5,
+              "distance": 378,
+              "stop": {
+                "id": 10905,
+                "publicId": "10905",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750593,
+                  "longitude": -9.19859
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:32:51.000Z"
+              }
+            },
+            {
+              "id": 43831,
+              "order": 6,
+              "distance": 302,
+              "stop": {
+                "id": 10801,
+                "publicId": "10801",
+                "name": "Escola Pedro Santarém",
+                "position": {
+                  "latitude": 38.749762,
+                  "longitude": -9.194393
+                },
+                "visible": true,
+                "updateDate": "2008-12-10T12:34:06.000Z"
+              }
+            },
+            {
+              "id": 43832,
+              "order": 7,
+              "distance": 357,
+              "stop": {
+                "id": 10803,
+                "publicId": "10803",
+                "name": "Calhariz (Escola)",
+                "position": {
+                  "latitude": 38.748208,
+                  "longitude": -9.192569
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:26.000Z"
+              }
+            },
+            {
+              "id": 43833,
+              "order": 8,
+              "distance": 361,
+              "stop": {
+                "id": 10821,
+                "publicId": "10821",
+                "name": "R. Prof. Reinaldo Santos",
+                "position": {
+                  "latitude": 38.747029,
+                  "longitude": -9.188711
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:53:27.000Z"
+              }
+            },
+            {
+              "id": 43834,
+              "order": 9,
+              "distance": 282,
+              "stop": {
+                "id": 10829,
+                "publicId": "10829",
+                "name": "Pupilos Exército",
+                "position": {
+                  "latitude": 38.746693,
+                  "longitude": -9.18459
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:54:21.000Z"
+              }
+            },
+            {
+              "id": 43835,
+              "order": 10,
+              "distance": 295,
+              "stop": {
+                "id": 10701,
+                "publicId": "10701",
+                "name": "S. Domingos Benfica",
+                "position": {
+                  "latitude": 38.745556,
+                  "longitude": -9.181756
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:51:29.000Z"
+              }
+            },
+            {
+              "id": 43836,
+              "order": 11,
+              "distance": 241,
+              "stop": {
+                "id": 10703,
+                "publicId": "10703",
+                "name": "B.º Novo",
+                "position": {
+                  "latitude": 38.744338,
+                  "longitude": -9.178742
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:44:49.000Z"
+              }
+            },
+            {
+              "id": 43837,
+              "order": 12,
+              "distance": 351,
+              "stop": {
+                "id": 10705,
+                "publicId": "10705",
+                "name": "R. Duarte Galvão",
+                "position": {
+                  "latitude": 38.743595,
+                  "longitude": -9.176138
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:45:25.000Z"
+              }
+            },
+            {
+              "id": 43838,
+              "order": 13,
+              "distance": 257,
+              "stop": {
+                "id": 1615,
+                "publicId": "1615",
+                "name": "Estr. Benfica (Furnas)",
+                "position": {
+                  "latitude": 38.742416,
+                  "longitude": -9.172404
+                },
+                "visible": true,
+                "updateDate": "2019-10-01T16:48:11.000Z"
+              }
+            },
+            {
+              "id": 43839,
+              "order": 14,
+              "distance": 484,
+              "stop": {
+                "id": 1606,
+                "publicId": "1606",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.741872,
+                  "longitude": -9.169704
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:57:25.000Z"
+              }
+            },
+            {
+              "id": 43840,
+              "order": 15,
+              "distance": 303,
+              "stop": {
+                "id": 2712,
+                "publicId": "2712",
+                "name": "Estação Sete Rios",
+                "position": {
+                  "latitude": 38.738832,
+                  "longitude": -9.16853
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:51:15.000Z"
+              }
+            },
+            {
+              "id": 43841,
+              "order": 16,
+              "distance": 301,
+              "stop": {
+                "id": 2718,
+                "publicId": "2718",
+                "name": "Rua De Campolide - José Malhoa",
+                "position": {
+                  "latitude": 38.736776,
+                  "longitude": -9.167456
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T11:55:43.000Z"
+              }
+            },
+            {
+              "id": 43842,
+              "order": 17,
+              "distance": 426,
+              "stop": {
+                "id": 2710,
+                "publicId": "2710",
+                "name": "Tarujo",
+                "position": {
+                  "latitude": 38.735177,
+                  "longitude": -9.165441
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:51.000Z"
+              }
+            },
+            {
+              "id": 43843,
+              "order": 18,
+              "distance": 326,
+              "stop": {
+                "id": 6124,
+                "publicId": "6124",
+                "name": "R. Campolide (Escola)",
+                "position": {
+                  "latitude": 38.732213,
+                  "longitude": -9.162743
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:53:57.000Z"
+              }
+            },
+            {
+              "id": 43844,
+              "order": 19,
+              "distance": 254,
+              "stop": {
+                "id": 6122,
+                "publicId": "6122",
+                "name": "R. Campolide",
+                "position": {
+                  "latitude": 38.72932,
+                  "longitude": -9.162442
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:57:06.000Z"
+              }
+            },
+            {
+              "id": 43845,
+              "order": 20,
+              "distance": 106,
+              "stop": {
+                "id": 6102,
+                "publicId": "6102",
+                "name": "Campolide",
+                "position": {
+                  "latitude": 38.72703,
+                  "longitude": -9.16243
+                },
+                "visible": true,
+                "updateDate": "2018-05-04T10:31:42.000Z"
+              }
+            },
+            {
+              "id": 43846,
+              "order": 21,
+              "distance": 376,
+              "stop": {
+                "id": 6120,
+                "publicId": "6120",
+                "name": "Campolide (Av. Cons. Fernando",
+                "position": {
+                  "latitude": 38.726441,
+                  "longitude": -9.161478
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:59:24.000Z"
+              }
+            },
+            {
+              "id": 43847,
+              "order": 22,
+              "distance": 478,
+              "stop": {
+                "id": 8512,
+                "publicId": "8512",
+                "name": "Amoreiras",
+                "position": {
+                  "latitude": 38.723824,
+                  "longitude": -9.160918
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 43848,
+              "order": 23,
+              "distance": 152,
+              "stop": {
+                "id": 8514,
+                "publicId": "8514",
+                "name": "R. D. João V",
+                "position": {
+                  "latitude": 38.720711,
+                  "longitude": -9.160725
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T13:00:38.000Z"
+              }
+            },
+            {
+              "id": 43849,
+              "order": 24,
+              "distance": 247,
+              "stop": {
+                "id": 6815,
+                "publicId": "6815",
+                "name": "R. Custódio Vieira",
+                "position": {
+                  "latitude": 38.720327,
+                  "longitude": -9.159051
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T13:00:57.000Z"
+              }
+            },
+            {
+              "id": 43850,
+              "order": 25,
+              "distance": 219,
+              "stop": {
+                "id": 6813,
+                "publicId": "6813",
+                "name": "Rato - R. D. João V",
+                "position": {
+                  "latitude": 38.720768,
+                  "longitude": -9.15632
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T13:01:40.000Z"
+              }
+            },
+            {
+              "id": 43851,
+              "order": 26,
+              "distance": 444,
+              "stop": {
+                "id": 6807,
+                "publicId": "6807",
+                "name": "Rato",
+                "position": {
+                  "latitude": 38.719915,
+                  "longitude": -9.154695
+                },
+                "visible": true,
+                "updateDate": "2012-01-18T11:08:52.000Z"
+              }
+            },
+            {
+              "id": 43852,
+              "order": 27,
+              "distance": 245,
+              "stop": {
+                "id": 10608,
+                "publicId": "10608",
+                "name": "Rua Da Escola Politécnica",
+                "position": {
+                  "latitude": 38.717537,
+                  "longitude": -9.151047
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:13:53.000Z"
+              }
+            },
+            {
+              "id": 43853,
+              "order": 28,
+              "distance": 331,
+              "stop": {
+                "id": 10606,
+                "publicId": "10606",
+                "name": "Príncipe Real",
+                "position": {
+                  "latitude": 38.716657,
+                  "longitude": -9.148516
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 43854,
+              "order": 29,
+              "distance": 131,
+              "stop": {
+                "id": 10604,
+                "publicId": "10604",
+                "name": "São Pedro De Alcântara",
+                "position": {
+                  "latitude": 38.715457,
+                  "longitude": -9.145094
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:37:56.000Z"
+              }
+            },
+            {
+              "id": 43855,
+              "order": 30,
+              "distance": 240,
+              "stop": {
+                "id": 10602,
+                "publicId": "10602",
+                "name": "Elevador Da Glória",
+                "position": {
+                  "latitude": 38.714502,
+                  "longitude": -9.144355
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:24:09.000Z"
+              }
+            },
+            {
+              "id": 43856,
+              "order": 31,
+              "distance": 294,
+              "stop": {
+                "id": 10504,
+                "publicId": "10504",
+                "name": "Largo Trindade Coelho",
+                "position": {
+                  "latitude": 38.71255,
+                  "longitude": -9.143213
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:05:03.000Z"
+              }
+            },
+            {
+              "id": 43857,
+              "order": 32,
+              "distance": 210,
+              "stop": {
+                "id": 10502,
+                "publicId": "10502",
+                "name": "Praça Luís De Camões",
+                "position": {
+                  "latitude": 38.709942,
+                  "longitude": -9.143156
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 43858,
+              "order": 33,
+              "distance": 406,
+              "stop": {
+                "id": 3826,
+                "publicId": "3826",
+                "name": "Rua Do Alecrim",
+                "position": {
+                  "latitude": 38.708063,
+                  "longitude": -9.143406
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:19:02.000Z"
+              }
+            },
+            {
+              "id": 43859,
+              "order": 34,
+              "distance": 0,
+              "stop": {
+                "id": 3807,
+                "publicId": "3807",
+                "name": "Cais Sodré",
+                "position": {
+                  "latitude": 38.705582,
+                  "longitude": -9.143242
+                },
+                "visible": true,
+                "updateDate": "2018-12-13T15:29:03.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18663,
+      "variant": 1,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 19145,
+          "type": "ASC",
+          "direction": "ASC",
+          "shape": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -9.143389,
+                  38.7131508
+                ],
+                [
+                  -9.143478,
+                  38.713258
+                ],
+                [
+                  -9.1435174,
+                  38.7132989
+                ],
+                [
+                  -9.1435816,
+                  38.713382
+                ],
+                [
+                  -9.1436822,
+                  38.7135425
+                ],
+                [
+                  -9.1438484,
+                  38.7137945
+                ],
+                [
+                  -9.1440079,
+                  38.7140662
+                ],
+                [
+                  -9.1440346,
+                  38.7141112
+                ],
+                [
+                  -9.1441197,
+                  38.7142571
+                ],
+                [
+                  -9.1441736,
+                  38.7143469
+                ],
+                [
+                  -9.1442448,
+                  38.7144575
+                ],
+                [
+                  -9.14452369331342,
+                  38.7148929837617
+                ],
+                [
+                  -9.1446881,
+                  38.7151497
+                ],
+                [
+                  -9.1447598,
+                  38.715289
+                ],
+                [
+                  -9.1447856,
+                  38.7153281
+                ],
+                [
+                  -9.1448224,
+                  38.7153694
+                ],
+                [
+                  -9.144866,
+                  38.7153952
+                ],
+                [
+                  -9.1449532,
+                  38.7154063
+                ],
+                [
+                  -9.1450281,
+                  38.715413
+                ],
+                [
+                  -9.1451493,
+                  38.7154346
+                ],
+                [
+                  -9.1454655,
+                  38.7155249
+                ],
+                [
+                  -9.1456726,
+                  38.7155984
+                ],
+                [
+                  -9.1460651,
+                  38.7156894
+                ],
+                [
+                  -9.1462039,
+                  38.7157244
+                ],
+                [
+                  -9.1463454,
+                  38.7157641
+                ],
+                [
+                  -9.1466707,
+                  38.7158464
+                ],
+                [
+                  -9.1469468,
+                  38.7159157
+                ],
+                [
+                  -9.1473033,
+                  38.7160194
+                ],
+                [
+                  -9.147452,
+                  38.7160782
+                ],
+                [
+                  -9.1475716,
+                  38.7161604
+                ],
+                [
+                  -9.1476763,
+                  38.7162539
+                ],
+                [
+                  -9.14781595778592,
+                  38.7163802146854
+                ],
+                [
+                  -9.1478333,
+                  38.7163959
+                ],
+                [
+                  -9.1479081,
+                  38.7164408
+                ],
+                [
+                  -9.1479679,
+                  38.7164744
+                ],
+                [
+                  -9.1479997,
+                  38.7164908
+                ],
+                [
+                  -9.148353,
+                  38.7166726
+                ],
+                [
+                  -9.1487435,
+                  38.7168604
+                ],
+                [
+                  -9.1490776,
+                  38.7170274
+                ],
+                [
+                  -9.1491759,
+                  38.7170717
+                ],
+                [
+                  -9.149343,
+                  38.7171454
+                ],
+                [
+                  -9.1494364,
+                  38.7171748
+                ],
+                [
+                  -9.1496477,
+                  38.7172338
+                ],
+                [
+                  -9.1499425,
+                  38.7173124
+                ],
+                [
+                  -9.1500408,
+                  38.717337
+                ],
+                [
+                  -9.150327,
+                  38.7174165
+                ],
+                [
+                  -9.1505863,
+                  38.7174844
+                ],
+                [
+                  -9.1508664,
+                  38.7175631
+                ],
+                [
+                  -9.1511661,
+                  38.7176368
+                ],
+                [
+                  -9.15120086108977,
+                  38.7176466389633
+                ],
+                [
+                  -9.1513802,
+                  38.7176974
+                ],
+                [
+                  -9.1514413,
+                  38.7177154
+                ],
+                [
+                  -9.151628,
+                  38.7178186
+                ],
+                [
+                  -9.1516662,
+                  38.7178447
+                ],
+                [
+                  -9.1520457,
+                  38.7181036
+                ],
+                [
+                  -9.1524536,
+                  38.7183493
+                ],
+                [
+                  -9.1527086,
+                  38.7184738
+                ],
+                [
+                  -9.1527617,
+                  38.7184992
+                ],
+                [
+                  -9.1531071,
+                  38.7187129
+                ],
+                [
+                  -9.1532186,
+                  38.7187847
+                ],
+                [
+                  -9.1532779,
+                  38.7188362
+                ],
+                [
+                  -9.1533971,
+                  38.7189672
+                ],
+                [
+                  -9.1535401,
+                  38.719126
+                ],
+                [
+                  -9.153858,
+                  38.7194741
+                ],
+                [
+                  -9.1539862,
+                  38.719628
+                ],
+                [
+                  -9.1541438,
+                  38.7198223
+                ],
+                [
+                  -9.1541826,
+                  38.7198858
+                ],
+                [
+                  -9.1542341,
+                  38.7200204
+                ],
+                [
+                  -9.1542915,
+                  38.7201366
+                ],
+                [
+                  -9.1543333,
+                  38.7201785
+                ],
+                [
+                  -9.1543772,
+                  38.7202216
+                ],
+                [
+                  -9.1544957,
+                  38.7201837
+                ],
+                [
+                  -9.1545676,
+                  38.7201915
+                ],
+                [
+                  -9.1547733,
+                  38.7201531
+                ],
+                [
+                  -9.15485331353681,
+                  38.720136968563
+                ],
+                [
+                  -9.1549722,
+                  38.720113
+                ],
+                [
+                  -9.155057,
+                  38.7201307
+                ],
+                [
+                  -9.155129,
+                  38.7201425
+                ],
+                [
+                  -9.1551893,
+                  38.7201534
+                ],
+                [
+                  -9.1552351,
+                  38.7201621
+                ],
+                [
+                  -9.1552875,
+                  38.7201831
+                ],
+                [
+                  -9.1553294,
+                  38.7202132
+                ],
+                [
+                  -9.1553608,
+                  38.7202538
+                ],
+                [
+                  -9.1553836,
+                  38.7202994
+                ],
+                [
+                  -9.1554098,
+                  38.7203529
+                ],
+                [
+                  -9.1554439,
+                  38.7203949
+                ],
+                [
+                  -9.1554916,
+                  38.7204362
+                ],
+                [
+                  -9.1555771,
+                  38.7205473
+                ],
+                [
+                  -9.1556424,
+                  38.720571
+                ],
+                [
+                  -9.1556545,
+                  38.7205871
+                ],
+                [
+                  -9.1556743,
+                  38.7206188
+                ],
+                [
+                  -9.1557852,
+                  38.7207772
+                ],
+                [
+                  -9.1558802,
+                  38.7208167
+                ],
+                [
+                  -9.1560069,
+                  38.7208445
+                ],
+                [
+                  -9.1560876,
+                  38.7208338
+                ],
+                [
+                  -9.1561974,
+                  38.7208338
+                ],
+                [
+                  -9.1562776,
+                  38.7208338
+                ],
+                [
+                  -9.1563251,
+                  38.7208308
+                ],
+                [
+                  -9.1563844,
+                  38.7208189
+                ],
+                [
+                  -9.1564527,
+                  38.7207982
+                ],
+                [
+                  -9.156521,
+                  38.7207685
+                ],
+                [
+                  -9.1566575,
+                  38.7207032
+                ],
+                [
+                  -9.1567732,
+                  38.7206468
+                ],
+                [
+                  -9.1568682,
+                  38.7205993
+                ],
+                [
+                  -9.1569454,
+                  38.7205637
+                ],
+                [
+                  -9.1571205,
+                  38.7204806
+                ],
+                [
+                  -9.1572273,
+                  38.7204449
+                ],
+                [
+                  -9.1573431,
+                  38.7204123
+                ],
+                [
+                  -9.1575181,
+                  38.7203737
+                ],
+                [
+                  -9.1576607,
+                  38.7203501
+                ],
+                [
+                  -9.1579635,
+                  38.7203145
+                ],
+                [
+                  -9.1583078,
+                  38.7202937
+                ],
+                [
+                  -9.1585327,
+                  38.7202965
+                ],
+                [
+                  -9.1586759,
+                  38.7203072
+                ],
+                [
+                  -9.1588014,
+                  38.7203251
+                ],
+                [
+                  -9.1589052,
+                  38.720343
+                ],
+                [
+                  -9.159045,
+                  38.7203717
+                ],
+                [
+                  -9.15918967710401,
+                  38.7204140637417
+                ],
+                [
+                  -9.1593387,
+                  38.7204577
+                ],
+                [
+                  -9.1594738,
+                  38.720489
+                ],
+                [
+                  -9.1599261,
+                  38.7205938
+                ],
+                [
+                  -9.16065646205226,
+                  38.7207586186104
+                ],
+                [
+                  -9.1607357,
+                  38.7207765
+                ],
+                [
+                  -9.1608683,
+                  38.7208087
+                ],
+                [
+                  -9.1610332,
+                  38.720841
+                ],
+                [
+                  -9.160872,
+                  38.7212243
+                ],
+                [
+                  -9.1608394,
+                  38.7213101
+                ],
+                [
+                  -9.1607896,
+                  38.7214177
+                ],
+                [
+                  -9.1606697,
+                  38.721694
+                ],
+                [
+                  -9.1605401,
+                  38.7220523
+                ],
+                [
+                  -9.1604832,
+                  38.7222113
+                ],
+                [
+                  -9.1604298,
+                  38.7223874
+                ],
+                [
+                  -9.1603921,
+                  38.7225117
+                ],
+                [
+                  -9.1603022,
+                  38.7228353
+                ],
+                [
+                  -9.1602871,
+                  38.7228726
+                ],
+                [
+                  -9.1604519,
+                  38.7229322
+                ],
+                [
+                  -9.1609752,
+                  38.7230576
+                ],
+                [
+                  -9.1611343,
+                  38.7231005
+                ],
+                [
+                  -9.1611098,
+                  38.7232259
+                ],
+                [
+                  -9.1610792,
+                  38.7233055
+                ],
+                [
+                  -9.1610364,
+                  38.7233912
+                ],
+                [
+                  -9.1610058,
+                  38.7234432
+                ],
+                [
+                  -9.160969,
+                  38.7235013
+                ],
+                [
+                  -9.1608742,
+                  38.7236207
+                ],
+                [
+                  -9.1607793,
+                  38.7237247
+                ],
+                [
+                  -9.160709,
+                  38.7238012
+                ],
+                [
+                  -9.16062249448978,
+                  38.723892620596
+                ],
+                [
+                  -9.1605946,
+                  38.7239221
+                ],
+                [
+                  -9.1606035,
+                  38.7239779
+                ],
+                [
+                  -9.1605251,
+                  38.7240591
+                ],
+                [
+                  -9.1604391,
+                  38.724142
+                ],
+                [
+                  -9.1603593,
+                  38.7242127
+                ],
+                [
+                  -9.1602891,
+                  38.7242835
+                ],
+                [
+                  -9.1601886,
+                  38.7243705
+                ],
+                [
+                  -9.1601099,
+                  38.724445
+                ],
+                [
+                  -9.16003,
+                  38.724481
+                ],
+                [
+                  -9.1599987,
+                  38.724528
+                ],
+                [
+                  -9.159944,
+                  38.7246213
+                ],
+                [
+                  -9.1599225,
+                  38.7247039
+                ],
+                [
+                  -9.1599124,
+                  38.7247415
+                ],
+                [
+                  -9.1599124,
+                  38.7247847
+                ],
+                [
+                  -9.1599091,
+                  38.7248446
+                ],
+                [
+                  -9.1599391,
+                  38.7250431
+                ],
+                [
+                  -9.1599946,
+                  38.7251774
+                ],
+                [
+                  -9.16000664159773,
+                  38.7251989390612
+                ],
+                [
+                  -9.1601205,
+                  38.7254026
+                ],
+                [
+                  -9.1602794,
+                  38.7256211
+                ],
+                [
+                  -9.1604251,
+                  38.7257801
+                ],
+                [
+                  -9.1605678,
+                  38.7259088
+                ],
+                [
+                  -9.1606371,
+                  38.7259683
+                ],
+                [
+                  -9.1606849,
+                  38.7260148
+                ],
+                [
+                  -9.1608936,
+                  38.7261933
+                ],
+                [
+                  -9.1609904,
+                  38.7262625
+                ],
+                [
+                  -9.1610525,
+                  38.7263053
+                ],
+                [
+                  -9.1611798,
+                  38.7263929
+                ],
+                [
+                  -9.161242,
+                  38.7264348
+                ],
+                [
+                  -9.1612971,
+                  38.7264712
+                ],
+                [
+                  -9.1614921,
+                  38.7266126
+                ],
+                [
+                  -9.161531,
+                  38.7266428
+                ],
+                [
+                  -9.1615714,
+                  38.7266784
+                ],
+                [
+                  -9.1616096,
+                  38.7267137
+                ],
+                [
+                  -9.1617684,
+                  38.7268613
+                ],
+                [
+                  -9.1618038,
+                  38.72684
+                ],
+                [
+                  -9.1618379,
+                  38.7268219
+                ],
+                [
+                  -9.1619123,
+                  38.7267992
+                ],
+                [
+                  -9.1619789,
+                  38.7267885
+                ],
+                [
+                  -9.1620353,
+                  38.7268
+                ],
+                [
+                  -9.1620783,
+                  38.7268102
+                ],
+                [
+                  -9.1621436,
+                  38.7268238
+                ],
+                [
+                  -9.162178,
+                  38.7268324
+                ],
+                [
+                  -9.1622123,
+                  38.7268424
+                ],
+                [
+                  -9.162271,
+                  38.7268624
+                ],
+                [
+                  -9.162324,
+                  38.7268939
+                ],
+                [
+                  -9.162334,
+                  38.7270761
+                ],
+                [
+                  -9.1623348,
+                  38.7271513
+                ],
+                [
+                  -9.1623352,
+                  38.727196
+                ],
+                [
+                  -9.1623352,
+                  38.7273742
+                ],
+                [
+                  -9.1623451,
+                  38.7275772
+                ],
+                [
+                  -9.1623451,
+                  38.7276713
+                ],
+                [
+                  -9.1623451,
+                  38.7277357
+                ],
+                [
+                  -9.1623535,
+                  38.7278622
+                ],
+                [
+                  -9.1623733,
+                  38.7281094
+                ],
+                [
+                  -9.16239390134237,
+                  38.7282943108321
+                ],
+                [
+                  -9.1624144,
+                  38.7284783
+                ],
+                [
+                  -9.1624277,
+                  38.7286929
+                ],
+                [
+                  -9.1624326,
+                  38.7288116
+                ],
+                [
+                  -9.1624277,
+                  38.728955
+                ],
+                [
+                  -9.1624094,
+                  38.7291112
+                ],
+                [
+                  -9.1623959,
+                  38.7293052
+                ],
+                [
+                  -9.1623717,
+                  38.7295154
+                ],
+                [
+                  -9.1622937,
+                  38.7302704
+                ],
+                [
+                  -9.16229163124524,
+                  38.7303323094016
+                ],
+                [
+                  -9.162291,
+                  38.7303512
+                ],
+                [
+                  -9.1622937,
+                  38.7304105
+                ],
+                [
+                  -9.1623045,
+                  38.7304698
+                ],
+                [
+                  -9.1623207,
+                  38.7305237
+                ],
+                [
+                  -9.1623467,
+                  38.7305747
+                ],
+                [
+                  -9.1624661,
+                  38.7307715
+                ],
+                [
+                  -9.1625119,
+                  38.730855
+                ],
+                [
+                  -9.1625496,
+                  38.7309386
+                ],
+                [
+                  -9.1625712,
+                  38.7310006
+                ],
+                [
+                  -9.162582,
+                  38.7310733
+                ],
+                [
+                  -9.1625877,
+                  38.7311931
+                ],
+                [
+                  -9.1625716,
+                  38.7315107
+                ],
+                [
+                  -9.1625654,
+                  38.7316633
+                ],
+                [
+                  -9.1625572,
+                  38.731723
+                ],
+                [
+                  -9.1625423,
+                  38.731769
+                ],
+                [
+                  -9.1625034,
+                  38.7318154
+                ],
+                [
+                  -9.1624695,
+                  38.7318552
+                ],
+                [
+                  -9.1624367,
+                  38.7318809
+                ],
+                [
+                  -9.1623554,
+                  38.7319382
+                ],
+                [
+                  -9.1622422,
+                  38.7319974
+                ],
+                [
+                  -9.1623069,
+                  38.7320629
+                ],
+                [
+                  -9.1623689,
+                  38.7321318
+                ],
+                [
+                  -9.1624454,
+                  38.7322129
+                ],
+                [
+                  -9.16247029086755,
+                  38.7322455239526
+                ],
+                [
+                  -9.1625175,
+                  38.7323074
+                ],
+                [
+                  -9.162585,
+                  38.732402
+                ],
+                [
+                  -9.1626404,
+                  38.7325381
+                ],
+                [
+                  -9.1627246,
+                  38.7328073
+                ],
+                [
+                  -9.1627516,
+                  38.7328921
+                ],
+                [
+                  -9.1628141,
+                  38.7330617
+                ],
+                [
+                  -9.162939,
+                  38.733249
+                ],
+                [
+                  -9.1629926,
+                  38.7333085
+                ],
+                [
+                  -9.1630334,
+                  38.7333502
+                ],
+                [
+                  -9.1630671,
+                  38.7333797
+                ],
+                [
+                  -9.1630876,
+                  38.7333987
+                ],
+                [
+                  -9.1631503,
+                  38.733457
+                ],
+                [
+                  -9.1631675,
+                  38.7334729
+                ],
+                [
+                  -9.1634187,
+                  38.7336156
+                ],
+                [
+                  -9.163451,
+                  38.7336355
+                ],
+                [
+                  -9.1635756,
+                  38.7337126
+                ],
+                [
+                  -9.1637469,
+                  38.733821
+                ],
+                [
+                  -9.1638011,
+                  38.7338553
+                ],
+                [
+                  -9.1638795,
+                  38.7339038
+                ],
+                [
+                  -9.1639497,
+                  38.7339475
+                ],
+                [
+                  -9.1640037,
+                  38.7339808
+                ],
+                [
+                  -9.1642455,
+                  38.7341449
+                ],
+                [
+                  -9.1642864,
+                  38.7341684
+                ],
+                [
+                  -9.1643311,
+                  38.7341955
+                ],
+                [
+                  -9.1643436,
+                  38.7342015
+                ],
+                [
+                  -9.1644416,
+                  38.7342122
+                ],
+                [
+                  -9.1644721,
+                  38.7342321
+                ],
+                [
+                  -9.164527,
+                  38.7342875
+                ],
+                [
+                  -9.1645756,
+                  38.7343422
+                ],
+                [
+                  -9.1646424,
+                  38.7344149
+                ],
+                [
+                  -9.164686,
+                  38.7344613
+                ],
+                [
+                  -9.164961,
+                  38.7347821
+                ],
+                [
+                  -9.1651149,
+                  38.7349454
+                ],
+                [
+                  -9.16522566589532,
+                  38.7350501734885
+                ],
+                [
+                  -9.1652332,
+                  38.7350573
+                ],
+                [
+                  -9.1656029,
+                  38.7353977
+                ],
+                [
+                  -9.1660033,
+                  38.7357752
+                ],
+                [
+                  -9.1660589,
+                  38.735845
+                ],
+                [
+                  -9.1661033,
+                  38.7359306
+                ],
+                [
+                  -9.1662015,
+                  38.7361895
+                ],
+                [
+                  -9.1662389,
+                  38.7363104
+                ],
+                [
+                  -9.1662687,
+                  38.7363915
+                ],
+                [
+                  -9.1663055,
+                  38.7365202
+                ],
+                [
+                  -9.1663203,
+                  38.7366239
+                ],
+                [
+                  -9.1663161,
+                  38.7366853
+                ],
+                [
+                  -9.166333,
+                  38.7367446
+                ],
+                [
+                  -9.1663648,
+                  38.7368208
+                ],
+                [
+                  -9.1663821,
+                  38.736846
+                ],
+                [
+                  -9.166402,
+                  38.7368629
+                ],
+                [
+                  -9.1664474,
+                  38.7368822
+                ],
+                [
+                  -9.1665066,
+                  38.7368928
+                ],
+                [
+                  -9.1665925,
+                  38.7368959
+                ],
+                [
+                  -9.1667068,
+                  38.7368959
+                ],
+                [
+                  -9.1677724,
+                  38.7368622
+                ],
+                [
+                  -9.1678581,
+                  38.7368977
+                ],
+                [
+                  -9.1679165,
+                  38.7369414
+                ],
+                [
+                  -9.1679622,
+                  38.7370153
+                ],
+                [
+                  -9.1680062,
+                  38.7371156
+                ],
+                [
+                  -9.1679951,
+                  38.7371539
+                ],
+                [
+                  -9.1679569,
+                  38.7372597
+                ],
+                [
+                  -9.1678934,
+                  38.737392
+                ],
+                [
+                  -9.16770930067653,
+                  38.7377545028629
+                ],
+                [
+                  -9.1677027,
+                  38.7377675
+                ],
+                [
+                  -9.1675706,
+                  38.738011
+                ],
+                [
+                  -9.1674287,
+                  38.7383072
+                ],
+                [
+                  -9.1673894,
+                  38.7383929
+                ],
+                [
+                  -9.1673501,
+                  38.7384679
+                ],
+                [
+                  -9.1672858,
+                  38.7386001
+                ],
+                [
+                  -9.1671962,
+                  38.7388587
+                ],
+                [
+                  -9.167093,
+                  38.7391155
+                ],
+                [
+                  -9.1670749,
+                  38.7391831
+                ],
+                [
+                  -9.1670627,
+                  38.7392274
+                ],
+                [
+                  -9.166985,
+                  38.7395206
+                ],
+                [
+                  -9.1669694,
+                  38.7395794
+                ],
+                [
+                  -9.1669336,
+                  38.7396946
+                ],
+                [
+                  -9.1670331,
+                  38.7398079
+                ],
+                [
+                  -9.1670921,
+                  38.739926
+                ],
+                [
+                  -9.1671176,
+                  38.7399684
+                ],
+                [
+                  -9.1671509,
+                  38.7400201
+                ],
+                [
+                  -9.1672693,
+                  38.7401784
+                ],
+                [
+                  -9.1673989,
+                  38.7403517
+                ],
+                [
+                  -9.1674198,
+                  38.7403796
+                ],
+                [
+                  -9.1674489,
+                  38.7404251
+                ],
+                [
+                  -9.16751213984981,
+                  38.7405274112486
+                ],
+                [
+                  -9.1675622,
+                  38.7406084
+                ],
+                [
+                  -9.1677662,
+                  38.7408219
+                ],
+                [
+                  -9.1678292,
+                  38.7408685
+                ],
+                [
+                  -9.1680145,
+                  38.7410379
+                ],
+                [
+                  -9.1681117,
+                  38.741092
+                ],
+                [
+                  -9.1682064,
+                  38.7412125
+                ],
+                [
+                  -9.1684231,
+                  38.7414527
+                ],
+                [
+                  -9.1684654,
+                  38.7415232
+                ],
+                [
+                  -9.1685687,
+                  38.7416453
+                ],
+                [
+                  -9.1686164,
+                  38.7416914
+                ],
+                [
+                  -9.1686829,
+                  38.7417675
+                ],
+                [
+                  -9.1688087,
+                  38.7418004
+                ],
+                [
+                  -9.1689146,
+                  38.7419275
+                ],
+                [
+                  -9.1691727,
+                  38.7422361
+                ],
+                [
+                  -9.1692678,
+                  38.7421719
+                ],
+                [
+                  -9.16906290958392,
+                  38.7419559153886
+                ]
+              ],
+              [
+                [
+                  -9.1432145622443,
+                  38.7055788315184
+                ],
+                [
+                  -9.1432033,
+                  38.7057338
+                ],
+                [
+                  -9.1431786,
+                  38.7059168
+                ],
+                [
+                  -9.143176,
+                  38.7060859
+                ],
+                [
+                  -9.1431959,
+                  38.7062716
+                ],
+                [
+                  -9.143253,
+                  38.7063467
+                ],
+                [
+                  -9.1432481,
+                  38.7064706
+                ],
+                [
+                  -9.1432514,
+                  38.7065071
+                ],
+                [
+                  -9.1432635,
+                  38.7065509
+                ],
+                [
+                  -9.1432708,
+                  38.7065671
+                ],
+                [
+                  -9.1432903,
+                  38.7066199
+                ],
+                [
+                  -9.1433098,
+                  38.706654
+                ],
+                [
+                  -9.1433564,
+                  38.7066972
+                ],
+                [
+                  -9.1433861,
+                  38.7067173
+                ],
+                [
+                  -9.1434208,
+                  38.7067298
+                ],
+                [
+                  -9.1434536,
+                  38.7067377
+                ],
+                [
+                  -9.1435157,
+                  38.7067404
+                ],
+                [
+                  -9.1434697,
+                  38.7071169
+                ],
+                [
+                  -9.1434279,
+                  38.70747
+                ],
+                [
+                  -9.14340613992566,
+                  38.7075959082922
+                ],
+                [
+                  -9.1433844,
+                  38.7077217
+                ],
+                [
+                  -9.143325,
+                  38.7082008
+                ],
+                [
+                  -9.1433093,
+                  38.7083724
+                ],
+                [
+                  -9.1432927,
+                  38.7084233
+                ],
+                [
+                  -9.1432689,
+                  38.7085708
+                ],
+                [
+                  -9.143165,
+                  38.709462
+                ],
+                [
+                  -9.1431224,
+                  38.7098508
+                ],
+                [
+                  -9.1430746,
+                  38.7101659
+                ],
+                [
+                  -9.1430414,
+                  38.7103842
+                ],
+                [
+                  -9.1430265,
+                  38.710455
+                ],
+                [
+                  -9.1429911,
+                  38.7105848
+                ],
+                [
+                  -9.1429654,
+                  38.7108065
+                ],
+                [
+                  -9.14295699957304,
+                  38.7109618737507
+                ],
+                [
+                  -9.1429531,
+                  38.711034
+                ],
+                [
+                  -9.1429506,
+                  38.7110785
+                ],
+                [
+                  -9.1429481,
+                  38.7111305
+                ],
+                [
+                  -9.142946,
+                  38.7111757
+                ],
+                [
+                  -9.1429434,
+                  38.7112047
+                ],
+                [
+                  -9.1429382,
+                  38.7112665
+                ],
+                [
+                  -9.1429357,
+                  38.7115213
+                ],
+                [
+                  -9.1429431,
+                  38.7117612
+                ],
+                [
+                  -9.1429734,
+                  38.7120353
+                ],
+                [
+                  -9.1430056,
+                  38.7121778
+                ],
+                [
+                  -9.1431023,
+                  38.7124536
+                ],
+                [
+                  -9.1431851,
+                  38.7127609
+                ],
+                [
+                  -9.1432523,
+                  38.7129559
+                ],
+                [
+                  -9.1433166,
+                  38.7130548
+                ],
+                [
+                  -9.143389,
+                  38.7131508
+                ],
+                [
+                  -9.14338900212736,
+                  38.7131507994949
+                ]
+              ]
+            ]
+          },
+          "connections": [
+            {
+              "id": 25560,
+              "order": 1,
+              "distance": 237,
+              "stop": {
+                "id": 3807,
+                "publicId": "3807",
+                "name": "Cais Sodré",
+                "position": {
+                  "latitude": 38.705582,
+                  "longitude": -9.143242
+                },
+                "visible": true,
+                "updateDate": "2018-12-13T15:29:03.000Z"
+              }
+            },
+            {
+              "id": 25561,
+              "order": 2,
+              "distance": 375,
+              "stop": {
+                "id": 3825,
+                "publicId": "3825",
+                "name": "Rua Do Alecrim",
+                "position": {
+                  "latitude": 38.707592,
+                  "longitude": -9.143346
+                },
+                "visible": true,
+                "updateDate": "2015-08-11T15:45:07.000Z"
+              }
+            },
+            {
+              "id": 25562,
+              "order": 3,
+              "distance": 249,
+              "stop": {
+                "id": 10501,
+                "publicId": "10501",
+                "name": "Praça Luís De Camões",
+                "position": {
+                  "latitude": 38.710957,
+                  "longitude": -9.142904
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 25563,
+              "order": 4,
+              "distance": 217,
+              "stop": {
+                "id": 10503,
+                "publicId": "10503",
+                "name": "Largo Trindade Coelho",
+                "position": {
+                  "latitude": 38.713181,
+                  "longitude": -9.143334
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:04:59.000Z"
+              }
+            },
+            {
+              "id": 25564,
+              "order": 5,
+              "distance": 349,
+              "stop": {
+                "id": 10601,
+                "publicId": "10601",
+                "name": "Elevador Da Glória",
+                "position": {
+                  "latitude": 38.714911,
+                  "longitude": -9.144479
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:24:13.000Z"
+              }
+            },
+            {
+              "id": 25565,
+              "order": 6,
+              "distance": 329,
+              "stop": {
+                "id": 10605,
+                "publicId": "10605",
+                "name": "Príncipe Real",
+                "position": {
+                  "latitude": 38.71657,
+                  "longitude": -9.14811
+                },
+                "visible": true,
+                "updateDate": "2018-04-26T16:19:18.000Z"
+              }
+            },
+            {
+              "id": 25566,
+              "order": 7,
+              "distance": 456,
+              "stop": {
+                "id": 10607,
+                "publicId": "10607",
+                "name": "R. Escola Politécnica",
+                "position": {
+                  "latitude": 38.71807,
+                  "longitude": -9.151939
+                },
+                "visible": true,
+                "updateDate": "2018-05-04T11:25:39.000Z"
+              }
+            },
+            {
+              "id": 25567,
+              "order": 8,
+              "distance": 424,
+              "stop": {
+                "id": 6812,
+                "publicId": "6812",
+                "name": "Rato",
+                "position": {
+                  "latitude": 38.720248,
+                  "longitude": -9.15489
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 25568,
+              "order": 9,
+              "distance": 134,
+              "stop": {
+                "id": 6816,
+                "publicId": "6816",
+                "name": "R. Custódio Vieira",
+                "position": {
+                  "latitude": 38.72047,
+                  "longitude": -9.159156
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T13:01:08.000Z"
+              }
+            },
+            {
+              "id": 25569,
+              "order": 10,
+              "distance": 468,
+              "stop": {
+                "id": 8513,
+                "publicId": "8513",
+                "name": "R. D. João V",
+                "position": {
+                  "latitude": 38.721021,
+                  "longitude": -9.161366
+                },
+                "visible": true,
+                "updateDate": "2019-11-14T18:13:26.000Z"
+              }
+            },
+            {
+              "id": 25570,
+              "order": 11,
+              "distance": 168,
+              "stop": {
+                "id": 8511,
+                "publicId": "8511",
+                "name": "Amoreiras",
+                "position": {
+                  "latitude": 38.723867,
+                  "longitude": -9.16058
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 25571,
+              "order": 12,
+              "distance": 371,
+              "stop": {
+                "id": 8509,
+                "publicId": "8509",
+                "name": "Rua Conselheiro Fernando Sousa",
+                "position": {
+                  "latitude": 38.725223,
+                  "longitude": -9.159972
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:40:50.000Z"
+              }
+            },
+            {
+              "id": 25572,
+              "order": 13,
+              "distance": 347,
+              "stop": {
+                "id": 6119,
+                "publicId": "6119",
+                "name": "Campolide",
+                "position": {
+                  "latitude": 38.727726,
+                  "longitude": -9.162049
+                },
+                "visible": true,
+                "updateDate": "2019-03-06T18:05:16.000Z"
+              }
+            },
+            {
+              "id": 25573,
+              "order": 14,
+              "distance": 221,
+              "stop": {
+                "id": 6121,
+                "publicId": "6121",
+                "name": "R. Campolide",
+                "position": {
+                  "latitude": 38.730336,
+                  "longitude": -9.162242
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:57:21.000Z"
+              }
+            },
+            {
+              "id": 25574,
+              "order": 15,
+              "distance": 402,
+              "stop": {
+                "id": 6123,
+                "publicId": "6123",
+                "name": "R. Campolide (Escola)",
+                "position": {
+                  "latitude": 38.732267,
+                  "longitude": -9.162436
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:54:27.000Z"
+              }
+            },
+            {
+              "id": 25575,
+              "order": 16,
+              "distance": 466,
+              "stop": {
+                "id": 2711,
+                "publicId": "2711",
+                "name": "Tarujo",
+                "position": {
+                  "latitude": 38.735087,
+                  "longitude": -9.165179
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:51.000Z"
+              }
+            },
+            {
+              "id": 25576,
+              "order": 17,
+              "distance": 330,
+              "stop": {
+                "id": 2713,
+                "publicId": "2713",
+                "name": "Av. José Malhoa",
+                "position": {
+                  "latitude": 38.737727,
+                  "longitude": -9.167631
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T07:52:33.000Z"
+              }
+            },
+            {
+              "id": 25577,
+              "order": 18,
+              "distance": 289,
+              "stop": {
+                "id": 1621,
+                "publicId": "1621",
+                "name": "Estação De Sete Rios",
+                "position": {
+                  "latitude": 38.740566,
+                  "longitude": -9.167409
+                },
+                "visible": true,
+                "updateDate": "2012-04-16T17:04:22.000Z"
+              }
+            },
+            {
+              "id": 25578,
+              "order": 19,
+              "distance": 0,
+              "stop": {
+                "id": 1614,
+                "publicId": "1614",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.74192,
+                  "longitude": -9.169083
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:57:47.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 19146,
+          "type": "DESC",
+          "direction": "DESC",
+          "shape": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -9.16906389481274,
+                  38.7419569539646
+                ],
+                [
+                  -9.1692678,
+                  38.7421719
+                ],
+                [
+                  -9.16975144948901,
+                  38.7419296266011
+                ]
+              ],
+              [
+                [
+                  -9.16144424531,
+                  38.7264714694661
+                ],
+                [
+                  -9.1615949,
+                  38.7265714
+                ],
+                [
+                  -9.1617072,
+                  38.7266449
+                ],
+                [
+                  -9.1618122,
+                  38.7267135
+                ],
+                [
+                  -9.1618514,
+                  38.7267393
+                ],
+                [
+                  -9.1618618,
+                  38.7267495
+                ],
+                [
+                  -9.1619123,
+                  38.7267992
+                ],
+                [
+                  -9.1619789,
+                  38.7267885
+                ],
+                [
+                  -9.1620353,
+                  38.7268
+                ],
+                [
+                  -9.1620783,
+                  38.7268102
+                ],
+                [
+                  -9.1621436,
+                  38.7268238
+                ],
+                [
+                  -9.162178,
+                  38.7268324
+                ],
+                [
+                  -9.1622123,
+                  38.7268424
+                ],
+                [
+                  -9.162271,
+                  38.7268624
+                ],
+                [
+                  -9.162324,
+                  38.7268939
+                ],
+                [
+                  -9.16233165021266,
+                  38.7270332868747
+                ],
+                [
+                  -9.162334,
+                  38.7270761
+                ],
+                [
+                  -9.1623348,
+                  38.7271513
+                ],
+                [
+                  -9.1623352,
+                  38.727196
+                ],
+                [
+                  -9.1623352,
+                  38.7273742
+                ],
+                [
+                  -9.1623451,
+                  38.7275772
+                ],
+                [
+                  -9.1623451,
+                  38.7276713
+                ],
+                [
+                  -9.1623451,
+                  38.7277357
+                ],
+                [
+                  -9.1623535,
+                  38.7278622
+                ],
+                [
+                  -9.1623733,
+                  38.7281094
+                ],
+                [
+                  -9.1624144,
+                  38.7284783
+                ],
+                [
+                  -9.1624277,
+                  38.7286929
+                ],
+                [
+                  -9.1624326,
+                  38.7288116
+                ],
+                [
+                  -9.1624277,
+                  38.728955
+                ],
+                [
+                  -9.1624094,
+                  38.7291112
+                ],
+                [
+                  -9.1623959,
+                  38.7293052
+                ],
+                [
+                  -9.16239460379866,
+                  38.7293164587406
+                ],
+                [
+                  -9.1623717,
+                  38.7295154
+                ],
+                [
+                  -9.1622937,
+                  38.7302704
+                ],
+                [
+                  -9.162291,
+                  38.7303512
+                ],
+                [
+                  -9.1622937,
+                  38.7304105
+                ],
+                [
+                  -9.1623045,
+                  38.7304698
+                ],
+                [
+                  -9.1623207,
+                  38.7305237
+                ],
+                [
+                  -9.1623467,
+                  38.7305747
+                ],
+                [
+                  -9.1624661,
+                  38.7307715
+                ],
+                [
+                  -9.1625119,
+                  38.730855
+                ],
+                [
+                  -9.1625496,
+                  38.7309386
+                ],
+                [
+                  -9.1625712,
+                  38.7310006
+                ],
+                [
+                  -9.162582,
+                  38.7310733
+                ],
+                [
+                  -9.1625877,
+                  38.7311931
+                ],
+                [
+                  -9.1625716,
+                  38.7315107
+                ],
+                [
+                  -9.1625654,
+                  38.7316633
+                ],
+                [
+                  -9.1625572,
+                  38.731723
+                ],
+                [
+                  -9.1625759,
+                  38.7317955
+                ],
+                [
+                  -9.1626214,
+                  38.7319862
+                ],
+                [
+                  -9.1626392,
+                  38.732051
+                ],
+                [
+                  -9.1626482,
+                  38.7321096
+                ],
+                [
+                  -9.16264381842619,
+                  38.7322103761976
+                ],
+                [
+                  -9.1626404,
+                  38.732289
+                ],
+                [
+                  -9.1627011,
+                  38.7324221
+                ],
+                [
+                  -9.1627546,
+                  38.732556
+                ],
+                [
+                  -9.1628468,
+                  38.7328445
+                ],
+                [
+                  -9.162949,
+                  38.7330824
+                ],
+                [
+                  -9.1630163,
+                  38.7331901
+                ],
+                [
+                  -9.163061,
+                  38.7332371
+                ],
+                [
+                  -9.1631026,
+                  38.7332847
+                ],
+                [
+                  -9.1631618,
+                  38.7333445
+                ],
+                [
+                  -9.1632075,
+                  38.7333815
+                ],
+                [
+                  -9.1632504,
+                  38.7334185
+                ],
+                [
+                  -9.1632903,
+                  38.7334529
+                ],
+                [
+                  -9.1633898,
+                  38.7335165
+                ],
+                [
+                  -9.163487,
+                  38.7335786
+                ],
+                [
+                  -9.1634957,
+                  38.7335842
+                ],
+                [
+                  -9.1636241,
+                  38.7336555
+                ],
+                [
+                  -9.1637841,
+                  38.7337443
+                ],
+                [
+                  -9.1638553,
+                  38.7337839
+                ],
+                [
+                  -9.1639214,
+                  38.7338284
+                ],
+                [
+                  -9.1639479,
+                  38.7338459
+                ],
+                [
+                  -9.1639722,
+                  38.7338653
+                ],
+                [
+                  -9.1641778,
+                  38.733978
+                ],
+                [
+                  -9.1643417,
+                  38.7340965
+                ],
+                [
+                  -9.1643633,
+                  38.7341064
+                ],
+                [
+                  -9.1643904,
+                  38.7341275
+                ],
+                [
+                  -9.1644007,
+                  38.7341344
+                ],
+                [
+                  -9.1644416,
+                  38.7342122
+                ],
+                [
+                  -9.1644721,
+                  38.7342321
+                ],
+                [
+                  -9.164527,
+                  38.7342875
+                ],
+                [
+                  -9.1645756,
+                  38.7343422
+                ],
+                [
+                  -9.1646424,
+                  38.7344149
+                ],
+                [
+                  -9.164686,
+                  38.7344613
+                ],
+                [
+                  -9.164961,
+                  38.7347821
+                ],
+                [
+                  -9.1651149,
+                  38.7349454
+                ],
+                [
+                  -9.1652332,
+                  38.7350573
+                ],
+                [
+                  -9.16539195327577,
+                  38.7352034715312
+                ],
+                [
+                  -9.1656029,
+                  38.7353977
+                ],
+                [
+                  -9.1660033,
+                  38.7357752
+                ],
+                [
+                  -9.1660589,
+                  38.735845
+                ],
+                [
+                  -9.1661033,
+                  38.7359306
+                ],
+                [
+                  -9.1662015,
+                  38.7361895
+                ],
+                [
+                  -9.1662389,
+                  38.7363104
+                ],
+                [
+                  -9.1662687,
+                  38.7363915
+                ],
+                [
+                  -9.1663055,
+                  38.7365202
+                ],
+                [
+                  -9.1663203,
+                  38.7366239
+                ],
+                [
+                  -9.1663161,
+                  38.7366853
+                ],
+                [
+                  -9.166333,
+                  38.7367446
+                ],
+                [
+                  -9.1663648,
+                  38.7368208
+                ],
+                [
+                  -9.1663821,
+                  38.736846
+                ],
+                [
+                  -9.166402,
+                  38.7368629
+                ],
+                [
+                  -9.1664474,
+                  38.7368822
+                ],
+                [
+                  -9.1665066,
+                  38.7368928
+                ],
+                [
+                  -9.1665925,
+                  38.7368959
+                ],
+                [
+                  -9.1667068,
+                  38.7368959
+                ],
+                [
+                  -9.16745889791221,
+                  38.7368721146212
+                ],
+                [
+                  -9.1677724,
+                  38.7368622
+                ],
+                [
+                  -9.16809,
+                  38.7368445
+                ],
+                [
+                  -9.1681584,
+                  38.7368414
+                ],
+                [
+                  -9.1681371,
+                  38.7369329
+                ],
+                [
+                  -9.1681759,
+                  38.737051
+                ],
+                [
+                  -9.1681594,
+                  38.7370963
+                ],
+                [
+                  -9.1681346,
+                  38.7371529
+                ],
+                [
+                  -9.1681137,
+                  38.7371962
+                ],
+                [
+                  -9.1680871,
+                  38.7372508
+                ],
+                [
+                  -9.1681276,
+                  38.7372859
+                ],
+                [
+                  -9.1681948,
+                  38.7373545
+                ],
+                [
+                  -9.1682671,
+                  38.7374298
+                ],
+                [
+                  -9.1683476,
+                  38.7375295
+                ],
+                [
+                  -9.1684576,
+                  38.7376749
+                ],
+                [
+                  -9.1685262,
+                  38.7377812
+                ],
+                [
+                  -9.168572,
+                  38.7378484
+                ],
+                [
+                  -9.1686081,
+                  38.7379078
+                ],
+                [
+                  -9.1687003,
+                  38.7380937
+                ],
+                [
+                  -9.1687217,
+                  38.7381666
+                ],
+                [
+                  -9.1687266,
+                  38.7382205
+                ],
+                [
+                  -9.1687166,
+                  38.7382669
+                ],
+                [
+                  -9.1686174,
+                  38.7384489
+                ],
+                [
+                  -9.1685585,
+                  38.7385556
+                ],
+                [
+                  -9.1684982,
+                  38.7386736
+                ],
+                [
+                  -9.1684493,
+                  38.7387701
+                ],
+                [
+                  -9.16843228029733,
+                  38.7388073991111
+                ],
+                [
+                  -9.1683903,
+                  38.7388994
+                ],
+                [
+                  -9.1683263,
+                  38.7390223
+                ],
+                [
+                  -9.1682346,
+                  38.7391352
+                ],
+                [
+                  -9.168133,
+                  38.739213
+                ],
+                [
+                  -9.1680275,
+                  38.739282
+                ],
+                [
+                  -9.1678933,
+                  38.739331
+                ],
+                [
+                  -9.1678017,
+                  38.7393661
+                ],
+                [
+                  -9.1677452,
+                  38.7394025
+                ],
+                [
+                  -9.1676912,
+                  38.7394565
+                ],
+                [
+                  -9.1676932,
+                  38.7395699
+                ],
+                [
+                  -9.167703,
+                  38.7396099
+                ],
+                [
+                  -9.1677144,
+                  38.7396475
+                ],
+                [
+                  -9.1677194,
+                  38.7397119
+                ],
+                [
+                  -9.167762,
+                  38.7397874
+                ],
+                [
+                  -9.1677766,
+                  38.7398446
+                ],
+                [
+                  -9.1677864,
+                  38.7399018
+                ],
+                [
+                  -9.1678305,
+                  38.7400648
+                ],
+                [
+                  -9.1678455,
+                  38.7401704
+                ],
+                [
+                  -9.1678486,
+                  38.7402509
+                ],
+                [
+                  -9.1678517,
+                  38.7403295
+                ],
+                [
+                  -9.1678831,
+                  38.740537
+                ],
+                [
+                  -9.167911,
+                  38.7406119
+                ],
+                [
+                  -9.167947,
+                  38.7407002
+                ],
+                [
+                  -9.1680105,
+                  38.7407902
+                ],
+                [
+                  -9.168127,
+                  38.7409265
+                ],
+                [
+                  -9.1682912,
+                  38.741092
+                ],
+                [
+                  -9.1685284,
+                  38.7414142
+                ],
+                [
+                  -9.1685687,
+                  38.7414715
+                ],
+                [
+                  -9.1686688,
+                  38.741592
+                ],
+                [
+                  -9.1687156,
+                  38.7416411
+                ],
+                [
+                  -9.1687684,
+                  38.7417172
+                ],
+                [
+                  -9.1688087,
+                  38.7418004
+                ],
+                [
+                  -9.1689146,
+                  38.7419275
+                ],
+                [
+                  -9.1691727,
+                  38.7422361
+                ],
+                [
+                  -9.1692678,
+                  38.7421719
+                ]
+              ],
+              [
+                [
+                  -9.16144477357241,
+                  38.7264718198671
+                ],
+                [
+                  -9.1610986,
+                  38.7262422
+                ],
+                [
+                  -9.1609607,
+                  38.726147
+                ],
+                [
+                  -9.1608581,
+                  38.7260615
+                ],
+                [
+                  -9.1607734,
+                  38.725988
+                ],
+                [
+                  -9.1606659,
+                  38.7258865
+                ],
+                [
+                  -9.1606321,
+                  38.7258544
+                ],
+                [
+                  -9.1605441,
+                  38.7257454
+                ],
+                [
+                  -9.1604309,
+                  38.7256038
+                ],
+                [
+                  -9.1603318,
+                  38.7254759
+                ],
+                [
+                  -9.1600806,
+                  38.7250707
+                ],
+                [
+                  -9.1600501,
+                  38.7249959
+                ],
+                [
+                  -9.1600482,
+                  38.7249914
+                ],
+                [
+                  -9.1600306,
+                  38.7249121
+                ],
+                [
+                  -9.1600247,
+                  38.7248475
+                ],
+                [
+                  -9.1600306,
+                  38.7247858
+                ],
+                [
+                  -9.1600416,
+                  38.724721
+                ],
+                [
+                  -9.1601103,
+                  38.7245103
+                ],
+                [
+                  -9.1601099,
+                  38.724445
+                ],
+                [
+                  -9.1601886,
+                  38.7243705
+                ],
+                [
+                  -9.1602891,
+                  38.7242835
+                ],
+                [
+                  -9.1603593,
+                  38.7242127
+                ],
+                [
+                  -9.1604391,
+                  38.724142
+                ],
+                [
+                  -9.1605251,
+                  38.7240591
+                ],
+                [
+                  -9.1606035,
+                  38.7239779
+                ],
+                [
+                  -9.1607061,
+                  38.7239669
+                ],
+                [
+                  -9.1608103,
+                  38.7238654
+                ],
+                [
+                  -9.16088183811834,
+                  38.7237760244911
+                ],
+                [
+                  -9.161,
+                  38.7236284
+                ],
+                [
+                  -9.1611,
+                  38.7234839
+                ],
+                [
+                  -9.161167,
+                  38.7233742
+                ],
+                [
+                  -9.1612052,
+                  38.7232862
+                ],
+                [
+                  -9.1611593,
+                  38.7231944
+                ],
+                [
+                  -9.1611343,
+                  38.7231005
+                ],
+                [
+                  -9.1609752,
+                  38.7230576
+                ],
+                [
+                  -9.1604519,
+                  38.7229322
+                ],
+                [
+                  -9.1602871,
+                  38.7228726
+                ],
+                [
+                  -9.1603022,
+                  38.7228353
+                ],
+                [
+                  -9.1603921,
+                  38.7225117
+                ],
+                [
+                  -9.1604298,
+                  38.7223874
+                ],
+                [
+                  -9.1604832,
+                  38.7222113
+                ],
+                [
+                  -9.1605401,
+                  38.7220523
+                ],
+                [
+                  -9.1606697,
+                  38.721694
+                ],
+                [
+                  -9.1607896,
+                  38.7214177
+                ],
+                [
+                  -9.1608394,
+                  38.7213101
+                ],
+                [
+                  -9.160872,
+                  38.7212243
+                ],
+                [
+                  -9.1610332,
+                  38.720841
+                ],
+                [
+                  -9.1608683,
+                  38.7208087
+                ],
+                [
+                  -9.1607357,
+                  38.7207765
+                ],
+                [
+                  -9.16070768994816,
+                  38.7207701790557
+                ],
+                [
+                  -9.1599261,
+                  38.7205938
+                ],
+                [
+                  -9.1594738,
+                  38.720489
+                ],
+                [
+                  -9.1593387,
+                  38.7204577
+                ],
+                [
+                  -9.159045,
+                  38.7203717
+                ],
+                [
+                  -9.15904140953256,
+                  38.7203709629012
+                ],
+                [
+                  -9.1589052,
+                  38.720343
+                ],
+                [
+                  -9.1588014,
+                  38.7203251
+                ],
+                [
+                  -9.1586759,
+                  38.7203072
+                ],
+                [
+                  -9.1585327,
+                  38.7202965
+                ],
+                [
+                  -9.1583078,
+                  38.7202937
+                ],
+                [
+                  -9.1579635,
+                  38.7203145
+                ],
+                [
+                  -9.1576607,
+                  38.7203501
+                ],
+                [
+                  -9.1575181,
+                  38.7203737
+                ],
+                [
+                  -9.1573431,
+                  38.7204123
+                ],
+                [
+                  -9.1572273,
+                  38.7204449
+                ],
+                [
+                  -9.1571205,
+                  38.7204806
+                ],
+                [
+                  -9.1569454,
+                  38.7205637
+                ],
+                [
+                  -9.1568682,
+                  38.7205993
+                ],
+                [
+                  -9.1567732,
+                  38.7206468
+                ],
+                [
+                  -9.1566575,
+                  38.7207032
+                ],
+                [
+                  -9.156521,
+                  38.7207685
+                ],
+                [
+                  -9.1564527,
+                  38.7207982
+                ],
+                [
+                  -9.1563844,
+                  38.7208189
+                ],
+                [
+                  -9.15634902229357,
+                  38.7208259994048
+                ],
+                [
+                  -9.1563251,
+                  38.7208308
+                ],
+                [
+                  -9.1562776,
+                  38.7208338
+                ],
+                [
+                  -9.1561974,
+                  38.7208338
+                ],
+                [
+                  -9.1560876,
+                  38.7208338
+                ],
+                [
+                  -9.1560069,
+                  38.7208445
+                ],
+                [
+                  -9.1558802,
+                  38.7208167
+                ],
+                [
+                  -9.1557852,
+                  38.7207772
+                ],
+                [
+                  -9.1556743,
+                  38.7206188
+                ],
+                [
+                  -9.1556545,
+                  38.7205871
+                ],
+                [
+                  -9.1556424,
+                  38.720571
+                ],
+                [
+                  -9.1556466,
+                  38.7205119
+                ],
+                [
+                  -9.155606,
+                  38.7204041
+                ],
+                [
+                  -9.1555898,
+                  38.7203305
+                ],
+                [
+                  -9.1555843,
+                  38.7202637
+                ],
+                [
+                  -9.1555887,
+                  38.7202074
+                ],
+                [
+                  -9.1555677,
+                  38.7201857
+                ],
+                [
+                  -9.155548,
+                  38.7201569
+                ],
+                [
+                  -9.1555349,
+                  38.7201215
+                ],
+                [
+                  -9.1555222,
+                  38.7199984
+                ],
+                [
+                  -9.1554702,
+                  38.7199405
+                ],
+                [
+                  -9.1554033,
+                  38.7198909
+                ],
+                [
+                  -9.1553704,
+                  38.7198743
+                ],
+                [
+                  -9.1551477,
+                  38.7199224
+                ],
+                [
+                  -9.1550076,
+                  38.719959
+                ],
+                [
+                  -9.15473976209583,
+                  38.7200226257895
+                ],
+                [
+                  -9.1547264,
+                  38.7200258
+                ],
+                [
+                  -9.1545727,
+                  38.7200635
+                ],
+                [
+                  -9.1542341,
+                  38.7200204
+                ],
+                [
+                  -9.1541826,
+                  38.7198858
+                ],
+                [
+                  -9.1541438,
+                  38.7198223
+                ],
+                [
+                  -9.1539862,
+                  38.719628
+                ],
+                [
+                  -9.153858,
+                  38.7194741
+                ],
+                [
+                  -9.1535401,
+                  38.719126
+                ],
+                [
+                  -9.1533971,
+                  38.7189672
+                ],
+                [
+                  -9.1532779,
+                  38.7188362
+                ],
+                [
+                  -9.1532186,
+                  38.7187847
+                ],
+                [
+                  -9.1531071,
+                  38.7187129
+                ],
+                [
+                  -9.1527617,
+                  38.7184992
+                ],
+                [
+                  -9.1527086,
+                  38.7184738
+                ],
+                [
+                  -9.1524536,
+                  38.7183493
+                ],
+                [
+                  -9.1520457,
+                  38.7181036
+                ],
+                [
+                  -9.1516662,
+                  38.7178447
+                ],
+                [
+                  -9.151628,
+                  38.7178186
+                ],
+                [
+                  -9.1514413,
+                  38.7177154
+                ],
+                [
+                  -9.1513802,
+                  38.7176974
+                ],
+                [
+                  -9.1511661,
+                  38.7176368
+                ],
+                [
+                  -9.15102492196072,
+                  38.7176020825442
+                ],
+                [
+                  -9.1508664,
+                  38.7175631
+                ],
+                [
+                  -9.1505863,
+                  38.7174844
+                ],
+                [
+                  -9.150327,
+                  38.7174165
+                ],
+                [
+                  -9.1500408,
+                  38.717337
+                ],
+                [
+                  -9.1499425,
+                  38.7173124
+                ],
+                [
+                  -9.1496477,
+                  38.7172338
+                ],
+                [
+                  -9.1494364,
+                  38.7171748
+                ],
+                [
+                  -9.149343,
+                  38.7171454
+                ],
+                [
+                  -9.1491759,
+                  38.7170717
+                ],
+                [
+                  -9.1490776,
+                  38.7170274
+                ],
+                [
+                  -9.1487435,
+                  38.7168604
+                ],
+                [
+                  -9.14846697469888,
+                  38.7167274129282
+                ],
+                [
+                  -9.148353,
+                  38.7166726
+                ],
+                [
+                  -9.1479997,
+                  38.7164908
+                ],
+                [
+                  -9.1479679,
+                  38.7164744
+                ],
+                [
+                  -9.1479081,
+                  38.7164408
+                ],
+                [
+                  -9.1478333,
+                  38.7163959
+                ],
+                [
+                  -9.1476763,
+                  38.7162539
+                ],
+                [
+                  -9.1475716,
+                  38.7161604
+                ],
+                [
+                  -9.147452,
+                  38.7160782
+                ],
+                [
+                  -9.1473033,
+                  38.7160194
+                ],
+                [
+                  -9.1469468,
+                  38.7159157
+                ],
+                [
+                  -9.1466707,
+                  38.7158464
+                ],
+                [
+                  -9.1463454,
+                  38.7157641
+                ],
+                [
+                  -9.1462039,
+                  38.7157244
+                ],
+                [
+                  -9.1460651,
+                  38.7156894
+                ],
+                [
+                  -9.1456726,
+                  38.7155984
+                ],
+                [
+                  -9.1454655,
+                  38.7155249
+                ],
+                [
+                  -9.1451493,
+                  38.7154346
+                ],
+                [
+                  -9.14510654993903,
+                  38.7154269811773
+                ],
+                [
+                  -9.1450281,
+                  38.715413
+                ],
+                [
+                  -9.1449532,
+                  38.7154063
+                ],
+                [
+                  -9.144866,
+                  38.7153952
+                ],
+                [
+                  -9.1448224,
+                  38.7153694
+                ],
+                [
+                  -9.1447856,
+                  38.7153281
+                ],
+                [
+                  -9.1447598,
+                  38.715289
+                ],
+                [
+                  -9.1446881,
+                  38.7151497
+                ],
+                [
+                  -9.14428962168469,
+                  38.7145274877513
+                ],
+                [
+                  -9.1442448,
+                  38.7144575
+                ],
+                [
+                  -9.1441736,
+                  38.7143469
+                ],
+                [
+                  -9.1441197,
+                  38.7142571
+                ],
+                [
+                  -9.1440346,
+                  38.7141112
+                ],
+                [
+                  -9.1440079,
+                  38.7140662
+                ],
+                [
+                  -9.1438484,
+                  38.7137945
+                ],
+                [
+                  -9.1436822,
+                  38.7135425
+                ],
+                [
+                  -9.1435816,
+                  38.713382
+                ],
+                [
+                  -9.1435174,
+                  38.7132989
+                ],
+                [
+                  -9.143478,
+                  38.713258
+                ],
+                [
+                  -9.143389,
+                  38.7131508
+                ],
+                [
+                  -9.1433166,
+                  38.7130548
+                ],
+                [
+                  -9.1432523,
+                  38.7129559
+                ],
+                [
+                  -9.1431851,
+                  38.7127609
+                ],
+                [
+                  -9.14313165344275,
+                  38.7125625409778
+                ],
+                [
+                  -9.1431023,
+                  38.7124536
+                ],
+                [
+                  -9.1430056,
+                  38.7121778
+                ],
+                [
+                  -9.1429734,
+                  38.7120353
+                ],
+                [
+                  -9.1429431,
+                  38.7117612
+                ],
+                [
+                  -9.1429357,
+                  38.7115213
+                ],
+                [
+                  -9.1429382,
+                  38.7112665
+                ],
+                [
+                  -9.1429434,
+                  38.7112047
+                ],
+                [
+                  -9.142946,
+                  38.7111757
+                ],
+                [
+                  -9.1429481,
+                  38.7111305
+                ],
+                [
+                  -9.1429506,
+                  38.7110785
+                ],
+                [
+                  -9.1429531,
+                  38.711034
+                ],
+                [
+                  -9.1429654,
+                  38.7108065
+                ],
+                [
+                  -9.1429911,
+                  38.7105848
+                ],
+                [
+                  -9.1430265,
+                  38.710455
+                ],
+                [
+                  -9.1430414,
+                  38.7103842
+                ],
+                [
+                  -9.1430746,
+                  38.7101659
+                ],
+                [
+                  -9.14310958043562,
+                  38.7099353072121
+                ],
+                [
+                  -9.1431224,
+                  38.7098508
+                ],
+                [
+                  -9.143165,
+                  38.709462
+                ],
+                [
+                  -9.1432689,
+                  38.7085708
+                ],
+                [
+                  -9.1432927,
+                  38.7084233
+                ],
+                [
+                  -9.1433093,
+                  38.7083724
+                ],
+                [
+                  -9.143325,
+                  38.7082008
+                ],
+                [
+                  -9.14334308319442,
+                  38.7080549471642
+                ],
+                [
+                  -9.1433844,
+                  38.7077217
+                ],
+                [
+                  -9.1434279,
+                  38.70747
+                ],
+                [
+                  -9.1434697,
+                  38.7071169
+                ],
+                [
+                  -9.1435157,
+                  38.7067404
+                ],
+                [
+                  -9.1434536,
+                  38.7067377
+                ],
+                [
+                  -9.1434208,
+                  38.7067298
+                ],
+                [
+                  -9.1433861,
+                  38.7067173
+                ],
+                [
+                  -9.1433564,
+                  38.7066972
+                ],
+                [
+                  -9.1433098,
+                  38.706654
+                ],
+                [
+                  -9.1432903,
+                  38.7066199
+                ],
+                [
+                  -9.1432708,
+                  38.7065671
+                ],
+                [
+                  -9.1432635,
+                  38.7065509
+                ],
+                [
+                  -9.1432514,
+                  38.7065071
+                ],
+                [
+                  -9.1432481,
+                  38.7064706
+                ],
+                [
+                  -9.143253,
+                  38.7063467
+                ],
+                [
+                  -9.1431959,
+                  38.7062716
+                ],
+                [
+                  -9.143176,
+                  38.7060859
+                ],
+                [
+                  -9.1431786,
+                  38.7059168
+                ],
+                [
+                  -9.1432033,
+                  38.7057338
+                ],
+                [
+                  -9.1432145622443,
+                  38.7055788315184
+                ]
+              ]
+            ]
+          },
+          "connections": [
+            {
+              "id": 25579,
+              "order": 1,
+              "distance": 182,
+              "stop": {
+                "id": 1614,
+                "publicId": "1614",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.74192,
+                  "longitude": -9.169083
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:57:47.000Z"
+              }
+            },
+            {
+              "id": 25580,
+              "order": 2,
+              "distance": 484,
+              "stop": {
+                "id": 1606,
+                "publicId": "1606",
+                "name": "Sete Rios",
+                "position": {
+                  "latitude": 38.741872,
+                  "longitude": -9.169704
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:57:25.000Z"
+              }
+            },
+            {
+              "id": 25581,
+              "order": 3,
+              "distance": 303,
+              "stop": {
+                "id": 2712,
+                "publicId": "2712",
+                "name": "Estação Sete Rios",
+                "position": {
+                  "latitude": 38.738832,
+                  "longitude": -9.16853
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:51:15.000Z"
+              }
+            },
+            {
+              "id": 25582,
+              "order": 4,
+              "distance": 301,
+              "stop": {
+                "id": 2718,
+                "publicId": "2718",
+                "name": "Rua De Campolide - José Malhoa",
+                "position": {
+                  "latitude": 38.736776,
+                  "longitude": -9.167456
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T11:55:43.000Z"
+              }
+            },
+            {
+              "id": 25583,
+              "order": 5,
+              "distance": 426,
+              "stop": {
+                "id": 2710,
+                "publicId": "2710",
+                "name": "Tarujo",
+                "position": {
+                  "latitude": 38.735177,
+                  "longitude": -9.165441
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:51.000Z"
+              }
+            },
+            {
+              "id": 25584,
+              "order": 6,
+              "distance": 326,
+              "stop": {
+                "id": 6124,
+                "publicId": "6124",
+                "name": "R. Campolide (Escola)",
+                "position": {
+                  "latitude": 38.732213,
+                  "longitude": -9.162743
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:53:57.000Z"
+              }
+            },
+            {
+              "id": 25585,
+              "order": 7,
+              "distance": 298,
+              "stop": {
+                "id": 6122,
+                "publicId": "6122",
+                "name": "R. Campolide",
+                "position": {
+                  "latitude": 38.72932,
+                  "longitude": -9.162442
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:57:06.000Z"
+              }
+            },
+            {
+              "id": 25586,
+              "order": 8,
+              "distance": 62,
+              "stop": {
+                "id": 6102,
+                "publicId": "6102",
+                "name": "Campolide",
+                "position": {
+                  "latitude": 38.72703,
+                  "longitude": -9.16243
+                },
+                "visible": true,
+                "updateDate": "2018-05-04T10:31:42.000Z"
+              }
+            },
+            {
+              "id": 25587,
+              "order": 9,
+              "distance": 376,
+              "stop": {
+                "id": 6120,
+                "publicId": "6120",
+                "name": "Campolide (Av. Cons. Fernando",
+                "position": {
+                  "latitude": 38.726441,
+                  "longitude": -9.161478
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:59:24.000Z"
+              }
+            },
+            {
+              "id": 25588,
+              "order": 10,
+              "distance": 478,
+              "stop": {
+                "id": 8512,
+                "publicId": "8512",
+                "name": "Amoreiras",
+                "position": {
+                  "latitude": 38.723824,
+                  "longitude": -9.160918
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 25589,
+              "order": 11,
+              "distance": 152,
+              "stop": {
+                "id": 8514,
+                "publicId": "8514",
+                "name": "R. D. João V",
+                "position": {
+                  "latitude": 38.720711,
+                  "longitude": -9.160725
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T13:00:38.000Z"
+              }
+            },
+            {
+              "id": 25590,
+              "order": 12,
+              "distance": 247,
+              "stop": {
+                "id": 6815,
+                "publicId": "6815",
+                "name": "R. Custódio Vieira",
+                "position": {
+                  "latitude": 38.720327,
+                  "longitude": -9.159051
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T13:00:57.000Z"
+              }
+            },
+            {
+              "id": 25591,
+              "order": 13,
+              "distance": 219,
+              "stop": {
+                "id": 6813,
+                "publicId": "6813",
+                "name": "Rato - R. D. João V",
+                "position": {
+                  "latitude": 38.720768,
+                  "longitude": -9.15632
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T13:01:40.000Z"
+              }
+            },
+            {
+              "id": 25592,
+              "order": 14,
+              "distance": 444,
+              "stop": {
+                "id": 6807,
+                "publicId": "6807",
+                "name": "Rato",
+                "position": {
+                  "latitude": 38.719915,
+                  "longitude": -9.154695
+                },
+                "visible": true,
+                "updateDate": "2012-01-18T11:08:52.000Z"
+              }
+            },
+            {
+              "id": 25593,
+              "order": 15,
+              "distance": 245,
+              "stop": {
+                "id": 10608,
+                "publicId": "10608",
+                "name": "Rua Da Escola Politécnica",
+                "position": {
+                  "latitude": 38.717537,
+                  "longitude": -9.151047
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:13:53.000Z"
+              }
+            },
+            {
+              "id": 25594,
+              "order": 16,
+              "distance": 331,
+              "stop": {
+                "id": 10606,
+                "publicId": "10606",
+                "name": "Príncipe Real",
+                "position": {
+                  "latitude": 38.716657,
+                  "longitude": -9.148516
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 25595,
+              "order": 17,
+              "distance": 131,
+              "stop": {
+                "id": 10604,
+                "publicId": "10604",
+                "name": "São Pedro De Alcântara",
+                "position": {
+                  "latitude": 38.715457,
+                  "longitude": -9.145094
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:37:56.000Z"
+              }
+            },
+            {
+              "id": 25596,
+              "order": 18,
+              "distance": 240,
+              "stop": {
+                "id": 10602,
+                "publicId": "10602",
+                "name": "Elevador Da Glória",
+                "position": {
+                  "latitude": 38.714502,
+                  "longitude": -9.144355
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:24:09.000Z"
+              }
+            },
+            {
+              "id": 25597,
+              "order": 19,
+              "distance": 294,
+              "stop": {
+                "id": 10504,
+                "publicId": "10504",
+                "name": "Largo Trindade Coelho",
+                "position": {
+                  "latitude": 38.71255,
+                  "longitude": -9.143213
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:05:03.000Z"
+              }
+            },
+            {
+              "id": 25598,
+              "order": 20,
+              "distance": 210,
+              "stop": {
+                "id": 10502,
+                "publicId": "10502",
+                "name": "Praça Luís De Camões",
+                "position": {
+                  "latitude": 38.709942,
+                  "longitude": -9.143156
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 25599,
+              "order": 21,
+              "distance": 406,
+              "stop": {
+                "id": 3826,
+                "publicId": "3826",
+                "name": "Rua Do Alecrim",
+                "position": {
+                  "latitude": 38.708063,
+                  "longitude": -9.143406
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:19:02.000Z"
+              }
+            },
+            {
+              "id": 25600,
+              "order": 22,
+              "distance": 0,
+              "stop": {
+                "id": 3807,
+                "publicId": "3807",
+                "name": "Cais Sodré",
+                "position": {
+                  "latitude": 38.705582,
+                  "longitude": -9.143242
+                },
+                "visible": true,
+                "updateDate": "2018-12-13T15:29:03.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20667,
+      "variant": 4,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21313,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 43860,
+              "order": 1,
+              "distance": 168,
+              "stop": {
+                "id": 8511,
+                "publicId": "8511",
+                "name": "Amoreiras",
+                "position": {
+                  "latitude": 38.723867,
+                  "longitude": -9.16058
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 43861,
+              "order": 2,
+              "distance": 371,
+              "stop": {
+                "id": 8509,
+                "publicId": "8509",
+                "name": "Rua Conselheiro Fernando Sousa",
+                "position": {
+                  "latitude": 38.725223,
+                  "longitude": -9.159972
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:40:50.000Z"
+              }
+            },
+            {
+              "id": 43862,
+              "order": 3,
+              "distance": 347,
+              "stop": {
+                "id": 6119,
+                "publicId": "6119",
+                "name": "Campolide",
+                "position": {
+                  "latitude": 38.727726,
+                  "longitude": -9.162049
+                },
+                "visible": true,
+                "updateDate": "2019-03-06T18:05:16.000Z"
+              }
+            },
+            {
+              "id": 43863,
+              "order": 4,
+              "distance": 221,
+              "stop": {
+                "id": 6121,
+                "publicId": "6121",
+                "name": "R. Campolide",
+                "position": {
+                  "latitude": 38.730336,
+                  "longitude": -9.162242
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:57:21.000Z"
+              }
+            },
+            {
+              "id": 43864,
+              "order": 5,
+              "distance": 402,
+              "stop": {
+                "id": 6123,
+                "publicId": "6123",
+                "name": "R. Campolide (Escola)",
+                "position": {
+                  "latitude": 38.732267,
+                  "longitude": -9.162436
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:54:27.000Z"
+              }
+            },
+            {
+              "id": 43865,
+              "order": 6,
+              "distance": 466,
+              "stop": {
+                "id": 2711,
+                "publicId": "2711",
+                "name": "Tarujo",
+                "position": {
+                  "latitude": 38.735087,
+                  "longitude": -9.165179
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:51.000Z"
+              }
+            },
+            {
+              "id": 43866,
+              "order": 7,
+              "distance": 330,
+              "stop": {
+                "id": 2713,
+                "publicId": "2713",
+                "name": "Av. José Malhoa",
+                "position": {
+                  "latitude": 38.737727,
+                  "longitude": -9.167631
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T07:52:33.000Z"
+              }
+            },
+            {
+              "id": 43867,
+              "order": 8,
+              "distance": 0,
+              "stop": {
+                "id": 1621,
+                "publicId": "1621",
+                "name": "Estação De Sete Rios",
+                "position": {
+                  "latitude": 38.740566,
+                  "longitude": -9.167409
+                },
+                "visible": true,
+                "updateDate": "2012-04-16T17:04:22.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21314,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 43868,
+              "order": 1,
+              "distance": 303,
+              "stop": {
+                "id": 2712,
+                "publicId": "2712",
+                "name": "Estação Sete Rios",
+                "position": {
+                  "latitude": 38.738832,
+                  "longitude": -9.16853
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:51:15.000Z"
+              }
+            },
+            {
+              "id": 43869,
+              "order": 2,
+              "distance": 301,
+              "stop": {
+                "id": 2718,
+                "publicId": "2718",
+                "name": "Rua De Campolide - José Malhoa",
+                "position": {
+                  "latitude": 38.736776,
+                  "longitude": -9.167456
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T11:55:43.000Z"
+              }
+            },
+            {
+              "id": 43870,
+              "order": 3,
+              "distance": 426,
+              "stop": {
+                "id": 2710,
+                "publicId": "2710",
+                "name": "Tarujo",
+                "position": {
+                  "latitude": 38.735177,
+                  "longitude": -9.165441
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:36:51.000Z"
+              }
+            },
+            {
+              "id": 43871,
+              "order": 4,
+              "distance": 326,
+              "stop": {
+                "id": 6124,
+                "publicId": "6124",
+                "name": "R. Campolide (Escola)",
+                "position": {
+                  "latitude": 38.732213,
+                  "longitude": -9.162743
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:53:57.000Z"
+              }
+            },
+            {
+              "id": 43872,
+              "order": 5,
+              "distance": 254,
+              "stop": {
+                "id": 6122,
+                "publicId": "6122",
+                "name": "R. Campolide",
+                "position": {
+                  "latitude": 38.72932,
+                  "longitude": -9.162442
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:57:06.000Z"
+              }
+            },
+            {
+              "id": 43873,
+              "order": 6,
+              "distance": 106,
+              "stop": {
+                "id": 6102,
+                "publicId": "6102",
+                "name": "Campolide",
+                "position": {
+                  "latitude": 38.72703,
+                  "longitude": -9.16243
+                },
+                "visible": true,
+                "updateDate": "2018-05-04T10:31:42.000Z"
+              }
+            },
+            {
+              "id": 43874,
+              "order": 7,
+              "distance": 339,
+              "stop": {
+                "id": 6120,
+                "publicId": "6120",
+                "name": "Campolide (Av. Cons. Fernando",
+                "position": {
+                  "latitude": 38.726441,
+                  "longitude": -9.161478
+                },
+                "visible": true,
+                "updateDate": "2017-12-07T12:59:24.000Z"
+              }
+            },
+            {
+              "id": 43875,
+              "order": 8,
+              "distance": 0,
+              "stop": {
+                "id": 8501,
+                "publicId": "8501",
+                "name": "Amoreiras",
+                "position": {
+                  "latitude": 38.724375,
+                  "longitude": -9.160904
+                },
+                "visible": true,
+                "updateDate": "2016-07-07T09:30:39.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

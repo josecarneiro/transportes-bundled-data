@@ -1,0 +1,4702 @@
+{
+  "id": 165,
+  "number": "703",
+  "name": "Charneca-B.º Sta. Cruz",
+  "visible": true,
+  "creationDate": "2020-05-20T09:06:27.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20463,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21084,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 42121,
+              "order": 1,
+              "distance": 227,
+              "stop": {
+                "id": 6007,
+                "publicId": "6007",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.787147,
+                  "longitude": -9.142113
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:02.000Z"
+              }
+            },
+            {
+              "id": 42122,
+              "order": 2,
+              "distance": 355,
+              "stop": {
+                "id": 6009,
+                "publicId": "6009",
+                "name": "Campo Amoreiras",
+                "position": {
+                  "latitude": 38.785714,
+                  "longitude": -9.142683
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:28.000Z"
+              }
+            },
+            {
+              "id": 42123,
+              "order": 3,
+              "distance": 187,
+              "stop": {
+                "id": 6008,
+                "publicId": "6008",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.78718,
+                  "longitude": -9.144596
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:11.000Z"
+              }
+            },
+            {
+              "id": 42124,
+              "order": 4,
+              "distance": 257,
+              "stop": {
+                "id": 6010,
+                "publicId": "6010",
+                "name": "Qta. Pailepa",
+                "position": {
+                  "latitude": 38.78788,
+                  "longitude": -9.146163
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:24:51.000Z"
+              }
+            },
+            {
+              "id": 42125,
+              "order": 5,
+              "distance": 222,
+              "stop": {
+                "id": 6002,
+                "publicId": "6002",
+                "name": "R. João Amaral",
+                "position": {
+                  "latitude": 38.787517,
+                  "longitude": -9.149093
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:02:32.000Z"
+              }
+            },
+            {
+              "id": 42126,
+              "order": 6,
+              "distance": 236,
+              "stop": {
+                "id": 6024,
+                "publicId": "6024",
+                "name": "B.º Sete Céus",
+                "position": {
+                  "latitude": 38.785897,
+                  "longitude": -9.149946
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:53.000Z"
+              }
+            },
+            {
+              "id": 42127,
+              "order": 7,
+              "distance": 278,
+              "stop": {
+                "id": 50047,
+                "publicId": "6026",
+                "name": "Esc. S. Gonçalo",
+                "position": {
+                  "latitude": 38.783822,
+                  "longitude": -9.149338
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:31:42.000Z"
+              }
+            },
+            {
+              "id": 42128,
+              "order": 8,
+              "distance": 307,
+              "stop": {
+                "id": 6022,
+                "publicId": "6022",
+                "name": "R. Tito Morais",
+                "position": {
+                  "latitude": 38.78253,
+                  "longitude": -9.147413
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:16.000Z"
+              }
+            },
+            {
+              "id": 42129,
+              "order": 9,
+              "distance": 440,
+              "stop": {
+                "id": 6015,
+                "publicId": "6015",
+                "name": "Vale Castanheira",
+                "position": {
+                  "latitude": 38.779915,
+                  "longitude": -9.148587
+                },
+                "visible": true,
+                "updateDate": "2019-03-21T17:06:19.000Z"
+              }
+            },
+            {
+              "id": 42130,
+              "order": 10,
+              "distance": 182,
+              "stop": {
+                "id": 6019,
+                "publicId": "6019",
+                "name": "Av. Nuno Kruz Abecassis",
+                "position": {
+                  "latitude": 38.779807,
+                  "longitude": -9.151581
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:26:48.000Z"
+              }
+            },
+            {
+              "id": 42131,
+              "order": 11,
+              "distance": 446,
+              "stop": {
+                "id": 6017,
+                "publicId": "6017",
+                "name": "Av. Dr. José Salvado Sampaio",
+                "position": {
+                  "latitude": 38.780517,
+                  "longitude": -9.153027
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 42132,
+              "order": 12,
+              "distance": 197,
+              "stop": {
+                "id": 5933,
+                "publicId": "5933",
+                "name": "Az. S. Gonçalo",
+                "position": {
+                  "latitude": 38.781864,
+                  "longitude": -9.156963
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:55.000Z"
+              }
+            },
+            {
+              "id": 42133,
+              "order": 13,
+              "distance": 322,
+              "stop": {
+                "id": 5931,
+                "publicId": "5931",
+                "name": "Ameixoeira",
+                "position": {
+                  "latitude": 38.78208,
+                  "longitude": -9.158746
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:25.000Z"
+              }
+            },
+            {
+              "id": 42134,
+              "order": 14,
+              "distance": 478,
+              "stop": {
+                "id": 5927,
+                "publicId": "5927",
+                "name": "Ameixoeira (Metro)",
+                "position": {
+                  "latitude": 38.779501,
+                  "longitude": -9.159449
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:52.000Z"
+              }
+            },
+            {
+              "id": 42135,
+              "order": 15,
+              "distance": 323,
+              "stop": {
+                "id": 5925,
+                "publicId": "5925",
+                "name": "R. Prof. M. Valadares",
+                "position": {
+                  "latitude": 38.775846,
+                  "longitude": -9.160491
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:24.000Z"
+              }
+            },
+            {
+              "id": 42136,
+              "order": 16,
+              "distance": 246,
+              "stop": {
+                "id": 5950,
+                "publicId": "5950",
+                "name": "Lumiar (Estr. Torre)",
+                "position": {
+                  "latitude": 38.773942,
+                  "longitude": -9.161483
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:01:25.000Z"
+              }
+            },
+            {
+              "id": 42137,
+              "order": 17,
+              "distance": 148,
+              "stop": {
+                "id": 5912,
+                "publicId": "5912",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774712,
+                  "longitude": -9.163137
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:14.000Z"
+              }
+            },
+            {
+              "id": 42138,
+              "order": 18,
+              "distance": 783,
+              "stop": {
+                "id": 5915,
+                "publicId": "5915",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774496,
+                  "longitude": -9.163784
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:43.000Z"
+              }
+            },
+            {
+              "id": 42139,
+              "order": 19,
+              "distance": 280,
+              "stop": {
+                "id": 50095,
+                "publicId": "5942",
+                "name": "R. Prof. Fernando Mello Moser",
+                "position": {
+                  "latitude": 38.770945,
+                  "longitude": -9.168719
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:13:49.000Z"
+              }
+            },
+            {
+              "id": 42140,
+              "order": 20,
+              "distance": 458,
+              "stop": {
+                "id": 5914,
+                "publicId": "5914",
+                "name": "Az. Poço Baixo",
+                "position": {
+                  "latitude": 38.772626,
+                  "longitude": -9.170421
+                },
+                "visible": true,
+                "updateDate": "2019-03-11T10:44:35.000Z"
+              }
+            },
+            {
+              "id": 42141,
+              "order": 21,
+              "distance": 310,
+              "stop": {
+                "id": 50097,
+                "publicId": "5948",
+                "name": "R. Teófilo Carvalho Santos",
+                "position": {
+                  "latitude": 38.770413,
+                  "longitude": -9.173088
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:16:26.000Z"
+              }
+            },
+            {
+              "id": 42142,
+              "order": 22,
+              "distance": 403,
+              "stop": {
+                "id": 50391,
+                "publicId": "50102",
+                "name": "Hosp. Forças Armadas",
+                "position": {
+                  "latitude": 38.769001,
+                  "longitude": -9.174789
+                },
+                "visible": true,
+                "updateDate": "2019-03-13T13:48:54.000Z"
+              }
+            },
+            {
+              "id": 42143,
+              "order": 23,
+              "distance": 176,
+              "stop": {
+                "id": 5934,
+                "publicId": "5934",
+                "name": "Az. Torre Fato",
+                "position": {
+                  "latitude": 38.770104,
+                  "longitude": -9.177595
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:12:15.000Z"
+              }
+            },
+            {
+              "id": 42144,
+              "order": 24,
+              "distance": 319,
+              "stop": {
+                "id": 5932,
+                "publicId": "5932",
+                "name": "Ineti",
+                "position": {
+                  "latitude": 38.769173,
+                  "longitude": -9.179233
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:11:59.000Z"
+              }
+            },
+            {
+              "id": 42145,
+              "order": 25,
+              "distance": 214,
+              "stop": {
+                "id": 12810,
+                "publicId": "12810",
+                "name": "B.º Horta Nova",
+                "position": {
+                  "latitude": 38.767048,
+                  "longitude": -9.181703
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:21:16.000Z"
+              }
+            },
+            {
+              "id": 42146,
+              "order": 26,
+              "distance": 337,
+              "stop": {
+                "id": 12807,
+                "publicId": "12807",
+                "name": "Av. Cidade Praga (Lispolis)",
+                "position": {
+                  "latitude": 38.765477,
+                  "longitude": -9.182644
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 42147,
+              "order": 27,
+              "distance": 213,
+              "stop": {
+                "id": 12808,
+                "publicId": "12808",
+                "name": "Qta. Inglesinhos",
+                "position": {
+                  "latitude": 38.763169,
+                  "longitude": -9.180583
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:38.000Z"
+              }
+            },
+            {
+              "id": 42148,
+              "order": 28,
+              "distance": 210,
+              "stop": {
+                "id": 12835,
+                "publicId": "12835",
+                "name": "R. Padre Américo",
+                "position": {
+                  "latitude": 38.761551,
+                  "longitude": -9.179823
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:25:52.000Z"
+              }
+            },
+            {
+              "id": 42149,
+              "order": 29,
+              "distance": 401,
+              "stop": {
+                "id": 12828,
+                "publicId": "12828",
+                "name": "Esc. Sec. Carnide",
+                "position": {
+                  "latitude": 38.759655,
+                  "longitude": -9.179805
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:23:01.000Z"
+              }
+            },
+            {
+              "id": 42150,
+              "order": 30,
+              "distance": 269,
+              "stop": {
+                "id": 12804,
+                "publicId": "12804",
+                "name": "Lg. Luz",
+                "position": {
+                  "latitude": 38.760243,
+                  "longitude": -9.182879
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:10.000Z"
+              }
+            },
+            {
+              "id": 42151,
+              "order": 31,
+              "distance": 271,
+              "stop": {
+                "id": 12824,
+                "publicId": "12824",
+                "name": "Igreja Carnide",
+                "position": {
+                  "latitude": 38.759587,
+                  "longitude": -9.185244
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:22:03.000Z"
+              }
+            },
+            {
+              "id": 42152,
+              "order": 32,
+              "distance": 631,
+              "stop": {
+                "id": 12802,
+                "publicId": "12802",
+                "name": "Qta. Luz",
+                "position": {
+                  "latitude": 38.757167,
+                  "longitude": -9.18568
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:43.000Z"
+              }
+            },
+            {
+              "id": 42153,
+              "order": 33,
+              "distance": 389,
+              "stop": {
+                "id": 10808,
+                "publicId": "10808",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752385,
+                  "longitude": -9.188966
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:27.000Z"
+              }
+            },
+            {
+              "id": 42154,
+              "order": 34,
+              "distance": 437,
+              "stop": {
+                "id": 10804,
+                "publicId": "10804",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.749594,
+                  "longitude": -9.191313
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:38.000Z"
+              }
+            },
+            {
+              "id": 42155,
+              "order": 35,
+              "distance": 302,
+              "stop": {
+                "id": 10802,
+                "publicId": "10802",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.750137,
+                  "longitude": -9.195585
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:09.000Z"
+              }
+            },
+            {
+              "id": 42156,
+              "order": 36,
+              "distance": 646,
+              "stop": {
+                "id": 10908,
+                "publicId": "10908",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.749296,
+                  "longitude": -9.197668
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:11:16.000Z"
+              }
+            },
+            {
+              "id": 42157,
+              "order": 37,
+              "distance": 278,
+              "stop": {
+                "id": 2806,
+                "publicId": "2806",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.745077,
+                  "longitude": -9.199771
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:57.000Z"
+              }
+            },
+            {
+              "id": 42158,
+              "order": 38,
+              "distance": 414,
+              "stop": {
+                "id": 8816,
+                "publicId": "8816",
+                "name": "R. Venezuela",
+                "position": {
+                  "latitude": 38.745257,
+                  "longitude": -9.202968
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:06:15.000Z"
+              }
+            },
+            {
+              "id": 42159,
+              "order": 39,
+              "distance": 239,
+              "stop": {
+                "id": 2908,
+                "publicId": "2908",
+                "name": "R. Casquilha",
+                "position": {
+                  "latitude": 38.746261,
+                  "longitude": -9.206505
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:59.000Z"
+              }
+            },
+            {
+              "id": 42160,
+              "order": 40,
+              "distance": 0,
+              "stop": {
+                "id": 2905,
+                "publicId": "2905",
+                "name": "B.º Sta. Cruz",
+                "position": {
+                  "latitude": 38.747704,
+                  "longitude": -9.207026
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:24.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21085,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 42161,
+              "order": 1,
+              "distance": 206,
+              "stop": {
+                "id": 2905,
+                "publicId": "2905",
+                "name": "B.º Sta. Cruz",
+                "position": {
+                  "latitude": 38.747704,
+                  "longitude": -9.207026
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:24.000Z"
+              }
+            },
+            {
+              "id": 42162,
+              "order": 2,
+              "distance": 411,
+              "stop": {
+                "id": 2907,
+                "publicId": "2907",
+                "name": "R. Casquilha",
+                "position": {
+                  "latitude": 38.745952,
+                  "longitude": -9.20651
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:46.000Z"
+              }
+            },
+            {
+              "id": 42163,
+              "order": 3,
+              "distance": 256,
+              "stop": {
+                "id": 8813,
+                "publicId": "8813",
+                "name": "R. Venezuela",
+                "position": {
+                  "latitude": 38.745108,
+                  "longitude": -9.202739
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:05:58.000Z"
+              }
+            },
+            {
+              "id": 42164,
+              "order": 4,
+              "distance": 1196,
+              "stop": {
+                "id": 2812,
+                "publicId": "2812",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.744882,
+                  "longitude": -9.199819
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:31:40.000Z"
+              }
+            },
+            {
+              "id": 42165,
+              "order": 5,
+              "distance": 370,
+              "stop": {
+                "id": 10907,
+                "publicId": "10907",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.749776,
+                  "longitude": -9.197502
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:11:04.000Z"
+              }
+            },
+            {
+              "id": 42166,
+              "order": 6,
+              "distance": 458,
+              "stop": {
+                "id": 10835,
+                "publicId": "10835",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.749735,
+                  "longitude": -9.194268
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:10:41.000Z"
+              }
+            },
+            {
+              "id": 42167,
+              "order": 7,
+              "distance": 594,
+              "stop": {
+                "id": 10807,
+                "publicId": "10807",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748543,
+                  "longitude": -9.191209
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:49.000Z"
+              }
+            },
+            {
+              "id": 42168,
+              "order": 8,
+              "distance": 556,
+              "stop": {
+                "id": 10813,
+                "publicId": "10813",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.75289,
+                  "longitude": -9.188172
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:11.000Z"
+              }
+            },
+            {
+              "id": 42169,
+              "order": 9,
+              "distance": 287,
+              "stop": {
+                "id": 12801,
+                "publicId": "12801",
+                "name": "Qta. Luz",
+                "position": {
+                  "latitude": 38.75727,
+                  "longitude": -9.185407
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:30.000Z"
+              }
+            },
+            {
+              "id": 42170,
+              "order": 10,
+              "distance": 257,
+              "stop": {
+                "id": 12823,
+                "publicId": "12823",
+                "name": "Igreja Carnide",
+                "position": {
+                  "latitude": 38.759822,
+                  "longitude": -9.184998
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:21:47.000Z"
+              }
+            },
+            {
+              "id": 42171,
+              "order": 11,
+              "distance": 383,
+              "stop": {
+                "id": 12803,
+                "publicId": "12803",
+                "name": "Lg. Luz",
+                "position": {
+                  "latitude": 38.760017,
+                  "longitude": -9.18275
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:57.000Z"
+              }
+            },
+            {
+              "id": 42172,
+              "order": 12,
+              "distance": 219,
+              "stop": {
+                "id": 12827,
+                "publicId": "12827",
+                "name": "Esc. Sec. Carnide",
+                "position": {
+                  "latitude": 38.75976,
+                  "longitude": -9.179636
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:22:36.000Z"
+              }
+            },
+            {
+              "id": 42173,
+              "order": 13,
+              "distance": 204,
+              "stop": {
+                "id": 12836,
+                "publicId": "12836",
+                "name": "R. Padre Américo",
+                "position": {
+                  "latitude": 38.761736,
+                  "longitude": -9.179625
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:26:04.000Z"
+              }
+            },
+            {
+              "id": 42174,
+              "order": 14,
+              "distance": 326,
+              "stop": {
+                "id": 12834,
+                "publicId": "12834",
+                "name": "Qta. Inglesinhos",
+                "position": {
+                  "latitude": 38.763312,
+                  "longitude": -9.180608
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:25:38.000Z"
+              }
+            },
+            {
+              "id": 42175,
+              "order": 15,
+              "distance": 250,
+              "stop": {
+                "id": 50359,
+                "publicId": "12809",
+                "name": "Av. Cidade Praga (Lispolis)",
+                "position": {
+                  "latitude": 38.765666,
+                  "longitude": -9.182287
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:46.000Z"
+              }
+            },
+            {
+              "id": 42176,
+              "order": 16,
+              "distance": 268,
+              "stop": {
+                "id": 12811,
+                "publicId": "12811",
+                "name": "B.º Horta Nova",
+                "position": {
+                  "latitude": 38.767279,
+                  "longitude": -9.181294
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:23:16.000Z"
+              }
+            },
+            {
+              "id": 42177,
+              "order": 17,
+              "distance": 228,
+              "stop": {
+                "id": 5935,
+                "publicId": "5935",
+                "name": "Ineti",
+                "position": {
+                  "latitude": 38.769042,
+                  "longitude": -9.179247
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:12:31.000Z"
+              }
+            },
+            {
+              "id": 42178,
+              "order": 18,
+              "distance": 351,
+              "stop": {
+                "id": 5937,
+                "publicId": "5937",
+                "name": "Az. Torre Fato",
+                "position": {
+                  "latitude": 38.770265,
+                  "longitude": -9.177134
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:12:50.000Z"
+              }
+            },
+            {
+              "id": 42179,
+              "order": 19,
+              "distance": 364,
+              "stop": {
+                "id": 50161,
+                "publicId": "5945",
+                "name": "Hosp. Forças Armadas",
+                "position": {
+                  "latitude": 38.76891,
+                  "longitude": -9.17425
+                },
+                "visible": true,
+                "updateDate": "2019-03-11T10:45:29.000Z"
+              }
+            },
+            {
+              "id": 42180,
+              "order": 20,
+              "distance": 371,
+              "stop": {
+                "id": 5949,
+                "publicId": "5949",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.771166,
+                  "longitude": -9.173724
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:01:10.000Z"
+              }
+            },
+            {
+              "id": 42181,
+              "order": 21,
+              "distance": 272,
+              "stop": {
+                "id": 5918,
+                "publicId": "5918",
+                "name": "Lg. Paço",
+                "position": {
+                  "latitude": 38.773288,
+                  "longitude": -9.172084
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:35.000Z"
+              }
+            },
+            {
+              "id": 42182,
+              "order": 22,
+              "distance": 336,
+              "stop": {
+                "id": 5919,
+                "publicId": "5919",
+                "name": "Estr. Lumiar",
+                "position": {
+                  "latitude": 38.77397,
+                  "longitude": -9.168557
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:56.000Z"
+              }
+            },
+            {
+              "id": 42183,
+              "order": 23,
+              "distance": 462,
+              "stop": {
+                "id": 5917,
+                "publicId": "5917",
+                "name": "Igreja Lumiar",
+                "position": {
+                  "latitude": 38.774837,
+                  "longitude": -9.16497
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:13.000Z"
+              }
+            },
+            {
+              "id": 42184,
+              "order": 24,
+              "distance": 285,
+              "stop": {
+                "id": 5905,
+                "publicId": "5905",
+                "name": "Lumiar (Estr. Torre)",
+                "position": {
+                  "latitude": 38.77379,
+                  "longitude": -9.161392
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:54:53.000Z"
+              }
+            },
+            {
+              "id": 42185,
+              "order": 25,
+              "distance": 504,
+              "stop": {
+                "id": 5920,
+                "publicId": "5920",
+                "name": "Az. Cidade",
+                "position": {
+                  "latitude": 38.775782,
+                  "longitude": -9.159556
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:57:28.000Z"
+              }
+            },
+            {
+              "id": 42186,
+              "order": 26,
+              "distance": 276,
+              "stop": {
+                "id": 5922,
+                "publicId": "5922",
+                "name": "Ameixoeira (Metro)",
+                "position": {
+                  "latitude": 38.779629,
+                  "longitude": -9.15979
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:07.000Z"
+              }
+            },
+            {
+              "id": 42187,
+              "order": 27,
+              "distance": 263,
+              "stop": {
+                "id": 5926,
+                "publicId": "5926",
+                "name": "Ameixoeira",
+                "position": {
+                  "latitude": 38.78188,
+                  "longitude": -9.158663
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:40.000Z"
+              }
+            },
+            {
+              "id": 42188,
+              "order": 28,
+              "distance": 380,
+              "stop": {
+                "id": 5928,
+                "publicId": "5928",
+                "name": "Az. S. Gonçalo",
+                "position": {
+                  "latitude": 38.781614,
+                  "longitude": -9.156563
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:06.000Z"
+              }
+            },
+            {
+              "id": 42189,
+              "order": 29,
+              "distance": 186,
+              "stop": {
+                "id": 6021,
+                "publicId": "6021",
+                "name": "Av. Dr. José Salvado Sampaio",
+                "position": {
+                  "latitude": 38.780287,
+                  "longitude": -9.153221
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 42190,
+              "order": 30,
+              "distance": 435,
+              "stop": {
+                "id": 6020,
+                "publicId": "6020",
+                "name": "Av. Nuno Kruz Abecassis",
+                "position": {
+                  "latitude": 38.779634,
+                  "longitude": -9.151657
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:27:41.000Z"
+              }
+            },
+            {
+              "id": 42191,
+              "order": 31,
+              "distance": 389,
+              "stop": {
+                "id": 6018,
+                "publicId": "6018",
+                "name": "Vale Castanheira",
+                "position": {
+                  "latitude": 38.779864,
+                  "longitude": -9.148379
+                },
+                "visible": true,
+                "updateDate": "2019-03-21T17:06:22.000Z"
+              }
+            },
+            {
+              "id": 42192,
+              "order": 32,
+              "distance": 206,
+              "stop": {
+                "id": 50045,
+                "publicId": "6025",
+                "name": "R. Tito Morais",
+                "position": {
+                  "latitude": 38.783065,
+                  "longitude": -9.147607
+                },
+                "visible": true,
+                "updateDate": "2019-10-30T16:09:33.000Z"
+              }
+            },
+            {
+              "id": 42193,
+              "order": 33,
+              "distance": 243,
+              "stop": {
+                "id": 50048,
+                "publicId": "6027",
+                "name": "Esc. S. Gonçalo",
+                "position": {
+                  "latitude": 38.783922,
+                  "longitude": -9.149261
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:32:04.000Z"
+              }
+            },
+            {
+              "id": 42194,
+              "order": 34,
+              "distance": 194,
+              "stop": {
+                "id": 6023,
+                "publicId": "6023",
+                "name": "B.º Sete Céus",
+                "position": {
+                  "latitude": 38.786047,
+                  "longitude": -9.149929
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:37.000Z"
+              }
+            },
+            {
+              "id": 42195,
+              "order": 35,
+              "distance": 284,
+              "stop": {
+                "id": 6001,
+                "publicId": "6001",
+                "name": "R. João Amaral",
+                "position": {
+                  "latitude": 38.787328,
+                  "longitude": -9.149174
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:58:00.000Z"
+              }
+            },
+            {
+              "id": 42196,
+              "order": 36,
+              "distance": 382,
+              "stop": {
+                "id": 6003,
+                "publicId": "6003",
+                "name": "Qta. Pailepa",
+                "position": {
+                  "latitude": 38.787847,
+                  "longitude": -9.145979
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:02:48.000Z"
+              }
+            },
+            {
+              "id": 42197,
+              "order": 37,
+              "distance": 0,
+              "stop": {
+                "id": 6007,
+                "publicId": "6007",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.787147,
+                  "longitude": -9.142113
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:02.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21002,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21641,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 46327,
+              "order": 1,
+              "distance": 227,
+              "stop": {
+                "id": 6007,
+                "publicId": "6007",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.787147,
+                  "longitude": -9.142113
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:02.000Z"
+              }
+            },
+            {
+              "id": 46328,
+              "order": 2,
+              "distance": 355,
+              "stop": {
+                "id": 6009,
+                "publicId": "6009",
+                "name": "Campo Amoreiras",
+                "position": {
+                  "latitude": 38.785714,
+                  "longitude": -9.142683
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:28.000Z"
+              }
+            },
+            {
+              "id": 46329,
+              "order": 3,
+              "distance": 187,
+              "stop": {
+                "id": 6008,
+                "publicId": "6008",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.78718,
+                  "longitude": -9.144596
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:11.000Z"
+              }
+            },
+            {
+              "id": 46330,
+              "order": 4,
+              "distance": 257,
+              "stop": {
+                "id": 6010,
+                "publicId": "6010",
+                "name": "Qta. Pailepa",
+                "position": {
+                  "latitude": 38.78788,
+                  "longitude": -9.146163
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:24:51.000Z"
+              }
+            },
+            {
+              "id": 46331,
+              "order": 5,
+              "distance": 222,
+              "stop": {
+                "id": 6002,
+                "publicId": "6002",
+                "name": "R. João Amaral",
+                "position": {
+                  "latitude": 38.787517,
+                  "longitude": -9.149093
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:02:32.000Z"
+              }
+            },
+            {
+              "id": 46332,
+              "order": 6,
+              "distance": 236,
+              "stop": {
+                "id": 6024,
+                "publicId": "6024",
+                "name": "B.º Sete Céus",
+                "position": {
+                  "latitude": 38.785897,
+                  "longitude": -9.149946
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:53.000Z"
+              }
+            },
+            {
+              "id": 46333,
+              "order": 7,
+              "distance": 278,
+              "stop": {
+                "id": 50047,
+                "publicId": "6026",
+                "name": "Esc. S. Gonçalo",
+                "position": {
+                  "latitude": 38.783822,
+                  "longitude": -9.149338
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:31:42.000Z"
+              }
+            },
+            {
+              "id": 46334,
+              "order": 8,
+              "distance": 307,
+              "stop": {
+                "id": 6022,
+                "publicId": "6022",
+                "name": "R. Tito Morais",
+                "position": {
+                  "latitude": 38.78253,
+                  "longitude": -9.147413
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:16.000Z"
+              }
+            },
+            {
+              "id": 46335,
+              "order": 9,
+              "distance": 440,
+              "stop": {
+                "id": 6015,
+                "publicId": "6015",
+                "name": "Vale Castanheira",
+                "position": {
+                  "latitude": 38.779915,
+                  "longitude": -9.148587
+                },
+                "visible": true,
+                "updateDate": "2019-03-21T17:06:19.000Z"
+              }
+            },
+            {
+              "id": 46336,
+              "order": 10,
+              "distance": 182,
+              "stop": {
+                "id": 6019,
+                "publicId": "6019",
+                "name": "Av. Nuno Kruz Abecassis",
+                "position": {
+                  "latitude": 38.779807,
+                  "longitude": -9.151581
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:26:48.000Z"
+              }
+            },
+            {
+              "id": 46337,
+              "order": 11,
+              "distance": 446,
+              "stop": {
+                "id": 6017,
+                "publicId": "6017",
+                "name": "Av. Dr. José Salvado Sampaio",
+                "position": {
+                  "latitude": 38.780517,
+                  "longitude": -9.153027
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 46338,
+              "order": 12,
+              "distance": 197,
+              "stop": {
+                "id": 5933,
+                "publicId": "5933",
+                "name": "Az. S. Gonçalo",
+                "position": {
+                  "latitude": 38.781864,
+                  "longitude": -9.156963
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:55.000Z"
+              }
+            },
+            {
+              "id": 46339,
+              "order": 13,
+              "distance": 322,
+              "stop": {
+                "id": 5931,
+                "publicId": "5931",
+                "name": "Ameixoeira",
+                "position": {
+                  "latitude": 38.78208,
+                  "longitude": -9.158746
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:25.000Z"
+              }
+            },
+            {
+              "id": 46340,
+              "order": 14,
+              "distance": 478,
+              "stop": {
+                "id": 5927,
+                "publicId": "5927",
+                "name": "Ameixoeira (Metro)",
+                "position": {
+                  "latitude": 38.779501,
+                  "longitude": -9.159449
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:52.000Z"
+              }
+            },
+            {
+              "id": 46341,
+              "order": 15,
+              "distance": 323,
+              "stop": {
+                "id": 5925,
+                "publicId": "5925",
+                "name": "R. Prof. M. Valadares",
+                "position": {
+                  "latitude": 38.775846,
+                  "longitude": -9.160491
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:24.000Z"
+              }
+            },
+            {
+              "id": 46342,
+              "order": 16,
+              "distance": 246,
+              "stop": {
+                "id": 5950,
+                "publicId": "5950",
+                "name": "Lumiar (Estr. Torre)",
+                "position": {
+                  "latitude": 38.773942,
+                  "longitude": -9.161483
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:01:25.000Z"
+              }
+            },
+            {
+              "id": 46343,
+              "order": 17,
+              "distance": 148,
+              "stop": {
+                "id": 5912,
+                "publicId": "5912",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774712,
+                  "longitude": -9.163137
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:14.000Z"
+              }
+            },
+            {
+              "id": 46344,
+              "order": 18,
+              "distance": 783,
+              "stop": {
+                "id": 5915,
+                "publicId": "5915",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774496,
+                  "longitude": -9.163784
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:43.000Z"
+              }
+            },
+            {
+              "id": 46345,
+              "order": 19,
+              "distance": 280,
+              "stop": {
+                "id": 50095,
+                "publicId": "5942",
+                "name": "R. Prof. Fernando Mello Moser",
+                "position": {
+                  "latitude": 38.770945,
+                  "longitude": -9.168719
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:13:49.000Z"
+              }
+            },
+            {
+              "id": 46346,
+              "order": 20,
+              "distance": 458,
+              "stop": {
+                "id": 5914,
+                "publicId": "5914",
+                "name": "Az. Poço Baixo",
+                "position": {
+                  "latitude": 38.772626,
+                  "longitude": -9.170421
+                },
+                "visible": true,
+                "updateDate": "2019-03-11T10:44:35.000Z"
+              }
+            },
+            {
+              "id": 46347,
+              "order": 21,
+              "distance": 310,
+              "stop": {
+                "id": 50097,
+                "publicId": "5948",
+                "name": "R. Teófilo Carvalho Santos",
+                "position": {
+                  "latitude": 38.770413,
+                  "longitude": -9.173088
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:16:26.000Z"
+              }
+            },
+            {
+              "id": 46348,
+              "order": 22,
+              "distance": 403,
+              "stop": {
+                "id": 50391,
+                "publicId": "50102",
+                "name": "Hosp. Forças Armadas",
+                "position": {
+                  "latitude": 38.769001,
+                  "longitude": -9.174789
+                },
+                "visible": true,
+                "updateDate": "2019-03-13T13:48:54.000Z"
+              }
+            },
+            {
+              "id": 46349,
+              "order": 23,
+              "distance": 176,
+              "stop": {
+                "id": 5934,
+                "publicId": "5934",
+                "name": "Az. Torre Fato",
+                "position": {
+                  "latitude": 38.770104,
+                  "longitude": -9.177595
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:12:15.000Z"
+              }
+            },
+            {
+              "id": 46350,
+              "order": 24,
+              "distance": 319,
+              "stop": {
+                "id": 5932,
+                "publicId": "5932",
+                "name": "Ineti",
+                "position": {
+                  "latitude": 38.769173,
+                  "longitude": -9.179233
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:11:59.000Z"
+              }
+            },
+            {
+              "id": 46351,
+              "order": 25,
+              "distance": 214,
+              "stop": {
+                "id": 12810,
+                "publicId": "12810",
+                "name": "B.º Horta Nova",
+                "position": {
+                  "latitude": 38.767048,
+                  "longitude": -9.181703
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:21:16.000Z"
+              }
+            },
+            {
+              "id": 46352,
+              "order": 26,
+              "distance": 337,
+              "stop": {
+                "id": 12807,
+                "publicId": "12807",
+                "name": "Av. Cidade Praga (Lispolis)",
+                "position": {
+                  "latitude": 38.765477,
+                  "longitude": -9.182644
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 46353,
+              "order": 27,
+              "distance": 213,
+              "stop": {
+                "id": 12808,
+                "publicId": "12808",
+                "name": "Qta. Inglesinhos",
+                "position": {
+                  "latitude": 38.763169,
+                  "longitude": -9.180583
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:38.000Z"
+              }
+            },
+            {
+              "id": 46354,
+              "order": 28,
+              "distance": 210,
+              "stop": {
+                "id": 12835,
+                "publicId": "12835",
+                "name": "R. Padre Américo",
+                "position": {
+                  "latitude": 38.761551,
+                  "longitude": -9.179823
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:25:52.000Z"
+              }
+            },
+            {
+              "id": 46355,
+              "order": 29,
+              "distance": 401,
+              "stop": {
+                "id": 12828,
+                "publicId": "12828",
+                "name": "Esc. Sec. Carnide",
+                "position": {
+                  "latitude": 38.759655,
+                  "longitude": -9.179805
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:23:01.000Z"
+              }
+            },
+            {
+              "id": 46356,
+              "order": 30,
+              "distance": 269,
+              "stop": {
+                "id": 12804,
+                "publicId": "12804",
+                "name": "Lg. Luz",
+                "position": {
+                  "latitude": 38.760243,
+                  "longitude": -9.182879
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:10.000Z"
+              }
+            },
+            {
+              "id": 46357,
+              "order": 31,
+              "distance": 271,
+              "stop": {
+                "id": 12824,
+                "publicId": "12824",
+                "name": "Igreja Carnide",
+                "position": {
+                  "latitude": 38.759587,
+                  "longitude": -9.185244
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:22:03.000Z"
+              }
+            },
+            {
+              "id": 46358,
+              "order": 32,
+              "distance": 631,
+              "stop": {
+                "id": 12802,
+                "publicId": "12802",
+                "name": "Qta. Luz",
+                "position": {
+                  "latitude": 38.757167,
+                  "longitude": -9.18568
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:43.000Z"
+              }
+            },
+            {
+              "id": 46359,
+              "order": 33,
+              "distance": 389,
+              "stop": {
+                "id": 10808,
+                "publicId": "10808",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752385,
+                  "longitude": -9.188966
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:27.000Z"
+              }
+            },
+            {
+              "id": 46360,
+              "order": 34,
+              "distance": 427,
+              "stop": {
+                "id": 10804,
+                "publicId": "10804",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.749594,
+                  "longitude": -9.191313
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:38.000Z"
+              }
+            },
+            {
+              "id": 46361,
+              "order": 35,
+              "distance": 307,
+              "stop": {
+                "id": 10802,
+                "publicId": "10802",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.750137,
+                  "longitude": -9.195585
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:09.000Z"
+              }
+            },
+            {
+              "id": 46362,
+              "order": 36,
+              "distance": 169,
+              "stop": {
+                "id": 10908,
+                "publicId": "10908",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.749296,
+                  "longitude": -9.197668
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:11:16.000Z"
+              }
+            },
+            {
+              "id": 46363,
+              "order": 37,
+              "distance": 480,
+              "stop": {
+                "id": 2804,
+                "publicId": "2804",
+                "name": "R. Gen. Morais Sarmento",
+                "position": {
+                  "latitude": 38.747778,
+                  "longitude": -9.197817
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:40.000Z"
+              }
+            },
+            {
+              "id": 46364,
+              "order": 38,
+              "distance": 272,
+              "stop": {
+                "id": 2806,
+                "publicId": "2806",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.745077,
+                  "longitude": -9.199771
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:57.000Z"
+              }
+            },
+            {
+              "id": 46365,
+              "order": 39,
+              "distance": 429,
+              "stop": {
+                "id": 8816,
+                "publicId": "8816",
+                "name": "R. Venezuela",
+                "position": {
+                  "latitude": 38.745257,
+                  "longitude": -9.202968
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:06:15.000Z"
+              }
+            },
+            {
+              "id": 46366,
+              "order": 40,
+              "distance": 239,
+              "stop": {
+                "id": 2908,
+                "publicId": "2908",
+                "name": "R. Casquilha",
+                "position": {
+                  "latitude": 38.746261,
+                  "longitude": -9.206505
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:59.000Z"
+              }
+            },
+            {
+              "id": 46367,
+              "order": 41,
+              "distance": 0,
+              "stop": {
+                "id": 2905,
+                "publicId": "2905",
+                "name": "B.º Sta. Cruz",
+                "position": {
+                  "latitude": 38.747704,
+                  "longitude": -9.207026
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:24.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21642,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 46368,
+              "order": 1,
+              "distance": 206,
+              "stop": {
+                "id": 2905,
+                "publicId": "2905",
+                "name": "B.º Sta. Cruz",
+                "position": {
+                  "latitude": 38.747704,
+                  "longitude": -9.207026
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:24.000Z"
+              }
+            },
+            {
+              "id": 46369,
+              "order": 2,
+              "distance": 414,
+              "stop": {
+                "id": 2907,
+                "publicId": "2907",
+                "name": "R. Casquilha",
+                "position": {
+                  "latitude": 38.745952,
+                  "longitude": -9.20651
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:46.000Z"
+              }
+            },
+            {
+              "id": 46370,
+              "order": 3,
+              "distance": 259,
+              "stop": {
+                "id": 8813,
+                "publicId": "8813",
+                "name": "R. Venezuela",
+                "position": {
+                  "latitude": 38.745108,
+                  "longitude": -9.202739
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:05:58.000Z"
+              }
+            },
+            {
+              "id": 46371,
+              "order": 4,
+              "distance": 481,
+              "stop": {
+                "id": 2812,
+                "publicId": "2812",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.744882,
+                  "longitude": -9.199819
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:31:40.000Z"
+              }
+            },
+            {
+              "id": 46372,
+              "order": 5,
+              "distance": 274,
+              "stop": {
+                "id": 2803,
+                "publicId": "2803",
+                "name": "R. Gen. Morais Sarmento",
+                "position": {
+                  "latitude": 38.747313,
+                  "longitude": -9.197746
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:18.000Z"
+              }
+            },
+            {
+              "id": 46373,
+              "order": 6,
+              "distance": 375,
+              "stop": {
+                "id": 10907,
+                "publicId": "10907",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.749776,
+                  "longitude": -9.197502
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:11:04.000Z"
+              }
+            },
+            {
+              "id": 46374,
+              "order": 7,
+              "distance": 453,
+              "stop": {
+                "id": 10835,
+                "publicId": "10835",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.749735,
+                  "longitude": -9.194268
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:10:41.000Z"
+              }
+            },
+            {
+              "id": 46375,
+              "order": 8,
+              "distance": 594,
+              "stop": {
+                "id": 10807,
+                "publicId": "10807",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748543,
+                  "longitude": -9.191209
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:49.000Z"
+              }
+            },
+            {
+              "id": 46376,
+              "order": 9,
+              "distance": 556,
+              "stop": {
+                "id": 10813,
+                "publicId": "10813",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.75289,
+                  "longitude": -9.188172
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:11.000Z"
+              }
+            },
+            {
+              "id": 46377,
+              "order": 10,
+              "distance": 287,
+              "stop": {
+                "id": 12801,
+                "publicId": "12801",
+                "name": "Qta. Luz",
+                "position": {
+                  "latitude": 38.75727,
+                  "longitude": -9.185407
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:30.000Z"
+              }
+            },
+            {
+              "id": 46378,
+              "order": 11,
+              "distance": 257,
+              "stop": {
+                "id": 12823,
+                "publicId": "12823",
+                "name": "Igreja Carnide",
+                "position": {
+                  "latitude": 38.759822,
+                  "longitude": -9.184998
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:21:47.000Z"
+              }
+            },
+            {
+              "id": 46379,
+              "order": 12,
+              "distance": 390,
+              "stop": {
+                "id": 12803,
+                "publicId": "12803",
+                "name": "Lg. Luz",
+                "position": {
+                  "latitude": 38.760017,
+                  "longitude": -9.18275
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:57.000Z"
+              }
+            },
+            {
+              "id": 46380,
+              "order": 13,
+              "distance": 219,
+              "stop": {
+                "id": 12827,
+                "publicId": "12827",
+                "name": "Esc. Sec. Carnide",
+                "position": {
+                  "latitude": 38.75976,
+                  "longitude": -9.179636
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:22:36.000Z"
+              }
+            },
+            {
+              "id": 46381,
+              "order": 14,
+              "distance": 204,
+              "stop": {
+                "id": 12836,
+                "publicId": "12836",
+                "name": "R. Padre Américo",
+                "position": {
+                  "latitude": 38.761736,
+                  "longitude": -9.179625
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:26:04.000Z"
+              }
+            },
+            {
+              "id": 46382,
+              "order": 15,
+              "distance": 326,
+              "stop": {
+                "id": 12834,
+                "publicId": "12834",
+                "name": "Qta. Inglesinhos",
+                "position": {
+                  "latitude": 38.763312,
+                  "longitude": -9.180608
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:25:38.000Z"
+              }
+            },
+            {
+              "id": 46383,
+              "order": 16,
+              "distance": 250,
+              "stop": {
+                "id": 50359,
+                "publicId": "12809",
+                "name": "Av. Cidade Praga (Lispolis)",
+                "position": {
+                  "latitude": 38.765666,
+                  "longitude": -9.182287
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:46.000Z"
+              }
+            },
+            {
+              "id": 46384,
+              "order": 17,
+              "distance": 150,
+              "stop": {
+                "id": 12811,
+                "publicId": "12811",
+                "name": "B.º Horta Nova",
+                "position": {
+                  "latitude": 38.767279,
+                  "longitude": -9.181294
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:23:16.000Z"
+              }
+            },
+            {
+              "id": 46385,
+              "order": 18,
+              "distance": 346,
+              "stop": {
+                "id": 12830,
+                "publicId": "12830",
+                "name": "R. Eugénio Salvador",
+                "position": {
+                  "latitude": 38.767707,
+                  "longitude": -9.180271
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:23:51.000Z"
+              }
+            },
+            {
+              "id": 46386,
+              "order": 19,
+              "distance": 1094,
+              "stop": {
+                "id": 12833,
+                "publicId": "12833",
+                "name": "R. Virgilio Martinho",
+                "position": {
+                  "latitude": 38.765164,
+                  "longitude": -9.178527
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:24:44.000Z"
+              }
+            },
+            {
+              "id": 46387,
+              "order": 20,
+              "distance": 130,
+              "stop": {
+                "id": 50112,
+                "publicId": "5955",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.77,
+                  "longitude": -9.173541
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 46388,
+              "order": 21,
+              "distance": 371,
+              "stop": {
+                "id": 5949,
+                "publicId": "5949",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.771166,
+                  "longitude": -9.173724
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:01:10.000Z"
+              }
+            },
+            {
+              "id": 46389,
+              "order": 22,
+              "distance": 272,
+              "stop": {
+                "id": 5918,
+                "publicId": "5918",
+                "name": "Lg. Paço",
+                "position": {
+                  "latitude": 38.773288,
+                  "longitude": -9.172084
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:35.000Z"
+              }
+            },
+            {
+              "id": 46390,
+              "order": 23,
+              "distance": 336,
+              "stop": {
+                "id": 5919,
+                "publicId": "5919",
+                "name": "Estr. Lumiar",
+                "position": {
+                  "latitude": 38.77397,
+                  "longitude": -9.168557
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:56.000Z"
+              }
+            },
+            {
+              "id": 46391,
+              "order": 24,
+              "distance": 462,
+              "stop": {
+                "id": 5917,
+                "publicId": "5917",
+                "name": "Igreja Lumiar",
+                "position": {
+                  "latitude": 38.774837,
+                  "longitude": -9.16497
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:13.000Z"
+              }
+            },
+            {
+              "id": 46392,
+              "order": 25,
+              "distance": 285,
+              "stop": {
+                "id": 5905,
+                "publicId": "5905",
+                "name": "Lumiar (Estr. Torre)",
+                "position": {
+                  "latitude": 38.77379,
+                  "longitude": -9.161392
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:54:53.000Z"
+              }
+            },
+            {
+              "id": 46393,
+              "order": 26,
+              "distance": 504,
+              "stop": {
+                "id": 5920,
+                "publicId": "5920",
+                "name": "Az. Cidade",
+                "position": {
+                  "latitude": 38.775782,
+                  "longitude": -9.159556
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:57:28.000Z"
+              }
+            },
+            {
+              "id": 46394,
+              "order": 27,
+              "distance": 276,
+              "stop": {
+                "id": 5922,
+                "publicId": "5922",
+                "name": "Ameixoeira (Metro)",
+                "position": {
+                  "latitude": 38.779629,
+                  "longitude": -9.15979
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:07.000Z"
+              }
+            },
+            {
+              "id": 46395,
+              "order": 28,
+              "distance": 263,
+              "stop": {
+                "id": 5926,
+                "publicId": "5926",
+                "name": "Ameixoeira",
+                "position": {
+                  "latitude": 38.78188,
+                  "longitude": -9.158663
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:40.000Z"
+              }
+            },
+            {
+              "id": 46396,
+              "order": 29,
+              "distance": 380,
+              "stop": {
+                "id": 5928,
+                "publicId": "5928",
+                "name": "Az. S. Gonçalo",
+                "position": {
+                  "latitude": 38.781614,
+                  "longitude": -9.156563
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:06.000Z"
+              }
+            },
+            {
+              "id": 46397,
+              "order": 30,
+              "distance": 186,
+              "stop": {
+                "id": 6021,
+                "publicId": "6021",
+                "name": "Av. Dr. José Salvado Sampaio",
+                "position": {
+                  "latitude": 38.780287,
+                  "longitude": -9.153221
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 46398,
+              "order": 31,
+              "distance": 435,
+              "stop": {
+                "id": 6020,
+                "publicId": "6020",
+                "name": "Av. Nuno Kruz Abecassis",
+                "position": {
+                  "latitude": 38.779634,
+                  "longitude": -9.151657
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:27:41.000Z"
+              }
+            },
+            {
+              "id": 46399,
+              "order": 32,
+              "distance": 389,
+              "stop": {
+                "id": 6018,
+                "publicId": "6018",
+                "name": "Vale Castanheira",
+                "position": {
+                  "latitude": 38.779864,
+                  "longitude": -9.148379
+                },
+                "visible": true,
+                "updateDate": "2019-03-21T17:06:22.000Z"
+              }
+            },
+            {
+              "id": 46400,
+              "order": 33,
+              "distance": 206,
+              "stop": {
+                "id": 50045,
+                "publicId": "6025",
+                "name": "R. Tito Morais",
+                "position": {
+                  "latitude": 38.783065,
+                  "longitude": -9.147607
+                },
+                "visible": true,
+                "updateDate": "2019-10-30T16:09:33.000Z"
+              }
+            },
+            {
+              "id": 46401,
+              "order": 34,
+              "distance": 243,
+              "stop": {
+                "id": 50048,
+                "publicId": "6027",
+                "name": "Esc. S. Gonçalo",
+                "position": {
+                  "latitude": 38.783922,
+                  "longitude": -9.149261
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:32:04.000Z"
+              }
+            },
+            {
+              "id": 46402,
+              "order": 35,
+              "distance": 194,
+              "stop": {
+                "id": 6023,
+                "publicId": "6023",
+                "name": "B.º Sete Céus",
+                "position": {
+                  "latitude": 38.786047,
+                  "longitude": -9.149929
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:37.000Z"
+              }
+            },
+            {
+              "id": 46403,
+              "order": 36,
+              "distance": 284,
+              "stop": {
+                "id": 6001,
+                "publicId": "6001",
+                "name": "R. João Amaral",
+                "position": {
+                  "latitude": 38.787328,
+                  "longitude": -9.149174
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:58:00.000Z"
+              }
+            },
+            {
+              "id": 46404,
+              "order": 37,
+              "distance": 382,
+              "stop": {
+                "id": 6003,
+                "publicId": "6003",
+                "name": "Qta. Pailepa",
+                "position": {
+                  "latitude": 38.787847,
+                  "longitude": -9.145979
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:02:48.000Z"
+              }
+            },
+            {
+              "id": 46405,
+              "order": 38,
+              "distance": 0,
+              "stop": {
+                "id": 6007,
+                "publicId": "6007",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.787147,
+                  "longitude": -9.142113
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:02.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19982,
+      "variant": 1,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20563,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 38654,
+              "order": 1,
+              "distance": 227,
+              "stop": {
+                "id": 6007,
+                "publicId": "6007",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.787147,
+                  "longitude": -9.142113
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:02.000Z"
+              }
+            },
+            {
+              "id": 38655,
+              "order": 2,
+              "distance": 355,
+              "stop": {
+                "id": 6009,
+                "publicId": "6009",
+                "name": "Campo Amoreiras",
+                "position": {
+                  "latitude": 38.785714,
+                  "longitude": -9.142683
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:28.000Z"
+              }
+            },
+            {
+              "id": 38656,
+              "order": 3,
+              "distance": 187,
+              "stop": {
+                "id": 6008,
+                "publicId": "6008",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.78718,
+                  "longitude": -9.144596
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:11.000Z"
+              }
+            },
+            {
+              "id": 38657,
+              "order": 4,
+              "distance": 257,
+              "stop": {
+                "id": 6010,
+                "publicId": "6010",
+                "name": "Qta. Pailepa",
+                "position": {
+                  "latitude": 38.78788,
+                  "longitude": -9.146163
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:24:51.000Z"
+              }
+            },
+            {
+              "id": 38658,
+              "order": 5,
+              "distance": 222,
+              "stop": {
+                "id": 6002,
+                "publicId": "6002",
+                "name": "R. João Amaral",
+                "position": {
+                  "latitude": 38.787517,
+                  "longitude": -9.149093
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:02:32.000Z"
+              }
+            },
+            {
+              "id": 38659,
+              "order": 6,
+              "distance": 236,
+              "stop": {
+                "id": 6024,
+                "publicId": "6024",
+                "name": "B.º Sete Céus",
+                "position": {
+                  "latitude": 38.785897,
+                  "longitude": -9.149946
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:53.000Z"
+              }
+            },
+            {
+              "id": 38660,
+              "order": 7,
+              "distance": 278,
+              "stop": {
+                "id": 50047,
+                "publicId": "6026",
+                "name": "Esc. S. Gonçalo",
+                "position": {
+                  "latitude": 38.783822,
+                  "longitude": -9.149338
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:31:42.000Z"
+              }
+            },
+            {
+              "id": 38661,
+              "order": 8,
+              "distance": 307,
+              "stop": {
+                "id": 6022,
+                "publicId": "6022",
+                "name": "R. Tito Morais",
+                "position": {
+                  "latitude": 38.78253,
+                  "longitude": -9.147413
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:16.000Z"
+              }
+            },
+            {
+              "id": 38662,
+              "order": 9,
+              "distance": 440,
+              "stop": {
+                "id": 6015,
+                "publicId": "6015",
+                "name": "Vale Castanheira",
+                "position": {
+                  "latitude": 38.779915,
+                  "longitude": -9.148587
+                },
+                "visible": true,
+                "updateDate": "2019-03-21T17:06:19.000Z"
+              }
+            },
+            {
+              "id": 38663,
+              "order": 10,
+              "distance": 182,
+              "stop": {
+                "id": 6019,
+                "publicId": "6019",
+                "name": "Av. Nuno Kruz Abecassis",
+                "position": {
+                  "latitude": 38.779807,
+                  "longitude": -9.151581
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:26:48.000Z"
+              }
+            },
+            {
+              "id": 38664,
+              "order": 11,
+              "distance": 446,
+              "stop": {
+                "id": 6017,
+                "publicId": "6017",
+                "name": "Av. Dr. José Salvado Sampaio",
+                "position": {
+                  "latitude": 38.780517,
+                  "longitude": -9.153027
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 38665,
+              "order": 12,
+              "distance": 197,
+              "stop": {
+                "id": 5933,
+                "publicId": "5933",
+                "name": "Az. S. Gonçalo",
+                "position": {
+                  "latitude": 38.781864,
+                  "longitude": -9.156963
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:55.000Z"
+              }
+            },
+            {
+              "id": 38666,
+              "order": 13,
+              "distance": 322,
+              "stop": {
+                "id": 5931,
+                "publicId": "5931",
+                "name": "Ameixoeira",
+                "position": {
+                  "latitude": 38.78208,
+                  "longitude": -9.158746
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:25.000Z"
+              }
+            },
+            {
+              "id": 38667,
+              "order": 14,
+              "distance": 478,
+              "stop": {
+                "id": 5927,
+                "publicId": "5927",
+                "name": "Ameixoeira (Metro)",
+                "position": {
+                  "latitude": 38.779501,
+                  "longitude": -9.159449
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:52.000Z"
+              }
+            },
+            {
+              "id": 38668,
+              "order": 15,
+              "distance": 323,
+              "stop": {
+                "id": 5925,
+                "publicId": "5925",
+                "name": "R. Prof. M. Valadares",
+                "position": {
+                  "latitude": 38.775846,
+                  "longitude": -9.160491
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:24.000Z"
+              }
+            },
+            {
+              "id": 38669,
+              "order": 16,
+              "distance": 246,
+              "stop": {
+                "id": 5950,
+                "publicId": "5950",
+                "name": "Lumiar (Estr. Torre)",
+                "position": {
+                  "latitude": 38.773942,
+                  "longitude": -9.161483
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:01:25.000Z"
+              }
+            },
+            {
+              "id": 38670,
+              "order": 17,
+              "distance": 148,
+              "stop": {
+                "id": 5912,
+                "publicId": "5912",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774712,
+                  "longitude": -9.163137
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:14.000Z"
+              }
+            },
+            {
+              "id": 38671,
+              "order": 18,
+              "distance": 783,
+              "stop": {
+                "id": 5915,
+                "publicId": "5915",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774496,
+                  "longitude": -9.163784
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:43.000Z"
+              }
+            },
+            {
+              "id": 38672,
+              "order": 19,
+              "distance": 280,
+              "stop": {
+                "id": 50095,
+                "publicId": "5942",
+                "name": "R. Prof. Fernando Mello Moser",
+                "position": {
+                  "latitude": 38.770945,
+                  "longitude": -9.168719
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:13:49.000Z"
+              }
+            },
+            {
+              "id": 38673,
+              "order": 20,
+              "distance": 458,
+              "stop": {
+                "id": 5914,
+                "publicId": "5914",
+                "name": "Az. Poço Baixo",
+                "position": {
+                  "latitude": 38.772626,
+                  "longitude": -9.170421
+                },
+                "visible": true,
+                "updateDate": "2019-03-11T10:44:35.000Z"
+              }
+            },
+            {
+              "id": 38674,
+              "order": 21,
+              "distance": 310,
+              "stop": {
+                "id": 50097,
+                "publicId": "5948",
+                "name": "R. Teófilo Carvalho Santos",
+                "position": {
+                  "latitude": 38.770413,
+                  "longitude": -9.173088
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:16:26.000Z"
+              }
+            },
+            {
+              "id": 38675,
+              "order": 22,
+              "distance": 403,
+              "stop": {
+                "id": 50391,
+                "publicId": "50102",
+                "name": "Hosp. Forças Armadas",
+                "position": {
+                  "latitude": 38.769001,
+                  "longitude": -9.174789
+                },
+                "visible": true,
+                "updateDate": "2019-03-13T13:48:54.000Z"
+              }
+            },
+            {
+              "id": 38676,
+              "order": 23,
+              "distance": 176,
+              "stop": {
+                "id": 5934,
+                "publicId": "5934",
+                "name": "Az. Torre Fato",
+                "position": {
+                  "latitude": 38.770104,
+                  "longitude": -9.177595
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:12:15.000Z"
+              }
+            },
+            {
+              "id": 38677,
+              "order": 24,
+              "distance": 319,
+              "stop": {
+                "id": 5932,
+                "publicId": "5932",
+                "name": "Ineti",
+                "position": {
+                  "latitude": 38.769173,
+                  "longitude": -9.179233
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:11:59.000Z"
+              }
+            },
+            {
+              "id": 38678,
+              "order": 25,
+              "distance": 214,
+              "stop": {
+                "id": 12810,
+                "publicId": "12810",
+                "name": "B.º Horta Nova",
+                "position": {
+                  "latitude": 38.767048,
+                  "longitude": -9.181703
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:21:16.000Z"
+              }
+            },
+            {
+              "id": 38679,
+              "order": 26,
+              "distance": 337,
+              "stop": {
+                "id": 12807,
+                "publicId": "12807",
+                "name": "Av. Cidade Praga (Lispolis)",
+                "position": {
+                  "latitude": 38.765477,
+                  "longitude": -9.182644
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 38680,
+              "order": 27,
+              "distance": 213,
+              "stop": {
+                "id": 12808,
+                "publicId": "12808",
+                "name": "Qta. Inglesinhos",
+                "position": {
+                  "latitude": 38.763169,
+                  "longitude": -9.180583
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:38.000Z"
+              }
+            },
+            {
+              "id": 38681,
+              "order": 28,
+              "distance": 210,
+              "stop": {
+                "id": 12835,
+                "publicId": "12835",
+                "name": "R. Padre Américo",
+                "position": {
+                  "latitude": 38.761551,
+                  "longitude": -9.179823
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:25:52.000Z"
+              }
+            },
+            {
+              "id": 38682,
+              "order": 29,
+              "distance": 401,
+              "stop": {
+                "id": 12828,
+                "publicId": "12828",
+                "name": "Esc. Sec. Carnide",
+                "position": {
+                  "latitude": 38.759655,
+                  "longitude": -9.179805
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:23:01.000Z"
+              }
+            },
+            {
+              "id": 38683,
+              "order": 30,
+              "distance": 269,
+              "stop": {
+                "id": 12804,
+                "publicId": "12804",
+                "name": "Lg. Luz",
+                "position": {
+                  "latitude": 38.760243,
+                  "longitude": -9.182879
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:10.000Z"
+              }
+            },
+            {
+              "id": 38684,
+              "order": 31,
+              "distance": 271,
+              "stop": {
+                "id": 12824,
+                "publicId": "12824",
+                "name": "Igreja Carnide",
+                "position": {
+                  "latitude": 38.759587,
+                  "longitude": -9.185244
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:22:03.000Z"
+              }
+            },
+            {
+              "id": 38685,
+              "order": 32,
+              "distance": 631,
+              "stop": {
+                "id": 12802,
+                "publicId": "12802",
+                "name": "Qta. Luz",
+                "position": {
+                  "latitude": 38.757167,
+                  "longitude": -9.18568
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:43.000Z"
+              }
+            },
+            {
+              "id": 38686,
+              "order": 33,
+              "distance": 389,
+              "stop": {
+                "id": 10808,
+                "publicId": "10808",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752385,
+                  "longitude": -9.188966
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:27.000Z"
+              }
+            },
+            {
+              "id": 38687,
+              "order": 34,
+              "distance": 301,
+              "stop": {
+                "id": 10804,
+                "publicId": "10804",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.749594,
+                  "longitude": -9.191313
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:38.000Z"
+              }
+            },
+            {
+              "id": 38688,
+              "order": 35,
+              "distance": 0,
+              "stop": {
+                "id": 10803,
+                "publicId": "10803",
+                "name": "Calhariz (Escola)",
+                "position": {
+                  "latitude": 38.748208,
+                  "longitude": -9.192569
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:26.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 20564,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 38689,
+              "order": 1,
+              "distance": 594,
+              "stop": {
+                "id": 10807,
+                "publicId": "10807",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748543,
+                  "longitude": -9.191209
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:49.000Z"
+              }
+            },
+            {
+              "id": 38690,
+              "order": 2,
+              "distance": 556,
+              "stop": {
+                "id": 10813,
+                "publicId": "10813",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.75289,
+                  "longitude": -9.188172
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:11.000Z"
+              }
+            },
+            {
+              "id": 38691,
+              "order": 3,
+              "distance": 287,
+              "stop": {
+                "id": 12801,
+                "publicId": "12801",
+                "name": "Qta. Luz",
+                "position": {
+                  "latitude": 38.75727,
+                  "longitude": -9.185407
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:30.000Z"
+              }
+            },
+            {
+              "id": 38692,
+              "order": 4,
+              "distance": 257,
+              "stop": {
+                "id": 12823,
+                "publicId": "12823",
+                "name": "Igreja Carnide",
+                "position": {
+                  "latitude": 38.759822,
+                  "longitude": -9.184998
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:21:47.000Z"
+              }
+            },
+            {
+              "id": 38693,
+              "order": 5,
+              "distance": 383,
+              "stop": {
+                "id": 12803,
+                "publicId": "12803",
+                "name": "Lg. Luz",
+                "position": {
+                  "latitude": 38.760017,
+                  "longitude": -9.18275
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:57.000Z"
+              }
+            },
+            {
+              "id": 38694,
+              "order": 6,
+              "distance": 219,
+              "stop": {
+                "id": 12827,
+                "publicId": "12827",
+                "name": "Esc. Sec. Carnide",
+                "position": {
+                  "latitude": 38.75976,
+                  "longitude": -9.179636
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:22:36.000Z"
+              }
+            },
+            {
+              "id": 38695,
+              "order": 7,
+              "distance": 204,
+              "stop": {
+                "id": 12836,
+                "publicId": "12836",
+                "name": "R. Padre Américo",
+                "position": {
+                  "latitude": 38.761736,
+                  "longitude": -9.179625
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:26:04.000Z"
+              }
+            },
+            {
+              "id": 38696,
+              "order": 8,
+              "distance": 326,
+              "stop": {
+                "id": 12834,
+                "publicId": "12834",
+                "name": "Qta. Inglesinhos",
+                "position": {
+                  "latitude": 38.763312,
+                  "longitude": -9.180608
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:25:38.000Z"
+              }
+            },
+            {
+              "id": 38697,
+              "order": 9,
+              "distance": 250,
+              "stop": {
+                "id": 50359,
+                "publicId": "12809",
+                "name": "Av. Cidade Praga (Lispolis)",
+                "position": {
+                  "latitude": 38.765666,
+                  "longitude": -9.182287
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:46.000Z"
+              }
+            },
+            {
+              "id": 38698,
+              "order": 10,
+              "distance": 268,
+              "stop": {
+                "id": 12811,
+                "publicId": "12811",
+                "name": "B.º Horta Nova",
+                "position": {
+                  "latitude": 38.767279,
+                  "longitude": -9.181294
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:23:16.000Z"
+              }
+            },
+            {
+              "id": 38699,
+              "order": 11,
+              "distance": 228,
+              "stop": {
+                "id": 5935,
+                "publicId": "5935",
+                "name": "Ineti",
+                "position": {
+                  "latitude": 38.769042,
+                  "longitude": -9.179247
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:12:31.000Z"
+              }
+            },
+            {
+              "id": 38700,
+              "order": 12,
+              "distance": 351,
+              "stop": {
+                "id": 5937,
+                "publicId": "5937",
+                "name": "Az. Torre Fato",
+                "position": {
+                  "latitude": 38.770265,
+                  "longitude": -9.177134
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:12:50.000Z"
+              }
+            },
+            {
+              "id": 38701,
+              "order": 13,
+              "distance": 364,
+              "stop": {
+                "id": 50161,
+                "publicId": "5945",
+                "name": "Hosp. Forças Armadas",
+                "position": {
+                  "latitude": 38.76891,
+                  "longitude": -9.17425
+                },
+                "visible": true,
+                "updateDate": "2019-03-11T10:45:29.000Z"
+              }
+            },
+            {
+              "id": 38702,
+              "order": 14,
+              "distance": 371,
+              "stop": {
+                "id": 5949,
+                "publicId": "5949",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.771166,
+                  "longitude": -9.173724
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:01:10.000Z"
+              }
+            },
+            {
+              "id": 38703,
+              "order": 20,
+              "distance": 276,
+              "stop": {
+                "id": 5922,
+                "publicId": "5922",
+                "name": "Ameixoeira (Metro)",
+                "position": {
+                  "latitude": 38.779629,
+                  "longitude": -9.15979
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:07.000Z"
+              }
+            },
+            {
+              "id": 38704,
+              "order": 21,
+              "distance": 263,
+              "stop": {
+                "id": 5926,
+                "publicId": "5926",
+                "name": "Ameixoeira",
+                "position": {
+                  "latitude": 38.78188,
+                  "longitude": -9.158663
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:40.000Z"
+              }
+            },
+            {
+              "id": 38705,
+              "order": 22,
+              "distance": 380,
+              "stop": {
+                "id": 5928,
+                "publicId": "5928",
+                "name": "Az. S. Gonçalo",
+                "position": {
+                  "latitude": 38.781614,
+                  "longitude": -9.156563
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:06.000Z"
+              }
+            },
+            {
+              "id": 38706,
+              "order": 23,
+              "distance": 186,
+              "stop": {
+                "id": 6021,
+                "publicId": "6021",
+                "name": "Av. Dr. José Salvado Sampaio",
+                "position": {
+                  "latitude": 38.780287,
+                  "longitude": -9.153221
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 38707,
+              "order": 24,
+              "distance": 435,
+              "stop": {
+                "id": 6020,
+                "publicId": "6020",
+                "name": "Av. Nuno Kruz Abecassis",
+                "position": {
+                  "latitude": 38.779634,
+                  "longitude": -9.151657
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:27:41.000Z"
+              }
+            },
+            {
+              "id": 38708,
+              "order": 25,
+              "distance": 389,
+              "stop": {
+                "id": 6018,
+                "publicId": "6018",
+                "name": "Vale Castanheira",
+                "position": {
+                  "latitude": 38.779864,
+                  "longitude": -9.148379
+                },
+                "visible": true,
+                "updateDate": "2019-03-21T17:06:22.000Z"
+              }
+            },
+            {
+              "id": 38709,
+              "order": 26,
+              "distance": 206,
+              "stop": {
+                "id": 50045,
+                "publicId": "6025",
+                "name": "R. Tito Morais",
+                "position": {
+                  "latitude": 38.783065,
+                  "longitude": -9.147607
+                },
+                "visible": true,
+                "updateDate": "2019-10-30T16:09:33.000Z"
+              }
+            },
+            {
+              "id": 38710,
+              "order": 27,
+              "distance": 243,
+              "stop": {
+                "id": 50048,
+                "publicId": "6027",
+                "name": "Esc. S. Gonçalo",
+                "position": {
+                  "latitude": 38.783922,
+                  "longitude": -9.149261
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:32:04.000Z"
+              }
+            },
+            {
+              "id": 38711,
+              "order": 28,
+              "distance": 194,
+              "stop": {
+                "id": 6023,
+                "publicId": "6023",
+                "name": "B.º Sete Céus",
+                "position": {
+                  "latitude": 38.786047,
+                  "longitude": -9.149929
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:37.000Z"
+              }
+            },
+            {
+              "id": 38712,
+              "order": 29,
+              "distance": 284,
+              "stop": {
+                "id": 6001,
+                "publicId": "6001",
+                "name": "R. João Amaral",
+                "position": {
+                  "latitude": 38.787328,
+                  "longitude": -9.149174
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:58:00.000Z"
+              }
+            },
+            {
+              "id": 38713,
+              "order": 30,
+              "distance": 382,
+              "stop": {
+                "id": 6003,
+                "publicId": "6003",
+                "name": "Qta. Pailepa",
+                "position": {
+                  "latitude": 38.787847,
+                  "longitude": -9.145979
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:02:48.000Z"
+              }
+            },
+            {
+              "id": 38714,
+              "order": 31,
+              "distance": 0,
+              "stop": {
+                "id": 6007,
+                "publicId": "6007",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.787147,
+                  "longitude": -9.142113
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:02.000Z"
+              }
+            },
+            {
+              "id": 38793,
+              "order": 15,
+              "distance": 272,
+              "stop": {
+                "id": 5918,
+                "publicId": "5918",
+                "name": "Lg. Paço",
+                "position": {
+                  "latitude": 38.773288,
+                  "longitude": -9.172084
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:35.000Z"
+              }
+            },
+            {
+              "id": 38794,
+              "order": 16,
+              "distance": 336,
+              "stop": {
+                "id": 5919,
+                "publicId": "5919",
+                "name": "Estr. Lumiar",
+                "position": {
+                  "latitude": 38.77397,
+                  "longitude": -9.168557
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:56.000Z"
+              }
+            },
+            {
+              "id": 38795,
+              "order": 17,
+              "distance": 462,
+              "stop": {
+                "id": 5917,
+                "publicId": "5917",
+                "name": "Igreja Lumiar",
+                "position": {
+                  "latitude": 38.774837,
+                  "longitude": -9.16497
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:13.000Z"
+              }
+            },
+            {
+              "id": 38796,
+              "order": 18,
+              "distance": 285,
+              "stop": {
+                "id": 5905,
+                "publicId": "5905",
+                "name": "Lumiar (Estr. Torre)",
+                "position": {
+                  "latitude": 38.77379,
+                  "longitude": -9.161392
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:54:53.000Z"
+              }
+            },
+            {
+              "id": 38797,
+              "order": 19,
+              "distance": 504,
+              "stop": {
+                "id": 5920,
+                "publicId": "5920",
+                "name": "Az. Cidade",
+                "position": {
+                  "latitude": 38.775782,
+                  "longitude": -9.159556
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:57:28.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21001,
+      "variant": 1,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21643,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 46406,
+              "order": 1,
+              "distance": 227,
+              "stop": {
+                "id": 6007,
+                "publicId": "6007",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.787147,
+                  "longitude": -9.142113
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:02.000Z"
+              }
+            },
+            {
+              "id": 46407,
+              "order": 2,
+              "distance": 355,
+              "stop": {
+                "id": 6009,
+                "publicId": "6009",
+                "name": "Campo Amoreiras",
+                "position": {
+                  "latitude": 38.785714,
+                  "longitude": -9.142683
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:28.000Z"
+              }
+            },
+            {
+              "id": 46408,
+              "order": 3,
+              "distance": 187,
+              "stop": {
+                "id": 6008,
+                "publicId": "6008",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.78718,
+                  "longitude": -9.144596
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:11.000Z"
+              }
+            },
+            {
+              "id": 46409,
+              "order": 4,
+              "distance": 257,
+              "stop": {
+                "id": 6010,
+                "publicId": "6010",
+                "name": "Qta. Pailepa",
+                "position": {
+                  "latitude": 38.78788,
+                  "longitude": -9.146163
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:24:51.000Z"
+              }
+            },
+            {
+              "id": 46410,
+              "order": 5,
+              "distance": 222,
+              "stop": {
+                "id": 6002,
+                "publicId": "6002",
+                "name": "R. João Amaral",
+                "position": {
+                  "latitude": 38.787517,
+                  "longitude": -9.149093
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:02:32.000Z"
+              }
+            },
+            {
+              "id": 46411,
+              "order": 6,
+              "distance": 236,
+              "stop": {
+                "id": 6024,
+                "publicId": "6024",
+                "name": "B.º Sete Céus",
+                "position": {
+                  "latitude": 38.785897,
+                  "longitude": -9.149946
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:53.000Z"
+              }
+            },
+            {
+              "id": 46412,
+              "order": 7,
+              "distance": 278,
+              "stop": {
+                "id": 50047,
+                "publicId": "6026",
+                "name": "Esc. S. Gonçalo",
+                "position": {
+                  "latitude": 38.783822,
+                  "longitude": -9.149338
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:31:42.000Z"
+              }
+            },
+            {
+              "id": 46413,
+              "order": 8,
+              "distance": 307,
+              "stop": {
+                "id": 6022,
+                "publicId": "6022",
+                "name": "R. Tito Morais",
+                "position": {
+                  "latitude": 38.78253,
+                  "longitude": -9.147413
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:16.000Z"
+              }
+            },
+            {
+              "id": 46414,
+              "order": 9,
+              "distance": 440,
+              "stop": {
+                "id": 6015,
+                "publicId": "6015",
+                "name": "Vale Castanheira",
+                "position": {
+                  "latitude": 38.779915,
+                  "longitude": -9.148587
+                },
+                "visible": true,
+                "updateDate": "2019-03-21T17:06:19.000Z"
+              }
+            },
+            {
+              "id": 46415,
+              "order": 10,
+              "distance": 182,
+              "stop": {
+                "id": 6019,
+                "publicId": "6019",
+                "name": "Av. Nuno Kruz Abecassis",
+                "position": {
+                  "latitude": 38.779807,
+                  "longitude": -9.151581
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:26:48.000Z"
+              }
+            },
+            {
+              "id": 46416,
+              "order": 11,
+              "distance": 446,
+              "stop": {
+                "id": 6017,
+                "publicId": "6017",
+                "name": "Av. Dr. José Salvado Sampaio",
+                "position": {
+                  "latitude": 38.780517,
+                  "longitude": -9.153027
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 46417,
+              "order": 12,
+              "distance": 197,
+              "stop": {
+                "id": 5933,
+                "publicId": "5933",
+                "name": "Az. S. Gonçalo",
+                "position": {
+                  "latitude": 38.781864,
+                  "longitude": -9.156963
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:55.000Z"
+              }
+            },
+            {
+              "id": 46418,
+              "order": 13,
+              "distance": 322,
+              "stop": {
+                "id": 5931,
+                "publicId": "5931",
+                "name": "Ameixoeira",
+                "position": {
+                  "latitude": 38.78208,
+                  "longitude": -9.158746
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:25.000Z"
+              }
+            },
+            {
+              "id": 46419,
+              "order": 14,
+              "distance": 478,
+              "stop": {
+                "id": 5927,
+                "publicId": "5927",
+                "name": "Ameixoeira (Metro)",
+                "position": {
+                  "latitude": 38.779501,
+                  "longitude": -9.159449
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:52.000Z"
+              }
+            },
+            {
+              "id": 46420,
+              "order": 15,
+              "distance": 323,
+              "stop": {
+                "id": 5925,
+                "publicId": "5925",
+                "name": "R. Prof. M. Valadares",
+                "position": {
+                  "latitude": 38.775846,
+                  "longitude": -9.160491
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:24.000Z"
+              }
+            },
+            {
+              "id": 46421,
+              "order": 16,
+              "distance": 246,
+              "stop": {
+                "id": 5950,
+                "publicId": "5950",
+                "name": "Lumiar (Estr. Torre)",
+                "position": {
+                  "latitude": 38.773942,
+                  "longitude": -9.161483
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:01:25.000Z"
+              }
+            },
+            {
+              "id": 46422,
+              "order": 17,
+              "distance": 148,
+              "stop": {
+                "id": 5912,
+                "publicId": "5912",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774712,
+                  "longitude": -9.163137
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:14.000Z"
+              }
+            },
+            {
+              "id": 46423,
+              "order": 18,
+              "distance": 783,
+              "stop": {
+                "id": 5915,
+                "publicId": "5915",
+                "name": "Lumiar - Av. Padre Cruz",
+                "position": {
+                  "latitude": 38.774496,
+                  "longitude": -9.163784
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:55:43.000Z"
+              }
+            },
+            {
+              "id": 46424,
+              "order": 19,
+              "distance": 280,
+              "stop": {
+                "id": 50095,
+                "publicId": "5942",
+                "name": "R. Prof. Fernando Mello Moser",
+                "position": {
+                  "latitude": 38.770945,
+                  "longitude": -9.168719
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:13:49.000Z"
+              }
+            },
+            {
+              "id": 46425,
+              "order": 20,
+              "distance": 458,
+              "stop": {
+                "id": 5914,
+                "publicId": "5914",
+                "name": "Az. Poço Baixo",
+                "position": {
+                  "latitude": 38.772626,
+                  "longitude": -9.170421
+                },
+                "visible": true,
+                "updateDate": "2019-03-11T10:44:35.000Z"
+              }
+            },
+            {
+              "id": 46426,
+              "order": 21,
+              "distance": 310,
+              "stop": {
+                "id": 50097,
+                "publicId": "5948",
+                "name": "R. Teófilo Carvalho Santos",
+                "position": {
+                  "latitude": 38.770413,
+                  "longitude": -9.173088
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:16:26.000Z"
+              }
+            },
+            {
+              "id": 46427,
+              "order": 22,
+              "distance": 403,
+              "stop": {
+                "id": 50391,
+                "publicId": "50102",
+                "name": "Hosp. Forças Armadas",
+                "position": {
+                  "latitude": 38.769001,
+                  "longitude": -9.174789
+                },
+                "visible": true,
+                "updateDate": "2019-03-13T13:48:54.000Z"
+              }
+            },
+            {
+              "id": 46428,
+              "order": 23,
+              "distance": 176,
+              "stop": {
+                "id": 5934,
+                "publicId": "5934",
+                "name": "Az. Torre Fato",
+                "position": {
+                  "latitude": 38.770104,
+                  "longitude": -9.177595
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:12:15.000Z"
+              }
+            },
+            {
+              "id": 46429,
+              "order": 24,
+              "distance": 319,
+              "stop": {
+                "id": 5932,
+                "publicId": "5932",
+                "name": "Ineti",
+                "position": {
+                  "latitude": 38.769173,
+                  "longitude": -9.179233
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T17:11:59.000Z"
+              }
+            },
+            {
+              "id": 46430,
+              "order": 25,
+              "distance": 214,
+              "stop": {
+                "id": 12810,
+                "publicId": "12810",
+                "name": "B.º Horta Nova",
+                "position": {
+                  "latitude": 38.767048,
+                  "longitude": -9.181703
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:21:16.000Z"
+              }
+            },
+            {
+              "id": 46431,
+              "order": 26,
+              "distance": 337,
+              "stop": {
+                "id": 12807,
+                "publicId": "12807",
+                "name": "Av. Cidade Praga (Lispolis)",
+                "position": {
+                  "latitude": 38.765477,
+                  "longitude": -9.182644
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 46432,
+              "order": 27,
+              "distance": 213,
+              "stop": {
+                "id": 12808,
+                "publicId": "12808",
+                "name": "Qta. Inglesinhos",
+                "position": {
+                  "latitude": 38.763169,
+                  "longitude": -9.180583
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:38.000Z"
+              }
+            },
+            {
+              "id": 46433,
+              "order": 28,
+              "distance": 210,
+              "stop": {
+                "id": 12835,
+                "publicId": "12835",
+                "name": "R. Padre Américo",
+                "position": {
+                  "latitude": 38.761551,
+                  "longitude": -9.179823
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:25:52.000Z"
+              }
+            },
+            {
+              "id": 46434,
+              "order": 29,
+              "distance": 401,
+              "stop": {
+                "id": 12828,
+                "publicId": "12828",
+                "name": "Esc. Sec. Carnide",
+                "position": {
+                  "latitude": 38.759655,
+                  "longitude": -9.179805
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:23:01.000Z"
+              }
+            },
+            {
+              "id": 46435,
+              "order": 30,
+              "distance": 269,
+              "stop": {
+                "id": 12804,
+                "publicId": "12804",
+                "name": "Lg. Luz",
+                "position": {
+                  "latitude": 38.760243,
+                  "longitude": -9.182879
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:10.000Z"
+              }
+            },
+            {
+              "id": 46436,
+              "order": 31,
+              "distance": 271,
+              "stop": {
+                "id": 12824,
+                "publicId": "12824",
+                "name": "Igreja Carnide",
+                "position": {
+                  "latitude": 38.759587,
+                  "longitude": -9.185244
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:22:03.000Z"
+              }
+            },
+            {
+              "id": 46437,
+              "order": 32,
+              "distance": 631,
+              "stop": {
+                "id": 12802,
+                "publicId": "12802",
+                "name": "Qta. Luz",
+                "position": {
+                  "latitude": 38.757167,
+                  "longitude": -9.18568
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:43.000Z"
+              }
+            },
+            {
+              "id": 46438,
+              "order": 33,
+              "distance": 389,
+              "stop": {
+                "id": 10808,
+                "publicId": "10808",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752385,
+                  "longitude": -9.188966
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:27.000Z"
+              }
+            },
+            {
+              "id": 46439,
+              "order": 34,
+              "distance": 301,
+              "stop": {
+                "id": 10804,
+                "publicId": "10804",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.749594,
+                  "longitude": -9.191313
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:38.000Z"
+              }
+            },
+            {
+              "id": 46440,
+              "order": 35,
+              "distance": 0,
+              "stop": {
+                "id": 10803,
+                "publicId": "10803",
+                "name": "Calhariz (Escola)",
+                "position": {
+                  "latitude": 38.748208,
+                  "longitude": -9.192569
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:26.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21644,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 46441,
+              "order": 1,
+              "distance": 594,
+              "stop": {
+                "id": 10807,
+                "publicId": "10807",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748543,
+                  "longitude": -9.191209
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:49.000Z"
+              }
+            },
+            {
+              "id": 46442,
+              "order": 2,
+              "distance": 556,
+              "stop": {
+                "id": 10813,
+                "publicId": "10813",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.75289,
+                  "longitude": -9.188172
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:11.000Z"
+              }
+            },
+            {
+              "id": 46443,
+              "order": 3,
+              "distance": 287,
+              "stop": {
+                "id": 12801,
+                "publicId": "12801",
+                "name": "Qta. Luz",
+                "position": {
+                  "latitude": 38.75727,
+                  "longitude": -9.185407
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:30.000Z"
+              }
+            },
+            {
+              "id": 46444,
+              "order": 4,
+              "distance": 257,
+              "stop": {
+                "id": 12823,
+                "publicId": "12823",
+                "name": "Igreja Carnide",
+                "position": {
+                  "latitude": 38.759822,
+                  "longitude": -9.184998
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:21:47.000Z"
+              }
+            },
+            {
+              "id": 46445,
+              "order": 5,
+              "distance": 390,
+              "stop": {
+                "id": 12803,
+                "publicId": "12803",
+                "name": "Lg. Luz",
+                "position": {
+                  "latitude": 38.760017,
+                  "longitude": -9.18275
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:19:57.000Z"
+              }
+            },
+            {
+              "id": 46446,
+              "order": 6,
+              "distance": 219,
+              "stop": {
+                "id": 12827,
+                "publicId": "12827",
+                "name": "Esc. Sec. Carnide",
+                "position": {
+                  "latitude": 38.75976,
+                  "longitude": -9.179636
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:22:36.000Z"
+              }
+            },
+            {
+              "id": 46447,
+              "order": 7,
+              "distance": 204,
+              "stop": {
+                "id": 12836,
+                "publicId": "12836",
+                "name": "R. Padre Américo",
+                "position": {
+                  "latitude": 38.761736,
+                  "longitude": -9.179625
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:26:04.000Z"
+              }
+            },
+            {
+              "id": 46448,
+              "order": 8,
+              "distance": 326,
+              "stop": {
+                "id": 12834,
+                "publicId": "12834",
+                "name": "Qta. Inglesinhos",
+                "position": {
+                  "latitude": 38.763312,
+                  "longitude": -9.180608
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:25:38.000Z"
+              }
+            },
+            {
+              "id": 46449,
+              "order": 9,
+              "distance": 250,
+              "stop": {
+                "id": 50359,
+                "publicId": "12809",
+                "name": "Av. Cidade Praga (Lispolis)",
+                "position": {
+                  "latitude": 38.765666,
+                  "longitude": -9.182287
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:20:46.000Z"
+              }
+            },
+            {
+              "id": 46450,
+              "order": 10,
+              "distance": 150,
+              "stop": {
+                "id": 12811,
+                "publicId": "12811",
+                "name": "B.º Horta Nova",
+                "position": {
+                  "latitude": 38.767279,
+                  "longitude": -9.181294
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:23:16.000Z"
+              }
+            },
+            {
+              "id": 46451,
+              "order": 11,
+              "distance": 346,
+              "stop": {
+                "id": 12830,
+                "publicId": "12830",
+                "name": "R. Eugénio Salvador",
+                "position": {
+                  "latitude": 38.767707,
+                  "longitude": -9.180271
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:23:51.000Z"
+              }
+            },
+            {
+              "id": 46452,
+              "order": 12,
+              "distance": 1094,
+              "stop": {
+                "id": 12833,
+                "publicId": "12833",
+                "name": "R. Virgilio Martinho",
+                "position": {
+                  "latitude": 38.765164,
+                  "longitude": -9.178527
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:24:44.000Z"
+              }
+            },
+            {
+              "id": 46453,
+              "order": 13,
+              "distance": 130,
+              "stop": {
+                "id": 50112,
+                "publicId": "5955",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.77,
+                  "longitude": -9.173541
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 46454,
+              "order": 14,
+              "distance": 371,
+              "stop": {
+                "id": 5949,
+                "publicId": "5949",
+                "name": "Paço Lumiar",
+                "position": {
+                  "latitude": 38.771166,
+                  "longitude": -9.173724
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:01:10.000Z"
+              }
+            },
+            {
+              "id": 46455,
+              "order": 15,
+              "distance": 272,
+              "stop": {
+                "id": 5918,
+                "publicId": "5918",
+                "name": "Lg. Paço",
+                "position": {
+                  "latitude": 38.773288,
+                  "longitude": -9.172084
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:35.000Z"
+              }
+            },
+            {
+              "id": 46456,
+              "order": 16,
+              "distance": 336,
+              "stop": {
+                "id": 5919,
+                "publicId": "5919",
+                "name": "Estr. Lumiar",
+                "position": {
+                  "latitude": 38.77397,
+                  "longitude": -9.168557
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:56.000Z"
+              }
+            },
+            {
+              "id": 46457,
+              "order": 17,
+              "distance": 462,
+              "stop": {
+                "id": 5917,
+                "publicId": "5917",
+                "name": "Igreja Lumiar",
+                "position": {
+                  "latitude": 38.774837,
+                  "longitude": -9.16497
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:56:13.000Z"
+              }
+            },
+            {
+              "id": 46458,
+              "order": 18,
+              "distance": 285,
+              "stop": {
+                "id": 5905,
+                "publicId": "5905",
+                "name": "Lumiar (Estr. Torre)",
+                "position": {
+                  "latitude": 38.77379,
+                  "longitude": -9.161392
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:54:53.000Z"
+              }
+            },
+            {
+              "id": 46459,
+              "order": 19,
+              "distance": 504,
+              "stop": {
+                "id": 5920,
+                "publicId": "5920",
+                "name": "Az. Cidade",
+                "position": {
+                  "latitude": 38.775782,
+                  "longitude": -9.159556
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:57:28.000Z"
+              }
+            },
+            {
+              "id": 46460,
+              "order": 20,
+              "distance": 276,
+              "stop": {
+                "id": 5922,
+                "publicId": "5922",
+                "name": "Ameixoeira (Metro)",
+                "position": {
+                  "latitude": 38.779629,
+                  "longitude": -9.15979
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:07.000Z"
+              }
+            },
+            {
+              "id": 46461,
+              "order": 21,
+              "distance": 263,
+              "stop": {
+                "id": 5926,
+                "publicId": "5926",
+                "name": "Ameixoeira",
+                "position": {
+                  "latitude": 38.78188,
+                  "longitude": -9.158663
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:58:40.000Z"
+              }
+            },
+            {
+              "id": 46462,
+              "order": 22,
+              "distance": 380,
+              "stop": {
+                "id": 5928,
+                "publicId": "5928",
+                "name": "Az. S. Gonçalo",
+                "position": {
+                  "latitude": 38.781614,
+                  "longitude": -9.156563
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T12:59:06.000Z"
+              }
+            },
+            {
+              "id": 46463,
+              "order": 23,
+              "distance": 186,
+              "stop": {
+                "id": 6021,
+                "publicId": "6021",
+                "name": "Av. Dr. José Salvado Sampaio",
+                "position": {
+                  "latitude": 38.780287,
+                  "longitude": -9.153221
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 46464,
+              "order": 24,
+              "distance": 435,
+              "stop": {
+                "id": 6020,
+                "publicId": "6020",
+                "name": "Av. Nuno Kruz Abecassis",
+                "position": {
+                  "latitude": 38.779634,
+                  "longitude": -9.151657
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:27:41.000Z"
+              }
+            },
+            {
+              "id": 46465,
+              "order": 25,
+              "distance": 389,
+              "stop": {
+                "id": 6018,
+                "publicId": "6018",
+                "name": "Vale Castanheira",
+                "position": {
+                  "latitude": 38.779864,
+                  "longitude": -9.148379
+                },
+                "visible": true,
+                "updateDate": "2019-03-21T17:06:22.000Z"
+              }
+            },
+            {
+              "id": 46466,
+              "order": 26,
+              "distance": 206,
+              "stop": {
+                "id": 50045,
+                "publicId": "6025",
+                "name": "R. Tito Morais",
+                "position": {
+                  "latitude": 38.783065,
+                  "longitude": -9.147607
+                },
+                "visible": true,
+                "updateDate": "2019-10-30T16:09:33.000Z"
+              }
+            },
+            {
+              "id": 46467,
+              "order": 27,
+              "distance": 243,
+              "stop": {
+                "id": 50048,
+                "publicId": "6027",
+                "name": "Esc. S. Gonçalo",
+                "position": {
+                  "latitude": 38.783922,
+                  "longitude": -9.149261
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:32:04.000Z"
+              }
+            },
+            {
+              "id": 46468,
+              "order": 28,
+              "distance": 194,
+              "stop": {
+                "id": 6023,
+                "publicId": "6023",
+                "name": "B.º Sete Céus",
+                "position": {
+                  "latitude": 38.786047,
+                  "longitude": -9.149929
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T16:30:37.000Z"
+              }
+            },
+            {
+              "id": 46469,
+              "order": 29,
+              "distance": 284,
+              "stop": {
+                "id": 6001,
+                "publicId": "6001",
+                "name": "R. João Amaral",
+                "position": {
+                  "latitude": 38.787328,
+                  "longitude": -9.149174
+                },
+                "visible": true,
+                "updateDate": "2019-03-20T17:58:00.000Z"
+              }
+            },
+            {
+              "id": 46470,
+              "order": 30,
+              "distance": 382,
+              "stop": {
+                "id": 6003,
+                "publicId": "6003",
+                "name": "Qta. Pailepa",
+                "position": {
+                  "latitude": 38.787847,
+                  "longitude": -9.145979
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:02:48.000Z"
+              }
+            },
+            {
+              "id": 46471,
+              "order": 31,
+              "distance": 0,
+              "stop": {
+                "id": 6007,
+                "publicId": "6007",
+                "name": "Charneca",
+                "position": {
+                  "latitude": 38.787147,
+                  "longitude": -9.142113
+                },
+                "visible": true,
+                "updateDate": "2019-02-14T13:03:02.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

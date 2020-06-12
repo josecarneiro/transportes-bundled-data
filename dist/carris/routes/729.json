@@ -1,0 +1,5068 @@
+{
+  "id": 104,
+  "number": "729",
+  "name": "B.º Padre Cruz-Algés",
+  "visible": true,
+  "creationDate": "2020-05-20T09:20:31.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20761,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21401,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 44178,
+              "order": 1,
+              "distance": 218,
+              "stop": {
+                "id": 14107,
+                "publicId": "14107",
+                "name": "Bº Padre Cruz",
+                "position": {
+                  "latitude": 38.769542,
+                  "longitude": -9.189714
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:36:14.000Z"
+              }
+            },
+            {
+              "id": 44179,
+              "order": 2,
+              "distance": 220,
+              "stop": {
+                "id": 14105,
+                "publicId": "14105",
+                "name": "R. Rio Tejo",
+                "position": {
+                  "latitude": 38.770974,
+                  "longitude": -9.188969
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:30:22.000Z"
+              }
+            },
+            {
+              "id": 44180,
+              "order": 3,
+              "distance": 283,
+              "stop": {
+                "id": 14103,
+                "publicId": "14103",
+                "name": "Serra Luz",
+                "position": {
+                  "latitude": 38.772223,
+                  "longitude": -9.190734
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:29:52.000Z"
+              }
+            },
+            {
+              "id": 44181,
+              "order": 4,
+              "distance": 312,
+              "stop": {
+                "id": 14101,
+                "publicId": "14101",
+                "name": "Estr. Militar (Escorpiões)",
+                "position": {
+                  "latitude": 38.770995,
+                  "longitude": -9.193578
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:29:16.000Z"
+              }
+            },
+            {
+              "id": 44182,
+              "order": 5,
+              "distance": 514,
+              "stop": {
+                "id": 14111,
+                "publicId": "14111",
+                "name": "Mal Penteada",
+                "position": {
+                  "latitude": 38.768798,
+                  "longitude": -9.195806
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:31:16.000Z"
+              }
+            },
+            {
+              "id": 44183,
+              "order": 6,
+              "distance": 625,
+              "stop": {
+                "id": 13909,
+                "publicId": "13909",
+                "name": "Pontinha",
+                "position": {
+                  "latitude": 38.765117,
+                  "longitude": -9.198843
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:28:34.000Z"
+              }
+            },
+            {
+              "id": 44184,
+              "order": 7,
+              "distance": 338,
+              "stop": {
+                "id": 13911,
+                "publicId": "13911",
+                "name": "Pontinha (Metro)",
+                "position": {
+                  "latitude": 38.761614,
+                  "longitude": -9.196761
+                },
+                "visible": true,
+                "updateDate": "2020-03-06T14:01:06.000Z"
+              }
+            },
+            {
+              "id": 44185,
+              "order": 8,
+              "distance": 237,
+              "stop": {
+                "id": 12813,
+                "publicId": "12813",
+                "name": "Estação Da Pontinha",
+                "position": {
+                  "latitude": 38.760328,
+                  "longitude": -9.19414
+                },
+                "visible": true,
+                "updateDate": "2020-03-06T14:00:03.000Z"
+              }
+            },
+            {
+              "id": 44186,
+              "order": 9,
+              "distance": 1086,
+              "stop": {
+                "id": 12821,
+                "publicId": "12821",
+                "name": "Carnide (Metro)",
+                "position": {
+                  "latitude": 38.759488,
+                  "longitude": -9.192639
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:24:44.000Z"
+              }
+            },
+            {
+              "id": 44187,
+              "order": 10,
+              "distance": 429,
+              "stop": {
+                "id": 50241,
+                "publicId": "10823",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752723,
+                  "longitude": -9.18935
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:07:46.000Z"
+              }
+            },
+            {
+              "id": 44188,
+              "order": 11,
+              "distance": 437,
+              "stop": {
+                "id": 10804,
+                "publicId": "10804",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.749594,
+                  "longitude": -9.191313
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:38.000Z"
+              }
+            },
+            {
+              "id": 44189,
+              "order": 12,
+              "distance": 272,
+              "stop": {
+                "id": 10802,
+                "publicId": "10802",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.750137,
+                  "longitude": -9.195585
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:09.000Z"
+              }
+            },
+            {
+              "id": 44190,
+              "order": 13,
+              "distance": 275,
+              "stop": {
+                "id": 10906,
+                "publicId": "10906",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750692,
+                  "longitude": -9.198647
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:33:15.000Z"
+              }
+            },
+            {
+              "id": 44191,
+              "order": 14,
+              "distance": 197,
+              "stop": {
+                "id": 10904,
+                "publicId": "10904",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750776,
+                  "longitude": -9.201746
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 44192,
+              "order": 15,
+              "distance": 291,
+              "stop": {
+                "id": 10921,
+                "publicId": "10921",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.750138,
+                  "longitude": -9.203233
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:15.000Z"
+              }
+            },
+            {
+              "id": 44193,
+              "order": 16,
+              "distance": 389,
+              "stop": {
+                "id": 10919,
+                "publicId": "10919",
+                "name": "R. Garridas",
+                "position": {
+                  "latitude": 38.748556,
+                  "longitude": -9.201475
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:53:05.000Z"
+              }
+            },
+            {
+              "id": 44194,
+              "order": 17,
+              "distance": 217,
+              "stop": {
+                "id": 2807,
+                "publicId": "2807",
+                "name": "R. Parque",
+                "position": {
+                  "latitude": 38.745584,
+                  "longitude": -9.200634
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:04.000Z"
+              }
+            },
+            {
+              "id": 44195,
+              "order": 18,
+              "distance": 821,
+              "stop": {
+                "id": 2805,
+                "publicId": "2805",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.744709,
+                  "longitude": -9.198851
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:50:24.000Z"
+              }
+            },
+            {
+              "id": 44196,
+              "order": 19,
+              "distance": 754,
+              "stop": {
+                "id": 2810,
+                "publicId": "2810",
+                "name": "B.º Calhariz Benfica",
+                "position": {
+                  "latitude": 38.742098,
+                  "longitude": -9.2001
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:52:05.000Z"
+              }
+            },
+            {
+              "id": 44197,
+              "order": 20,
+              "distance": 1519,
+              "stop": {
+                "id": 8838,
+                "publicId": "8838",
+                "name": "Pina Manique",
+                "position": {
+                  "latitude": 38.736486,
+                  "longitude": -9.201671
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T14:19:05.000Z"
+              }
+            },
+            {
+              "id": 44198,
+              "order": 21,
+              "distance": 633,
+              "stop": {
+                "id": 8702,
+                "publicId": "8702",
+                "name": "Cruz Das Oliveiras",
+                "position": {
+                  "latitude": 38.725342,
+                  "longitude": -9.194078
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T13:05:01.000Z"
+              }
+            },
+            {
+              "id": 44199,
+              "order": 22,
+              "distance": 508,
+              "stop": {
+                "id": 21301,
+                "publicId": "21301",
+                "name": "Alto Dos Moínhos",
+                "position": {
+                  "latitude": 38.721733,
+                  "longitude": -9.197113
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T13:14:08.000Z"
+              }
+            },
+            {
+              "id": 44200,
+              "order": 23,
+              "distance": 547,
+              "stop": {
+                "id": 21303,
+                "publicId": "21303",
+                "name": "Montes Claros",
+                "position": {
+                  "latitude": 38.71774,
+                  "longitude": -9.199562
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:29:54.000Z"
+              }
+            },
+            {
+              "id": 44201,
+              "order": 24,
+              "distance": 175,
+              "stop": {
+                "id": 50036,
+                "publicId": "12927",
+                "name": "Alameda Universidade Técnica",
+                "position": {
+                  "latitude": 38.713587,
+                  "longitude": -9.200493
+                },
+                "visible": true,
+                "updateDate": "2009-02-25T14:51:02.000Z"
+              }
+            },
+            {
+              "id": 44202,
+              "order": 25,
+              "distance": 458,
+              "stop": {
+                "id": 12928,
+                "publicId": "12928",
+                "name": "I.S.C.S.P.",
+                "position": {
+                  "latitude": 38.713717,
+                  "longitude": -9.198483
+                },
+                "visible": true,
+                "updateDate": "2015-05-15T15:09:08.000Z"
+              }
+            },
+            {
+              "id": 44203,
+              "order": 26,
+              "distance": 517,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            },
+            {
+              "id": 44204,
+              "order": 27,
+              "distance": 367,
+              "stop": {
+                "id": 12907,
+                "publicId": "12907",
+                "name": "Estr. Marcos",
+                "position": {
+                  "latitude": 38.713409,
+                  "longitude": -9.202657
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:18:17.000Z"
+              }
+            },
+            {
+              "id": 44205,
+              "order": 28,
+              "distance": 299,
+              "stop": {
+                "id": 12903,
+                "publicId": "12903",
+                "name": "Bº Da Ajuda - Escola",
+                "position": {
+                  "latitude": 38.711653,
+                  "longitude": -9.201238
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:06:58.000Z"
+              }
+            },
+            {
+              "id": 44206,
+              "order": 29,
+              "distance": 477,
+              "stop": {
+                "id": 12901,
+                "publicId": "12901",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709134,
+                  "longitude": -9.199986
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:14:56.000Z"
+              }
+            },
+            {
+              "id": 44207,
+              "order": 30,
+              "distance": 189,
+              "stop": {
+                "id": 12915,
+                "publicId": "12915",
+                "name": "Cemitério Ajuda",
+                "position": {
+                  "latitude": 38.70904,
+                  "longitude": -9.203214
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:20:26.000Z"
+              }
+            },
+            {
+              "id": 44208,
+              "order": 31,
+              "distance": 201,
+              "stop": {
+                "id": 13111,
+                "publicId": "13111",
+                "name": "Cç. Galvão (Gnr)",
+                "position": {
+                  "latitude": 38.707422,
+                  "longitude": -9.202628
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:06:46.000Z"
+              }
+            },
+            {
+              "id": 44209,
+              "order": 32,
+              "distance": 237,
+              "stop": {
+                "id": 13113,
+                "publicId": "13113",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70562,
+                  "longitude": -9.202441
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:07:18.000Z"
+              }
+            },
+            {
+              "id": 44210,
+              "order": 33,
+              "distance": 227,
+              "stop": {
+                "id": 13301,
+                "publicId": "13301",
+                "name": "R. Jardim Botânico",
+                "position": {
+                  "latitude": 38.705617,
+                  "longitude": -9.199942
+                },
+                "visible": true,
+                "updateDate": "2019-01-02T16:00:38.000Z"
+              }
+            },
+            {
+              "id": 44211,
+              "order": 34,
+              "distance": 335,
+              "stop": {
+                "id": 13307,
+                "publicId": "13307",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704205,
+                  "longitude": -9.199486
+                },
+                "visible": true,
+                "updateDate": "2017-07-25T09:56:52.000Z"
+              }
+            },
+            {
+              "id": 44212,
+              "order": 35,
+              "distance": 377,
+              "stop": {
+                "id": 4106,
+                "publicId": "4106",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.701204,
+                  "longitude": -9.199857
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:27:54.000Z"
+              }
+            },
+            {
+              "id": 44213,
+              "order": 36,
+              "distance": 544,
+              "stop": {
+                "id": 50135,
+                "publicId": "4103",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697823,
+                  "longitude": -9.199488
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:34.000Z"
+              }
+            },
+            {
+              "id": 44214,
+              "order": 37,
+              "distance": 399,
+              "stop": {
+                "id": 9610,
+                "publicId": "9610",
+                "name": "Mosteiro Jerónimos",
+                "position": {
+                  "latitude": 38.697299,
+                  "longitude": -9.204939
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T13:54:08.000Z"
+              }
+            },
+            {
+              "id": 44215,
+              "order": 38,
+              "distance": 592,
+              "stop": {
+                "id": 13210,
+                "publicId": "13210",
+                "name": "Centro Cultural Belém",
+                "position": {
+                  "latitude": 38.696291,
+                  "longitude": -9.209342
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:36:30.000Z"
+              }
+            },
+            {
+              "id": 44216,
+              "order": 39,
+              "distance": 367,
+              "stop": {
+                "id": 13206,
+                "publicId": "13206",
+                "name": "Lg. Princesa",
+                "position": {
+                  "latitude": 38.695055,
+                  "longitude": -9.214854
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:34:59.000Z"
+              }
+            },
+            {
+              "id": 44217,
+              "order": 40,
+              "distance": 687,
+              "stop": {
+                "id": 13204,
+                "publicId": "13204",
+                "name": "Pedrouços",
+                "position": {
+                  "latitude": 38.695921,
+                  "longitude": -9.218847
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:31:23.000Z"
+              }
+            },
+            {
+              "id": 44218,
+              "order": 41,
+              "distance": 274,
+              "stop": {
+                "id": 4208,
+                "publicId": "4208",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.69836,
+                  "longitude": -9.225053
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:10:53.000Z"
+              }
+            },
+            {
+              "id": 44219,
+              "order": 42,
+              "distance": 0,
+              "stop": {
+                "id": 4211,
+                "publicId": "4211",
+                "name": "Algés",
+                "position": {
+                  "latitude": 38.6989,
+                  "longitude": -9.227125
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:54:23.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21402,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 44220,
+              "order": 1,
+              "distance": 433,
+              "stop": {
+                "id": 4211,
+                "publicId": "4211",
+                "name": "Algés",
+                "position": {
+                  "latitude": 38.6989,
+                  "longitude": -9.227125
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:54:23.000Z"
+              }
+            },
+            {
+              "id": 44221,
+              "order": 2,
+              "distance": 538,
+              "stop": {
+                "id": 4209,
+                "publicId": "4209",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.698227,
+                  "longitude": -9.225041
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:34:56.000Z"
+              }
+            },
+            {
+              "id": 44222,
+              "order": 3,
+              "distance": 374,
+              "stop": {
+                "id": 13203,
+                "publicId": "13203",
+                "name": "Pedrouços",
+                "position": {
+                  "latitude": 38.696034,
+                  "longitude": -9.219562
+                },
+                "visible": true,
+                "updateDate": "2008-02-27T18:56:20.000Z"
+              }
+            },
+            {
+              "id": 44223,
+              "order": 4,
+              "distance": 521,
+              "stop": {
+                "id": 13205,
+                "publicId": "13205",
+                "name": "Largo Da Princesa",
+                "position": {
+                  "latitude": 38.694955,
+                  "longitude": -9.21549
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 44224,
+              "order": 5,
+              "distance": 551,
+              "stop": {
+                "id": 13209,
+                "publicId": "13209",
+                "name": "Centro Cultural Belém",
+                "position": {
+                  "latitude": 38.696076,
+                  "longitude": -9.209713
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:35:47.000Z"
+              }
+            },
+            {
+              "id": 44225,
+              "order": 6,
+              "distance": 255,
+              "stop": {
+                "id": 9603,
+                "publicId": "9603",
+                "name": "Mosteiro Dos Jerónimos",
+                "position": {
+                  "latitude": 38.697258,
+                  "longitude": -9.203672
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T13:53:11.000Z"
+              }
+            },
+            {
+              "id": 44226,
+              "order": 7,
+              "distance": 191,
+              "stop": {
+                "id": 4109,
+                "publicId": "4109",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.697127,
+                  "longitude": -9.200734
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:18.000Z"
+              }
+            },
+            {
+              "id": 44227,
+              "order": 8,
+              "distance": 303,
+              "stop": {
+                "id": 4104,
+                "publicId": "4104",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697987,
+                  "longitude": -9.199388
+                },
+                "visible": true,
+                "updateDate": "2016-07-07T13:51:02.000Z"
+              }
+            },
+            {
+              "id": 44228,
+              "order": 9,
+              "distance": 258,
+              "stop": {
+                "id": 4105,
+                "publicId": "4105",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.700673,
+                  "longitude": -9.199793
+                },
+                "visible": true,
+                "updateDate": "2015-11-16T11:10:36.000Z"
+              }
+            },
+            {
+              "id": 44229,
+              "order": 10,
+              "distance": 150,
+              "stop": {
+                "id": 50136,
+                "publicId": "13311",
+                "name": "Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.702979,
+                  "longitude": -9.199465
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:29:05.000Z"
+              }
+            },
+            {
+              "id": 44230,
+              "order": 11,
+              "distance": 206,
+              "stop": {
+                "id": 13308,
+                "publicId": "13308",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704327,
+                  "longitude": -9.199301
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:28:45.000Z"
+              }
+            },
+            {
+              "id": 44231,
+              "order": 12,
+              "distance": 269,
+              "stop": {
+                "id": 13302,
+                "publicId": "13302",
+                "name": "Rua Do Jardim Botânico",
+                "position": {
+                  "latitude": 38.705761,
+                  "longitude": -9.199872
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:02:58.000Z"
+              }
+            },
+            {
+              "id": 44232,
+              "order": 13,
+              "distance": 162,
+              "stop": {
+                "id": 13114,
+                "publicId": "13114",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70585,
+                  "longitude": -9.20229
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:31:17.000Z"
+              }
+            },
+            {
+              "id": 44233,
+              "order": 14,
+              "distance": 262,
+              "stop": {
+                "id": 13112,
+                "publicId": "13112",
+                "name": "Cç. Do Galvão - Gnr",
+                "position": {
+                  "latitude": 38.707304,
+                  "longitude": -9.202516
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:03:47.000Z"
+              }
+            },
+            {
+              "id": 44234,
+              "order": 15,
+              "distance": 384,
+              "stop": {
+                "id": 12917,
+                "publicId": "12917",
+                "name": "Cemitério Da Ajuda",
+                "position": {
+                  "latitude": 38.709715,
+                  "longitude": -9.2031
+                },
+                "visible": true,
+                "updateDate": "2015-03-06T18:07:46.000Z"
+              }
+            },
+            {
+              "id": 44235,
+              "order": 16,
+              "distance": 278,
+              "stop": {
+                "id": 12902,
+                "publicId": "12902",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709406,
+                  "longitude": -9.199929
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:16:27.000Z"
+              }
+            },
+            {
+              "id": 44236,
+              "order": 17,
+              "distance": 274,
+              "stop": {
+                "id": 12904,
+                "publicId": "12904",
+                "name": "B.º Ajuda (Escola)",
+                "position": {
+                  "latitude": 38.711725,
+                  "longitude": -9.201111
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:16:58.000Z"
+              }
+            },
+            {
+              "id": 44237,
+              "order": 18,
+              "distance": 281,
+              "stop": {
+                "id": 12923,
+                "publicId": "12923",
+                "name": "Bº Dois De Maio",
+                "position": {
+                  "latitude": 38.712093,
+                  "longitude": -9.199184
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:25:00.000Z"
+              }
+            },
+            {
+              "id": 44238,
+              "order": 19,
+              "distance": 458,
+              "stop": {
+                "id": 12928,
+                "publicId": "12928",
+                "name": "I.S.C.S.P.",
+                "position": {
+                  "latitude": 38.713717,
+                  "longitude": -9.198483
+                },
+                "visible": true,
+                "updateDate": "2015-05-15T15:09:08.000Z"
+              }
+            },
+            {
+              "id": 44239,
+              "order": 20,
+              "distance": 843,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            },
+            {
+              "id": 44240,
+              "order": 21,
+              "distance": 535,
+              "stop": {
+                "id": 21304,
+                "publicId": "21304",
+                "name": "Montes Claros",
+                "position": {
+                  "latitude": 38.717839,
+                  "longitude": -9.199307
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:29:54.000Z"
+              }
+            },
+            {
+              "id": 44241,
+              "order": 22,
+              "distance": 601,
+              "stop": {
+                "id": 21302,
+                "publicId": "21302",
+                "name": "Alto Dos Moínhos",
+                "position": {
+                  "latitude": 38.72208,
+                  "longitude": -9.196783
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T13:14:14.000Z"
+              }
+            },
+            {
+              "id": 44242,
+              "order": 23,
+              "distance": 1596,
+              "stop": {
+                "id": 8713,
+                "publicId": "8713",
+                "name": "Cruz Das Oliveiras",
+                "position": {
+                  "latitude": 38.72553,
+                  "longitude": -9.194031
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:18:36.000Z"
+              }
+            },
+            {
+              "id": 44243,
+              "order": 24,
+              "distance": 824,
+              "stop": {
+                "id": 8837,
+                "publicId": "8837",
+                "name": "Estádio Pina Manique",
+                "position": {
+                  "latitude": 38.736992,
+                  "longitude": -9.201881
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:21.000Z"
+              }
+            },
+            {
+              "id": 44244,
+              "order": 25,
+              "distance": 495,
+              "stop": {
+                "id": 2809,
+                "publicId": "2809",
+                "name": "B.º Calhariz Benfica",
+                "position": {
+                  "latitude": 38.743122,
+                  "longitude": -9.198272
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:44.000Z"
+              }
+            },
+            {
+              "id": 44245,
+              "order": 26,
+              "distance": 529,
+              "stop": {
+                "id": 10831,
+                "publicId": "10831",
+                "name": "Rua Carolina Michaelis",
+                "position": {
+                  "latitude": 38.744459,
+                  "longitude": -9.194173
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T10:22:31.000Z"
+              }
+            },
+            {
+              "id": 44246,
+              "order": 27,
+              "distance": 135,
+              "stop": {
+                "id": 2806,
+                "publicId": "2806",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.745077,
+                  "longitude": -9.199771
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:57.000Z"
+              }
+            },
+            {
+              "id": 44247,
+              "order": 28,
+              "distance": 405,
+              "stop": {
+                "id": 2808,
+                "publicId": "2808",
+                "name": "R. Parque",
+                "position": {
+                  "latitude": 38.74573,
+                  "longitude": -9.200475
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:15.000Z"
+              }
+            },
+            {
+              "id": 44248,
+              "order": 29,
+              "distance": 255,
+              "stop": {
+                "id": 10918,
+                "publicId": "10918",
+                "name": "Rua Das Garridas",
+                "position": {
+                  "latitude": 38.748896,
+                  "longitude": -9.201249
+                },
+                "visible": true,
+                "updateDate": "2015-06-29T11:20:40.000Z"
+              }
+            },
+            {
+              "id": 44249,
+              "order": 30,
+              "distance": 228,
+              "stop": {
+                "id": 10920,
+                "publicId": "10920",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.749936,
+                  "longitude": -9.203048
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:06.000Z"
+              }
+            },
+            {
+              "id": 44250,
+              "order": 31,
+              "distance": 251,
+              "stop": {
+                "id": 10903,
+                "publicId": "10903",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750615,
+                  "longitude": -9.201455
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:50:39.000Z"
+              }
+            },
+            {
+              "id": 44251,
+              "order": 32,
+              "distance": 389,
+              "stop": {
+                "id": 10905,
+                "publicId": "10905",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750593,
+                  "longitude": -9.19859
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:32:51.000Z"
+              }
+            },
+            {
+              "id": 44252,
+              "order": 33,
+              "distance": 458,
+              "stop": {
+                "id": 10835,
+                "publicId": "10835",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.749735,
+                  "longitude": -9.194268
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:10:41.000Z"
+              }
+            },
+            {
+              "id": 44253,
+              "order": 34,
+              "distance": 499,
+              "stop": {
+                "id": 10807,
+                "publicId": "10807",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748543,
+                  "longitude": -9.191209
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:49.000Z"
+              }
+            },
+            {
+              "id": 44254,
+              "order": 35,
+              "distance": 513,
+              "stop": {
+                "id": 50134,
+                "publicId": "10812",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752465,
+                  "longitude": -9.189537
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:17.000Z"
+              }
+            },
+            {
+              "id": 44255,
+              "order": 36,
+              "distance": 606,
+              "stop": {
+                "id": 50242,
+                "publicId": "30001",
+                "name": "Hosp. Luz",
+                "position": {
+                  "latitude": 38.755426,
+                  "longitude": -9.192377
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:27:04.000Z"
+              }
+            },
+            {
+              "id": 44256,
+              "order": 37,
+              "distance": 392,
+              "stop": {
+                "id": 12822,
+                "publicId": "12822",
+                "name": "Carnide (Metro)",
+                "position": {
+                  "latitude": 38.759041,
+                  "longitude": -9.192629
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:25:09.000Z"
+              }
+            },
+            {
+              "id": 44257,
+              "order": 38,
+              "distance": 268,
+              "stop": {
+                "id": 12812,
+                "publicId": "12812",
+                "name": "Estação Da Pontinha",
+                "position": {
+                  "latitude": 38.760675,
+                  "longitude": -9.194949
+                },
+                "visible": true,
+                "updateDate": "2020-03-06T14:00:17.000Z"
+              }
+            },
+            {
+              "id": 44258,
+              "order": 39,
+              "distance": 561,
+              "stop": {
+                "id": 13904,
+                "publicId": "13904",
+                "name": "Pontinha (Metro)",
+                "position": {
+                  "latitude": 38.761819,
+                  "longitude": -9.196882
+                },
+                "visible": true,
+                "updateDate": "2020-03-06T14:00:58.000Z"
+              }
+            },
+            {
+              "id": 44259,
+              "order": 40,
+              "distance": 401,
+              "stop": {
+                "id": 13906,
+                "publicId": "13906",
+                "name": "Pontinha",
+                "position": {
+                  "latitude": 38.766045,
+                  "longitude": -9.198178
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:28:04.000Z"
+              }
+            },
+            {
+              "id": 44260,
+              "order": 41,
+              "distance": 294,
+              "stop": {
+                "id": 14110,
+                "publicId": "14110",
+                "name": "Mal Penteada",
+                "position": {
+                  "latitude": 38.768933,
+                  "longitude": -9.195491
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:31:07.000Z"
+              }
+            },
+            {
+              "id": 44261,
+              "order": 42,
+              "distance": 339,
+              "stop": {
+                "id": 14102,
+                "publicId": "14102",
+                "name": "Estr. Militar (Escorpiões)",
+                "position": {
+                  "latitude": 38.770954,
+                  "longitude": -9.193399
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:29:40.000Z"
+              }
+            },
+            {
+              "id": 44262,
+              "order": 43,
+              "distance": 130,
+              "stop": {
+                "id": 14104,
+                "publicId": "14104",
+                "name": "Serra Luz",
+                "position": {
+                  "latitude": 38.771974,
+                  "longitude": -9.1902
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:30:04.000Z"
+              }
+            },
+            {
+              "id": 44263,
+              "order": 44,
+              "distance": 430,
+              "stop": {
+                "id": 14106,
+                "publicId": "14106",
+                "name": "R. Rio Tejo",
+                "position": {
+                  "latitude": 38.771073,
+                  "longitude": -9.189236
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:30:34.000Z"
+              }
+            },
+            {
+              "id": 44264,
+              "order": 45,
+              "distance": 0,
+              "stop": {
+                "id": 14107,
+                "publicId": "14107",
+                "name": "Bº Padre Cruz",
+                "position": {
+                  "latitude": 38.769542,
+                  "longitude": -9.189714
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:36:14.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19863,
+      "variant": 1,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20445,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 37864,
+              "order": 1,
+              "distance": 517,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            },
+            {
+              "id": 37865,
+              "order": 2,
+              "distance": 367,
+              "stop": {
+                "id": 12907,
+                "publicId": "12907",
+                "name": "Estr. Marcos",
+                "position": {
+                  "latitude": 38.713409,
+                  "longitude": -9.202657
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:18:17.000Z"
+              }
+            },
+            {
+              "id": 37866,
+              "order": 3,
+              "distance": 299,
+              "stop": {
+                "id": 12903,
+                "publicId": "12903",
+                "name": "Bº Da Ajuda - Escola",
+                "position": {
+                  "latitude": 38.711653,
+                  "longitude": -9.201238
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:06:58.000Z"
+              }
+            },
+            {
+              "id": 37867,
+              "order": 4,
+              "distance": 477,
+              "stop": {
+                "id": 12901,
+                "publicId": "12901",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709134,
+                  "longitude": -9.199986
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:14:56.000Z"
+              }
+            },
+            {
+              "id": 37868,
+              "order": 5,
+              "distance": 189,
+              "stop": {
+                "id": 12915,
+                "publicId": "12915",
+                "name": "Cemitério Ajuda",
+                "position": {
+                  "latitude": 38.70904,
+                  "longitude": -9.203214
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:20:26.000Z"
+              }
+            },
+            {
+              "id": 37869,
+              "order": 6,
+              "distance": 201,
+              "stop": {
+                "id": 13111,
+                "publicId": "13111",
+                "name": "Cç. Galvão (Gnr)",
+                "position": {
+                  "latitude": 38.707422,
+                  "longitude": -9.202628
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:06:46.000Z"
+              }
+            },
+            {
+              "id": 37870,
+              "order": 7,
+              "distance": 237,
+              "stop": {
+                "id": 13113,
+                "publicId": "13113",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70562,
+                  "longitude": -9.202441
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:07:18.000Z"
+              }
+            },
+            {
+              "id": 37871,
+              "order": 8,
+              "distance": 227,
+              "stop": {
+                "id": 13301,
+                "publicId": "13301",
+                "name": "R. Jardim Botânico",
+                "position": {
+                  "latitude": 38.705617,
+                  "longitude": -9.199942
+                },
+                "visible": true,
+                "updateDate": "2019-01-02T16:00:38.000Z"
+              }
+            },
+            {
+              "id": 37872,
+              "order": 9,
+              "distance": 335,
+              "stop": {
+                "id": 13307,
+                "publicId": "13307",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704205,
+                  "longitude": -9.199486
+                },
+                "visible": true,
+                "updateDate": "2017-07-25T09:56:52.000Z"
+              }
+            },
+            {
+              "id": 37873,
+              "order": 10,
+              "distance": 377,
+              "stop": {
+                "id": 4106,
+                "publicId": "4106",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.701204,
+                  "longitude": -9.199857
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:27:54.000Z"
+              }
+            },
+            {
+              "id": 37874,
+              "order": 11,
+              "distance": 184,
+              "stop": {
+                "id": 50135,
+                "publicId": "4103",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697823,
+                  "longitude": -9.199488
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:34.000Z"
+              }
+            },
+            {
+              "id": 37875,
+              "order": 12,
+              "distance": 0,
+              "stop": {
+                "id": 4111,
+                "publicId": "4111",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.697115,
+                  "longitude": -9.200836
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:50.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 20446,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 37876,
+              "order": 1,
+              "distance": 191,
+              "stop": {
+                "id": 4109,
+                "publicId": "4109",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.697127,
+                  "longitude": -9.200734
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:18.000Z"
+              }
+            },
+            {
+              "id": 37877,
+              "order": 2,
+              "distance": 303,
+              "stop": {
+                "id": 4104,
+                "publicId": "4104",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697987,
+                  "longitude": -9.199388
+                },
+                "visible": true,
+                "updateDate": "2016-07-07T13:51:02.000Z"
+              }
+            },
+            {
+              "id": 37878,
+              "order": 3,
+              "distance": 258,
+              "stop": {
+                "id": 4105,
+                "publicId": "4105",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.700673,
+                  "longitude": -9.199793
+                },
+                "visible": true,
+                "updateDate": "2015-11-16T11:10:36.000Z"
+              }
+            },
+            {
+              "id": 37879,
+              "order": 4,
+              "distance": 150,
+              "stop": {
+                "id": 50136,
+                "publicId": "13311",
+                "name": "Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.702979,
+                  "longitude": -9.199465
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:29:05.000Z"
+              }
+            },
+            {
+              "id": 37880,
+              "order": 5,
+              "distance": 206,
+              "stop": {
+                "id": 13308,
+                "publicId": "13308",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704327,
+                  "longitude": -9.199301
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:28:45.000Z"
+              }
+            },
+            {
+              "id": 37881,
+              "order": 6,
+              "distance": 269,
+              "stop": {
+                "id": 13302,
+                "publicId": "13302",
+                "name": "Rua Do Jardim Botânico",
+                "position": {
+                  "latitude": 38.705761,
+                  "longitude": -9.199872
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:02:58.000Z"
+              }
+            },
+            {
+              "id": 37882,
+              "order": 7,
+              "distance": 162,
+              "stop": {
+                "id": 13114,
+                "publicId": "13114",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70585,
+                  "longitude": -9.20229
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:31:17.000Z"
+              }
+            },
+            {
+              "id": 37883,
+              "order": 8,
+              "distance": 262,
+              "stop": {
+                "id": 13112,
+                "publicId": "13112",
+                "name": "Cç. Do Galvão - Gnr",
+                "position": {
+                  "latitude": 38.707304,
+                  "longitude": -9.202516
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:03:47.000Z"
+              }
+            },
+            {
+              "id": 37884,
+              "order": 9,
+              "distance": 384,
+              "stop": {
+                "id": 12917,
+                "publicId": "12917",
+                "name": "Cemitério Da Ajuda",
+                "position": {
+                  "latitude": 38.709715,
+                  "longitude": -9.2031
+                },
+                "visible": true,
+                "updateDate": "2015-03-06T18:07:46.000Z"
+              }
+            },
+            {
+              "id": 37885,
+              "order": 10,
+              "distance": 278,
+              "stop": {
+                "id": 12902,
+                "publicId": "12902",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709406,
+                  "longitude": -9.199929
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:16:27.000Z"
+              }
+            },
+            {
+              "id": 37886,
+              "order": 11,
+              "distance": 215,
+              "stop": {
+                "id": 12904,
+                "publicId": "12904",
+                "name": "B.º Ajuda (Escola)",
+                "position": {
+                  "latitude": 38.711725,
+                  "longitude": -9.201111
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:16:58.000Z"
+              }
+            },
+            {
+              "id": 37887,
+              "order": 12,
+              "distance": 255,
+              "stop": {
+                "id": 12908,
+                "publicId": "12908",
+                "name": "Pólo Universitário Ajuda - Est",
+                "position": {
+                  "latitude": 38.713328,
+                  "longitude": -9.20087
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:19:09.000Z"
+              }
+            },
+            {
+              "id": 37888,
+              "order": 13,
+              "distance": 458,
+              "stop": {
+                "id": 12928,
+                "publicId": "12928",
+                "name": "I.S.C.S.P.",
+                "position": {
+                  "latitude": 38.713717,
+                  "longitude": -9.198483
+                },
+                "visible": true,
+                "updateDate": "2015-05-15T15:09:08.000Z"
+              }
+            },
+            {
+              "id": 37889,
+              "order": 14,
+              "distance": 0,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20781,
+      "variant": 2,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21421,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 44477,
+              "order": 1,
+              "distance": 245,
+              "stop": {
+                "id": 12908,
+                "publicId": "12908",
+                "name": "Pólo Universitário Ajuda - Est",
+                "position": {
+                  "latitude": 38.713328,
+                  "longitude": -9.20087
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:19:09.000Z"
+              }
+            },
+            {
+              "id": 44478,
+              "order": 2,
+              "distance": 367,
+              "stop": {
+                "id": 12907,
+                "publicId": "12907",
+                "name": "Estr. Marcos",
+                "position": {
+                  "latitude": 38.713409,
+                  "longitude": -9.202657
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:18:17.000Z"
+              }
+            },
+            {
+              "id": 44479,
+              "order": 3,
+              "distance": 299,
+              "stop": {
+                "id": 12903,
+                "publicId": "12903",
+                "name": "Bº Da Ajuda - Escola",
+                "position": {
+                  "latitude": 38.711653,
+                  "longitude": -9.201238
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:06:58.000Z"
+              }
+            },
+            {
+              "id": 44480,
+              "order": 4,
+              "distance": 477,
+              "stop": {
+                "id": 12901,
+                "publicId": "12901",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709134,
+                  "longitude": -9.199986
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:14:56.000Z"
+              }
+            },
+            {
+              "id": 44481,
+              "order": 5,
+              "distance": 189,
+              "stop": {
+                "id": 12915,
+                "publicId": "12915",
+                "name": "Cemitério Ajuda",
+                "position": {
+                  "latitude": 38.70904,
+                  "longitude": -9.203214
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:20:26.000Z"
+              }
+            },
+            {
+              "id": 44482,
+              "order": 6,
+              "distance": 201,
+              "stop": {
+                "id": 13111,
+                "publicId": "13111",
+                "name": "Cç. Galvão (Gnr)",
+                "position": {
+                  "latitude": 38.707422,
+                  "longitude": -9.202628
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:06:46.000Z"
+              }
+            },
+            {
+              "id": 44483,
+              "order": 7,
+              "distance": 237,
+              "stop": {
+                "id": 13113,
+                "publicId": "13113",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70562,
+                  "longitude": -9.202441
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:07:18.000Z"
+              }
+            },
+            {
+              "id": 44484,
+              "order": 8,
+              "distance": 227,
+              "stop": {
+                "id": 13301,
+                "publicId": "13301",
+                "name": "R. Jardim Botânico",
+                "position": {
+                  "latitude": 38.705617,
+                  "longitude": -9.199942
+                },
+                "visible": true,
+                "updateDate": "2019-01-02T16:00:38.000Z"
+              }
+            },
+            {
+              "id": 44485,
+              "order": 9,
+              "distance": 335,
+              "stop": {
+                "id": 13307,
+                "publicId": "13307",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704205,
+                  "longitude": -9.199486
+                },
+                "visible": true,
+                "updateDate": "2017-07-25T09:56:52.000Z"
+              }
+            },
+            {
+              "id": 44486,
+              "order": 10,
+              "distance": 377,
+              "stop": {
+                "id": 4106,
+                "publicId": "4106",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.701204,
+                  "longitude": -9.199857
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:27:54.000Z"
+              }
+            },
+            {
+              "id": 44487,
+              "order": 11,
+              "distance": 184,
+              "stop": {
+                "id": 50135,
+                "publicId": "4103",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697823,
+                  "longitude": -9.199488
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:34.000Z"
+              }
+            },
+            {
+              "id": 44488,
+              "order": 12,
+              "distance": 0,
+              "stop": {
+                "id": 4111,
+                "publicId": "4111",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.697115,
+                  "longitude": -9.200836
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:50.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21422,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 44489,
+              "order": 1,
+              "distance": 191,
+              "stop": {
+                "id": 4109,
+                "publicId": "4109",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.697127,
+                  "longitude": -9.200734
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:18.000Z"
+              }
+            },
+            {
+              "id": 44490,
+              "order": 2,
+              "distance": 303,
+              "stop": {
+                "id": 4104,
+                "publicId": "4104",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697987,
+                  "longitude": -9.199388
+                },
+                "visible": true,
+                "updateDate": "2016-07-07T13:51:02.000Z"
+              }
+            },
+            {
+              "id": 44491,
+              "order": 3,
+              "distance": 258,
+              "stop": {
+                "id": 4105,
+                "publicId": "4105",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.700673,
+                  "longitude": -9.199793
+                },
+                "visible": true,
+                "updateDate": "2015-11-16T11:10:36.000Z"
+              }
+            },
+            {
+              "id": 44492,
+              "order": 4,
+              "distance": 150,
+              "stop": {
+                "id": 50136,
+                "publicId": "13311",
+                "name": "Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.702979,
+                  "longitude": -9.199465
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:29:05.000Z"
+              }
+            },
+            {
+              "id": 44493,
+              "order": 5,
+              "distance": 206,
+              "stop": {
+                "id": 13308,
+                "publicId": "13308",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704327,
+                  "longitude": -9.199301
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:28:45.000Z"
+              }
+            },
+            {
+              "id": 44494,
+              "order": 6,
+              "distance": 269,
+              "stop": {
+                "id": 13302,
+                "publicId": "13302",
+                "name": "Rua Do Jardim Botânico",
+                "position": {
+                  "latitude": 38.705761,
+                  "longitude": -9.199872
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:02:58.000Z"
+              }
+            },
+            {
+              "id": 44495,
+              "order": 7,
+              "distance": 162,
+              "stop": {
+                "id": 13114,
+                "publicId": "13114",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70585,
+                  "longitude": -9.20229
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:31:17.000Z"
+              }
+            },
+            {
+              "id": 44496,
+              "order": 8,
+              "distance": 262,
+              "stop": {
+                "id": 13112,
+                "publicId": "13112",
+                "name": "Cç. Do Galvão - Gnr",
+                "position": {
+                  "latitude": 38.707304,
+                  "longitude": -9.202516
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:03:47.000Z"
+              }
+            },
+            {
+              "id": 44497,
+              "order": 9,
+              "distance": 384,
+              "stop": {
+                "id": 12917,
+                "publicId": "12917",
+                "name": "Cemitério Da Ajuda",
+                "position": {
+                  "latitude": 38.709715,
+                  "longitude": -9.2031
+                },
+                "visible": true,
+                "updateDate": "2015-03-06T18:07:46.000Z"
+              }
+            },
+            {
+              "id": 44498,
+              "order": 10,
+              "distance": 278,
+              "stop": {
+                "id": 12902,
+                "publicId": "12902",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709406,
+                  "longitude": -9.199929
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:16:27.000Z"
+              }
+            },
+            {
+              "id": 44499,
+              "order": 11,
+              "distance": 215,
+              "stop": {
+                "id": 12904,
+                "publicId": "12904",
+                "name": "B.º Ajuda (Escola)",
+                "position": {
+                  "latitude": 38.711725,
+                  "longitude": -9.201111
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:16:58.000Z"
+              }
+            },
+            {
+              "id": 44500,
+              "order": 12,
+              "distance": 0,
+              "stop": {
+                "id": 12908,
+                "publicId": "12908",
+                "name": "Pólo Universitário Ajuda - Est",
+                "position": {
+                  "latitude": 38.713328,
+                  "longitude": -9.20087
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:19:09.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20701,
+      "variant": 3,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21341,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 44071,
+              "order": 1,
+              "distance": 429,
+              "stop": {
+                "id": 50241,
+                "publicId": "10823",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752723,
+                  "longitude": -9.18935
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:07:46.000Z"
+              }
+            },
+            {
+              "id": 44072,
+              "order": 2,
+              "distance": 437,
+              "stop": {
+                "id": 10804,
+                "publicId": "10804",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.749594,
+                  "longitude": -9.191313
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:38.000Z"
+              }
+            },
+            {
+              "id": 44073,
+              "order": 3,
+              "distance": 272,
+              "stop": {
+                "id": 10802,
+                "publicId": "10802",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.750137,
+                  "longitude": -9.195585
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:09.000Z"
+              }
+            },
+            {
+              "id": 44074,
+              "order": 4,
+              "distance": 275,
+              "stop": {
+                "id": 10906,
+                "publicId": "10906",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750692,
+                  "longitude": -9.198647
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:33:15.000Z"
+              }
+            },
+            {
+              "id": 44075,
+              "order": 5,
+              "distance": 197,
+              "stop": {
+                "id": 10904,
+                "publicId": "10904",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750776,
+                  "longitude": -9.201746
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 44076,
+              "order": 6,
+              "distance": 291,
+              "stop": {
+                "id": 10921,
+                "publicId": "10921",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.750138,
+                  "longitude": -9.203233
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:15.000Z"
+              }
+            },
+            {
+              "id": 44077,
+              "order": 7,
+              "distance": 389,
+              "stop": {
+                "id": 10919,
+                "publicId": "10919",
+                "name": "R. Garridas",
+                "position": {
+                  "latitude": 38.748556,
+                  "longitude": -9.201475
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:53:05.000Z"
+              }
+            },
+            {
+              "id": 44078,
+              "order": 8,
+              "distance": 217,
+              "stop": {
+                "id": 2807,
+                "publicId": "2807",
+                "name": "R. Parque",
+                "position": {
+                  "latitude": 38.745584,
+                  "longitude": -9.200634
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:04.000Z"
+              }
+            },
+            {
+              "id": 44079,
+              "order": 9,
+              "distance": 821,
+              "stop": {
+                "id": 2805,
+                "publicId": "2805",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.744709,
+                  "longitude": -9.198851
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:50:24.000Z"
+              }
+            },
+            {
+              "id": 44080,
+              "order": 10,
+              "distance": 754,
+              "stop": {
+                "id": 2810,
+                "publicId": "2810",
+                "name": "B.º Calhariz Benfica",
+                "position": {
+                  "latitude": 38.742098,
+                  "longitude": -9.2001
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:52:05.000Z"
+              }
+            },
+            {
+              "id": 44081,
+              "order": 11,
+              "distance": 1519,
+              "stop": {
+                "id": 8838,
+                "publicId": "8838",
+                "name": "Pina Manique",
+                "position": {
+                  "latitude": 38.736486,
+                  "longitude": -9.201671
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T14:19:05.000Z"
+              }
+            },
+            {
+              "id": 44082,
+              "order": 12,
+              "distance": 633,
+              "stop": {
+                "id": 8702,
+                "publicId": "8702",
+                "name": "Cruz Das Oliveiras",
+                "position": {
+                  "latitude": 38.725342,
+                  "longitude": -9.194078
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T13:05:01.000Z"
+              }
+            },
+            {
+              "id": 44083,
+              "order": 13,
+              "distance": 508,
+              "stop": {
+                "id": 21301,
+                "publicId": "21301",
+                "name": "Alto Dos Moínhos",
+                "position": {
+                  "latitude": 38.721733,
+                  "longitude": -9.197113
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T13:14:08.000Z"
+              }
+            },
+            {
+              "id": 44084,
+              "order": 14,
+              "distance": 547,
+              "stop": {
+                "id": 21303,
+                "publicId": "21303",
+                "name": "Montes Claros",
+                "position": {
+                  "latitude": 38.71774,
+                  "longitude": -9.199562
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:29:54.000Z"
+              }
+            },
+            {
+              "id": 44085,
+              "order": 15,
+              "distance": 175,
+              "stop": {
+                "id": 50036,
+                "publicId": "12927",
+                "name": "Alameda Universidade Técnica",
+                "position": {
+                  "latitude": 38.713587,
+                  "longitude": -9.200493
+                },
+                "visible": true,
+                "updateDate": "2009-02-25T14:51:02.000Z"
+              }
+            },
+            {
+              "id": 44086,
+              "order": 16,
+              "distance": 0,
+              "stop": {
+                "id": 12928,
+                "publicId": "12928",
+                "name": "I.S.C.S.P.",
+                "position": {
+                  "latitude": 38.713717,
+                  "longitude": -9.198483
+                },
+                "visible": true,
+                "updateDate": "2015-05-15T15:09:08.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21342,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 44087,
+              "order": 1,
+              "distance": 458,
+              "stop": {
+                "id": 12928,
+                "publicId": "12928",
+                "name": "I.S.C.S.P.",
+                "position": {
+                  "latitude": 38.713717,
+                  "longitude": -9.198483
+                },
+                "visible": true,
+                "updateDate": "2015-05-15T15:09:08.000Z"
+              }
+            },
+            {
+              "id": 44088,
+              "order": 2,
+              "distance": 843,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            },
+            {
+              "id": 44089,
+              "order": 3,
+              "distance": 535,
+              "stop": {
+                "id": 21304,
+                "publicId": "21304",
+                "name": "Montes Claros",
+                "position": {
+                  "latitude": 38.717839,
+                  "longitude": -9.199307
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:29:54.000Z"
+              }
+            },
+            {
+              "id": 44090,
+              "order": 4,
+              "distance": 601,
+              "stop": {
+                "id": 21302,
+                "publicId": "21302",
+                "name": "Alto Dos Moínhos",
+                "position": {
+                  "latitude": 38.72208,
+                  "longitude": -9.196783
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T13:14:14.000Z"
+              }
+            },
+            {
+              "id": 44091,
+              "order": 5,
+              "distance": 1596,
+              "stop": {
+                "id": 8713,
+                "publicId": "8713",
+                "name": "Cruz Das Oliveiras",
+                "position": {
+                  "latitude": 38.72553,
+                  "longitude": -9.194031
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:18:36.000Z"
+              }
+            },
+            {
+              "id": 44092,
+              "order": 6,
+              "distance": 824,
+              "stop": {
+                "id": 8837,
+                "publicId": "8837",
+                "name": "Estádio Pina Manique",
+                "position": {
+                  "latitude": 38.736992,
+                  "longitude": -9.201881
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:21.000Z"
+              }
+            },
+            {
+              "id": 44093,
+              "order": 7,
+              "distance": 495,
+              "stop": {
+                "id": 2809,
+                "publicId": "2809",
+                "name": "B.º Calhariz Benfica",
+                "position": {
+                  "latitude": 38.743122,
+                  "longitude": -9.198272
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:44.000Z"
+              }
+            },
+            {
+              "id": 44094,
+              "order": 8,
+              "distance": 529,
+              "stop": {
+                "id": 10831,
+                "publicId": "10831",
+                "name": "Rua Carolina Michaelis",
+                "position": {
+                  "latitude": 38.744459,
+                  "longitude": -9.194173
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T10:22:31.000Z"
+              }
+            },
+            {
+              "id": 44095,
+              "order": 9,
+              "distance": 135,
+              "stop": {
+                "id": 2806,
+                "publicId": "2806",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.745077,
+                  "longitude": -9.199771
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:57.000Z"
+              }
+            },
+            {
+              "id": 44096,
+              "order": 10,
+              "distance": 405,
+              "stop": {
+                "id": 2808,
+                "publicId": "2808",
+                "name": "R. Parque",
+                "position": {
+                  "latitude": 38.74573,
+                  "longitude": -9.200475
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:15.000Z"
+              }
+            },
+            {
+              "id": 44097,
+              "order": 11,
+              "distance": 255,
+              "stop": {
+                "id": 10918,
+                "publicId": "10918",
+                "name": "Rua Das Garridas",
+                "position": {
+                  "latitude": 38.748896,
+                  "longitude": -9.201249
+                },
+                "visible": true,
+                "updateDate": "2015-06-29T11:20:40.000Z"
+              }
+            },
+            {
+              "id": 44098,
+              "order": 12,
+              "distance": 228,
+              "stop": {
+                "id": 10920,
+                "publicId": "10920",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.749936,
+                  "longitude": -9.203048
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:06.000Z"
+              }
+            },
+            {
+              "id": 44099,
+              "order": 13,
+              "distance": 251,
+              "stop": {
+                "id": 10903,
+                "publicId": "10903",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750615,
+                  "longitude": -9.201455
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:50:39.000Z"
+              }
+            },
+            {
+              "id": 44100,
+              "order": 14,
+              "distance": 389,
+              "stop": {
+                "id": 10905,
+                "publicId": "10905",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750593,
+                  "longitude": -9.19859
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:32:51.000Z"
+              }
+            },
+            {
+              "id": 44101,
+              "order": 15,
+              "distance": 458,
+              "stop": {
+                "id": 10835,
+                "publicId": "10835",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.749735,
+                  "longitude": -9.194268
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:10:41.000Z"
+              }
+            },
+            {
+              "id": 44102,
+              "order": 16,
+              "distance": 499,
+              "stop": {
+                "id": 10807,
+                "publicId": "10807",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748543,
+                  "longitude": -9.191209
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:49.000Z"
+              }
+            },
+            {
+              "id": 44103,
+              "order": 17,
+              "distance": 0,
+              "stop": {
+                "id": 50134,
+                "publicId": "10812",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752465,
+                  "longitude": -9.189537
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:17.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20782,
+      "variant": 4,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21423,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 44501,
+              "order": 1,
+              "distance": 429,
+              "stop": {
+                "id": 50241,
+                "publicId": "10823",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752723,
+                  "longitude": -9.18935
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:07:46.000Z"
+              }
+            },
+            {
+              "id": 44502,
+              "order": 2,
+              "distance": 437,
+              "stop": {
+                "id": 10804,
+                "publicId": "10804",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.749594,
+                  "longitude": -9.191313
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:38.000Z"
+              }
+            },
+            {
+              "id": 44503,
+              "order": 3,
+              "distance": 272,
+              "stop": {
+                "id": 10802,
+                "publicId": "10802",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.750137,
+                  "longitude": -9.195585
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:09.000Z"
+              }
+            },
+            {
+              "id": 44504,
+              "order": 4,
+              "distance": 275,
+              "stop": {
+                "id": 10906,
+                "publicId": "10906",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750692,
+                  "longitude": -9.198647
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:33:15.000Z"
+              }
+            },
+            {
+              "id": 44505,
+              "order": 5,
+              "distance": 197,
+              "stop": {
+                "id": 10904,
+                "publicId": "10904",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750776,
+                  "longitude": -9.201746
+                },
+                "visible": true,
+                "updateDate": "2011-09-14T14:39:41.000Z"
+              }
+            },
+            {
+              "id": 44506,
+              "order": 6,
+              "distance": 291,
+              "stop": {
+                "id": 10921,
+                "publicId": "10921",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.750138,
+                  "longitude": -9.203233
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:15.000Z"
+              }
+            },
+            {
+              "id": 44507,
+              "order": 7,
+              "distance": 389,
+              "stop": {
+                "id": 10919,
+                "publicId": "10919",
+                "name": "R. Garridas",
+                "position": {
+                  "latitude": 38.748556,
+                  "longitude": -9.201475
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:53:05.000Z"
+              }
+            },
+            {
+              "id": 44508,
+              "order": 8,
+              "distance": 217,
+              "stop": {
+                "id": 2807,
+                "publicId": "2807",
+                "name": "R. Parque",
+                "position": {
+                  "latitude": 38.745584,
+                  "longitude": -9.200634
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:04.000Z"
+              }
+            },
+            {
+              "id": 44509,
+              "order": 9,
+              "distance": 821,
+              "stop": {
+                "id": 2805,
+                "publicId": "2805",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.744709,
+                  "longitude": -9.198851
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:50:24.000Z"
+              }
+            },
+            {
+              "id": 44510,
+              "order": 10,
+              "distance": 754,
+              "stop": {
+                "id": 2810,
+                "publicId": "2810",
+                "name": "B.º Calhariz Benfica",
+                "position": {
+                  "latitude": 38.742098,
+                  "longitude": -9.2001
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:52:05.000Z"
+              }
+            },
+            {
+              "id": 44511,
+              "order": 11,
+              "distance": 1519,
+              "stop": {
+                "id": 8838,
+                "publicId": "8838",
+                "name": "Pina Manique",
+                "position": {
+                  "latitude": 38.736486,
+                  "longitude": -9.201671
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T14:19:05.000Z"
+              }
+            },
+            {
+              "id": 44512,
+              "order": 12,
+              "distance": 633,
+              "stop": {
+                "id": 8702,
+                "publicId": "8702",
+                "name": "Cruz Das Oliveiras",
+                "position": {
+                  "latitude": 38.725342,
+                  "longitude": -9.194078
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T13:05:01.000Z"
+              }
+            },
+            {
+              "id": 44513,
+              "order": 13,
+              "distance": 508,
+              "stop": {
+                "id": 21301,
+                "publicId": "21301",
+                "name": "Alto Dos Moínhos",
+                "position": {
+                  "latitude": 38.721733,
+                  "longitude": -9.197113
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T13:14:08.000Z"
+              }
+            },
+            {
+              "id": 44514,
+              "order": 14,
+              "distance": 547,
+              "stop": {
+                "id": 21303,
+                "publicId": "21303",
+                "name": "Montes Claros",
+                "position": {
+                  "latitude": 38.71774,
+                  "longitude": -9.199562
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:29:54.000Z"
+              }
+            },
+            {
+              "id": 44515,
+              "order": 15,
+              "distance": 175,
+              "stop": {
+                "id": 50036,
+                "publicId": "12927",
+                "name": "Alameda Universidade Técnica",
+                "position": {
+                  "latitude": 38.713587,
+                  "longitude": -9.200493
+                },
+                "visible": true,
+                "updateDate": "2009-02-25T14:51:02.000Z"
+              }
+            },
+            {
+              "id": 44516,
+              "order": 16,
+              "distance": 0,
+              "stop": {
+                "id": 12928,
+                "publicId": "12928",
+                "name": "I.S.C.S.P.",
+                "position": {
+                  "latitude": 38.713717,
+                  "longitude": -9.198483
+                },
+                "visible": true,
+                "updateDate": "2015-05-15T15:09:08.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21424,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 44517,
+              "order": 1,
+              "distance": 458,
+              "stop": {
+                "id": 12928,
+                "publicId": "12928",
+                "name": "I.S.C.S.P.",
+                "position": {
+                  "latitude": 38.713717,
+                  "longitude": -9.198483
+                },
+                "visible": true,
+                "updateDate": "2015-05-15T15:09:08.000Z"
+              }
+            },
+            {
+              "id": 44518,
+              "order": 2,
+              "distance": 843,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            },
+            {
+              "id": 44519,
+              "order": 3,
+              "distance": 535,
+              "stop": {
+                "id": 21304,
+                "publicId": "21304",
+                "name": "Montes Claros",
+                "position": {
+                  "latitude": 38.717839,
+                  "longitude": -9.199307
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:29:54.000Z"
+              }
+            },
+            {
+              "id": 44520,
+              "order": 4,
+              "distance": 601,
+              "stop": {
+                "id": 21302,
+                "publicId": "21302",
+                "name": "Alto Dos Moínhos",
+                "position": {
+                  "latitude": 38.72208,
+                  "longitude": -9.196783
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T13:14:14.000Z"
+              }
+            },
+            {
+              "id": 44521,
+              "order": 5,
+              "distance": 1596,
+              "stop": {
+                "id": 8713,
+                "publicId": "8713",
+                "name": "Cruz Das Oliveiras",
+                "position": {
+                  "latitude": 38.72553,
+                  "longitude": -9.194031
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:18:36.000Z"
+              }
+            },
+            {
+              "id": 44522,
+              "order": 6,
+              "distance": 824,
+              "stop": {
+                "id": 8837,
+                "publicId": "8837",
+                "name": "Estádio Pina Manique",
+                "position": {
+                  "latitude": 38.736992,
+                  "longitude": -9.201881
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:21.000Z"
+              }
+            },
+            {
+              "id": 44523,
+              "order": 7,
+              "distance": 495,
+              "stop": {
+                "id": 2809,
+                "publicId": "2809",
+                "name": "B.º Calhariz Benfica",
+                "position": {
+                  "latitude": 38.743122,
+                  "longitude": -9.198272
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:44.000Z"
+              }
+            },
+            {
+              "id": 44524,
+              "order": 8,
+              "distance": 529,
+              "stop": {
+                "id": 10831,
+                "publicId": "10831",
+                "name": "Rua Carolina Michaelis",
+                "position": {
+                  "latitude": 38.744459,
+                  "longitude": -9.194173
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T10:22:31.000Z"
+              }
+            },
+            {
+              "id": 44525,
+              "order": 9,
+              "distance": 135,
+              "stop": {
+                "id": 2806,
+                "publicId": "2806",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.745077,
+                  "longitude": -9.199771
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:57.000Z"
+              }
+            },
+            {
+              "id": 44526,
+              "order": 10,
+              "distance": 405,
+              "stop": {
+                "id": 2808,
+                "publicId": "2808",
+                "name": "R. Parque",
+                "position": {
+                  "latitude": 38.74573,
+                  "longitude": -9.200475
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:15.000Z"
+              }
+            },
+            {
+              "id": 44527,
+              "order": 11,
+              "distance": 255,
+              "stop": {
+                "id": 10918,
+                "publicId": "10918",
+                "name": "Rua Das Garridas",
+                "position": {
+                  "latitude": 38.748896,
+                  "longitude": -9.201249
+                },
+                "visible": true,
+                "updateDate": "2015-06-29T11:20:40.000Z"
+              }
+            },
+            {
+              "id": 44528,
+              "order": 12,
+              "distance": 228,
+              "stop": {
+                "id": 10920,
+                "publicId": "10920",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.749936,
+                  "longitude": -9.203048
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:06.000Z"
+              }
+            },
+            {
+              "id": 44529,
+              "order": 13,
+              "distance": 251,
+              "stop": {
+                "id": 10903,
+                "publicId": "10903",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750615,
+                  "longitude": -9.201455
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:50:39.000Z"
+              }
+            },
+            {
+              "id": 44530,
+              "order": 14,
+              "distance": 389,
+              "stop": {
+                "id": 10905,
+                "publicId": "10905",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750593,
+                  "longitude": -9.19859
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:32:51.000Z"
+              }
+            },
+            {
+              "id": 44531,
+              "order": 15,
+              "distance": 458,
+              "stop": {
+                "id": 10835,
+                "publicId": "10835",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.749735,
+                  "longitude": -9.194268
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:10:41.000Z"
+              }
+            },
+            {
+              "id": 44532,
+              "order": 16,
+              "distance": 499,
+              "stop": {
+                "id": 10807,
+                "publicId": "10807",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748543,
+                  "longitude": -9.191209
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:49.000Z"
+              }
+            },
+            {
+              "id": 44533,
+              "order": 17,
+              "distance": 0,
+              "stop": {
+                "id": 50134,
+                "publicId": "10812",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752465,
+                  "longitude": -9.189537
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:17.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20763,
+      "variant": 5,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21405,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 44347,
+              "order": 1,
+              "distance": 433,
+              "stop": {
+                "id": 4211,
+                "publicId": "4211",
+                "name": "Algés",
+                "position": {
+                  "latitude": 38.6989,
+                  "longitude": -9.227125
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:54:23.000Z"
+              }
+            },
+            {
+              "id": 44348,
+              "order": 2,
+              "distance": 538,
+              "stop": {
+                "id": 4209,
+                "publicId": "4209",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.698227,
+                  "longitude": -9.225041
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:34:56.000Z"
+              }
+            },
+            {
+              "id": 44349,
+              "order": 3,
+              "distance": 374,
+              "stop": {
+                "id": 13203,
+                "publicId": "13203",
+                "name": "Pedrouços",
+                "position": {
+                  "latitude": 38.696034,
+                  "longitude": -9.219562
+                },
+                "visible": true,
+                "updateDate": "2008-02-27T18:56:20.000Z"
+              }
+            },
+            {
+              "id": 44350,
+              "order": 4,
+              "distance": 521,
+              "stop": {
+                "id": 13205,
+                "publicId": "13205",
+                "name": "Largo Da Princesa",
+                "position": {
+                  "latitude": 38.694955,
+                  "longitude": -9.21549
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 44351,
+              "order": 5,
+              "distance": 551,
+              "stop": {
+                "id": 13209,
+                "publicId": "13209",
+                "name": "Centro Cultural Belém",
+                "position": {
+                  "latitude": 38.696076,
+                  "longitude": -9.209713
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:35:47.000Z"
+              }
+            },
+            {
+              "id": 44352,
+              "order": 6,
+              "distance": 255,
+              "stop": {
+                "id": 9603,
+                "publicId": "9603",
+                "name": "Mosteiro Dos Jerónimos",
+                "position": {
+                  "latitude": 38.697258,
+                  "longitude": -9.203672
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T13:53:11.000Z"
+              }
+            },
+            {
+              "id": 44353,
+              "order": 7,
+              "distance": 191,
+              "stop": {
+                "id": 4109,
+                "publicId": "4109",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.697127,
+                  "longitude": -9.200734
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:18.000Z"
+              }
+            },
+            {
+              "id": 44354,
+              "order": 8,
+              "distance": 303,
+              "stop": {
+                "id": 4104,
+                "publicId": "4104",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697987,
+                  "longitude": -9.199388
+                },
+                "visible": true,
+                "updateDate": "2016-07-07T13:51:02.000Z"
+              }
+            },
+            {
+              "id": 44355,
+              "order": 9,
+              "distance": 258,
+              "stop": {
+                "id": 4105,
+                "publicId": "4105",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.700673,
+                  "longitude": -9.199793
+                },
+                "visible": true,
+                "updateDate": "2015-11-16T11:10:36.000Z"
+              }
+            },
+            {
+              "id": 44356,
+              "order": 10,
+              "distance": 150,
+              "stop": {
+                "id": 50136,
+                "publicId": "13311",
+                "name": "Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.702979,
+                  "longitude": -9.199465
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:29:05.000Z"
+              }
+            },
+            {
+              "id": 44357,
+              "order": 11,
+              "distance": 206,
+              "stop": {
+                "id": 13308,
+                "publicId": "13308",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704327,
+                  "longitude": -9.199301
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:28:45.000Z"
+              }
+            },
+            {
+              "id": 44358,
+              "order": 12,
+              "distance": 269,
+              "stop": {
+                "id": 13302,
+                "publicId": "13302",
+                "name": "Rua Do Jardim Botânico",
+                "position": {
+                  "latitude": 38.705761,
+                  "longitude": -9.199872
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:02:58.000Z"
+              }
+            },
+            {
+              "id": 44359,
+              "order": 13,
+              "distance": 162,
+              "stop": {
+                "id": 13114,
+                "publicId": "13114",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70585,
+                  "longitude": -9.20229
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:31:17.000Z"
+              }
+            },
+            {
+              "id": 44360,
+              "order": 14,
+              "distance": 262,
+              "stop": {
+                "id": 13112,
+                "publicId": "13112",
+                "name": "Cç. Do Galvão - Gnr",
+                "position": {
+                  "latitude": 38.707304,
+                  "longitude": -9.202516
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T18:03:47.000Z"
+              }
+            },
+            {
+              "id": 44361,
+              "order": 15,
+              "distance": 384,
+              "stop": {
+                "id": 12917,
+                "publicId": "12917",
+                "name": "Cemitério Da Ajuda",
+                "position": {
+                  "latitude": 38.709715,
+                  "longitude": -9.2031
+                },
+                "visible": true,
+                "updateDate": "2015-03-06T18:07:46.000Z"
+              }
+            },
+            {
+              "id": 44362,
+              "order": 16,
+              "distance": 278,
+              "stop": {
+                "id": 12902,
+                "publicId": "12902",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709406,
+                  "longitude": -9.199929
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:16:27.000Z"
+              }
+            },
+            {
+              "id": 44363,
+              "order": 17,
+              "distance": 274,
+              "stop": {
+                "id": 12904,
+                "publicId": "12904",
+                "name": "B.º Ajuda (Escola)",
+                "position": {
+                  "latitude": 38.711725,
+                  "longitude": -9.201111
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:16:58.000Z"
+              }
+            },
+            {
+              "id": 44364,
+              "order": 18,
+              "distance": 281,
+              "stop": {
+                "id": 12923,
+                "publicId": "12923",
+                "name": "Bº Dois De Maio",
+                "position": {
+                  "latitude": 38.712093,
+                  "longitude": -9.199184
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:25:00.000Z"
+              }
+            },
+            {
+              "id": 44365,
+              "order": 19,
+              "distance": 458,
+              "stop": {
+                "id": 12928,
+                "publicId": "12928",
+                "name": "I.S.C.S.P.",
+                "position": {
+                  "latitude": 38.713717,
+                  "longitude": -9.198483
+                },
+                "visible": true,
+                "updateDate": "2015-05-15T15:09:08.000Z"
+              }
+            },
+            {
+              "id": 44366,
+              "order": 20,
+              "distance": 843,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            },
+            {
+              "id": 44367,
+              "order": 21,
+              "distance": 535,
+              "stop": {
+                "id": 21304,
+                "publicId": "21304",
+                "name": "Montes Claros",
+                "position": {
+                  "latitude": 38.717839,
+                  "longitude": -9.199307
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:29:54.000Z"
+              }
+            },
+            {
+              "id": 44368,
+              "order": 22,
+              "distance": 601,
+              "stop": {
+                "id": 21302,
+                "publicId": "21302",
+                "name": "Alto Dos Moínhos",
+                "position": {
+                  "latitude": 38.72208,
+                  "longitude": -9.196783
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T13:14:14.000Z"
+              }
+            },
+            {
+              "id": 44369,
+              "order": 23,
+              "distance": 1596,
+              "stop": {
+                "id": 8713,
+                "publicId": "8713",
+                "name": "Cruz Das Oliveiras",
+                "position": {
+                  "latitude": 38.72553,
+                  "longitude": -9.194031
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:18:36.000Z"
+              }
+            },
+            {
+              "id": 44370,
+              "order": 24,
+              "distance": 824,
+              "stop": {
+                "id": 8837,
+                "publicId": "8837",
+                "name": "Estádio Pina Manique",
+                "position": {
+                  "latitude": 38.736992,
+                  "longitude": -9.201881
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:21.000Z"
+              }
+            },
+            {
+              "id": 44371,
+              "order": 25,
+              "distance": 495,
+              "stop": {
+                "id": 2809,
+                "publicId": "2809",
+                "name": "B.º Calhariz Benfica",
+                "position": {
+                  "latitude": 38.743122,
+                  "longitude": -9.198272
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:44.000Z"
+              }
+            },
+            {
+              "id": 44372,
+              "order": 26,
+              "distance": 529,
+              "stop": {
+                "id": 10831,
+                "publicId": "10831",
+                "name": "Rua Carolina Michaelis",
+                "position": {
+                  "latitude": 38.744459,
+                  "longitude": -9.194173
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T10:22:31.000Z"
+              }
+            },
+            {
+              "id": 44373,
+              "order": 27,
+              "distance": 135,
+              "stop": {
+                "id": 2806,
+                "publicId": "2806",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.745077,
+                  "longitude": -9.199771
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:57.000Z"
+              }
+            },
+            {
+              "id": 44374,
+              "order": 28,
+              "distance": 405,
+              "stop": {
+                "id": 2808,
+                "publicId": "2808",
+                "name": "R. Parque",
+                "position": {
+                  "latitude": 38.74573,
+                  "longitude": -9.200475
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:15.000Z"
+              }
+            },
+            {
+              "id": 44375,
+              "order": 29,
+              "distance": 255,
+              "stop": {
+                "id": 10918,
+                "publicId": "10918",
+                "name": "Rua Das Garridas",
+                "position": {
+                  "latitude": 38.748896,
+                  "longitude": -9.201249
+                },
+                "visible": true,
+                "updateDate": "2015-06-29T11:20:40.000Z"
+              }
+            },
+            {
+              "id": 44376,
+              "order": 30,
+              "distance": 228,
+              "stop": {
+                "id": 10920,
+                "publicId": "10920",
+                "name": "Benfica (Av. Grão Vasco)",
+                "position": {
+                  "latitude": 38.749936,
+                  "longitude": -9.203048
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:30:06.000Z"
+              }
+            },
+            {
+              "id": 44377,
+              "order": 31,
+              "distance": 251,
+              "stop": {
+                "id": 10903,
+                "publicId": "10903",
+                "name": "Igreja De Benfica",
+                "position": {
+                  "latitude": 38.750615,
+                  "longitude": -9.201455
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:50:39.000Z"
+              }
+            },
+            {
+              "id": 44378,
+              "order": 32,
+              "distance": 389,
+              "stop": {
+                "id": 10905,
+                "publicId": "10905",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.750593,
+                  "longitude": -9.19859
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:32:51.000Z"
+              }
+            },
+            {
+              "id": 44379,
+              "order": 33,
+              "distance": 458,
+              "stop": {
+                "id": 10835,
+                "publicId": "10835",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.749735,
+                  "longitude": -9.194268
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:10:41.000Z"
+              }
+            },
+            {
+              "id": 44380,
+              "order": 34,
+              "distance": 499,
+              "stop": {
+                "id": 10807,
+                "publicId": "10807",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.748543,
+                  "longitude": -9.191209
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:49.000Z"
+              }
+            },
+            {
+              "id": 44381,
+              "order": 35,
+              "distance": 513,
+              "stop": {
+                "id": 50134,
+                "publicId": "10812",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752465,
+                  "longitude": -9.189537
+                },
+                "visible": true,
+                "updateDate": "2019-02-20T17:08:17.000Z"
+              }
+            },
+            {
+              "id": 44382,
+              "order": 36,
+              "distance": 606,
+              "stop": {
+                "id": 50242,
+                "publicId": "30001",
+                "name": "Hosp. Luz",
+                "position": {
+                  "latitude": 38.755426,
+                  "longitude": -9.192377
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:27:04.000Z"
+              }
+            },
+            {
+              "id": 44383,
+              "order": 37,
+              "distance": 392,
+              "stop": {
+                "id": 12822,
+                "publicId": "12822",
+                "name": "Carnide (Metro)",
+                "position": {
+                  "latitude": 38.759041,
+                  "longitude": -9.192629
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T08:25:09.000Z"
+              }
+            },
+            {
+              "id": 44384,
+              "order": 38,
+              "distance": 391,
+              "stop": {
+                "id": 12812,
+                "publicId": "12812",
+                "name": "Estação Da Pontinha",
+                "position": {
+                  "latitude": 38.760675,
+                  "longitude": -9.194949
+                },
+                "visible": true,
+                "updateDate": "2020-03-06T14:00:17.000Z"
+              }
+            },
+            {
+              "id": 44385,
+              "order": 39,
+              "distance": 0,
+              "stop": {
+                "id": 13911,
+                "publicId": "13911",
+                "name": "Pontinha (Metro)",
+                "position": {
+                  "latitude": 38.761614,
+                  "longitude": -9.196761
+                },
+                "visible": true,
+                "updateDate": "2020-03-06T14:01:06.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20783,
+      "variant": 6,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21425,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 44534,
+              "order": 1,
+              "distance": 517,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            },
+            {
+              "id": 44535,
+              "order": 2,
+              "distance": 367,
+              "stop": {
+                "id": 12907,
+                "publicId": "12907",
+                "name": "Estr. Marcos",
+                "position": {
+                  "latitude": 38.713409,
+                  "longitude": -9.202657
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:18:17.000Z"
+              }
+            },
+            {
+              "id": 44536,
+              "order": 3,
+              "distance": 299,
+              "stop": {
+                "id": 12903,
+                "publicId": "12903",
+                "name": "Bº Da Ajuda - Escola",
+                "position": {
+                  "latitude": 38.711653,
+                  "longitude": -9.201238
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:06:58.000Z"
+              }
+            },
+            {
+              "id": 44537,
+              "order": 4,
+              "distance": 477,
+              "stop": {
+                "id": 12901,
+                "publicId": "12901",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709134,
+                  "longitude": -9.199986
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:14:56.000Z"
+              }
+            },
+            {
+              "id": 44538,
+              "order": 5,
+              "distance": 189,
+              "stop": {
+                "id": 12915,
+                "publicId": "12915",
+                "name": "Cemitério Ajuda",
+                "position": {
+                  "latitude": 38.70904,
+                  "longitude": -9.203214
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:20:26.000Z"
+              }
+            },
+            {
+              "id": 44539,
+              "order": 6,
+              "distance": 201,
+              "stop": {
+                "id": 13111,
+                "publicId": "13111",
+                "name": "Cç. Galvão (Gnr)",
+                "position": {
+                  "latitude": 38.707422,
+                  "longitude": -9.202628
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:06:46.000Z"
+              }
+            },
+            {
+              "id": 44540,
+              "order": 7,
+              "distance": 237,
+              "stop": {
+                "id": 13113,
+                "publicId": "13113",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70562,
+                  "longitude": -9.202441
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:07:18.000Z"
+              }
+            },
+            {
+              "id": 44541,
+              "order": 8,
+              "distance": 227,
+              "stop": {
+                "id": 13301,
+                "publicId": "13301",
+                "name": "R. Jardim Botânico",
+                "position": {
+                  "latitude": 38.705617,
+                  "longitude": -9.199942
+                },
+                "visible": true,
+                "updateDate": "2019-01-02T16:00:38.000Z"
+              }
+            },
+            {
+              "id": 44542,
+              "order": 9,
+              "distance": 335,
+              "stop": {
+                "id": 13307,
+                "publicId": "13307",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704205,
+                  "longitude": -9.199486
+                },
+                "visible": true,
+                "updateDate": "2017-07-25T09:56:52.000Z"
+              }
+            },
+            {
+              "id": 44543,
+              "order": 10,
+              "distance": 377,
+              "stop": {
+                "id": 4106,
+                "publicId": "4106",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.701204,
+                  "longitude": -9.199857
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:27:54.000Z"
+              }
+            },
+            {
+              "id": 44544,
+              "order": 11,
+              "distance": 544,
+              "stop": {
+                "id": 50135,
+                "publicId": "4103",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697823,
+                  "longitude": -9.199488
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:34.000Z"
+              }
+            },
+            {
+              "id": 44545,
+              "order": 12,
+              "distance": 399,
+              "stop": {
+                "id": 9610,
+                "publicId": "9610",
+                "name": "Mosteiro Jerónimos",
+                "position": {
+                  "latitude": 38.697299,
+                  "longitude": -9.204939
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T13:54:08.000Z"
+              }
+            },
+            {
+              "id": 44546,
+              "order": 13,
+              "distance": 592,
+              "stop": {
+                "id": 13210,
+                "publicId": "13210",
+                "name": "Centro Cultural Belém",
+                "position": {
+                  "latitude": 38.696291,
+                  "longitude": -9.209342
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:36:30.000Z"
+              }
+            },
+            {
+              "id": 44547,
+              "order": 14,
+              "distance": 367,
+              "stop": {
+                "id": 13206,
+                "publicId": "13206",
+                "name": "Lg. Princesa",
+                "position": {
+                  "latitude": 38.695055,
+                  "longitude": -9.214854
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:34:59.000Z"
+              }
+            },
+            {
+              "id": 44548,
+              "order": 15,
+              "distance": 687,
+              "stop": {
+                "id": 13204,
+                "publicId": "13204",
+                "name": "Pedrouços",
+                "position": {
+                  "latitude": 38.695921,
+                  "longitude": -9.218847
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:31:23.000Z"
+              }
+            },
+            {
+              "id": 44549,
+              "order": 16,
+              "distance": 274,
+              "stop": {
+                "id": 4208,
+                "publicId": "4208",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.69836,
+                  "longitude": -9.225053
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:10:53.000Z"
+              }
+            },
+            {
+              "id": 44550,
+              "order": 17,
+              "distance": 0,
+              "stop": {
+                "id": 4211,
+                "publicId": "4211",
+                "name": "Algés",
+                "position": {
+                  "latitude": 38.6989,
+                  "longitude": -9.227125
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:54:23.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20765,
+      "variant": 7,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21407,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 44423,
+              "order": 1,
+              "distance": 517,
+              "stop": {
+                "id": 10315,
+                "publicId": "10315",
+                "name": "Pólo Universitário Da Ajuda",
+                "position": {
+                  "latitude": 38.713933,
+                  "longitude": -9.196977
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:32:19.000Z"
+              }
+            },
+            {
+              "id": 44424,
+              "order": 2,
+              "distance": 367,
+              "stop": {
+                "id": 12907,
+                "publicId": "12907",
+                "name": "Estr. Marcos",
+                "position": {
+                  "latitude": 38.713409,
+                  "longitude": -9.202657
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:18:17.000Z"
+              }
+            },
+            {
+              "id": 44425,
+              "order": 3,
+              "distance": 299,
+              "stop": {
+                "id": 12903,
+                "publicId": "12903",
+                "name": "Bº Da Ajuda - Escola",
+                "position": {
+                  "latitude": 38.711653,
+                  "longitude": -9.201238
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:06:58.000Z"
+              }
+            },
+            {
+              "id": 44426,
+              "order": 4,
+              "distance": 477,
+              "stop": {
+                "id": 12901,
+                "publicId": "12901",
+                "name": "Ajuda",
+                "position": {
+                  "latitude": 38.709134,
+                  "longitude": -9.199986
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:14:56.000Z"
+              }
+            },
+            {
+              "id": 44427,
+              "order": 5,
+              "distance": 189,
+              "stop": {
+                "id": 12915,
+                "publicId": "12915",
+                "name": "Cemitério Ajuda",
+                "position": {
+                  "latitude": 38.70904,
+                  "longitude": -9.203214
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T12:20:26.000Z"
+              }
+            },
+            {
+              "id": 44428,
+              "order": 6,
+              "distance": 201,
+              "stop": {
+                "id": 13111,
+                "publicId": "13111",
+                "name": "Cç. Galvão (Gnr)",
+                "position": {
+                  "latitude": 38.707422,
+                  "longitude": -9.202628
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:06:46.000Z"
+              }
+            },
+            {
+              "id": 44429,
+              "order": 7,
+              "distance": 237,
+              "stop": {
+                "id": 13113,
+                "publicId": "13113",
+                "name": "Esc. Paula Vicente",
+                "position": {
+                  "latitude": 38.70562,
+                  "longitude": -9.202441
+                },
+                "visible": true,
+                "updateDate": "2019-01-03T17:07:18.000Z"
+              }
+            },
+            {
+              "id": 44430,
+              "order": 8,
+              "distance": 227,
+              "stop": {
+                "id": 13301,
+                "publicId": "13301",
+                "name": "R. Jardim Botânico",
+                "position": {
+                  "latitude": 38.705617,
+                  "longitude": -9.199942
+                },
+                "visible": true,
+                "updateDate": "2019-01-02T16:00:38.000Z"
+              }
+            },
+            {
+              "id": 44431,
+              "order": 9,
+              "distance": 335,
+              "stop": {
+                "id": 13307,
+                "publicId": "13307",
+                "name": "Rua Bica Do Marquês",
+                "position": {
+                  "latitude": 38.704205,
+                  "longitude": -9.199486
+                },
+                "visible": true,
+                "updateDate": "2017-07-25T09:56:52.000Z"
+              }
+            },
+            {
+              "id": 44432,
+              "order": 10,
+              "distance": 377,
+              "stop": {
+                "id": 4106,
+                "publicId": "4106",
+                "name": "Museu Do Ultramar",
+                "position": {
+                  "latitude": 38.701204,
+                  "longitude": -9.199857
+                },
+                "visible": true,
+                "updateDate": "2015-03-27T10:27:54.000Z"
+              }
+            },
+            {
+              "id": 44433,
+              "order": 11,
+              "distance": 544,
+              "stop": {
+                "id": 50135,
+                "publicId": "4103",
+                "name": "Belém / Cç. Da Ajuda",
+                "position": {
+                  "latitude": 38.697823,
+                  "longitude": -9.199488
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:34.000Z"
+              }
+            },
+            {
+              "id": 44434,
+              "order": 12,
+              "distance": 399,
+              "stop": {
+                "id": 9610,
+                "publicId": "9610",
+                "name": "Mosteiro Jerónimos",
+                "position": {
+                  "latitude": 38.697299,
+                  "longitude": -9.204939
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T13:54:08.000Z"
+              }
+            },
+            {
+              "id": 44435,
+              "order": 13,
+              "distance": 592,
+              "stop": {
+                "id": 13210,
+                "publicId": "13210",
+                "name": "Centro Cultural Belém",
+                "position": {
+                  "latitude": 38.696291,
+                  "longitude": -9.209342
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:36:30.000Z"
+              }
+            },
+            {
+              "id": 44436,
+              "order": 14,
+              "distance": 367,
+              "stop": {
+                "id": 13206,
+                "publicId": "13206",
+                "name": "Lg. Princesa",
+                "position": {
+                  "latitude": 38.695055,
+                  "longitude": -9.214854
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:34:59.000Z"
+              }
+            },
+            {
+              "id": 44437,
+              "order": 15,
+              "distance": 687,
+              "stop": {
+                "id": 13204,
+                "publicId": "13204",
+                "name": "Pedrouços",
+                "position": {
+                  "latitude": 38.695921,
+                  "longitude": -9.218847
+                },
+                "visible": true,
+                "updateDate": "2002-09-05T15:31:23.000Z"
+              }
+            },
+            {
+              "id": 44438,
+              "order": 16,
+              "distance": 274,
+              "stop": {
+                "id": 4208,
+                "publicId": "4208",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.69836,
+                  "longitude": -9.225053
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:10:53.000Z"
+              }
+            },
+            {
+              "id": 44439,
+              "order": 17,
+              "distance": 0,
+              "stop": {
+                "id": 4211,
+                "publicId": "4211",
+                "name": "Algés",
+                "position": {
+                  "latitude": 38.6989,
+                  "longitude": -9.227125
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:54:23.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15121,
+      "variant": 9,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 15361,
+          "type": "DESC",
+          "direction": "DESC",
+          "shape": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -9.20085326166004,
+                38.6972565539836
+              ],
+              [
+                -9.2009046,
+                38.6972525
+              ],
+              [
+                -9.2011281,
+                38.6972467
+              ],
+              [
+                -9.2012937,
+                38.6972522
+              ],
+              [
+                -9.20163,
+                38.697253
+              ],
+              [
+                -9.2017822,
+                38.6972621
+              ],
+              [
+                -9.2018331,
+                38.697265
+              ],
+              [
+                -9.2022418,
+                38.6972892
+              ],
+              [
+                -9.2023251,
+                38.6972941
+              ],
+              [
+                -9.2024805,
+                38.6973031
+              ],
+              [
+                -9.2027401,
+                38.6973183
+              ],
+              [
+                -9.2033978,
+                38.6973793
+              ],
+              [
+                -9.2035086,
+                38.6973901
+              ],
+              [
+                -9.2037811,
+                38.6974269
+              ],
+              [
+                -9.2038872,
+                38.6974368
+              ],
+              [
+                -9.2039647,
+                38.697439
+              ],
+              [
+                -9.2040352,
+                38.6974359
+              ],
+              [
+                -9.2041173,
+                38.6974276
+              ],
+              [
+                -9.2042137,
+                38.6974121
+              ],
+              [
+                -9.2043861,
+                38.6973676
+              ],
+              [
+                -9.2044448,
+                38.6973524
+              ],
+              [
+                -9.2045187,
+                38.6973656
+              ],
+              [
+                -9.2052134,
+                38.6971918
+              ],
+              [
+                -9.2053003,
+                38.6971701
+              ],
+              [
+                -9.2071494,
+                38.6967015
+              ],
+              [
+                -9.2072515,
+                38.6966349
+              ],
+              [
+                -9.2074393,
+                38.6965871
+              ],
+              [
+                -9.2077661,
+                38.6965141
+              ],
+              [
+                -9.2079109,
+                38.6964855
+              ],
+              [
+                -9.208104,
+                38.6964497
+              ],
+              [
+                -9.2082399,
+                38.6964337
+              ],
+              [
+                -9.2084128,
+                38.6964315
+              ],
+              [
+                -9.2085438,
+                38.6964265
+              ],
+              [
+                -9.2086654,
+                38.6964211
+              ],
+              [
+                -9.2087057,
+                38.69642
+              ],
+              [
+                -9.20873,
+                38.6964197
+              ],
+              [
+                -9.2087824,
+                38.6964129
+              ],
+              [
+                -9.2089317,
+                38.6963735
+              ],
+              [
+                -9.2092676,
+                38.6962693
+              ],
+              [
+                -9.2101304,
+                38.6960002
+              ],
+              [
+                -9.2104999,
+                38.6958838
+              ],
+              [
+                -9.2112738,
+                38.6956209
+              ],
+              [
+                -9.2116746,
+                38.6954847
+              ],
+              [
+                -9.2118415,
+                38.6954354
+              ],
+              [
+                -9.212471,
+                38.6952391
+              ],
+              [
+                -9.2124783,
+                38.6952363
+              ],
+              [
+                -9.2126947,
+                38.6951655
+              ],
+              [
+                -9.2127899,
+                38.6951446
+              ],
+              [
+                -9.2130502,
+                38.6951226
+              ],
+              [
+                -9.2132586,
+                38.6951012
+              ],
+              [
+                -9.2138185,
+                38.6950687
+              ],
+              [
+                -9.2141474,
+                38.6950552
+              ],
+              [
+                -9.2151031,
+                38.695016
+              ],
+              [
+                -9.215909,
+                38.6950288
+              ],
+              [
+                -9.2159886,
+                38.6950384
+              ],
+              [
+                -9.2161606,
+                38.6950617
+              ],
+              [
+                -9.2162674,
+                38.6950894
+              ],
+              [
+                -9.2163144,
+                38.6951018
+              ],
+              [
+                -9.2164899,
+                38.695154
+              ],
+              [
+                -9.218171,
+                38.6956945
+              ],
+              [
+                -9.2182503,
+                38.6957195
+              ],
+              [
+                -9.2185552,
+                38.6958156
+              ],
+              [
+                -9.2193337,
+                38.6960616
+              ],
+              [
+                -9.2201269,
+                38.6963344
+              ],
+              [
+                -9.2204622,
+                38.6964498
+              ],
+              [
+                -9.220846,
+                38.6965838
+              ],
+              [
+                -9.2209565,
+                38.6966215
+              ],
+              [
+                -9.2211255,
+                38.6966814
+              ],
+              [
+                -9.2215885,
+                38.6968431
+              ],
+              [
+                -9.2219254,
+                38.6970279
+              ],
+              [
+                -9.2221439,
+                38.6971782
+              ],
+              [
+                -9.2223993,
+                38.6973289
+              ],
+              [
+                -9.2225135,
+                38.6973924
+              ],
+              [
+                -9.2226677,
+                38.6974707
+              ],
+              [
+                -9.2229022,
+                38.6975734
+              ],
+              [
+                -9.223333,
+                38.6977737
+              ],
+              [
+                -9.2234978,
+                38.6978359
+              ],
+              [
+                -9.2237579,
+                38.6979198
+              ],
+              [
+                -9.2238901,
+                38.6979603
+              ],
+              [
+                -9.2244707,
+                38.6981383
+              ],
+              [
+                -9.2252901,
+                38.6983873
+              ],
+              [
+                -9.2253141,
+                38.6984047
+              ],
+              [
+                -9.2253199,
+                38.6984233
+              ],
+              [
+                -9.2253202,
+                38.6984436
+              ],
+              [
+                -9.2253045,
+                38.698573
+              ],
+              [
+                -9.2252976,
+                38.6986325
+              ],
+              [
+                -9.2253079,
+                38.698768
+              ],
+              [
+                -9.2253482,
+                38.6989174
+              ],
+              [
+                -9.2253697,
+                38.6989883
+              ],
+              [
+                -9.2254523,
+                38.699188
+              ],
+              [
+                -9.2256158,
+                38.6991297
+              ],
+              [
+                -9.2260497,
+                38.6989494
+              ],
+              [
+                -9.2262742,
+                38.6988562
+              ],
+              [
+                -9.2263442,
+                38.6988639
+              ],
+              [
+                -9.2263792,
+                38.6988482
+              ],
+              [
+                -9.226417,
+                38.6988315
+              ],
+              [
+                -9.2264958,
+                38.6987973
+              ],
+              [
+                -9.2265258,
+                38.6988269
+              ],
+              [
+                -9.2265644,
+                38.6988573
+              ],
+              [
+                -9.2265984,
+                38.698884
+              ],
+              [
+                -9.2266575,
+                38.6989121
+              ],
+              [
+                -9.2267125,
+                38.6989323
+              ],
+              [
+                -9.2268133,
+                38.6989531
+              ],
+              [
+                -9.2269631,
+                38.6989955
+              ],
+              [
+                -9.2270256,
+                38.6990237
+              ],
+              [
+                -9.2270721,
+                38.6990528
+              ],
+              [
+                -9.2271044,
+                38.6990797
+              ],
+              [
+                -9.2270918,
+                38.6990218
+              ],
+              [
+                -9.2270837,
+                38.6989883
+              ],
+              [
+                -9.2270665,
+                38.6989441
+              ],
+              [
+                -9.22705617401201,
+                38.6989176893
+              ]
+            ]
+          },
+          "connections": [
+            {
+              "id": 17627,
+              "order": 1,
+              "distance": 2663,
+              "stop": {
+                "id": 4211,
+                "publicId": "4211",
+                "name": "Algés",
+                "position": {
+                  "latitude": 38.6989,
+                  "longitude": -9.227125
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:54:23.000Z"
+              }
+            },
+            {
+              "id": 33684,
+              "order": 2,
+              "distance": 0,
+              "stop": {
+                "id": 4111,
+                "publicId": "4111",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.697115,
+                  "longitude": -9.200836
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:20:50.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2125 @@
+{
+  "id": 163,
+  "number": "797",
+  "name": "Alameda-Sapadores",
+  "visible": true,
+  "creationDate": "2020-05-20T09:57:51.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20821,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21461,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 45125,
+              "order": 1,
+              "distance": 545,
+              "stop": {
+                "id": 402,
+                "publicId": "402",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736941,
+                  "longitude": -9.13399
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:10.000Z"
+              }
+            },
+            {
+              "id": 45126,
+              "order": 2,
+              "distance": 205,
+              "stop": {
+                "id": 504,
+                "publicId": "504",
+                "name": "Pç. Chile",
+                "position": {
+                  "latitude": 38.733227,
+                  "longitude": -9.132798
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:35:15.000Z"
+              }
+            },
+            {
+              "id": 45127,
+              "order": 3,
+              "distance": 350,
+              "stop": {
+                "id": 502,
+                "publicId": "502",
+                "name": "R. Morais Soares",
+                "position": {
+                  "latitude": 38.732653,
+                  "longitude": -9.130557
+                },
+                "visible": true,
+                "updateDate": "2012-01-13T12:27:55.000Z"
+              }
+            },
+            {
+              "id": 45128,
+              "order": 4,
+              "distance": 386,
+              "stop": {
+                "id": 7004,
+                "publicId": "7004",
+                "name": "Pç. Paiva Couceiro",
+                "position": {
+                  "latitude": 38.731203,
+                  "longitude": -9.127965
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:26:34.000Z"
+              }
+            },
+            {
+              "id": 45129,
+              "order": 5,
+              "distance": 232,
+              "stop": {
+                "id": 7016,
+                "publicId": "7016",
+                "name": "Rua Cesário Verde",
+                "position": {
+                  "latitude": 38.730042,
+                  "longitude": -9.13035
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:25:42.000Z"
+              }
+            },
+            {
+              "id": 45130,
+              "order": 6,
+              "distance": 305,
+              "stop": {
+                "id": 7008,
+                "publicId": "7008",
+                "name": "Penha De França",
+                "position": {
+                  "latitude": 38.728521,
+                  "longitude": -9.130953
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:59:03.000Z"
+              }
+            },
+            {
+              "id": 45131,
+              "order": 7,
+              "distance": 174,
+              "stop": {
+                "id": 9101,
+                "publicId": "9101",
+                "name": "Pç. António Sardinha",
+                "position": {
+                  "latitude": 38.725891,
+                  "longitude": -9.130062
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:46:46.000Z"
+              }
+            },
+            {
+              "id": 45132,
+              "order": 8,
+              "distance": 392,
+              "stop": {
+                "id": 9103,
+                "publicId": "9103",
+                "name": "R. Penha França",
+                "position": {
+                  "latitude": 38.724368,
+                  "longitude": -9.129621
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:47:23.000Z"
+              }
+            },
+            {
+              "id": 45133,
+              "order": 9,
+              "distance": 70,
+              "stop": {
+                "id": 9118,
+                "publicId": "9118",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721287,
+                  "longitude": -9.129185
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:48:27.000Z"
+              }
+            },
+            {
+              "id": 45134,
+              "order": 10,
+              "distance": 0,
+              "stop": {
+                "id": 50116,
+                "publicId": "9132",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721794,
+                  "longitude": -9.128759
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:26:55.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21462,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 45135,
+              "order": 1,
+              "distance": 260,
+              "stop": {
+                "id": 50116,
+                "publicId": "9132",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721794,
+                  "longitude": -9.128759
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:26:55.000Z"
+              }
+            },
+            {
+              "id": 45136,
+              "order": 2,
+              "distance": 237,
+              "stop": {
+                "id": 9104,
+                "publicId": "9104",
+                "name": "R. Penha França",
+                "position": {
+                  "latitude": 38.723879,
+                  "longitude": -9.129382
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:47:26.000Z"
+              }
+            },
+            {
+              "id": 45137,
+              "order": 3,
+              "distance": 294,
+              "stop": {
+                "id": 9102,
+                "publicId": "9102",
+                "name": "Pç. António Sardinha",
+                "position": {
+                  "latitude": 38.725973,
+                  "longitude": -9.129944
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:46:55.000Z"
+              }
+            },
+            {
+              "id": 45138,
+              "order": 4,
+              "distance": 177,
+              "stop": {
+                "id": 7005,
+                "publicId": "7005",
+                "name": "Penha França",
+                "position": {
+                  "latitude": 38.728516,
+                  "longitude": -9.130831
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:32:10.000Z"
+              }
+            },
+            {
+              "id": 45139,
+              "order": 5,
+              "distance": 140,
+              "stop": {
+                "id": 50395,
+                "publicId": "7017",
+                "name": "Igreja Penha França",
+                "position": {
+                  "latitude": 38.729893,
+                  "longitude": -9.130941
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:34:23.000Z"
+              }
+            },
+            {
+              "id": 45140,
+              "order": 6,
+              "distance": 349,
+              "stop": {
+                "id": 7007,
+                "publicId": "7007",
+                "name": "Rua Cesário Verde",
+                "position": {
+                  "latitude": 38.729168,
+                  "longitude": -9.129892
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:25:10.000Z"
+              }
+            },
+            {
+              "id": 45141,
+              "order": 7,
+              "distance": 326,
+              "stop": {
+                "id": 7003,
+                "publicId": "7003",
+                "name": "Pç. Paiva Couceiro",
+                "position": {
+                  "latitude": 38.730414,
+                  "longitude": -9.127801
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:26:04.000Z"
+              }
+            },
+            {
+              "id": 45142,
+              "order": 8,
+              "distance": 195,
+              "stop": {
+                "id": 7011,
+                "publicId": "7011",
+                "name": "Pç. Paiva Couceiro / R. Morais",
+                "position": {
+                  "latitude": 38.732115,
+                  "longitude": -9.128297
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:28:27.000Z"
+              }
+            },
+            {
+              "id": 45143,
+              "order": 9,
+              "distance": 218,
+              "stop": {
+                "id": 501,
+                "publicId": "501",
+                "name": "R. Morais Soares",
+                "position": {
+                  "latitude": 38.732735,
+                  "longitude": -9.130411
+                },
+                "visible": true,
+                "updateDate": "2012-01-13T12:27:47.000Z"
+              }
+            },
+            {
+              "id": 45144,
+              "order": 10,
+              "distance": 385,
+              "stop": {
+                "id": 509,
+                "publicId": "509",
+                "name": "Pç. Chile",
+                "position": {
+                  "latitude": 38.733344,
+                  "longitude": -9.132793
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:37:02.000Z"
+              }
+            },
+            {
+              "id": 45145,
+              "order": 11,
+              "distance": 530,
+              "stop": {
+                "id": 409,
+                "publicId": "409",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736101,
+                  "longitude": -9.13387
+                },
+                "visible": true,
+                "updateDate": "2018-02-08T11:28:03.000Z"
+              }
+            },
+            {
+              "id": 45146,
+              "order": 12,
+              "distance": 0,
+              "stop": {
+                "id": 402,
+                "publicId": "402",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736941,
+                  "longitude": -9.13399
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:10.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20822,
+      "variant": 1,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21463,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 45147,
+              "order": 1,
+              "distance": 545,
+              "stop": {
+                "id": 402,
+                "publicId": "402",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736941,
+                  "longitude": -9.13399
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:10.000Z"
+              }
+            },
+            {
+              "id": 45148,
+              "order": 2,
+              "distance": 205,
+              "stop": {
+                "id": 504,
+                "publicId": "504",
+                "name": "Pç. Chile",
+                "position": {
+                  "latitude": 38.733227,
+                  "longitude": -9.132798
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:35:15.000Z"
+              }
+            },
+            {
+              "id": 45149,
+              "order": 3,
+              "distance": 350,
+              "stop": {
+                "id": 502,
+                "publicId": "502",
+                "name": "R. Morais Soares",
+                "position": {
+                  "latitude": 38.732653,
+                  "longitude": -9.130557
+                },
+                "visible": true,
+                "updateDate": "2012-01-13T12:27:55.000Z"
+              }
+            },
+            {
+              "id": 45150,
+              "order": 4,
+              "distance": 386,
+              "stop": {
+                "id": 7004,
+                "publicId": "7004",
+                "name": "Pç. Paiva Couceiro",
+                "position": {
+                  "latitude": 38.731203,
+                  "longitude": -9.127965
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:26:34.000Z"
+              }
+            },
+            {
+              "id": 45151,
+              "order": 5,
+              "distance": 232,
+              "stop": {
+                "id": 7016,
+                "publicId": "7016",
+                "name": "Rua Cesário Verde",
+                "position": {
+                  "latitude": 38.730042,
+                  "longitude": -9.13035
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:25:42.000Z"
+              }
+            },
+            {
+              "id": 45152,
+              "order": 6,
+              "distance": 305,
+              "stop": {
+                "id": 7008,
+                "publicId": "7008",
+                "name": "Penha De França",
+                "position": {
+                  "latitude": 38.728521,
+                  "longitude": -9.130953
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:59:03.000Z"
+              }
+            },
+            {
+              "id": 45153,
+              "order": 7,
+              "distance": 174,
+              "stop": {
+                "id": 9101,
+                "publicId": "9101",
+                "name": "Pç. António Sardinha",
+                "position": {
+                  "latitude": 38.725891,
+                  "longitude": -9.130062
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:46:46.000Z"
+              }
+            },
+            {
+              "id": 45154,
+              "order": 8,
+              "distance": 334,
+              "stop": {
+                "id": 9103,
+                "publicId": "9103",
+                "name": "R. Penha França",
+                "position": {
+                  "latitude": 38.724368,
+                  "longitude": -9.129621
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:47:23.000Z"
+              }
+            },
+            {
+              "id": 45155,
+              "order": 9,
+              "distance": 88,
+              "stop": {
+                "id": 9105,
+                "publicId": "9105",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721553,
+                  "longitude": -9.129722
+                },
+                "visible": true,
+                "updateDate": "2019-11-18T12:31:48.000Z"
+              }
+            },
+            {
+              "id": 45156,
+              "order": 10,
+              "distance": 203,
+              "stop": {
+                "id": 9129,
+                "publicId": "9129",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.720979,
+                  "longitude": -9.130203
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:26:44.000Z"
+              }
+            },
+            {
+              "id": 45157,
+              "order": 11,
+              "distance": 217,
+              "stop": {
+                "id": 9131,
+                "publicId": "9131",
+                "name": "R. Graça",
+                "position": {
+                  "latitude": 38.719221,
+                  "longitude": -9.12988
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:40:00.000Z"
+              }
+            },
+            {
+              "id": 45158,
+              "order": 12,
+              "distance": 265,
+              "stop": {
+                "id": 14804,
+                "publicId": "14804",
+                "name": "Graça",
+                "position": {
+                  "latitude": 38.717268,
+                  "longitude": -9.129897
+                },
+                "visible": true,
+                "updateDate": "2017-03-14T16:43:08.000Z"
+              }
+            },
+            {
+              "id": 45159,
+              "order": 13,
+              "distance": 319,
+              "stop": {
+                "id": 14802,
+                "publicId": "14802",
+                "name": "Voz Operário",
+                "position": {
+                  "latitude": 38.715036,
+                  "longitude": -9.128831
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:38:18.000Z"
+              }
+            },
+            {
+              "id": 45160,
+              "order": 14,
+              "distance": 0,
+              "stop": {
+                "id": 2129,
+                "publicId": "2129",
+                "name": "Mercado De Santa Clara",
+                "position": {
+                  "latitude": 38.715383,
+                  "longitude": -9.125424
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:08:16.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21464,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 45161,
+              "order": 1,
+              "distance": 300,
+              "stop": {
+                "id": 2130,
+                "publicId": "2130",
+                "name": "Mercado De Santa Clara",
+                "position": {
+                  "latitude": 38.715665,
+                  "longitude": -9.125821
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T19:08:21.000Z"
+              }
+            },
+            {
+              "id": 45162,
+              "order": 2,
+              "distance": 256,
+              "stop": {
+                "id": 14801,
+                "publicId": "14801",
+                "name": "Voz Operário",
+                "position": {
+                  "latitude": 38.715074,
+                  "longitude": -9.12873
+                },
+                "visible": true,
+                "updateDate": "2019-10-04T17:37:58.000Z"
+              }
+            },
+            {
+              "id": 45163,
+              "order": 3,
+              "distance": 205,
+              "stop": {
+                "id": 14803,
+                "publicId": "14803",
+                "name": "Graça",
+                "position": {
+                  "latitude": 38.717222,
+                  "longitude": -9.129768
+                },
+                "visible": true,
+                "updateDate": "2017-03-14T16:42:17.000Z"
+              }
+            },
+            {
+              "id": 45164,
+              "order": 4,
+              "distance": 335,
+              "stop": {
+                "id": 9130,
+                "publicId": "9130",
+                "name": "R. Graça",
+                "position": {
+                  "latitude": 38.719031,
+                  "longitude": -9.129837
+                },
+                "visible": true,
+                "updateDate": "2019-09-02T14:39:55.000Z"
+              }
+            },
+            {
+              "id": 45165,
+              "order": 5,
+              "distance": 260,
+              "stop": {
+                "id": 50116,
+                "publicId": "9132",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721794,
+                  "longitude": -9.128759
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:26:55.000Z"
+              }
+            },
+            {
+              "id": 45166,
+              "order": 6,
+              "distance": 237,
+              "stop": {
+                "id": 9104,
+                "publicId": "9104",
+                "name": "R. Penha França",
+                "position": {
+                  "latitude": 38.723879,
+                  "longitude": -9.129382
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:47:26.000Z"
+              }
+            },
+            {
+              "id": 45167,
+              "order": 7,
+              "distance": 294,
+              "stop": {
+                "id": 9102,
+                "publicId": "9102",
+                "name": "Pç. António Sardinha",
+                "position": {
+                  "latitude": 38.725973,
+                  "longitude": -9.129944
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:46:55.000Z"
+              }
+            },
+            {
+              "id": 45168,
+              "order": 8,
+              "distance": 177,
+              "stop": {
+                "id": 7005,
+                "publicId": "7005",
+                "name": "Penha França",
+                "position": {
+                  "latitude": 38.728516,
+                  "longitude": -9.130831
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:32:10.000Z"
+              }
+            },
+            {
+              "id": 45169,
+              "order": 9,
+              "distance": 140,
+              "stop": {
+                "id": 50395,
+                "publicId": "7017",
+                "name": "Igreja Penha França",
+                "position": {
+                  "latitude": 38.729893,
+                  "longitude": -9.130941
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:34:23.000Z"
+              }
+            },
+            {
+              "id": 45170,
+              "order": 10,
+              "distance": 349,
+              "stop": {
+                "id": 7007,
+                "publicId": "7007",
+                "name": "Rua Cesário Verde",
+                "position": {
+                  "latitude": 38.729168,
+                  "longitude": -9.129892
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:25:10.000Z"
+              }
+            },
+            {
+              "id": 45171,
+              "order": 11,
+              "distance": 326,
+              "stop": {
+                "id": 7003,
+                "publicId": "7003",
+                "name": "Pç. Paiva Couceiro",
+                "position": {
+                  "latitude": 38.730414,
+                  "longitude": -9.127801
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:26:04.000Z"
+              }
+            },
+            {
+              "id": 45172,
+              "order": 12,
+              "distance": 195,
+              "stop": {
+                "id": 7011,
+                "publicId": "7011",
+                "name": "Pç. Paiva Couceiro / R. Morais",
+                "position": {
+                  "latitude": 38.732115,
+                  "longitude": -9.128297
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:28:27.000Z"
+              }
+            },
+            {
+              "id": 45173,
+              "order": 13,
+              "distance": 218,
+              "stop": {
+                "id": 501,
+                "publicId": "501",
+                "name": "R. Morais Soares",
+                "position": {
+                  "latitude": 38.732735,
+                  "longitude": -9.130411
+                },
+                "visible": true,
+                "updateDate": "2012-01-13T12:27:47.000Z"
+              }
+            },
+            {
+              "id": 45174,
+              "order": 14,
+              "distance": 385,
+              "stop": {
+                "id": 509,
+                "publicId": "509",
+                "name": "Pç. Chile",
+                "position": {
+                  "latitude": 38.733344,
+                  "longitude": -9.132793
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:37:02.000Z"
+              }
+            },
+            {
+              "id": 45175,
+              "order": 15,
+              "distance": 530,
+              "stop": {
+                "id": 409,
+                "publicId": "409",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736101,
+                  "longitude": -9.13387
+                },
+                "visible": true,
+                "updateDate": "2018-02-08T11:28:03.000Z"
+              }
+            },
+            {
+              "id": 45176,
+              "order": 16,
+              "distance": 0,
+              "stop": {
+                "id": 402,
+                "publicId": "402",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736941,
+                  "longitude": -9.13399
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:10.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19050,
+      "variant": 8,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 19579,
+          "type": "ASC",
+          "direction": "ASC",
+          "shape": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -9.13403137071163,
+                38.7369538417951
+              ],
+              [
+                -9.134033,
+                38.736729
+              ],
+              [
+                -9.1343309,
+                38.7367208
+              ],
+              [
+                -9.1343811,
+                38.7367194
+              ],
+              [
+                -9.134598,
+                38.7367135
+              ],
+              [
+                -9.1345979,
+                38.7366343
+              ],
+              [
+                -9.13401,
+                38.7366595
+              ],
+              [
+                -9.1339565,
+                38.7366651
+              ],
+              [
+                -9.1339629,
+                38.7366053
+              ],
+              [
+                -9.1338383,
+                38.7366127
+              ],
+              [
+                -9.1338904,
+                38.7361316
+              ],
+              [
+                -9.13389372424603,
+                38.736102707351
+              ],
+              [
+                -9.133928,
+                38.7358048
+              ],
+              [
+                -9.1340324,
+                38.7347491
+              ],
+              [
+                -9.1340594,
+                38.7344831
+              ],
+              [
+                -9.1340787,
+                38.7342608
+              ],
+              [
+                -9.1341077,
+                38.7339369
+              ],
+              [
+                -9.1340604,
+                38.7338451
+              ],
+              [
+                -9.1339898,
+                38.7337543
+              ],
+              [
+                -9.1339301,
+                38.7336786
+              ],
+              [
+                -9.1339132,
+                38.7336611
+              ],
+              [
+                -9.133881,
+                38.7336289
+              ],
+              [
+                -9.1338481,
+                38.7336011
+              ],
+              [
+                -9.1337849,
+                38.7335781
+              ],
+              [
+                -9.1337189,
+                38.7335188
+              ],
+              [
+                -9.133354,
+                38.7334334
+              ],
+              [
+                -9.13282113405983,
+                38.7332832469468
+              ],
+              [
+                -9.132558,
+                38.7332091
+              ],
+              [
+                -9.1319785,
+                38.7330826
+              ],
+              [
+                -9.1317464,
+                38.733021
+              ],
+              [
+                -9.1309218,
+                38.7328015
+              ],
+              [
+                -9.13043036714294,
+                38.7326852016361
+              ],
+              [
+                -9.1295958,
+                38.7324877
+              ],
+              [
+                -9.1289924,
+                38.7323238
+              ],
+              [
+                -9.128717,
+                38.732239
+              ],
+              [
+                -9.1285836,
+                38.7321825
+              ],
+              [
+                -9.12833283013375,
+                38.7320597978031
+              ],
+              [
+                -9.1282985,
+                38.732043
+              ],
+              [
+                -9.1278908,
+                38.7318564
+              ],
+              [
+                -9.1276641,
+                38.7317199
+              ],
+              [
+                -9.1275772,
+                38.7316676
+              ],
+              [
+                -9.1278109,
+                38.7312768
+              ],
+              [
+                -9.1278846,
+                38.7311468
+              ],
+              [
+                -9.1279149,
+                38.7310705
+              ],
+              [
+                -9.1279431,
+                38.7309673
+              ],
+              [
+                -9.1279136,
+                38.7308593
+              ],
+              [
+                -9.1278883,
+                38.7308159
+              ],
+              [
+                -9.1278304,
+                38.7307652
+              ],
+              [
+                -9.1277568,
+                38.730717
+              ],
+              [
+                -9.12787563270947,
+                38.7304317050991
+              ],
+              [
+                -9.128028,
+                38.7300659
+              ],
+              [
+                -9.1280573,
+                38.7299761
+              ],
+              [
+                -9.1280922,
+                38.7298334
+              ],
+              [
+                -9.1281766,
+                38.7287805
+              ],
+              [
+                -9.1288052,
+                38.7288204
+              ],
+              [
+                -9.1292734,
+                38.7288488
+              ],
+              [
+                -9.1293138,
+                38.7288329
+              ],
+              [
+                -9.1293421,
+                38.7287703
+              ],
+              [
+                -9.1298159,
+                38.7291635
+              ],
+              [
+                -9.12985561232248,
+                38.7291954902882
+              ],
+              [
+                -9.1303852,
+                38.7296221
+              ],
+              [
+                -9.1307605,
+                38.7299726
+              ],
+              [
+                -9.1308668,
+                38.7299661
+              ],
+              [
+                -9.130941,
+                38.7299344
+              ],
+              [
+                -9.1310384,
+                38.729847
+              ],
+              [
+                -9.1311058,
+                38.7297678
+              ],
+              [
+                -9.1311729,
+                38.7296686
+              ],
+              [
+                -9.1312624,
+                38.7294706
+              ],
+              [
+                -9.1313133,
+                38.7293588
+              ],
+              [
+                -9.1313385,
+                38.7292714
+              ],
+              [
+                -9.1313386,
+                38.7291878
+              ],
+              [
+                -9.1313276,
+                38.7290922
+              ],
+              [
+                -9.131306,
+                38.7290188
+              ],
+              [
+                -9.1312679,
+                38.7289458
+              ],
+              [
+                -9.1311722,
+                38.7288416
+              ],
+              [
+                -9.1309816,
+                38.728629
+              ],
+              [
+                -9.13087106106095,
+                38.7284927653461
+              ],
+              [
+                -9.1307949,
+                38.7283989
+              ],
+              [
+                -9.1307427,
+                38.7283207
+              ],
+              [
+                -9.1307144,
+                38.7282648
+              ],
+              [
+                -9.1306866,
+                38.7281934
+              ],
+              [
+                -9.130668,
+                38.7281181
+              ],
+              [
+                -9.1306211,
+                38.7278126
+              ],
+              [
+                -9.1305833,
+                38.7275921
+              ],
+              [
+                -9.1305774,
+                38.7275589
+              ],
+              [
+                -9.1305401,
+                38.7273958
+              ],
+              [
+                -9.1305079,
+                38.7272911
+              ],
+              [
+                -9.1303559,
+                38.7268439
+              ],
+              [
+                -9.130303,
+                38.7266352
+              ],
+              [
+                -9.1302751,
+                38.7265195
+              ],
+              [
+                -9.1302412,
+                38.726379
+              ],
+              [
+                -9.1302036,
+                38.7262926
+              ],
+              [
+                -9.1301773,
+                38.7262625
+              ],
+              [
+                -9.1301061,
+                38.7262102
+              ],
+              [
+                -9.1300834,
+                38.7261799
+              ],
+              [
+                -9.1300387,
+                38.7260665
+              ],
+              [
+                -9.13001080535703,
+                38.7259621326685
+              ],
+              [
+                -9.1299389,
+                38.7256931
+              ],
+              [
+                -9.1295689,
+                38.7243996
+              ],
+              [
+                -9.1294272844187,
+                38.7238716066041
+              ],
+              [
+                -9.129376,
+                38.7236804
+              ],
+              [
+                -9.1292117,
+                38.7229893
+              ],
+              [
+                -9.1291889,
+                38.7227527
+              ],
+              [
+                -9.1291539,
+                38.722429
+              ],
+              [
+                -9.1287739,
+                38.7224291
+              ],
+              [
+                -9.12883914286419,
+                38.7217990985927
+              ]
+            ]
+          },
+          "connections": [
+            {
+              "id": 31441,
+              "order": 1,
+              "distance": 260,
+              "stop": {
+                "id": 50116,
+                "publicId": "9132",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721794,
+                  "longitude": -9.128759
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:26:55.000Z"
+              }
+            },
+            {
+              "id": 31442,
+              "order": 2,
+              "distance": 237,
+              "stop": {
+                "id": 9104,
+                "publicId": "9104",
+                "name": "R. Penha França",
+                "position": {
+                  "latitude": 38.723879,
+                  "longitude": -9.129382
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:47:26.000Z"
+              }
+            },
+            {
+              "id": 31443,
+              "order": 3,
+              "distance": 294,
+              "stop": {
+                "id": 9102,
+                "publicId": "9102",
+                "name": "Pç. António Sardinha",
+                "position": {
+                  "latitude": 38.725973,
+                  "longitude": -9.129944
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:46:55.000Z"
+              }
+            },
+            {
+              "id": 31444,
+              "order": 4,
+              "distance": 317,
+              "stop": {
+                "id": 7005,
+                "publicId": "7005",
+                "name": "Penha França",
+                "position": {
+                  "latitude": 38.728516,
+                  "longitude": -9.130831
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:32:10.000Z"
+              }
+            },
+            {
+              "id": 31445,
+              "order": 5,
+              "distance": 349,
+              "stop": {
+                "id": 7007,
+                "publicId": "7007",
+                "name": "Rua Cesário Verde",
+                "position": {
+                  "latitude": 38.729168,
+                  "longitude": -9.129892
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:25:10.000Z"
+              }
+            },
+            {
+              "id": 31446,
+              "order": 6,
+              "distance": 326,
+              "stop": {
+                "id": 7003,
+                "publicId": "7003",
+                "name": "Pç. Paiva Couceiro",
+                "position": {
+                  "latitude": 38.730414,
+                  "longitude": -9.127801
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:26:04.000Z"
+              }
+            },
+            {
+              "id": 31447,
+              "order": 7,
+              "distance": 195,
+              "stop": {
+                "id": 7011,
+                "publicId": "7011",
+                "name": "Pç. Paiva Couceiro / R. Morais",
+                "position": {
+                  "latitude": 38.732115,
+                  "longitude": -9.128297
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:28:27.000Z"
+              }
+            },
+            {
+              "id": 31448,
+              "order": 8,
+              "distance": 218,
+              "stop": {
+                "id": 501,
+                "publicId": "501",
+                "name": "R. Morais Soares",
+                "position": {
+                  "latitude": 38.732735,
+                  "longitude": -9.130411
+                },
+                "visible": true,
+                "updateDate": "2012-01-13T12:27:47.000Z"
+              }
+            },
+            {
+              "id": 31449,
+              "order": 9,
+              "distance": 385,
+              "stop": {
+                "id": 509,
+                "publicId": "509",
+                "name": "Pç. Chile",
+                "position": {
+                  "latitude": 38.733344,
+                  "longitude": -9.132793
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:37:02.000Z"
+              }
+            },
+            {
+              "id": 31450,
+              "order": 10,
+              "distance": 531,
+              "stop": {
+                "id": 409,
+                "publicId": "409",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736101,
+                  "longitude": -9.13387
+                },
+                "visible": true,
+                "updateDate": "2018-02-08T11:28:03.000Z"
+              }
+            },
+            {
+              "id": 33705,
+              "order": 11,
+              "distance": 0,
+              "stop": {
+                "id": 402,
+                "publicId": "402",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736941,
+                  "longitude": -9.13399
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:10.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 19580,
+          "type": "DESC",
+          "direction": "DESC",
+          "shape": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -9.13403137071163,
+                  38.7369538417951
+                ],
+                [
+                  -9.134033,
+                  38.736729
+                ],
+                [
+                  -9.1343309,
+                  38.7367208
+                ],
+                [
+                  -9.1343811,
+                  38.7367194
+                ],
+                [
+                  -9.134598,
+                  38.7367135
+                ],
+                [
+                  -9.1345979,
+                  38.7366343
+                ],
+                [
+                  -9.13401,
+                  38.7366595
+                ],
+                [
+                  -9.1339565,
+                  38.7366651
+                ],
+                [
+                  -9.1339629,
+                  38.7366053
+                ],
+                [
+                  -9.1340131,
+                  38.7361606
+                ],
+                [
+                  -9.1340556,
+                  38.7357855
+                ],
+                [
+                  -9.1341523,
+                  38.7347839
+                ],
+                [
+                  -9.1340324,
+                  38.7347491
+                ],
+                [
+                  -9.1340594,
+                  38.7344831
+                ],
+                [
+                  -9.1340787,
+                  38.7342608
+                ],
+                [
+                  -9.1341077,
+                  38.7339369
+                ],
+                [
+                  -9.1340604,
+                  38.7338451
+                ],
+                [
+                  -9.1339898,
+                  38.7337543
+                ],
+                [
+                  -9.1339301,
+                  38.7336786
+                ],
+                [
+                  -9.1339132,
+                  38.7336611
+                ],
+                [
+                  -9.133881,
+                  38.7336289
+                ],
+                [
+                  -9.1338481,
+                  38.7336011
+                ],
+                [
+                  -9.1337849,
+                  38.7335781
+                ],
+                [
+                  -9.1337189,
+                  38.7335188
+                ],
+                [
+                  -9.133354,
+                  38.7334334
+                ],
+                [
+                  -9.13277763045263,
+                  38.7332709883298
+                ],
+                [
+                  -9.132558,
+                  38.7332091
+                ],
+                [
+                  -9.1319785,
+                  38.7330826
+                ],
+                [
+                  -9.1317464,
+                  38.733021
+                ],
+                [
+                  -9.1309218,
+                  38.7328015
+                ],
+                [
+                  -9.13053486061765,
+                  38.7327099301824
+                ],
+                [
+                  -9.1295958,
+                  38.7324877
+                ],
+                [
+                  -9.1289924,
+                  38.7323238
+                ],
+                [
+                  -9.128717,
+                  38.732239
+                ],
+                [
+                  -9.1285836,
+                  38.7321825
+                ],
+                [
+                  -9.1282985,
+                  38.732043
+                ],
+                [
+                  -9.1278908,
+                  38.7318564
+                ],
+                [
+                  -9.1276641,
+                  38.7317199
+                ],
+                [
+                  -9.1275772,
+                  38.7316676
+                ],
+                [
+                  -9.1278109,
+                  38.7312768
+                ],
+                [
+                  -9.12787216480563,
+                  38.7311687345355
+                ],
+                [
+                  -9.1278846,
+                  38.7311468
+                ],
+                [
+                  -9.1279149,
+                  38.7310705
+                ],
+                [
+                  -9.1279431,
+                  38.7309673
+                ],
+                [
+                  -9.1288506,
+                  38.7311488
+                ],
+                [
+                  -9.1288801,
+                  38.7308794
+                ],
+                [
+                  -9.1288747,
+                  38.7308254
+                ],
+                [
+                  -9.1288677,
+                  38.7307948
+                ],
+                [
+                  -9.1288479,
+                  38.7307552
+                ],
+                [
+                  -9.1285575,
+                  38.7303582
+                ],
+                [
+                  -9.129061,
+                  38.7300935
+                ],
+                [
+                  -9.1292834,
+                  38.7299982
+                ],
+                [
+                  -9.1293616,
+                  38.729974
+                ],
+                [
+                  -9.1294714,
+                  38.7299608
+                ],
+                [
+                  -9.13034357999259,
+                  38.7299843787837
+                ],
+                [
+                  -9.1305848,
+                  38.7299909
+                ],
+                [
+                  -9.1307605,
+                  38.7299726
+                ],
+                [
+                  -9.1308668,
+                  38.7299661
+                ],
+                [
+                  -9.130941,
+                  38.7299344
+                ],
+                [
+                  -9.1310384,
+                  38.729847
+                ],
+                [
+                  -9.1311058,
+                  38.7297678
+                ],
+                [
+                  -9.1311729,
+                  38.7296686
+                ],
+                [
+                  -9.1312624,
+                  38.7294706
+                ],
+                [
+                  -9.1313133,
+                  38.7293588
+                ],
+                [
+                  -9.1313385,
+                  38.7292714
+                ],
+                [
+                  -9.1313386,
+                  38.7291878
+                ],
+                [
+                  -9.1313276,
+                  38.7290922
+                ],
+                [
+                  -9.131306,
+                  38.7290188
+                ],
+                [
+                  -9.1312679,
+                  38.7289458
+                ],
+                [
+                  -9.1311722,
+                  38.7288416
+                ],
+                [
+                  -9.1309816,
+                  38.728629
+                ],
+                [
+                  -9.13090738602205,
+                  38.7285375343528
+                ],
+                [
+                  -9.1307949,
+                  38.7283989
+                ],
+                [
+                  -9.1307427,
+                  38.7283207
+                ],
+                [
+                  -9.1307144,
+                  38.7282648
+                ],
+                [
+                  -9.1306866,
+                  38.7281934
+                ],
+                [
+                  -9.130668,
+                  38.7281181
+                ],
+                [
+                  -9.1306211,
+                  38.7278126
+                ],
+                [
+                  -9.1305833,
+                  38.7275921
+                ],
+                [
+                  -9.1305774,
+                  38.7275589
+                ],
+                [
+                  -9.1305401,
+                  38.7273958
+                ],
+                [
+                  -9.1305079,
+                  38.7272911
+                ],
+                [
+                  -9.1303559,
+                  38.7268439
+                ],
+                [
+                  -9.130303,
+                  38.7266352
+                ],
+                [
+                  -9.1302751,
+                  38.7265195
+                ],
+                [
+                  -9.1302412,
+                  38.726379
+                ],
+                [
+                  -9.1302036,
+                  38.7262926
+                ],
+                [
+                  -9.1301773,
+                  38.7262625
+                ],
+                [
+                  -9.1301061,
+                  38.7262102
+                ],
+                [
+                  -9.1300834,
+                  38.7261799
+                ],
+                [
+                  -9.1300387,
+                  38.7260665
+                ],
+                [
+                  -9.12999471857971,
+                  38.7259019442652
+                ],
+                [
+                  -9.1299389,
+                  38.7256931
+                ],
+                [
+                  -9.1295689,
+                  38.7243996
+                ]
+              ],
+              [
+                [
+                  -9.12883914286419,
+                  38.7217990985927
+                ],
+                [
+                  -9.1288539,
+                  38.7216566
+                ],
+                [
+                  -9.1287739,
+                  38.7224291
+                ],
+                [
+                  -9.1291539,
+                  38.722429
+                ],
+                [
+                  -9.1291889,
+                  38.7227527
+                ],
+                [
+                  -9.1292117,
+                  38.7229893
+                ],
+                [
+                  -9.129376,
+                  38.7236804
+                ],
+                [
+                  -9.1295689,
+                  38.7243996
+                ],
+                [
+                  -9.12962621233517,
+                  38.7243920346446
+                ]
+              ],
+              [
+                [
+                  -9.12917239648328,
+                  38.721342441052
+                ],
+                [
+                  -9.1290319,
+                  38.721323
+                ],
+                [
+                  -9.1289866,
+                  38.7213472
+                ],
+                [
+                  -9.1289503,
+                  38.7213769
+                ],
+                [
+                  -9.1289222,
+                  38.7214132
+                ],
+                [
+                  -9.1288876,
+                  38.721471
+                ],
+                [
+                  -9.1288661,
+                  38.7215554
+                ],
+                [
+                  -9.1288539,
+                  38.7216566
+                ]
+              ]
+            ]
+          },
+          "connections": [
+            {
+              "id": 31451,
+              "order": 1,
+              "distance": 545,
+              "stop": {
+                "id": 402,
+                "publicId": "402",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736941,
+                  "longitude": -9.13399
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:10.000Z"
+              }
+            },
+            {
+              "id": 31452,
+              "order": 2,
+              "distance": 205,
+              "stop": {
+                "id": 504,
+                "publicId": "504",
+                "name": "Pç. Chile",
+                "position": {
+                  "latitude": 38.733227,
+                  "longitude": -9.132798
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:35:15.000Z"
+              }
+            },
+            {
+              "id": 31453,
+              "order": 3,
+              "distance": 350,
+              "stop": {
+                "id": 502,
+                "publicId": "502",
+                "name": "R. Morais Soares",
+                "position": {
+                  "latitude": 38.732653,
+                  "longitude": -9.130557
+                },
+                "visible": true,
+                "updateDate": "2012-01-13T12:27:55.000Z"
+              }
+            },
+            {
+              "id": 31454,
+              "order": 4,
+              "distance": 386,
+              "stop": {
+                "id": 7004,
+                "publicId": "7004",
+                "name": "Pç. Paiva Couceiro",
+                "position": {
+                  "latitude": 38.731203,
+                  "longitude": -9.127965
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:26:34.000Z"
+              }
+            },
+            {
+              "id": 31455,
+              "order": 5,
+              "distance": 232,
+              "stop": {
+                "id": 7016,
+                "publicId": "7016",
+                "name": "Rua Cesário Verde",
+                "position": {
+                  "latitude": 38.730042,
+                  "longitude": -9.13035
+                },
+                "visible": true,
+                "updateDate": "2008-12-11T10:25:42.000Z"
+              }
+            },
+            {
+              "id": 31456,
+              "order": 6,
+              "distance": 305,
+              "stop": {
+                "id": 7008,
+                "publicId": "7008",
+                "name": "Penha De França",
+                "position": {
+                  "latitude": 38.728521,
+                  "longitude": -9.130953
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:59:03.000Z"
+              }
+            },
+            {
+              "id": 31457,
+              "order": 7,
+              "distance": 174,
+              "stop": {
+                "id": 9101,
+                "publicId": "9101",
+                "name": "Pç. António Sardinha",
+                "position": {
+                  "latitude": 38.725891,
+                  "longitude": -9.130062
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:46:46.000Z"
+              }
+            },
+            {
+              "id": 31458,
+              "order": 8,
+              "distance": 392,
+              "stop": {
+                "id": 9103,
+                "publicId": "9103",
+                "name": "R. Penha França",
+                "position": {
+                  "latitude": 38.724368,
+                  "longitude": -9.129621
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:47:23.000Z"
+              }
+            },
+            {
+              "id": 31459,
+              "order": 9,
+              "distance": 70,
+              "stop": {
+                "id": 9118,
+                "publicId": "9118",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721287,
+                  "longitude": -9.129185
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T11:48:27.000Z"
+              }
+            },
+            {
+              "id": 33706,
+              "order": 10,
+              "distance": 0,
+              "stop": {
+                "id": 50116,
+                "publicId": "9132",
+                "name": "Sapadores",
+                "position": {
+                  "latitude": 38.721794,
+                  "longitude": -9.128759
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:26:55.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

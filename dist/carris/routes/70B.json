@@ -1,0 +1,504 @@
+{
+  "id": 225,
+  "number": "70B",
+  "name": "Col. Militar (circ.)",
+  "visible": true,
+  "creationDate": "2020-05-20T16:36:37.000Z",
+  "circular": true,
+  "variants": [
+    {
+      "id": 20670,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21319,
+          "type": "CIRC",
+          "direction": "CIRC",
+          "connections": [
+            {
+              "id": 43765,
+              "order": 30,
+              "distance": 0,
+              "stop": {
+                "id": 50403,
+                "publicId": "10811",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752901,
+                  "longitude": -9.189636
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:52:05.000Z"
+              }
+            },
+            {
+              "id": 43766,
+              "order": 2,
+              "distance": 437,
+              "stop": {
+                "id": 10804,
+                "publicId": "10804",
+                "name": "Calhariz",
+                "position": {
+                  "latitude": 38.749594,
+                  "longitude": -9.191313
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:38.000Z"
+              }
+            },
+            {
+              "id": 43767,
+              "order": 3,
+              "distance": 302,
+              "stop": {
+                "id": 10802,
+                "publicId": "10802",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.750137,
+                  "longitude": -9.195585
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:09.000Z"
+              }
+            },
+            {
+              "id": 43768,
+              "order": 4,
+              "distance": 612,
+              "stop": {
+                "id": 10908,
+                "publicId": "10908",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.749296,
+                  "longitude": -9.197668
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:11:16.000Z"
+              }
+            },
+            {
+              "id": 43769,
+              "order": 5,
+              "distance": 389,
+              "stop": {
+                "id": 10919,
+                "publicId": "10919",
+                "name": "R. Garridas",
+                "position": {
+                  "latitude": 38.748556,
+                  "longitude": -9.201475
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:53:05.000Z"
+              }
+            },
+            {
+              "id": 43770,
+              "order": 6,
+              "distance": 217,
+              "stop": {
+                "id": 2807,
+                "publicId": "2807",
+                "name": "R. Parque",
+                "position": {
+                  "latitude": 38.745584,
+                  "longitude": -9.200634
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:51:04.000Z"
+              }
+            },
+            {
+              "id": 43771,
+              "order": 7,
+              "distance": 789,
+              "stop": {
+                "id": 2805,
+                "publicId": "2805",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.744709,
+                  "longitude": -9.198851
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:50:24.000Z"
+              }
+            },
+            {
+              "id": 43772,
+              "order": 8,
+              "distance": 254,
+              "stop": {
+                "id": 2813,
+                "publicId": "2813",
+                "name": "R. José Augusto Seabra",
+                "position": {
+                  "latitude": 38.74417,
+                  "longitude": -9.200241
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 43773,
+              "order": 9,
+              "distance": 273,
+              "stop": {
+                "id": 2814,
+                "publicId": "2814",
+                "name": "R. Vasco Botelho Amaral",
+                "position": {
+                  "latitude": 38.743146,
+                  "longitude": -9.202567
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 43774,
+              "order": 10,
+              "distance": 983,
+              "stop": {
+                "id": 50459,
+                "publicId": "2815",
+                "name": "Trav. Sargento Abílio",
+                "position": {
+                  "latitude": 38.742409,
+                  "longitude": -9.200764
+                },
+                "visible": true,
+                "updateDate": "2019-11-27T18:48:31.000Z"
+              }
+            },
+            {
+              "id": 43775,
+              "order": 11,
+              "distance": 279,
+              "stop": {
+                "id": 8828,
+                "publicId": "8828",
+                "name": "B.º Boavista",
+                "position": {
+                  "latitude": 38.736157,
+                  "longitude": -9.205458
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:49:37.000Z"
+              }
+            },
+            {
+              "id": 43776,
+              "order": 12,
+              "distance": 252,
+              "stop": {
+                "id": 50401,
+                "publicId": "8805",
+                "name": "R. D. Maria I",
+                "position": {
+                  "latitude": 38.733988,
+                  "longitude": -9.205296
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:48:20.000Z"
+              }
+            },
+            {
+              "id": 43777,
+              "order": 13,
+              "distance": 158,
+              "stop": {
+                "id": 50402,
+                "publicId": "8806",
+                "name": "R. Azevinho",
+                "position": {
+                  "latitude": 38.732465,
+                  "longitude": -9.204669
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:48:51.000Z"
+              }
+            },
+            {
+              "id": 43778,
+              "order": 14,
+              "distance": 293,
+              "stop": {
+                "id": 8848,
+                "publicId": "8848",
+                "name": "Estr. Outeiro",
+                "position": {
+                  "latitude": 38.732341,
+                  "longitude": -9.20318
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:58.000Z"
+              }
+            },
+            {
+              "id": 43779,
+              "order": 15,
+              "distance": 321,
+              "stop": {
+                "id": 8846,
+                "publicId": "8846",
+                "name": "B.º Boavista - Estr. Outeiro",
+                "position": {
+                  "latitude": 38.734796,
+                  "longitude": -9.201942
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:44.000Z"
+              }
+            },
+            {
+              "id": 43780,
+              "order": 16,
+              "distance": 563,
+              "stop": {
+                "id": 8837,
+                "publicId": "8837",
+                "name": "Estádio Pina Manique",
+                "position": {
+                  "latitude": 38.736992,
+                  "longitude": -9.201881
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:21.000Z"
+              }
+            },
+            {
+              "id": 43781,
+              "order": 17,
+              "distance": 430,
+              "stop": {
+                "id": 8835,
+                "publicId": "8835",
+                "name": "Estr. Buraca",
+                "position": {
+                  "latitude": 38.741635,
+                  "longitude": -9.202821
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:02.000Z"
+              }
+            },
+            {
+              "id": 43782,
+              "order": 18,
+              "distance": 584,
+              "stop": {
+                "id": 8811,
+                "publicId": "8811",
+                "name": "Buraca",
+                "position": {
+                  "latitude": 38.743861,
+                  "longitude": -9.205517
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T14:17:28.000Z"
+              }
+            },
+            {
+              "id": 43783,
+              "order": 19,
+              "distance": 190,
+              "stop": {
+                "id": 2908,
+                "publicId": "2908",
+                "name": "R. Casquilha",
+                "position": {
+                  "latitude": 38.746261,
+                  "longitude": -9.206505
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:32:59.000Z"
+              }
+            },
+            {
+              "id": 43784,
+              "order": 20,
+              "distance": 291,
+              "stop": {
+                "id": 2909,
+                "publicId": "2909",
+                "name": "B.º Sta. Cruz",
+                "position": {
+                  "latitude": 38.747879,
+                  "longitude": -9.207253
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:55:45.000Z"
+              }
+            },
+            {
+              "id": 43785,
+              "order": 21,
+              "distance": 299,
+              "stop": {
+                "id": 50231,
+                "publicId": "2904",
+                "name": "Benfica (Mercado)",
+                "position": {
+                  "latitude": 38.749741,
+                  "longitude": -9.207002
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T18:53:42.000Z"
+              }
+            },
+            {
+              "id": 43786,
+              "order": 22,
+              "distance": 139,
+              "stop": {
+                "id": 50170,
+                "publicId": "11009",
+                "name": "Estr. Benfica (Mercado)",
+                "position": {
+                  "latitude": 38.75199,
+                  "longitude": -9.205832
+                },
+                "visible": true,
+                "updateDate": "2019-01-02T16:07:27.000Z"
+              }
+            },
+            {
+              "id": 43787,
+              "order": 23,
+              "distance": 139,
+              "stop": {
+                "id": 50171,
+                "publicId": "11008",
+                "name": "Estr. Benfica (Mercado)",
+                "position": {
+                  "latitude": 38.752874,
+                  "longitude": -9.206183
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:16:26.000Z"
+              }
+            },
+            {
+              "id": 43788,
+              "order": 24,
+              "distance": 377,
+              "stop": {
+                "id": 10926,
+                "publicId": "10926",
+                "name": "R. Pedralvas",
+                "position": {
+                  "latitude": 38.753869,
+                  "longitude": -9.206067
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:14:04.000Z"
+              }
+            },
+            {
+              "id": 43789,
+              "order": 25,
+              "distance": 235,
+              "stop": {
+                "id": 13701,
+                "publicId": "13701",
+                "name": "R. João Ortigão Ramos",
+                "position": {
+                  "latitude": 38.756312,
+                  "longitude": -9.203767
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:53:43.000Z"
+              }
+            },
+            {
+              "id": 43790,
+              "order": 26,
+              "distance": 161,
+              "stop": {
+                "id": 13703,
+                "publicId": "13703",
+                "name": "Cemitério Benfica",
+                "position": {
+                  "latitude": 38.756734,
+                  "longitude": -9.201133
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:26:39.000Z"
+              }
+            },
+            {
+              "id": 43791,
+              "order": 27,
+              "distance": 250,
+              "stop": {
+                "id": 13705,
+                "publicId": "13705",
+                "name": "Charquinho",
+                "position": {
+                  "latitude": 38.755785,
+                  "longitude": -9.199816
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:27:18.000Z"
+              }
+            },
+            {
+              "id": 43792,
+              "order": 28,
+              "distance": 261,
+              "stop": {
+                "id": 10909,
+                "publicId": "10909",
+                "name": "Estr. Arneiros",
+                "position": {
+                  "latitude": 38.754202,
+                  "longitude": -9.197767
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:11:35.000Z"
+              }
+            },
+            {
+              "id": 43793,
+              "order": 29,
+              "distance": 709,
+              "stop": {
+                "id": 10917,
+                "publicId": "10917",
+                "name": "Qta. Granja",
+                "position": {
+                  "latitude": 38.754302,
+                  "longitude": -9.195602
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:52:48.000Z"
+              }
+            },
+            {
+              "id": 46191,
+              "order": 1,
+              "distance": 431,
+              "stop": {
+                "id": 50403,
+                "publicId": "10811",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.752901,
+                  "longitude": -9.189636
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:52:05.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
