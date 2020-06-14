@@ -15,7 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "transportes": "^0.0.11"
+    "transportes": "^0.0.12"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
