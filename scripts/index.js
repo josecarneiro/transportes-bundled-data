@@ -1,7 +1,14 @@
 'use strict';
 
+const dotenv = require('dotenv');
+dotenv.config();
+
 const { join } = require('path');
 
 const buildCarris = require('./carris');
+const buildMetro = require('./metro');
 
-buildCarris(join(__dirname, '..', 'dist', 'carris'), { pretty: true });
+const distPath = join(__dirname, '..', 'dist');
+
+buildCarris(join(distPath, 'carris'), { pretty: true });
+buildMetro(join(distPath, 'metro'), { pretty: true });

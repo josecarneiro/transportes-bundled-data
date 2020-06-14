@@ -6,7 +6,6 @@ const Carris = require('transportes/carris');
 const { log, write } = require('transportes/utilities');
 
 const { ensureDirectoryExists } = require('./helpers');
-const { isNumber } = require('util');
 
 const sortRouteNumbers = (a, b) => {
   const isNumerical = value => Number(value).toString() === value;
@@ -34,9 +33,8 @@ module.exports = async (path, { pretty = false } = {}) => {
     routes.sort(({ number: a }, { number: b }) => sortRouteNumbers(a, b));
     write(join(routesBasePath, 'list.json'), routes, { pretty });
     // Load each route
-    const visibleRoutes = [...routes].filter(({ visible }) => visible);
     const routeData = [];
-    for (const { number } of visibleRoutes.sort(() => 0.5 - Math.random())) {
+    for (const { number } of routes.filter(({ visible }) => visible)) {
       const route = await carris.loadRoute(number);
       if (route) {
         routeData.push(route);
