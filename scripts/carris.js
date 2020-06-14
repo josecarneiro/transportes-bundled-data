@@ -6,6 +6,20 @@ const Carris = require('transportes/carris');
 const { log, write } = require('transportes/utilities');
 
 const { ensureDirectoryExists } = require('./helpers');
+const { isNumber } = require('util');
+
+const sortRouteNumbers = (a, b) => {
+  const isNumerical = value => Number(value).toString() === value;
+  if (isNumerical(a) && isNumerical(b)) {
+    return Number(a) - Number(b);
+  } else if (isNumerical(a)) {
+    return -1;
+  } else if (isNumerical(b)) {
+    return 1;
+  } else {
+    return a.localeCompare(b);
+  }
+};
 
 module.exports = async (path, { pretty = false } = {}) => {
   await ensureDirectoryExists(path);
@@ -15,7 +29,9 @@ module.exports = async (path, { pretty = false } = {}) => {
     const routesBasePath = join(path, 'routes');
     await ensureDirectoryExists(routesBasePath);
     // List all routes
-    const routes = await carris.listRoutes();
+    const rawRoutes = await carris.listRoutes();
+    const routes = [...rawRoutes];
+    routes.sort(({ number: a }, { number: b }) => sortRouteNumbers(a, b));
     write(join(routesBasePath, 'list.json'), routes, { pretty });
     // Load each route
     const visibleRoutes = [...routes].filter(({ visible }) => visible);
