@@ -1,0 +1,719 @@
+{
+  "id": 218,
+  "number": "9E",
+  "name": "Algés (Docapesca) - Estação Oriente",
+  "visible": true,
+  "creationDate": "2018-07-10T17:33:29.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20125,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20709,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 39488,
+              "order": 1,
+              "distance": 3430,
+              "stop": {
+                "id": 50308,
+                "publicId": "99999",
+                "name": "Algés (Docapesca)",
+                "position": {
+                  "latitude": 38.696747,
+                  "longitude": -9.228878
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 39489,
+              "order": 2,
+              "distance": 271,
+              "stop": {
+                "id": 4202,
+                "publicId": "4202",
+                "name": "Algés - Mercado",
+                "position": {
+                  "latitude": 38.701501,
+                  "longitude": -9.227351
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T08:31:27.000Z"
+              }
+            },
+            {
+              "id": 39490,
+              "order": 3,
+              "distance": 240,
+              "stop": {
+                "id": 4224,
+                "publicId": "4224",
+                "name": "Rua Latino Coelho",
+                "position": {
+                  "latitude": 38.703171,
+                  "longitude": -9.227122
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:12:02.000Z"
+              }
+            },
+            {
+              "id": 39491,
+              "order": 4,
+              "distance": 250,
+              "stop": {
+                "id": 18404,
+                "publicId": "18404",
+                "name": "Av. Bombeiros De Algés-Cinema",
+                "position": {
+                  "latitude": 38.705295,
+                  "longitude": -9.226756
+                },
+                "visible": true,
+                "updateDate": "2008-12-09T09:59:03.000Z"
+              }
+            },
+            {
+              "id": 39492,
+              "order": 5,
+              "distance": 3334,
+              "stop": {
+                "id": 18402,
+                "publicId": "18402",
+                "name": "Av. Bombeiros De Algés",
+                "position": {
+                  "latitude": 38.707337,
+                  "longitude": -9.225596
+                },
+                "visible": true,
+                "updateDate": "2008-12-09T09:59:22.000Z"
+              }
+            },
+            {
+              "id": 39493,
+              "order": 6,
+              "distance": 363,
+              "stop": {
+                "id": 14007,
+                "publicId": "14007",
+                "name": "Parque De Campismo - Recepção",
+                "position": {
+                  "latitude": 38.724554,
+                  "longitude": -9.208016
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:54:43.000Z"
+              }
+            },
+            {
+              "id": 39494,
+              "order": 7,
+              "distance": 660,
+              "stop": {
+                "id": 14005,
+                "publicId": "14005",
+                "name": "Parque De Campismo",
+                "position": {
+                  "latitude": 38.727728,
+                  "longitude": -9.209036
+                },
+                "visible": true,
+                "updateDate": "2012-12-13T17:54:20.000Z"
+              }
+            },
+            {
+              "id": 39495,
+              "order": 8,
+              "distance": 388,
+              "stop": {
+                "id": 8803,
+                "publicId": "8803",
+                "name": "Qta Das Torres",
+                "position": {
+                  "latitude": 38.733219,
+                  "longitude": -9.207803
+                },
+                "visible": true,
+                "updateDate": "2012-12-14T18:16:14.000Z"
+              }
+            },
+            {
+              "id": 39496,
+              "order": 9,
+              "distance": 842,
+              "stop": {
+                "id": 8807,
+                "publicId": "8807",
+                "name": "Bº Da Boavista",
+                "position": {
+                  "latitude": 38.736346,
+                  "longitude": -9.205817
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T14:16:20.000Z"
+              }
+            },
+            {
+              "id": 39497,
+              "order": 10,
+              "distance": 430,
+              "stop": {
+                "id": 8835,
+                "publicId": "8835",
+                "name": "Estr. Buraca",
+                "position": {
+                  "latitude": 38.741635,
+                  "longitude": -9.202821
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T16:50:02.000Z"
+              }
+            },
+            {
+              "id": 39498,
+              "order": 11,
+              "distance": 357,
+              "stop": {
+                "id": 8811,
+                "publicId": "8811",
+                "name": "Buraca",
+                "position": {
+                  "latitude": 38.743861,
+                  "longitude": -9.205517
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T14:17:28.000Z"
+              }
+            },
+            {
+              "id": 39499,
+              "order": 12,
+              "distance": 256,
+              "stop": {
+                "id": 8813,
+                "publicId": "8813",
+                "name": "R. Venezuela",
+                "position": {
+                  "latitude": 38.745108,
+                  "longitude": -9.202739
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:05:58.000Z"
+              }
+            },
+            {
+              "id": 39500,
+              "order": 13,
+              "distance": 481,
+              "stop": {
+                "id": 2812,
+                "publicId": "2812",
+                "name": "Estação Benfica",
+                "position": {
+                  "latitude": 38.744882,
+                  "longitude": -9.199819
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:31:40.000Z"
+              }
+            },
+            {
+              "id": 39501,
+              "order": 14,
+              "distance": 274,
+              "stop": {
+                "id": 2803,
+                "publicId": "2803",
+                "name": "R. Gen. Morais Sarmento",
+                "position": {
+                  "latitude": 38.747313,
+                  "longitude": -9.197746
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T16:30:18.000Z"
+              }
+            },
+            {
+              "id": 39502,
+              "order": 15,
+              "distance": 370,
+              "stop": {
+                "id": 10907,
+                "publicId": "10907",
+                "name": "Estr. Benfica / Av. Gomes Pere",
+                "position": {
+                  "latitude": 38.749776,
+                  "longitude": -9.197502
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:11:04.000Z"
+              }
+            },
+            {
+              "id": 39503,
+              "order": 16,
+              "distance": 290,
+              "stop": {
+                "id": 10835,
+                "publicId": "10835",
+                "name": "Esc. Pedro Santarém",
+                "position": {
+                  "latitude": 38.749735,
+                  "longitude": -9.194268
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:10:41.000Z"
+              }
+            },
+            {
+              "id": 39504,
+              "order": 17,
+              "distance": 444,
+              "stop": {
+                "id": 10803,
+                "publicId": "10803",
+                "name": "Calhariz (Escola)",
+                "position": {
+                  "latitude": 38.748208,
+                  "longitude": -9.192569
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:09:26.000Z"
+              }
+            },
+            {
+              "id": 39505,
+              "order": 18,
+              "distance": 478,
+              "stop": {
+                "id": 10805,
+                "publicId": "10805",
+                "name": "R. Prof. Reinaldo Santos",
+                "position": {
+                  "latitude": 38.747693,
+                  "longitude": -9.18832
+                },
+                "visible": true,
+                "updateDate": "2018-02-21T00:34:51.000Z"
+              }
+            },
+            {
+              "id": 39506,
+              "order": 19,
+              "distance": 365,
+              "stop": {
+                "id": 10827,
+                "publicId": "10827",
+                "name": "Colégio Militar (Metro)",
+                "position": {
+                  "latitude": 38.751729,
+                  "longitude": -9.187595
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T15:45:01.000Z"
+              }
+            },
+            {
+              "id": 39507,
+              "order": 20,
+              "distance": 767,
+              "stop": {
+                "id": 10809,
+                "publicId": "10809",
+                "name": "Estádio Da Luz",
+                "position": {
+                  "latitude": 38.754333,
+                  "longitude": -9.185119
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T15:45:37.000Z"
+              }
+            },
+            {
+              "id": 39508,
+              "order": 21,
+              "distance": 152,
+              "stop": {
+                "id": 13603,
+                "publicId": "13603",
+                "name": "Viaduto Da Luz",
+                "position": {
+                  "latitude": 38.757335,
+                  "longitude": -9.177419
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T15:46:23.000Z"
+              }
+            },
+            {
+              "id": 39509,
+              "order": 22,
+              "distance": 779,
+              "stop": {
+                "id": 12806,
+                "publicId": "12806",
+                "name": "Av.Norton Matos(Torres Lisboa)",
+                "position": {
+                  "latitude": 38.757461,
+                  "longitude": -9.175703
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T15:46:58.000Z"
+              }
+            },
+            {
+              "id": 39510,
+              "order": 23,
+              "distance": 374,
+              "stop": {
+                "id": 50001,
+                "publicId": "50001",
+                "name": "Az. Galhardas",
+                "position": {
+                  "latitude": 38.757104,
+                  "longitude": -9.166766
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T15:47:28.000Z"
+              }
+            },
+            {
+              "id": 39511,
+              "order": 24,
+              "distance": 711,
+              "stop": {
+                "id": 5801,
+                "publicId": "5801",
+                "name": "Hipódromo",
+                "position": {
+                  "latitude": 38.757615,
+                  "longitude": -9.1625
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T15:47:54.000Z"
+              }
+            },
+            {
+              "id": 39512,
+              "order": 25,
+              "distance": 656,
+              "stop": {
+                "id": 5804,
+                "publicId": "5804",
+                "name": "Campo Grande Norte",
+                "position": {
+                  "latitude": 38.757865,
+                  "longitude": -9.155404
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:46:43.000Z"
+              }
+            },
+            {
+              "id": 39513,
+              "order": 26,
+              "distance": 562,
+              "stop": {
+                "id": 5712,
+                "publicId": "5712",
+                "name": "Campo Grande - Av. Brasil",
+                "position": {
+                  "latitude": 38.755108,
+                  "longitude": -9.150422
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T16:14:51.000Z"
+              }
+            },
+            {
+              "id": 39514,
+              "order": 27,
+              "distance": 383,
+              "stop": {
+                "id": 11304,
+                "publicId": "11304",
+                "name": "Hosp. Júlio Matos",
+                "position": {
+                  "latitude": 38.757036,
+                  "longitude": -9.144447
+                },
+                "visible": true,
+                "updateDate": "2019-03-26T17:40:47.000Z"
+              }
+            },
+            {
+              "id": 39515,
+              "order": 28,
+              "distance": 368,
+              "stop": {
+                "id": 11303,
+                "publicId": "11303",
+                "name": "Lnec",
+                "position": {
+                  "latitude": 38.758309,
+                  "longitude": -9.140353
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T16:16:16.000Z"
+              }
+            },
+            {
+              "id": 39516,
+              "order": 29,
+              "distance": 643,
+              "stop": {
+                "id": 11305,
+                "publicId": "11305",
+                "name": "Pote De Água",
+                "position": {
+                  "latitude": 38.759636,
+                  "longitude": -9.136475
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T16:17:47.000Z"
+              }
+            },
+            {
+              "id": 39517,
+              "order": 30,
+              "distance": 792,
+              "stop": {
+                "id": 7501,
+                "publicId": "7501",
+                "name": "Pç. Aeroporto",
+                "position": {
+                  "latitude": 38.762408,
+                  "longitude": -9.130084
+                },
+                "visible": true,
+                "updateDate": "2019-08-16T16:18:15.000Z"
+              }
+            },
+            {
+              "id": 39518,
+              "order": 31,
+              "distance": 480,
+              "stop": {
+                "id": 7503,
+                "publicId": "7503",
+                "name": "Av. Marechal Gomes Da Costa",
+                "position": {
+                  "latitude": 38.761172,
+                  "longitude": -9.12177
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T11:32:18.000Z"
+              }
+            },
+            {
+              "id": 39519,
+              "order": 32,
+              "distance": 347,
+              "stop": {
+                "id": 8407,
+                "publicId": "8407",
+                "name": "Av. Marechal Gomes Da Costa",
+                "position": {
+                  "latitude": 38.759756,
+                  "longitude": -9.116771
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T11:46:03.000Z"
+              }
+            },
+            {
+              "id": 39520,
+              "order": 33,
+              "distance": 409,
+              "stop": {
+                "id": 8409,
+                "publicId": "8409",
+                "name": "Cabo Ruivo - Av. Mar. Gomes Co",
+                "position": {
+                  "latitude": 38.758756,
+                  "longitude": -9.113436
+                },
+                "visible": true,
+                "updateDate": "2019-01-02T16:04:06.000Z"
+              }
+            },
+            {
+              "id": 39521,
+              "order": 34,
+              "distance": 639,
+              "stop": {
+                "id": 2301,
+                "publicId": "2301",
+                "name": "Av. Marechal Gomes Da Costa",
+                "position": {
+                  "latitude": 38.75731,
+                  "longitude": -9.108665
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T16:56:10.000Z"
+              }
+            },
+            {
+              "id": 39522,
+              "order": 35,
+              "distance": 322,
+              "stop": {
+                "id": 2328,
+                "publicId": "2328",
+                "name": "Rot. Cabo Ruivo",
+                "position": {
+                  "latitude": 38.75662,
+                  "longitude": -9.103018
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T14:23:55.000Z"
+              }
+            },
+            {
+              "id": 39523,
+              "order": 36,
+              "distance": 466,
+              "stop": {
+                "id": 2311,
+                "publicId": "2311",
+                "name": "Av. Inf. D. Henrique (Centieir",
+                "position": {
+                  "latitude": 38.759498,
+                  "longitude": -9.103315
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:12:31.000Z"
+              }
+            },
+            {
+              "id": 39524,
+              "order": 37,
+              "distance": 352,
+              "stop": {
+                "id": 2313,
+                "publicId": "2313",
+                "name": "Av. Inf. D. Henrique / Av. Pád",
+                "position": {
+                  "latitude": 38.763672,
+                  "longitude": -9.103666
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:12:46.000Z"
+              }
+            },
+            {
+              "id": 39525,
+              "order": 38,
+              "distance": 674,
+              "stop": {
+                "id": 2315,
+                "publicId": "2315",
+                "name": "Av. Inf. D. Henrique / Av. Ber",
+                "position": {
+                  "latitude": 38.766833,
+                  "longitude": -9.103999
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:13:28.000Z"
+              }
+            },
+            {
+              "id": 39526,
+              "order": 39,
+              "distance": 0,
+              "stop": {
+                "id": 7813,
+                "publicId": "7813",
+                "name": "Estação Oriente (Interface)",
+                "position": {
+                  "latitude": 38.767571,
+                  "longitude": -9.099982
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T16:43:20.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 20710,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 39527,
+              "order": 1,
+              "distance": 6761,
+              "stop": {
+                "id": 7813,
+                "publicId": "7813",
+                "name": "Estação Oriente (Interface)",
+                "position": {
+                  "latitude": 38.767571,
+                  "longitude": -9.099982
+                },
+                "visible": true,
+                "updateDate": "2019-01-10T16:43:20.000Z"
+              }
+            },
+            {
+              "id": 39528,
+              "order": 2,
+              "distance": 9999,
+              "stop": {
+                "id": 5804,
+                "publicId": "5804",
+                "name": "Campo Grande Norte",
+                "position": {
+                  "latitude": 38.757865,
+                  "longitude": -9.155404
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:46:43.000Z"
+              }
+            },
+            {
+              "id": 39529,
+              "order": 3,
+              "distance": 3430,
+              "stop": {
+                "id": 4213,
+                "publicId": "4213",
+                "name": "Algés - Mercado",
+                "position": {
+                  "latitude": 38.701126,
+                  "longitude": -9.22801
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T12:18:44.000Z"
+              }
+            },
+            {
+              "id": 39530,
+              "order": 4,
+              "distance": 0,
+              "stop": {
+                "id": 50308,
+                "publicId": "99999",
+                "name": "Algés (Docapesca)",
+                "position": {
+                  "latitude": 38.696747,
+                  "longitude": -9.228878
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

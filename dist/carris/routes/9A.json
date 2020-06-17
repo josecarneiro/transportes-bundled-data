@@ -1,0 +1,916 @@
+{
+  "id": 215,
+  "number": "9A",
+  "name": "Algés (Docapesca) - Cais Sodré",
+  "visible": true,
+  "creationDate": "2018-07-10T17:33:54.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20121,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20701,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 39391,
+              "order": 1,
+              "distance": 3000,
+              "stop": {
+                "id": 50308,
+                "publicId": "99999",
+                "name": "Algés (Docapesca)",
+                "position": {
+                  "latitude": 38.696747,
+                  "longitude": -9.228878
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 39392,
+              "order": 2,
+              "distance": 538,
+              "stop": {
+                "id": 4209,
+                "publicId": "4209",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.698227,
+                  "longitude": -9.225041
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:34:56.000Z"
+              }
+            },
+            {
+              "id": 39393,
+              "order": 3,
+              "distance": 374,
+              "stop": {
+                "id": 13203,
+                "publicId": "13203",
+                "name": "Pedrouços",
+                "position": {
+                  "latitude": 38.696034,
+                  "longitude": -9.219562
+                },
+                "visible": true,
+                "updateDate": "2008-02-27T18:56:20.000Z"
+              }
+            },
+            {
+              "id": 39394,
+              "order": 4,
+              "distance": 521,
+              "stop": {
+                "id": 13205,
+                "publicId": "13205",
+                "name": "Largo Da Princesa",
+                "position": {
+                  "latitude": 38.694955,
+                  "longitude": -9.21549
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 39395,
+              "order": 5,
+              "distance": 562,
+              "stop": {
+                "id": 13209,
+                "publicId": "13209",
+                "name": "Centro Cultural Belém",
+                "position": {
+                  "latitude": 38.696076,
+                  "longitude": -9.209713
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:35:47.000Z"
+              }
+            },
+            {
+              "id": 39396,
+              "order": 6,
+              "distance": 415,
+              "stop": {
+                "id": 9609,
+                "publicId": "9609",
+                "name": "Mosteiro Dos Jerónimos",
+                "position": {
+                  "latitude": 38.697257,
+                  "longitude": -9.203547
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T13:54:03.000Z"
+              }
+            },
+            {
+              "id": 39397,
+              "order": 7,
+              "distance": 405,
+              "stop": {
+                "id": 4113,
+                "publicId": "4113",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.69738,
+                  "longitude": -9.19882
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 39398,
+              "order": 8,
+              "distance": 322,
+              "stop": {
+                "id": 4115,
+                "publicId": "4115",
+                "name": "Altinho (Maat)",
+                "position": {
+                  "latitude": 38.697367,
+                  "longitude": -9.194168
+                },
+                "visible": true,
+                "updateDate": "2018-04-06T16:48:39.000Z"
+              }
+            },
+            {
+              "id": 39399,
+              "order": 9,
+              "distance": 282,
+              "stop": {
+                "id": 9507,
+                "publicId": "9507",
+                "name": "Rua Pinto Ferreira",
+                "position": {
+                  "latitude": 38.697994,
+                  "longitude": -9.190554
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:40:36.000Z"
+              }
+            },
+            {
+              "id": 39400,
+              "order": 10,
+              "distance": 363,
+              "stop": {
+                "id": 9505,
+                "publicId": "9505",
+                "name": "Hosp. Egas Moniz",
+                "position": {
+                  "latitude": 38.698591,
+                  "longitude": -9.187396
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T09:01:37.000Z"
+              }
+            },
+            {
+              "id": 39401,
+              "order": 11,
+              "distance": 426,
+              "stop": {
+                "id": 9503,
+                "publicId": "9503",
+                "name": "Rua Da Junqueira",
+                "position": {
+                  "latitude": 38.700037,
+                  "longitude": -9.183655
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:30:26.000Z"
+              }
+            },
+            {
+              "id": 39402,
+              "order": 12,
+              "distance": 289,
+              "stop": {
+                "id": 12123,
+                "publicId": "12123",
+                "name": "Estação De Santo Amaro",
+                "position": {
+                  "latitude": 38.702661,
+                  "longitude": -9.180183
+                },
+                "visible": true,
+                "updateDate": "2013-09-20T09:02:42.000Z"
+              }
+            },
+            {
+              "id": 39403,
+              "order": 13,
+              "distance": 385,
+              "stop": {
+                "id": 12115,
+                "publicId": "12115",
+                "name": "Calvário",
+                "position": {
+                  "latitude": 38.704543,
+                  "longitude": -9.178034
+                },
+                "visible": true,
+                "updateDate": "2018-11-05T16:57:58.000Z"
+              }
+            },
+            {
+              "id": 39404,
+              "order": 14,
+              "distance": 609,
+              "stop": {
+                "id": 4001,
+                "publicId": "4001",
+                "name": "Alcântara - Av. 24 De Julho",
+                "position": {
+                  "latitude": 38.704145,
+                  "longitude": -9.173823
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:25:00.000Z"
+              }
+            },
+            {
+              "id": 39405,
+              "order": 15,
+              "distance": 373,
+              "stop": {
+                "id": 10201,
+                "publicId": "10201",
+                "name": "Av. Infante Santo",
+                "position": {
+                  "latitude": 38.703363,
+                  "longitude": -9.167024
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:27:03.000Z"
+              }
+            },
+            {
+              "id": 39406,
+              "order": 16,
+              "distance": 679,
+              "stop": {
+                "id": 3905,
+                "publicId": "3905",
+                "name": "Cais Da Rocha",
+                "position": {
+                  "latitude": 38.703508,
+                  "longitude": -9.16273
+                },
+                "visible": true,
+                "updateDate": "2011-09-13T17:24:28.000Z"
+              }
+            },
+            {
+              "id": 39407,
+              "order": 17,
+              "distance": 509,
+              "stop": {
+                "id": 3901,
+                "publicId": "3901",
+                "name": "Santos",
+                "position": {
+                  "latitude": 38.706171,
+                  "longitude": -9.155732
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 39408,
+              "order": 18,
+              "distance": 428,
+              "stop": {
+                "id": 7101,
+                "publicId": "7101",
+                "name": "Conde Barão - Av. 24 Julho",
+                "position": {
+                  "latitude": 38.706331,
+                  "longitude": -9.149936
+                },
+                "visible": true,
+                "updateDate": "2018-04-06T16:56:40.000Z"
+              }
+            },
+            {
+              "id": 39409,
+              "order": 19,
+              "distance": 0,
+              "stop": {
+                "id": 3803,
+                "publicId": "3803",
+                "name": "Cais Sodré",
+                "position": {
+                  "latitude": 38.706244,
+                  "longitude": -9.145024
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T10:14:29.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 20702,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 39410,
+              "order": 1,
+              "distance": 3330,
+              "stop": {
+                "id": 3803,
+                "publicId": "3803",
+                "name": "Cais Sodré",
+                "position": {
+                  "latitude": 38.706244,
+                  "longitude": -9.145024
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T10:14:29.000Z"
+              }
+            },
+            {
+              "id": 39411,
+              "order": 2,
+              "distance": 9102,
+              "stop": {
+                "id": 1209,
+                "publicId": "1209",
+                "name": "Marquês De Pombal",
+                "position": {
+                  "latitude": 38.725361,
+                  "longitude": -9.152181
+                },
+                "visible": true,
+                "updateDate": "2017-05-26T16:53:11.000Z"
+              }
+            },
+            {
+              "id": 39412,
+              "order": 3,
+              "distance": 1498,
+              "stop": {
+                "id": 14309,
+                "publicId": "14309",
+                "name": "Miraflores",
+                "position": {
+                  "latitude": 38.713332,
+                  "longitude": -9.225254
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 39413,
+              "order": 4,
+              "distance": 3000,
+              "stop": {
+                "id": 4208,
+                "publicId": "4208",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.69836,
+                  "longitude": -9.225053
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:10:53.000Z"
+              }
+            },
+            {
+              "id": 39414,
+              "order": 5,
+              "distance": 0,
+              "stop": {
+                "id": 50308,
+                "publicId": "99999",
+                "name": "Algés (Docapesca)",
+                "position": {
+                  "latitude": 38.696747,
+                  "longitude": -9.228878
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20122,
+      "variant": 1,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 20703,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 39415,
+              "order": 1,
+              "distance": 3000,
+              "stop": {
+                "id": 50308,
+                "publicId": "99999",
+                "name": "Algés (Docapesca)",
+                "position": {
+                  "latitude": 38.696747,
+                  "longitude": -9.228878
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            },
+            {
+              "id": 39416,
+              "order": 2,
+              "distance": 538,
+              "stop": {
+                "id": 4209,
+                "publicId": "4209",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.698227,
+                  "longitude": -9.225041
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:34:56.000Z"
+              }
+            },
+            {
+              "id": 39417,
+              "order": 3,
+              "distance": 374,
+              "stop": {
+                "id": 13203,
+                "publicId": "13203",
+                "name": "Pedrouços",
+                "position": {
+                  "latitude": 38.696034,
+                  "longitude": -9.219562
+                },
+                "visible": true,
+                "updateDate": "2008-02-27T18:56:20.000Z"
+              }
+            },
+            {
+              "id": 39418,
+              "order": 4,
+              "distance": 521,
+              "stop": {
+                "id": 13205,
+                "publicId": "13205",
+                "name": "Largo Da Princesa",
+                "position": {
+                  "latitude": 38.694955,
+                  "longitude": -9.21549
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 39419,
+              "order": 5,
+              "distance": 562,
+              "stop": {
+                "id": 13209,
+                "publicId": "13209",
+                "name": "Centro Cultural Belém",
+                "position": {
+                  "latitude": 38.696076,
+                  "longitude": -9.209713
+                },
+                "visible": true,
+                "updateDate": "2019-01-17T11:35:47.000Z"
+              }
+            },
+            {
+              "id": 39420,
+              "order": 6,
+              "distance": 415,
+              "stop": {
+                "id": 9609,
+                "publicId": "9609",
+                "name": "Mosteiro Dos Jerónimos",
+                "position": {
+                  "latitude": 38.697257,
+                  "longitude": -9.203547
+                },
+                "visible": true,
+                "updateDate": "2019-06-14T13:54:03.000Z"
+              }
+            },
+            {
+              "id": 39421,
+              "order": 7,
+              "distance": 405,
+              "stop": {
+                "id": 4113,
+                "publicId": "4113",
+                "name": "Belém",
+                "position": {
+                  "latitude": 38.69738,
+                  "longitude": -9.19882
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 39422,
+              "order": 8,
+              "distance": 322,
+              "stop": {
+                "id": 4115,
+                "publicId": "4115",
+                "name": "Altinho (Maat)",
+                "position": {
+                  "latitude": 38.697367,
+                  "longitude": -9.194168
+                },
+                "visible": true,
+                "updateDate": "2018-04-06T16:48:39.000Z"
+              }
+            },
+            {
+              "id": 39423,
+              "order": 9,
+              "distance": 282,
+              "stop": {
+                "id": 9507,
+                "publicId": "9507",
+                "name": "Rua Pinto Ferreira",
+                "position": {
+                  "latitude": 38.697994,
+                  "longitude": -9.190554
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T16:40:36.000Z"
+              }
+            },
+            {
+              "id": 39424,
+              "order": 10,
+              "distance": 363,
+              "stop": {
+                "id": 9505,
+                "publicId": "9505",
+                "name": "Hosp. Egas Moniz",
+                "position": {
+                  "latitude": 38.698591,
+                  "longitude": -9.187396
+                },
+                "visible": true,
+                "updateDate": "2019-01-16T09:01:37.000Z"
+              }
+            },
+            {
+              "id": 39425,
+              "order": 11,
+              "distance": 426,
+              "stop": {
+                "id": 9503,
+                "publicId": "9503",
+                "name": "Rua Da Junqueira",
+                "position": {
+                  "latitude": 38.700037,
+                  "longitude": -9.183655
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:30:26.000Z"
+              }
+            },
+            {
+              "id": 39426,
+              "order": 12,
+              "distance": 289,
+              "stop": {
+                "id": 12123,
+                "publicId": "12123",
+                "name": "Estação De Santo Amaro",
+                "position": {
+                  "latitude": 38.702661,
+                  "longitude": -9.180183
+                },
+                "visible": true,
+                "updateDate": "2013-09-20T09:02:42.000Z"
+              }
+            },
+            {
+              "id": 39427,
+              "order": 13,
+              "distance": 385,
+              "stop": {
+                "id": 12115,
+                "publicId": "12115",
+                "name": "Calvário",
+                "position": {
+                  "latitude": 38.704543,
+                  "longitude": -9.178034
+                },
+                "visible": true,
+                "updateDate": "2018-11-05T16:57:58.000Z"
+              }
+            },
+            {
+              "id": 39428,
+              "order": 14,
+              "distance": 609,
+              "stop": {
+                "id": 4001,
+                "publicId": "4001",
+                "name": "Alcântara - Av. 24 De Julho",
+                "position": {
+                  "latitude": 38.704145,
+                  "longitude": -9.173823
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T09:25:00.000Z"
+              }
+            },
+            {
+              "id": 39429,
+              "order": 15,
+              "distance": 373,
+              "stop": {
+                "id": 10201,
+                "publicId": "10201",
+                "name": "Av. Infante Santo",
+                "position": {
+                  "latitude": 38.703363,
+                  "longitude": -9.167024
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T14:27:03.000Z"
+              }
+            },
+            {
+              "id": 39430,
+              "order": 16,
+              "distance": 679,
+              "stop": {
+                "id": 3905,
+                "publicId": "3905",
+                "name": "Cais Da Rocha",
+                "position": {
+                  "latitude": 38.703508,
+                  "longitude": -9.16273
+                },
+                "visible": true,
+                "updateDate": "2011-09-13T17:24:28.000Z"
+              }
+            },
+            {
+              "id": 39431,
+              "order": 17,
+              "distance": 509,
+              "stop": {
+                "id": 3901,
+                "publicId": "3901",
+                "name": "Santos",
+                "position": {
+                  "latitude": 38.706171,
+                  "longitude": -9.155732
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:54.000Z"
+              }
+            },
+            {
+              "id": 39432,
+              "order": 18,
+              "distance": 428,
+              "stop": {
+                "id": 7101,
+                "publicId": "7101",
+                "name": "Conde Barão - Av. 24 Julho",
+                "position": {
+                  "latitude": 38.706331,
+                  "longitude": -9.149936
+                },
+                "visible": true,
+                "updateDate": "2018-04-06T16:56:40.000Z"
+              }
+            },
+            {
+              "id": 39433,
+              "order": 19,
+              "distance": 392,
+              "stop": {
+                "id": 3803,
+                "publicId": "3803",
+                "name": "Cais Sodré",
+                "position": {
+                  "latitude": 38.706244,
+                  "longitude": -9.145024
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T10:14:29.000Z"
+              }
+            },
+            {
+              "id": 39434,
+              "order": 20,
+              "distance": 446,
+              "stop": {
+                "id": 3824,
+                "publicId": "3824",
+                "name": "Corpo Santo",
+                "position": {
+                  "latitude": 38.70718,
+                  "longitude": -9.141417
+                },
+                "visible": true,
+                "updateDate": "2016-01-07T17:32:22.000Z"
+              }
+            },
+            {
+              "id": 39435,
+              "order": 21,
+              "distance": 313,
+              "stop": {
+                "id": 5501,
+                "publicId": "5501",
+                "name": "Pç. Comércio",
+                "position": {
+                  "latitude": 38.708331,
+                  "longitude": -9.136506
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:43:15.000Z"
+              }
+            },
+            {
+              "id": 39436,
+              "order": 22,
+              "distance": 339,
+              "stop": {
+                "id": 4505,
+                "publicId": "4505",
+                "name": "Sul E Sueste",
+                "position": {
+                  "latitude": 38.708276,
+                  "longitude": -9.133469
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:42:27.000Z"
+              }
+            },
+            {
+              "id": 39437,
+              "order": 23,
+              "distance": 331,
+              "stop": {
+                "id": 4503,
+                "publicId": "4503",
+                "name": "Campo Cebolas",
+                "position": {
+                  "latitude": 38.708686,
+                  "longitude": -9.130448
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:41:32.000Z"
+              }
+            },
+            {
+              "id": 39438,
+              "order": 24,
+              "distance": 487,
+              "stop": {
+                "id": 8201,
+                "publicId": "8201",
+                "name": "Alfândega (Terminal Cruzeiros)",
+                "position": {
+                  "latitude": 38.710505,
+                  "longitude": -9.127429
+                },
+                "visible": true,
+                "updateDate": "2019-02-18T12:04:03.000Z"
+              }
+            },
+            {
+              "id": 39439,
+              "order": 25,
+              "distance": 0,
+              "stop": {
+                "id": 2111,
+                "publicId": "2111",
+                "name": "Estação Sta. Apolónia",
+                "position": {
+                  "latitude": 38.713031,
+                  "longitude": -9.122949
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:08:07.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 20704,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 39440,
+              "order": 1,
+              "distance": 4084,
+              "stop": {
+                "id": 2111,
+                "publicId": "2111",
+                "name": "Estação Sta. Apolónia",
+                "position": {
+                  "latitude": 38.713031,
+                  "longitude": -9.122949
+                },
+                "visible": true,
+                "updateDate": "2019-02-12T12:08:07.000Z"
+              }
+            },
+            {
+              "id": 39441,
+              "order": 2,
+              "distance": 9102,
+              "stop": {
+                "id": 1209,
+                "publicId": "1209",
+                "name": "Marquês De Pombal",
+                "position": {
+                  "latitude": 38.725361,
+                  "longitude": -9.152181
+                },
+                "visible": true,
+                "updateDate": "2017-05-26T16:53:11.000Z"
+              }
+            },
+            {
+              "id": 39442,
+              "order": 3,
+              "distance": 1498,
+              "stop": {
+                "id": 14309,
+                "publicId": "14309",
+                "name": "Miraflores",
+                "position": {
+                  "latitude": 38.713332,
+                  "longitude": -9.225254
+                },
+                "visible": true,
+                "updateDate": "2010-12-02T17:19:55.000Z"
+              }
+            },
+            {
+              "id": 39443,
+              "order": 4,
+              "distance": 3000,
+              "stop": {
+                "id": 4208,
+                "publicId": "4208",
+                "name": "Rua Damião De Góis",
+                "position": {
+                  "latitude": 38.69836,
+                  "longitude": -9.225053
+                },
+                "visible": true,
+                "updateDate": "2008-12-05T17:10:53.000Z"
+              }
+            },
+            {
+              "id": 39444,
+              "order": 5,
+              "distance": 0,
+              "stop": {
+                "id": 50308,
+                "publicId": "99999",
+                "name": "Algés (Docapesca)",
+                "position": {
+                  "latitude": 38.696747,
+                  "longitude": -9.228878
+                },
+                "visible": false,
+                "updateDate": "2019-02-27T20:47:42.067Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

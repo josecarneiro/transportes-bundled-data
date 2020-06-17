@@ -15,6 +15,7 @@ module.exports = async (path, { pretty = false } = {}) => {
   const loadStations = async () => {
     const stationsBasePath = join(path, 'stations');
     await ensureDirectoryExists(stationsBasePath);
+
     const rawStations = await metro.listStations();
 
     const rawDestinations = await metro.listDestinations();
@@ -22,6 +23,10 @@ module.exports = async (path, { pretty = false } = {}) => {
       ...destination,
       station: rawStations.find(({ name }) => name === destination.name).id
     }));
+
+    write(join(path, 'destinations.json'), destinations, {
+      pretty
+    });
 
     const rawEstimates = await metro.listEstimates();
     const platforms = rawEstimates.map(

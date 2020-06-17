@@ -1,0 +1,660 @@
+{
+  "id": 235,
+  "number": "88C",
+  "name": "Parque Nações - Cais Sodré",
+  "visible": true,
+  "creationDate": "2019-11-05T17:16:14.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20543,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21185,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 42528,
+              "order": 1,
+              "distance": 575,
+              "stop": {
+                "id": 50431,
+                "publicId": "80004",
+                "name": "Cais Sodre",
+                "position": {
+                  "latitude": 38.705445,
+                  "longitude": -9.146394
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:53:41.000Z"
+              }
+            },
+            {
+              "id": 42529,
+              "order": 2,
+              "distance": 834,
+              "stop": {
+                "id": 3823,
+                "publicId": "3823",
+                "name": "Corpo Santo",
+                "position": {
+                  "latitude": 38.706983,
+                  "longitude": -9.141638
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:54:09.000Z"
+              }
+            },
+            {
+              "id": 42530,
+              "order": 3,
+              "distance": 846,
+              "stop": {
+                "id": 5518,
+                "publicId": "5518",
+                "name": "R. Prata",
+                "position": {
+                  "latitude": 38.711025,
+                  "longitude": -9.136889
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:45:16.000Z"
+              }
+            },
+            {
+              "id": 42531,
+              "order": 4,
+              "distance": 687,
+              "stop": {
+                "id": 818,
+                "publicId": "818",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.716036,
+                  "longitude": -9.13571
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T11:42:08.000Z"
+              }
+            },
+            {
+              "id": 42532,
+              "order": 5,
+              "distance": 384,
+              "stop": {
+                "id": 701,
+                "publicId": "701",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.72213,
+                  "longitude": -9.135264
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:19.000Z"
+              }
+            },
+            {
+              "id": 42533,
+              "order": 6,
+              "distance": 390,
+              "stop": {
+                "id": 607,
+                "publicId": "607",
+                "name": "Av. Almirante Reis / R. Angola",
+                "position": {
+                  "latitude": 38.725575,
+                  "longitude": -9.134932
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:42:39.000Z"
+              }
+            },
+            {
+              "id": 42534,
+              "order": 7,
+              "distance": 877,
+              "stop": {
+                "id": 609,
+                "publicId": "609",
+                "name": "Av. Almirante Reis / R. Marque",
+                "position": {
+                  "latitude": 38.729077,
+                  "longitude": -9.134567
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:43:20.000Z"
+              }
+            },
+            {
+              "id": 42535,
+              "order": 8,
+              "distance": 7140,
+              "stop": {
+                "id": 413,
+                "publicId": "413",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736947,
+                  "longitude": -9.13372
+                },
+                "visible": true,
+                "updateDate": "2018-02-08T11:29:35.000Z"
+              }
+            },
+            {
+              "id": 42536,
+              "order": 9,
+              "distance": 0,
+              "stop": {
+                "id": 50432,
+                "publicId": "80008",
+                "name": "Av. Dom Joao Ii",
+                "position": {
+                  "latitude": 38.769316,
+                  "longitude": -9.097523
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:56:43.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21186,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 42537,
+              "order": 1,
+              "distance": 7676,
+              "stop": {
+                "id": 50432,
+                "publicId": "80008",
+                "name": "Av. Dom Joao Ii",
+                "position": {
+                  "latitude": 38.769316,
+                  "longitude": -9.097523
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:56:43.000Z"
+              }
+            },
+            {
+              "id": 42538,
+              "order": 2,
+              "distance": 908,
+              "stop": {
+                "id": 402,
+                "publicId": "402",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736941,
+                  "longitude": -9.13399
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:10.000Z"
+              }
+            },
+            {
+              "id": 42539,
+              "order": 3,
+              "distance": 357,
+              "stop": {
+                "id": 610,
+                "publicId": "610",
+                "name": "Av. Almirante Reis / R. Marque",
+                "position": {
+                  "latitude": 38.728781,
+                  "longitude": -9.134784
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:43:36.000Z"
+              }
+            },
+            {
+              "id": 42540,
+              "order": 4,
+              "distance": 404,
+              "stop": {
+                "id": 608,
+                "publicId": "608",
+                "name": "Av. Almirante Reis / R. Angola",
+                "position": {
+                  "latitude": 38.725579,
+                  "longitude": -9.135092
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:42:58.000Z"
+              }
+            },
+            {
+              "id": 42541,
+              "order": 5,
+              "distance": 813,
+              "stop": {
+                "id": 702,
+                "publicId": "702",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.721948,
+                  "longitude": -9.135462
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:28.000Z"
+              }
+            },
+            {
+              "id": 42542,
+              "order": 6,
+              "distance": 703,
+              "stop": {
+                "id": 815,
+                "publicId": "815",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.715021,
+                  "longitude": -9.137467
+                },
+                "visible": true,
+                "updateDate": "2013-08-13T08:48:10.000Z"
+              }
+            },
+            {
+              "id": 42543,
+              "order": 7,
+              "distance": 652,
+              "stop": {
+                "id": 5502,
+                "publicId": "5502",
+                "name": "Praça Do Comércio",
+                "position": {
+                  "latitude": 38.708998,
+                  "longitude": -9.135325
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T09:08:13.000Z"
+              }
+            },
+            {
+              "id": 42544,
+              "order": 8,
+              "distance": 594,
+              "stop": {
+                "id": 3822,
+                "publicId": "3822",
+                "name": "Corpo Santo",
+                "position": {
+                  "latitude": 38.706961,
+                  "longitude": -9.141766
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T22:00:11.000Z"
+              }
+            },
+            {
+              "id": 42545,
+              "order": 9,
+              "distance": 0,
+              "stop": {
+                "id": 50431,
+                "publicId": "80004",
+                "name": "Cais Sodre",
+                "position": {
+                  "latitude": 38.705445,
+                  "longitude": -9.146394
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:53:41.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20561,
+      "variant": 1,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21201,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 42720,
+              "order": 1,
+              "distance": 2819,
+              "stop": {
+                "id": 12102,
+                "publicId": "12102",
+                "name": "Calvário",
+                "position": {
+                  "latitude": 38.70466,
+                  "longitude": -9.176571
+                },
+                "visible": true,
+                "updateDate": "2018-04-11T16:47:16.000Z"
+              }
+            },
+            {
+              "id": 42721,
+              "order": 2,
+              "distance": 575,
+              "stop": {
+                "id": 50431,
+                "publicId": "80004",
+                "name": "Cais Sodre",
+                "position": {
+                  "latitude": 38.705445,
+                  "longitude": -9.146394
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:53:41.000Z"
+              }
+            },
+            {
+              "id": 42722,
+              "order": 3,
+              "distance": 834,
+              "stop": {
+                "id": 3823,
+                "publicId": "3823",
+                "name": "Corpo Santo",
+                "position": {
+                  "latitude": 38.706983,
+                  "longitude": -9.141638
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:54:09.000Z"
+              }
+            },
+            {
+              "id": 42723,
+              "order": 4,
+              "distance": 846,
+              "stop": {
+                "id": 5518,
+                "publicId": "5518",
+                "name": "R. Prata",
+                "position": {
+                  "latitude": 38.711025,
+                  "longitude": -9.136889
+                },
+                "visible": true,
+                "updateDate": "2019-02-13T17:45:16.000Z"
+              }
+            },
+            {
+              "id": 42724,
+              "order": 5,
+              "distance": 687,
+              "stop": {
+                "id": 818,
+                "publicId": "818",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.716036,
+                  "longitude": -9.13571
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T11:42:08.000Z"
+              }
+            },
+            {
+              "id": 42725,
+              "order": 6,
+              "distance": 384,
+              "stop": {
+                "id": 701,
+                "publicId": "701",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.72213,
+                  "longitude": -9.135264
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:19.000Z"
+              }
+            },
+            {
+              "id": 42726,
+              "order": 7,
+              "distance": 390,
+              "stop": {
+                "id": 607,
+                "publicId": "607",
+                "name": "Av. Almirante Reis / R. Angola",
+                "position": {
+                  "latitude": 38.725575,
+                  "longitude": -9.134932
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:42:39.000Z"
+              }
+            },
+            {
+              "id": 42727,
+              "order": 8,
+              "distance": 877,
+              "stop": {
+                "id": 609,
+                "publicId": "609",
+                "name": "Av. Almirante Reis / R. Marque",
+                "position": {
+                  "latitude": 38.729077,
+                  "longitude": -9.134567
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:43:20.000Z"
+              }
+            },
+            {
+              "id": 42728,
+              "order": 9,
+              "distance": 7140,
+              "stop": {
+                "id": 413,
+                "publicId": "413",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736947,
+                  "longitude": -9.13372
+                },
+                "visible": true,
+                "updateDate": "2018-02-08T11:29:35.000Z"
+              }
+            },
+            {
+              "id": 42729,
+              "order": 10,
+              "distance": 0,
+              "stop": {
+                "id": 50432,
+                "publicId": "80008",
+                "name": "Av. Dom Joao Ii",
+                "position": {
+                  "latitude": 38.769316,
+                  "longitude": -9.097523
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:56:43.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21202,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 42730,
+              "order": 1,
+              "distance": 7676,
+              "stop": {
+                "id": 50432,
+                "publicId": "80008",
+                "name": "Av. Dom Joao Ii",
+                "position": {
+                  "latitude": 38.769316,
+                  "longitude": -9.097523
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:56:43.000Z"
+              }
+            },
+            {
+              "id": 42731,
+              "order": 2,
+              "distance": 908,
+              "stop": {
+                "id": 402,
+                "publicId": "402",
+                "name": "Alameda D. A. Henriques",
+                "position": {
+                  "latitude": 38.736941,
+                  "longitude": -9.13399
+                },
+                "visible": true,
+                "updateDate": "2019-04-08T11:31:10.000Z"
+              }
+            },
+            {
+              "id": 42732,
+              "order": 3,
+              "distance": 357,
+              "stop": {
+                "id": 610,
+                "publicId": "610",
+                "name": "Av. Almirante Reis / R. Marque",
+                "position": {
+                  "latitude": 38.728781,
+                  "longitude": -9.134784
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:43:36.000Z"
+              }
+            },
+            {
+              "id": 42733,
+              "order": 4,
+              "distance": 404,
+              "stop": {
+                "id": 608,
+                "publicId": "608",
+                "name": "Av. Almirante Reis / R. Angola",
+                "position": {
+                  "latitude": 38.725579,
+                  "longitude": -9.135092
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:42:58.000Z"
+              }
+            },
+            {
+              "id": 42734,
+              "order": 5,
+              "distance": 813,
+              "stop": {
+                "id": 702,
+                "publicId": "702",
+                "name": "Igreja Anjos",
+                "position": {
+                  "latitude": 38.721948,
+                  "longitude": -9.135462
+                },
+                "visible": true,
+                "updateDate": "2018-04-03T15:44:28.000Z"
+              }
+            },
+            {
+              "id": 42735,
+              "order": 6,
+              "distance": 703,
+              "stop": {
+                "id": 815,
+                "publicId": "815",
+                "name": "Martim Moniz",
+                "position": {
+                  "latitude": 38.715021,
+                  "longitude": -9.137467
+                },
+                "visible": true,
+                "updateDate": "2013-08-13T08:48:10.000Z"
+              }
+            },
+            {
+              "id": 42736,
+              "order": 7,
+              "distance": 652,
+              "stop": {
+                "id": 5502,
+                "publicId": "5502",
+                "name": "Praça Do Comércio",
+                "position": {
+                  "latitude": 38.708998,
+                  "longitude": -9.135325
+                },
+                "visible": true,
+                "updateDate": "2014-10-16T09:08:13.000Z"
+              }
+            },
+            {
+              "id": 42737,
+              "order": 8,
+              "distance": 594,
+              "stop": {
+                "id": 3822,
+                "publicId": "3822",
+                "name": "Corpo Santo",
+                "position": {
+                  "latitude": 38.706961,
+                  "longitude": -9.141766
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T22:00:11.000Z"
+              }
+            },
+            {
+              "id": 42738,
+              "order": 9,
+              "distance": 2819,
+              "stop": {
+                "id": 50431,
+                "publicId": "80004",
+                "name": "Cais Sodre",
+                "position": {
+                  "latitude": 38.705445,
+                  "longitude": -9.146394
+                },
+                "visible": true,
+                "updateDate": "2019-10-28T21:53:41.000Z"
+              }
+            },
+            {
+              "id": 42739,
+              "order": 10,
+              "distance": 0,
+              "stop": {
+                "id": 12102,
+                "publicId": "12102",
+                "name": "Calvário",
+                "position": {
+                  "latitude": 38.70466,
+                  "longitude": -9.176571
+                },
+                "visible": true,
+                "updateDate": "2018-04-11T16:47:16.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

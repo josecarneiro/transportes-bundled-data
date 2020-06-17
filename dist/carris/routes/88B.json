@@ -1,0 +1,191 @@
+{
+  "id": 234,
+  "number": "88B",
+  "name": "Parque Nações - Restauradores",
+  "visible": true,
+  "creationDate": "2019-11-05T17:15:32.000Z",
+  "circular": false,
+  "variants": [
+    {
+      "id": 20542,
+      "variant": 0,
+      "active": true,
+      "iteneraries": [
+        {
+          "id": 21183,
+          "type": "ASC",
+          "direction": "ASC",
+          "connections": [
+            {
+              "id": 42518,
+              "order": 1,
+              "distance": 540,
+              "stop": {
+                "id": 1001,
+                "publicId": "1001",
+                "name": "Restauradores",
+                "position": {
+                  "latitude": 38.715772,
+                  "longitude": -9.141436
+                },
+                "visible": true,
+                "updateDate": "2018-04-02T15:50:10.000Z"
+              }
+            },
+            {
+              "id": 42519,
+              "order": 2,
+              "distance": 920,
+              "stop": {
+                "id": 1103,
+                "publicId": "1103",
+                "name": "Av. Da Liberdade",
+                "position": {
+                  "latitude": 38.719736,
+                  "longitude": -9.145015
+                },
+                "visible": true,
+                "updateDate": "2018-06-29T15:29:24.000Z"
+              }
+            },
+            {
+              "id": 42520,
+              "order": 3,
+              "distance": 273,
+              "stop": {
+                "id": 1201,
+                "publicId": "1201",
+                "name": "Marquês De Pombal",
+                "position": {
+                  "latitude": 38.726214,
+                  "longitude": -9.147411
+                },
+                "visible": true,
+                "updateDate": "2014-10-15T11:19:02.000Z"
+              }
+            },
+            {
+              "id": 42521,
+              "order": 4,
+              "distance": 372,
+              "stop": {
+                "id": 6601,
+                "publicId": "6601",
+                "name": "Av. Duque De Loulé",
+                "position": {
+                  "latitude": 38.727926,
+                  "longitude": -9.145156
+                },
+                "visible": true,
+                "updateDate": "2017-08-09T16:43:55.000Z"
+              }
+            },
+            {
+              "id": 42522,
+              "order": 5,
+              "distance": 387,
+              "stop": {
+                "id": 1709,
+                "publicId": "1709",
+                "name": "Praça José Fontana",
+                "position": {
+                  "latitude": 38.730743,
+                  "longitude": -9.143767
+                },
+                "visible": true,
+                "updateDate": "2018-02-20T10:15:56.000Z"
+              }
+            },
+            {
+              "id": 42523,
+              "order": 6,
+              "distance": 8963,
+              "stop": {
+                "id": 1801,
+                "publicId": "1801",
+                "name": "Saldanha",
+                "position": {
+                  "latitude": 38.733676,
+                  "longitude": -9.144637
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T11:29:18.000Z"
+              }
+            },
+            {
+              "id": 42524,
+              "order": 7,
+              "distance": 0,
+              "stop": {
+                "id": 50430,
+                "publicId": "80009",
+                "name": "Avenida Do Pacífico",
+                "position": {
+                  "latitude": 38.766711,
+                  "longitude": -9.097088
+                },
+                "visible": true,
+                "updateDate": "2019-11-03T17:09:12.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 21184,
+          "type": "DESC",
+          "direction": "DESC",
+          "connections": [
+            {
+              "id": 42525,
+              "order": 1,
+              "distance": 8963,
+              "stop": {
+                "id": 50430,
+                "publicId": "80009",
+                "name": "Avenida Do Pacífico",
+                "position": {
+                  "latitude": 38.766711,
+                  "longitude": -9.097088
+                },
+                "visible": true,
+                "updateDate": "2019-11-03T17:09:12.000Z"
+              }
+            },
+            {
+              "id": 42526,
+              "order": 2,
+              "distance": 2492,
+              "stop": {
+                "id": 1801,
+                "publicId": "1801",
+                "name": "Saldanha",
+                "position": {
+                  "latitude": 38.733676,
+                  "longitude": -9.144637
+                },
+                "visible": true,
+                "updateDate": "2014-03-03T11:29:18.000Z"
+              }
+            },
+            {
+              "id": 42527,
+              "order": 3,
+              "distance": 0,
+              "stop": {
+                "id": 1001,
+                "publicId": "1001",
+                "name": "Restauradores",
+                "position": {
+                  "latitude": 38.715772,
+                  "longitude": -9.141436
+                },
+                "visible": true,
+                "updateDate": "2018-04-02T15:50:10.000Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

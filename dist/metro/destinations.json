@@ -1,0 +1,122 @@
+[
+  {
+    "id": "33",
+    "name": "Reboleira",
+    "station": "RB"
+  },
+  {
+    "id": "34",
+    "name": "Amadora Este",
+    "station": "AS"
+  },
+  {
+    "id": "35",
+    "name": "Pontinha",
+    "station": "PO"
+  },
+  {
+    "id": "36",
+    "name": "Colégio Militar/Luz",
+    "station": "CM"
+  },
+  {
+    "id": "37",
+    "name": "Laranjeiras",
+    "station": "LA"
+  },
+  {
+    "id": "38",
+    "name": "São Sebastião",
+    "station": "SS"
+  },
+  {
+    "id": "39",
+    "name": "Avenida",
+    "station": "AV"
+  },
+  {
+    "id": "40",
+    "name": "Baixa-Chiado",
+    "station": "BC"
+  },
+  {
+    "id": "41",
+    "name": "Terreiro do Paço",
+    "station": "TP"
+  },
+  {
+    "id": "42",
+    "name": "Santa Apolónia",
+    "station": "SP"
+  },
+  {
+    "id": "43",
+    "name": "Odivelas",
+    "station": "OD"
+  },
+  {
+    "id": "44",
+    "name": "Lumiar",
+    "station": "LU"
+  },
+  {
+    "id": "45",
+    "name": "Campo Grande",
+    "station": "CG"
+  },
+  {
+    "id": "46",
+    "name": "Campo Pequeno",
+    "station": "CP"
+  },
+  {
+    "id": "48",
+    "name": "Rato",
+    "station": "RA"
+  },
+  {
+    "id": "50",
+    "name": "Telheiras",
+    "station": "TE"
+  },
+  {
+    "id": "51",
+    "name": "Alvalade",
+    "station": "AL"
+  },
+  {
+    "id": "52",
+    "name": "Alameda",
+    "station": "AM"
+  },
+  {
+    "id": "53",
+    "name": "Martim Moniz",
+    "station": "MM"
+  },
+  {
+    "id": "54",
+    "name": "Cais do Sodré",
+    "station": "CS"
+  },
+  {
+    "id": "56",
+    "name": "Bela Vista",
+    "station": "BV"
+  },
+  {
+    "id": "57",
+    "name": "Chelas",
+    "station": "CH"
+  },
+  {
+    "id": "59",
+    "name": "Moscavide",
+    "station": "MO"
+  },
+  {
+    "id": "60",
+    "name": "Aeroporto",
+    "station": "AP"
+  }
+]
