@@ -1,6 +1,6 @@
 {
   "name": "transportes-bundled-data",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Static data that can be extracted from Portuguese public transportation APIs",
   "license": "MIT",
   "author": {
