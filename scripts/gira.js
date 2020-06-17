@@ -17,7 +17,7 @@ module.exports = async (path, { pretty = false } = {}) => {
     // List all stations
     const stations = await client.listStations();
     const stationData = stations.map(
-      ({ bikes, docks, ratio, status, ...station }) => station
+      ({ bikes, docks, ratio, status, updated, ...station }) => station
     );
     write(join(stationsBasePath, 'list.json'), stationData, { pretty });
     // log(stationData);
