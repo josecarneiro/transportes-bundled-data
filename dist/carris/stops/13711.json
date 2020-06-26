@@ -1,11 +1,15 @@
 {
-  "id": 13711,
-  "publicId": "13711",
+  "id": "13711",
+  "internalId": 13711,
   "name": "Caliça",
   "position": {
     "latitude": 38.757312,
     "longitude": -9.204502
   },
   "visible": true,
-  "updateDate": "2017-12-07T12:34:01.000Z"
+  "updateDate": "2017-12-07T12:34:01.000Z",
+  "routes": [
+    "202",
+    "724"
+  ]
 }

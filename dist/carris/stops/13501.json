@@ -1,11 +1,15 @@
 {
-  "id": 13501,
-  "publicId": "13501",
+  "id": "13501",
+  "internalId": 13501,
   "name": "Faculdade De Farmácia",
   "position": {
     "latitude": 38.74738,
     "longitude": -9.155252
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:50:35.000Z"
+  "updateDate": "2008-12-05T18:50:35.000Z",
+  "routes": [
+    "701",
+    "754"
+  ]
 }

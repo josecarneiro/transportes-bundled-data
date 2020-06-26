@@ -1,11 +1,16 @@
 {
-  "id": 50330,
-  "publicId": "7728",
+  "id": "7728",
+  "internalId": 50330,
   "name": "Av. Berlim (Pç. Baden Powell)",
   "position": {
     "latitude": 38.768116,
     "longitude": -9.109067
   },
   "visible": true,
-  "updateDate": "2018-06-01T09:28:01.000Z"
+  "updateDate": "2018-06-01T09:28:01.000Z",
+  "routes": [
+    "210",
+    "708",
+    "744"
+  ]
 }

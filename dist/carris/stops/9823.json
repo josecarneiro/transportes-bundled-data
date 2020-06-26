@@ -1,11 +1,14 @@
 {
-  "id": 9823,
-  "publicId": "9823",
+  "id": "9823",
+  "internalId": 9823,
   "name": "Escola Patrício Prazeres",
   "position": {
     "latitude": 38.721291,
     "longitude": -9.119838
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:31:30.000Z"
+  "updateDate": "2008-12-05T18:31:30.000Z",
+  "routes": [
+    "706"
+  ]
 }

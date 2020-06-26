@@ -1,11 +1,14 @@
 {
-  "id": 50192,
-  "publicId": "12411",
+  "id": "12411",
+  "internalId": 50192,
   "name": "Restelo (Rua Carlos Calisto)",
   "position": {
     "latitude": 38.711011,
     "longitude": -9.210817
   },
   "visible": true,
-  "updateDate": "2011-09-14T15:02:41.000Z"
+  "updateDate": "2011-09-14T15:02:41.000Z",
+  "routes": [
+    "727"
+  ]
 }

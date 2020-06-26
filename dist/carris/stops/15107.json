@@ -1,11 +1,15 @@
 {
-  "id": 15107,
-  "publicId": "15107",
+  "id": "15107",
+  "internalId": 15107,
   "name": "Av. D. Dinis",
   "position": {
     "latitude": 38.788812,
     "longitude": -9.175815
   },
   "visible": true,
-  "updateDate": "2020-02-27T16:46:06.000Z"
+  "updateDate": "2020-02-27T16:46:06.000Z",
+  "routes": [
+    "206",
+    "736"
+  ]
 }

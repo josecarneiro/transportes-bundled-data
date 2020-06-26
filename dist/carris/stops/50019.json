@@ -1,11 +1,14 @@
 {
-  "id": 50141,
-  "publicId": "50019",
+  "id": "50019",
+  "internalId": 50141,
   "name": "R. Fernando Namora",
   "position": {
     "latitude": 38.760131,
     "longitude": -9.177626
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:40:03.000Z"
+  "updateDate": "2019-02-18T12:40:03.000Z",
+  "routes": [
+    "767"
+  ]
 }

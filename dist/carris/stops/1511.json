@@ -1,11 +1,14 @@
 {
-  "id": 1511,
-  "publicId": "1511",
+  "id": "1511",
+  "internalId": 1511,
   "name": "Viaduto Da Av. Gulbenkian",
   "position": {
     "latitude": 38.736112,
     "longitude": -9.160228
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:49:06.000Z"
+  "updateDate": "2008-12-05T18:49:06.000Z",
+  "routes": [
+    "756"
+  ]
 }

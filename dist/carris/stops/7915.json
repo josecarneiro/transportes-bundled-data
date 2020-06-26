@@ -1,11 +1,14 @@
 {
-  "id": 7915,
-  "publicId": "7915",
+  "id": "7915",
+  "internalId": 7915,
   "name": "Rua Padre Joaquim Correia",
   "position": {
     "latitude": 38.772738,
     "longitude": -9.102912
   },
   "visible": true,
-  "updateDate": "2016-08-18T10:23:21.000Z"
+  "updateDate": "2016-08-18T10:23:21.000Z",
+  "routes": [
+    "744"
+  ]
 }

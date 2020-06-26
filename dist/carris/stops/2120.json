@@ -1,11 +1,15 @@
 {
-  "id": 2120,
-  "publicId": "2120",
+  "id": "2120",
+  "internalId": 2120,
   "name": "Museu Militar",
   "position": {
     "latitude": 38.712352,
     "longitude": -9.124901
   },
   "visible": true,
-  "updateDate": "2008-01-29T11:04:19.000Z"
+  "updateDate": "2008-01-29T11:04:19.000Z",
+  "routes": [
+    "712",
+    "734"
+  ]
 }

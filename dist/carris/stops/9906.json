@@ -1,11 +1,14 @@
 {
-  "id": 9906,
-  "publicId": "9906",
+  "id": "9906",
+  "internalId": 9906,
   "name": "Sta. Catarina",
   "position": {
     "latitude": 38.711046,
     "longitude": -9.147603
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:41:00.000Z"
+  "updateDate": "2019-09-02T14:41:00.000Z",
+  "routes": [
+    "28E"
+  ]
 }

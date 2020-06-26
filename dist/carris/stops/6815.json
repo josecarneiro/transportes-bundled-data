@@ -1,11 +1,15 @@
 {
-  "id": 6815,
-  "publicId": "6815",
+  "id": "6815",
+  "internalId": 6815,
   "name": "R. Custódio Vieira",
   "position": {
     "latitude": 38.720327,
     "longitude": -9.159051
   },
   "visible": true,
-  "updateDate": "2017-12-07T13:00:57.000Z"
+  "updateDate": "2017-12-07T13:00:57.000Z",
+  "routes": [
+    "202",
+    "758"
+  ]
 }

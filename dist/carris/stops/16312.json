@@ -1,11 +1,14 @@
 {
-  "id": 50180,
-  "publicId": "16312",
+  "id": "16312",
+  "internalId": 50180,
   "name": "Rua De Cabo Verde",
   "position": {
     "latitude": 38.791228,
     "longitude": -9.120914
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:25:29.000Z"
+  "updateDate": "2008-12-05T17:25:29.000Z",
+  "routes": [
+    "725"
+  ]
 }

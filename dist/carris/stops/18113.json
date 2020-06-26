@@ -1,11 +1,14 @@
 {
-  "id": 18113,
-  "publicId": "18113",
+  "id": "18113",
+  "internalId": 18113,
   "name": "Estrada Do Zambujal",
   "position": {
     "latitude": 38.734812,
     "longitude": -9.215441
   },
   "visible": true,
-  "updateDate": "2014-03-03T15:52:05.000Z"
+  "updateDate": "2014-03-03T15:52:05.000Z",
+  "routes": [
+    "754"
+  ]
 }

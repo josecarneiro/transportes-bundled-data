@@ -1,11 +1,14 @@
 {
-  "id": 18116,
-  "publicId": "18116",
+  "id": "18116",
+  "internalId": 18116,
   "name": "Alfragide Sul",
   "position": {
     "latitude": 38.732891,
     "longitude": -9.216962
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:12:58.000Z"
+  "updateDate": "2018-02-20T10:12:58.000Z",
+  "routes": [
+    "754"
+  ]
 }

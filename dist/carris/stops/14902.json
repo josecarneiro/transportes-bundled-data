@@ -1,11 +1,14 @@
 {
-  "id": 14902,
-  "publicId": "14902",
+  "id": "14902",
+  "internalId": 14902,
   "name": "R. Bombeiros Voluntários Dafun",
   "position": {
     "latitude": 38.700345,
     "longitude": -9.24699
   },
   "visible": true,
-  "updateDate": "2019-07-23T10:12:50.000Z"
+  "updateDate": "2019-07-23T10:12:50.000Z",
+  "routes": [
+    "776"
+  ]
 }

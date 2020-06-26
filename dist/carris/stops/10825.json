@@ -1,11 +1,14 @@
 {
-  "id": 10825,
-  "publicId": "10825",
+  "id": "10825",
+  "internalId": 10825,
   "name": "Rua Augusto Pina",
   "position": {
     "latitude": 38.749503,
     "longitude": -9.18562
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:25:02.000Z"
+  "updateDate": "2008-12-05T17:25:02.000Z",
+  "routes": [
+    "754"
+  ]
 }

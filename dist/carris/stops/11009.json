@@ -1,11 +1,15 @@
 {
-  "id": 50170,
-  "publicId": "11009",
+  "id": "11009",
+  "internalId": 50170,
   "name": "Estr. Benfica (Mercado)",
   "position": {
     "latitude": 38.75199,
     "longitude": -9.205832
   },
   "visible": true,
-  "updateDate": "2019-01-02T16:07:27.000Z"
+  "updateDate": "2019-01-02T16:07:27.000Z",
+  "routes": [
+    "711",
+    "70B"
+  ]
 }

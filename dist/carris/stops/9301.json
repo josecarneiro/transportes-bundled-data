@@ -1,11 +1,12 @@
 {
-  "id": 9301,
-  "publicId": "9301",
+  "id": "9301",
+  "internalId": 9301,
   "name": "Meia Laranja",
   "position": {
     "latitude": 38.715817,
     "longitude": -9.172782
   },
   "visible": true,
-  "updateDate": "2014-03-03T14:19:43.000Z"
+  "updateDate": "2014-03-03T14:19:43.000Z",
+  "routes": []
 }

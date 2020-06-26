@@ -1,11 +1,14 @@
 {
-  "id": 3017,
-  "publicId": "3017",
+  "id": "3017",
+  "internalId": 3017,
   "name": "Buraca - Av. Da República",
   "position": {
     "latitude": 38.74597,
     "longitude": -9.212384
   },
   "visible": true,
-  "updateDate": "2009-02-25T15:03:37.000Z"
+  "updateDate": "2009-02-25T15:03:37.000Z",
+  "routes": [
+    "764"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 10711,
-  "publicId": "10711",
+  "id": "10711",
+  "internalId": 10711,
   "name": "Rua Conde De Almoster",
   "position": {
     "latitude": 38.743413,
     "longitude": -9.180509
   },
   "visible": true,
-  "updateDate": "2014-05-06T11:17:12.000Z"
+  "updateDate": "2014-05-06T11:17:12.000Z",
+  "routes": [
+    "770"
+  ]
 }

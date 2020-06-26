@@ -1,11 +1,16 @@
 {
-  "id": 6113,
-  "publicId": "6113",
+  "id": "6113",
+  "internalId": 6113,
   "name": "Campolide",
   "position": {
     "latitude": 38.726425,
     "longitude": -9.162436
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "701",
+    "712",
+    "742"
+  ]
 }

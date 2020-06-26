@@ -1,11 +1,14 @@
 {
-  "id": 2702,
-  "publicId": "2702",
+  "id": "2702",
+  "internalId": 2702,
   "name": "Estação De Campolide",
   "position": {
     "latitude": 38.731242,
     "longitude": -9.168472
   },
   "visible": true,
-  "updateDate": "2018-02-20T09:51:31.000Z"
+  "updateDate": "2018-02-20T09:51:31.000Z",
+  "routes": [
+    "751"
+  ]
 }

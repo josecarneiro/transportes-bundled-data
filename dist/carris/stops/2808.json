@@ -1,11 +1,14 @@
 {
-  "id": 2808,
-  "publicId": "2808",
+  "id": "2808",
+  "internalId": 2808,
   "name": "R. Parque",
   "position": {
     "latitude": 38.74573,
     "longitude": -9.200475
   },
   "visible": true,
-  "updateDate": "2018-02-21T18:51:15.000Z"
+  "updateDate": "2018-02-21T18:51:15.000Z",
+  "routes": [
+    "729"
+  ]
 }

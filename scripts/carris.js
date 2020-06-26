@@ -5,19 +5,34 @@ const Carris = require('transportes/carris');
 
 const { log, write } = require('transportes/utilities');
 
-const { ensureDirectoryExists } = require('./helpers');
+const { ensureDirectoryExists, sortIds } = require('./helpers');
 
-const sortRouteNumbers = (a, b) => {
-  const isNumerical = value => Number(value).toString() === value;
-  if (isNumerical(a) && isNumerical(b)) {
-    return Number(a) - Number(b);
-  } else if (isNumerical(a)) {
-    return -1;
-  } else if (isNumerical(b)) {
-    return 1;
-  } else {
-    return a.localeCompare(b);
-  }
+const cloneObject = object => JSON.parse(JSON.stringify(object));
+
+const extractRoutePerStop = routeData => {
+  const routes = routeData.map(({ id, variants }) => {
+    const stops = variants
+      .map(({ iteneraries }) =>
+        iteneraries.map(({ connections }) =>
+          connections.map(({ stop: { id: stop } }) => stop)
+        )
+      )
+      .flat(Infinity)
+      .filter((value, index, array) => array.indexOf(value) === index);
+    return { id, stops };
+  });
+  const stops = routes.reduce((acc, { id: route, stops: stopIds }) => {
+    const clone = cloneObject(acc);
+    for (let stopId of stopIds) {
+      if (clone[stopId]) {
+        clone[stopId].push(route);
+      } else {
+        clone[stopId] = [route];
+      }
+    }
+    return clone;
+  }, {});
+  return stops;
 };
 
 module.exports = async (path, { pretty = false } = {}) => {
@@ -30,34 +45,41 @@ module.exports = async (path, { pretty = false } = {}) => {
     // List all routes
     const rawRoutes = await carris.listRoutes();
     const routes = [...rawRoutes];
-    routes.sort(({ number: a }, { number: b }) => sortRouteNumbers(a, b));
+    routes.sort(({ id: a }, { id: b }) => sortIds(a, b));
     write(join(routesBasePath, 'list.json'), routes, { pretty });
     // Load each route
     const routeData = [];
-    for (const { number } of routes.filter(({ visible }) => visible)) {
-      const route = await carris.loadRoute(number);
+    for (const { id } of routes.filter(({ visible }) => visible)) {
+      const route = await carris.loadRoute(id);
+      // if (route) routeData.push(route)
       if (route) {
         routeData.push(route);
-        write(join(routesBasePath, `${number}.json`), route, { pretty });
+        write(join(routesBasePath, `${id}.json`), route, { pretty });
       }
     }
     write(join(routesBasePath, `all.json`), routeData, { pretty });
+    return routeData;
   };
 
-  const loadStops = async () => {
+  const loadStops = async routeData => {
     const stopsBasePath = join(path, 'stops');
     await ensureDirectoryExists(stopsBasePath);
     // List all stops
     const stops = await carris.listStops();
+    stops.sort(({ id: a }, { id: b }) => sortIds(a, b));
+    const routesPerStop = extractRoutePerStop(routeData);
+    for (let stop of stops) stop.routes = routesPerStop[stop.id] || [];
     write(join(stopsBasePath, 'list.json'), stops, { pretty });
     // Save each stop
     // const visibleStops = stops;
-    const visibleStops = stops.filter(({ visible }) => visible);
+    const visibleStops = stops
+      // .filter(({ routes }) => routes.length)
+      .filter(({ visible }) => visible);
     for (const stop of visibleStops) {
-      write(join(stopsBasePath, `${stop.publicId}.json`), stop, { pretty });
+      write(join(stopsBasePath, `${stop.id}.json`), stop, { pretty });
     }
   };
 
-  await loadRoutes();
-  await loadStops();
+  const routeData = await loadRoutes();
+  await loadStops(routeData);
 };

@@ -1,11 +1,14 @@
 {
-  "id": 7504,
-  "publicId": "7504",
+  "id": "7504",
+  "internalId": 7504,
   "name": "Av. Marechal Gomes Da Costa",
   "position": {
     "latitude": 38.76162,
     "longitude": -9.121818
   },
   "visible": true,
-  "updateDate": "2014-10-16T11:32:29.000Z"
+  "updateDate": "2014-10-16T11:32:29.000Z",
+  "routes": [
+    "708"
+  ]
 }

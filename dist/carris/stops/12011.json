@@ -1,11 +1,15 @@
 {
-  "id": 12011,
-  "publicId": "12011",
+  "id": "12011",
+  "internalId": 12011,
   "name": "Rua João De Barros",
   "position": {
     "latitude": 38.705281,
     "longitude": -9.185415
   },
   "visible": true,
-  "updateDate": "2012-06-15T13:41:45.000Z"
+  "updateDate": "2012-06-15T13:41:45.000Z",
+  "routes": [
+    "760",
+    "18E"
+  ]
 }

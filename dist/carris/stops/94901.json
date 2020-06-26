@@ -1,11 +1,16 @@
 {
-  "id": 50059,
-  "publicId": "94901",
+  "id": "94901",
+  "internalId": 50059,
   "name": "Av. José Gomes Ferreira",
   "position": {
     "latitude": 38.714926,
     "longitude": -9.231207
   },
   "visible": true,
-  "updateDate": "2012-12-13T16:36:36.000Z"
+  "updateDate": "2012-12-13T16:36:36.000Z",
+  "routes": [
+    "201",
+    "748",
+    "751"
+  ]
 }

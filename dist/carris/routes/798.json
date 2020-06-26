@@ -1,6 +1,6 @@
 {
-  "id": 194,
-  "number": "798",
+  "id": "798",
+  "internalId": 194,
   "name": "C. Grande-Metro - Galinheiras",
   "visible": true,
   "creationDate": "2020-05-21T11:02:00.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 82,
               "stop": {
-                "id": 5841,
-                "publicId": "5841",
+                "id": "5841",
+                "internalId": 5841,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.760623,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 230,
               "stop": {
-                "id": 5824,
-                "publicId": "5824",
+                "id": "5824",
+                "internalId": 5824,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.760339,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 470,
               "stop": {
-                "id": 5803,
-                "publicId": "5803",
+                "id": "5803",
+                "internalId": 5803,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.75911,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 184,
               "stop": {
-                "id": 5839,
-                "publicId": "5839",
+                "id": "5839",
+                "internalId": 5839,
                 "name": "Rua Agostinho Neto",
                 "position": {
                   "latitude": 38.761764,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 204,
               "stop": {
-                "id": 5832,
-                "publicId": "5832",
+                "id": "5832",
+                "internalId": 5832,
                 "name": "Rua Agostinho Neto",
                 "position": {
                   "latitude": 38.763235,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 186,
               "stop": {
-                "id": 5837,
-                "publicId": "5837",
+                "id": "5837",
+                "internalId": 5837,
                 "name": "Rua Amílcar Cabral",
                 "position": {
                   "latitude": 38.764831,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 184,
               "stop": {
-                "id": 5838,
-                "publicId": "5838",
+                "id": "5838",
+                "internalId": 5838,
                 "name": "Alto Do Lumiar - Parque Europa",
                 "position": {
                   "latitude": 38.766451,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 484,
               "stop": {
-                "id": 50154,
-                "publicId": "11518",
+                "id": "11518",
+                "internalId": 50154,
                 "name": "Av. Helena Vieira Da Silva",
                 "position": {
                   "latitude": 38.76688,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 1015,
               "stop": {
-                "id": 11503,
-                "publicId": "11503",
+                "id": "11503",
+                "internalId": 11503,
                 "name": "Alta De Lisboa - Qta Conchas",
                 "position": {
                   "latitude": 38.769864,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 164,
               "stop": {
-                "id": 11512,
-                "publicId": "11512",
+                "id": "11512",
+                "internalId": 11512,
                 "name": "Rua Helena Vaz Da Silva",
                 "position": {
                   "latitude": 38.773239,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 418,
               "stop": {
-                "id": 11507,
-                "publicId": "11507",
+                "id": "11507",
+                "internalId": 11507,
                 "name": "Av. Carlos Paredes",
                 "position": {
                   "latitude": 38.774247,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 352,
               "stop": {
-                "id": 11501,
-                "publicId": "11501",
+                "id": "11501",
+                "internalId": 11501,
                 "name": "Estação Musgueira",
                 "position": {
                   "latitude": 38.774614,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 422,
               "stop": {
-                "id": 11509,
-                "publicId": "11509",
+                "id": "11509",
+                "internalId": 11509,
                 "name": "Esc. Pintor Almada Negreiros",
                 "position": {
                   "latitude": 38.77728,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 308,
               "stop": {
-                "id": 6018,
-                "publicId": "6018",
+                "id": "6018",
+                "internalId": 6018,
                 "name": "Vale Castanheira",
                 "position": {
                   "latitude": 38.779864,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 254,
               "stop": {
-                "id": 50156,
-                "publicId": "6029",
+                "id": "6029",
+                "internalId": 50156,
                 "name": "Pç D. António Ribeiro",
                 "position": {
                   "latitude": 38.780489,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 527,
               "stop": {
-                "id": 6020,
-                "publicId": "6020",
+                "id": "6020",
+                "internalId": 6020,
                 "name": "Av. Nuno Kruz Abecassis",
                 "position": {
                   "latitude": 38.779634,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 329,
               "stop": {
-                "id": 11511,
-                "publicId": "11511",
+                "id": "11511",
+                "internalId": 11511,
                 "name": "Esc. Pintor Almada Negreiros",
                 "position": {
                   "latitude": 38.77713,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 881,
               "stop": {
-                "id": 6016,
-                "publicId": "6016",
+                "id": "6016",
+                "internalId": 6016,
                 "name": "R. Melo Antunes",
                 "position": {
                   "latitude": 38.779042,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 222,
               "stop": {
-                "id": 6014,
-                "publicId": "6014",
+                "id": "6014",
+                "internalId": 6014,
                 "name": "Igreja Charneca",
                 "position": {
                   "latitude": 38.783622,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 227,
               "stop": {
-                "id": 6006,
-                "publicId": "6006",
+                "id": "6006",
+                "internalId": 6006,
                 "name": "Campo Amoreiras",
                 "position": {
                   "latitude": 38.785447,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 187,
               "stop": {
-                "id": 6008,
-                "publicId": "6008",
+                "id": "6008",
+                "internalId": 6008,
                 "name": "Charneca",
                 "position": {
                   "latitude": 38.78718,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 257,
               "stop": {
-                "id": 6010,
-                "publicId": "6010",
+                "id": "6010",
+                "internalId": 6010,
                 "name": "Qta. Pailepa",
                 "position": {
                   "latitude": 38.78788,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 426,
               "stop": {
-                "id": 6002,
-                "publicId": "6002",
+                "id": "6002",
+                "internalId": 6002,
                 "name": "R. João Amaral",
                 "position": {
                   "latitude": 38.787517,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 240,
               "stop": {
-                "id": 11602,
-                "publicId": "11602",
+                "id": "11602",
+                "internalId": 11602,
                 "name": "Estr. Forte (Escola)",
                 "position": {
                   "latitude": 38.790396,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 0,
               "stop": {
-                "id": 11608,
-                "publicId": "11608",
+                "id": "11608",
+                "internalId": 11608,
                 "name": "Galinheiras",
                 "position": {
                   "latitude": 38.79243,
@@ -428,8 +428,8 @@
               "order": 1,
               "distance": 262,
               "stop": {
-                "id": 11608,
-                "publicId": "11608",
+                "id": "11608",
+                "internalId": 11608,
                 "name": "Galinheiras",
                 "position": {
                   "latitude": 38.79243,
@@ -444,8 +444,8 @@
               "order": 2,
               "distance": 454,
               "stop": {
-                "id": 11601,
-                "publicId": "11601",
+                "id": "11601",
+                "internalId": 11601,
                 "name": "Estr. Forte (Escola)",
                 "position": {
                   "latitude": 38.790751,
@@ -460,8 +460,8 @@
               "order": 3,
               "distance": 284,
               "stop": {
-                "id": 6001,
-                "publicId": "6001",
+                "id": "6001",
+                "internalId": 6001,
                 "name": "R. João Amaral",
                 "position": {
                   "latitude": 38.787328,
@@ -476,8 +476,8 @@
               "order": 4,
               "distance": 347,
               "stop": {
-                "id": 6003,
-                "publicId": "6003",
+                "id": "6003",
+                "internalId": 6003,
                 "name": "Qta. Pailepa",
                 "position": {
                   "latitude": 38.787847,
@@ -492,8 +492,8 @@
               "order": 5,
               "distance": 262,
               "stop": {
-                "id": 6005,
-                "publicId": "6005",
+                "id": "6005",
+                "internalId": 6005,
                 "name": "Charneca",
                 "position": {
                   "latitude": 38.78718,
@@ -508,8 +508,8 @@
               "order": 6,
               "distance": 261,
               "stop": {
-                "id": 6009,
-                "publicId": "6009",
+                "id": "6009",
+                "internalId": 6009,
                 "name": "Campo Amoreiras",
                 "position": {
                   "latitude": 38.785714,
@@ -524,8 +524,8 @@
               "order": 7,
               "distance": 858,
               "stop": {
-                "id": 6011,
-                "publicId": "6011",
+                "id": "6011",
+                "internalId": 6011,
                 "name": "Igreja Charneca",
                 "position": {
                   "latitude": 38.783408,
@@ -540,8 +540,8 @@
               "order": 8,
               "distance": 339,
               "stop": {
-                "id": 6013,
-                "publicId": "6013",
+                "id": "6013",
+                "internalId": 6013,
                 "name": "R. Melo Antunes",
                 "position": {
                   "latitude": 38.779201,
@@ -556,8 +556,8 @@
               "order": 9,
               "distance": 528,
               "stop": {
-                "id": 11509,
-                "publicId": "11509",
+                "id": "11509",
+                "internalId": 11509,
                 "name": "Esc. Pintor Almada Negreiros",
                 "position": {
                   "latitude": 38.77728,
@@ -572,8 +572,8 @@
               "order": 10,
               "distance": 108,
               "stop": {
-                "id": 6019,
-                "publicId": "6019",
+                "id": "6019",
+                "internalId": 6019,
                 "name": "Av. Nuno Kruz Abecassis",
                 "position": {
                   "latitude": 38.779807,
@@ -588,8 +588,8 @@
               "order": 11,
               "distance": 322,
               "stop": {
-                "id": 50344,
-                "publicId": "6030",
+                "id": "6030",
+                "internalId": 50344,
                 "name": "Pç D. António Ribeiro",
                 "position": {
                   "latitude": 38.780186,
@@ -604,8 +604,8 @@
               "order": 12,
               "distance": 734,
               "stop": {
-                "id": 6015,
-                "publicId": "6015",
+                "id": "6015",
+                "internalId": 6015,
                 "name": "Vale Castanheira",
                 "position": {
                   "latitude": 38.779915,
@@ -620,8 +620,8 @@
               "order": 13,
               "distance": 232,
               "stop": {
-                "id": 11505,
-                "publicId": "11505",
+                "id": "11505",
+                "internalId": 11505,
                 "name": "Estação Musgueira",
                 "position": {
                   "latitude": 38.774713,
@@ -636,8 +636,8 @@
               "order": 14,
               "distance": 221,
               "stop": {
-                "id": 11510,
-                "publicId": "11510",
+                "id": "11510",
+                "internalId": 11510,
                 "name": "Av. Carlos Paredes",
                 "position": {
                   "latitude": 38.774406,
@@ -652,8 +652,8 @@
               "order": 15,
               "distance": 1008,
               "stop": {
-                "id": 11513,
-                "publicId": "11513",
+                "id": "11513",
+                "internalId": 11513,
                 "name": "Rua Helena Vaz Da Silva",
                 "position": {
                   "latitude": 38.773111,
@@ -668,8 +668,8 @@
               "order": 16,
               "distance": 411,
               "stop": {
-                "id": 11504,
-                "publicId": "11504",
+                "id": "11504",
+                "internalId": 11504,
                 "name": "Alta De Lisboa - Qta Conchas",
                 "position": {
                   "latitude": 38.768801,
@@ -684,8 +684,8 @@
               "order": 17,
               "distance": 278,
               "stop": {
-                "id": 50157,
-                "publicId": "11519",
+                "id": "11519",
+                "internalId": 50157,
                 "name": "Av. Helena Vieira Da Silva",
                 "position": {
                   "latitude": 38.766867,
@@ -700,8 +700,8 @@
               "order": 18,
               "distance": 178,
               "stop": {
-                "id": 5835,
-                "publicId": "5835",
+                "id": "5835",
+                "internalId": 5835,
                 "name": "Rua Manuel Marques",
                 "position": {
                   "latitude": 38.766313,
@@ -716,8 +716,8 @@
               "order": 19,
               "distance": 200,
               "stop": {
-                "id": 5836,
-                "publicId": "5836",
+                "id": "5836",
+                "internalId": 5836,
                 "name": "Rua Amílcar Cabral",
                 "position": {
                   "latitude": 38.764728,
@@ -732,8 +732,8 @@
               "order": 20,
               "distance": 177,
               "stop": {
-                "id": 5833,
-                "publicId": "5833",
+                "id": "5833",
+                "internalId": 5833,
                 "name": "Rua Agostinho Neto",
                 "position": {
                   "latitude": 38.76295,
@@ -748,8 +748,8 @@
               "order": 21,
               "distance": 462,
               "stop": {
-                "id": 5840,
-                "publicId": "5840",
+                "id": "5840",
+                "internalId": 5840,
                 "name": "Rua Agostinho Neto",
                 "position": {
                   "latitude": 38.76175,
@@ -764,8 +764,8 @@
               "order": 22,
               "distance": 0,
               "stop": {
-                "id": 5841,
-                "publicId": "5841",
+                "id": "5841",
+                "internalId": 5841,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.760623,
@@ -794,8 +794,8 @@
               "order": 1,
               "distance": 524,
               "stop": {
-                "id": 1807,
-                "publicId": "1807",
+                "id": "1807",
+                "internalId": 1807,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733918,
@@ -810,8 +810,8 @@
               "order": 2,
               "distance": 506,
               "stop": {
-                "id": 1809,
-                "publicId": "1809",
+                "id": "1809",
+                "internalId": 1809,
                 "name": "Av. Da República",
                 "position": {
                   "latitude": 38.738523,
@@ -826,8 +826,8 @@
               "order": 3,
               "distance": 286,
               "stop": {
-                "id": 1901,
-                "publicId": "1901",
+                "id": "1901",
+                "internalId": 1901,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.742978,
@@ -842,8 +842,8 @@
               "order": 4,
               "distance": 258,
               "stop": {
-                "id": 2021,
-                "publicId": "2021",
+                "id": "2021",
+                "internalId": 2021,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.745504,
@@ -858,8 +858,8 @@
               "order": 5,
               "distance": 252,
               "stop": {
-                "id": 2011,
-                "publicId": "2011",
+                "id": "2011",
+                "internalId": 2011,
                 "name": "Entrecampos",
                 "position": {
                   "latitude": 38.747783,
@@ -874,8 +874,8 @@
               "order": 6,
               "distance": 281,
               "stop": {
-                "id": 2015,
-                "publicId": "2015",
+                "id": "2015",
+                "internalId": 2015,
                 "name": "Entrecampos Norte",
                 "position": {
                   "latitude": 38.749993,
@@ -890,8 +890,8 @@
               "order": 7,
               "distance": 400,
               "stop": {
-                "id": 2017,
-                "publicId": "2017",
+                "id": "2017",
+                "internalId": 2017,
                 "name": "Campo Grande",
                 "position": {
                   "latitude": 38.752315,
@@ -906,8 +906,8 @@
               "order": 8,
               "distance": 399,
               "stop": {
-                "id": 5705,
-                "publicId": "5705",
+                "id": "5705",
+                "internalId": 5705,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.755629,
@@ -922,8 +922,8 @@
               "order": 9,
               "distance": 507,
               "stop": {
-                "id": 5805,
-                "publicId": "5805",
+                "id": "5805",
+                "internalId": 5805,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.758587,
@@ -938,8 +938,8 @@
               "order": 10,
               "distance": 184,
               "stop": {
-                "id": 5839,
-                "publicId": "5839",
+                "id": "5839",
+                "internalId": 5839,
                 "name": "Rua Agostinho Neto",
                 "position": {
                   "latitude": 38.761764,
@@ -954,8 +954,8 @@
               "order": 11,
               "distance": 204,
               "stop": {
-                "id": 5832,
-                "publicId": "5832",
+                "id": "5832",
+                "internalId": 5832,
                 "name": "Rua Agostinho Neto",
                 "position": {
                   "latitude": 38.763235,
@@ -970,8 +970,8 @@
               "order": 12,
               "distance": 186,
               "stop": {
-                "id": 5837,
-                "publicId": "5837",
+                "id": "5837",
+                "internalId": 5837,
                 "name": "Rua Amílcar Cabral",
                 "position": {
                   "latitude": 38.764831,
@@ -986,8 +986,8 @@
               "order": 13,
               "distance": 184,
               "stop": {
-                "id": 5838,
-                "publicId": "5838",
+                "id": "5838",
+                "internalId": 5838,
                 "name": "Alto Do Lumiar - Parque Europa",
                 "position": {
                   "latitude": 38.766451,
@@ -1002,8 +1002,8 @@
               "order": 14,
               "distance": 484,
               "stop": {
-                "id": 50154,
-                "publicId": "11518",
+                "id": "11518",
+                "internalId": 50154,
                 "name": "Av. Helena Vieira Da Silva",
                 "position": {
                   "latitude": 38.76688,
@@ -1018,8 +1018,8 @@
               "order": 15,
               "distance": 1015,
               "stop": {
-                "id": 11503,
-                "publicId": "11503",
+                "id": "11503",
+                "internalId": 11503,
                 "name": "Alta De Lisboa - Qta Conchas",
                 "position": {
                   "latitude": 38.769864,
@@ -1034,8 +1034,8 @@
               "order": 16,
               "distance": 164,
               "stop": {
-                "id": 11512,
-                "publicId": "11512",
+                "id": "11512",
+                "internalId": 11512,
                 "name": "Rua Helena Vaz Da Silva",
                 "position": {
                   "latitude": 38.773239,
@@ -1050,8 +1050,8 @@
               "order": 17,
               "distance": 418,
               "stop": {
-                "id": 11507,
-                "publicId": "11507",
+                "id": "11507",
+                "internalId": 11507,
                 "name": "Av. Carlos Paredes",
                 "position": {
                   "latitude": 38.774247,
@@ -1066,8 +1066,8 @@
               "order": 18,
               "distance": 352,
               "stop": {
-                "id": 11501,
-                "publicId": "11501",
+                "id": "11501",
+                "internalId": 11501,
                 "name": "Estação Musgueira",
                 "position": {
                   "latitude": 38.774614,
@@ -1082,8 +1082,8 @@
               "order": 19,
               "distance": 422,
               "stop": {
-                "id": 11509,
-                "publicId": "11509",
+                "id": "11509",
+                "internalId": 11509,
                 "name": "Esc. Pintor Almada Negreiros",
                 "position": {
                   "latitude": 38.77728,
@@ -1098,8 +1098,8 @@
               "order": 20,
               "distance": 308,
               "stop": {
-                "id": 6018,
-                "publicId": "6018",
+                "id": "6018",
+                "internalId": 6018,
                 "name": "Vale Castanheira",
                 "position": {
                   "latitude": 38.779864,
@@ -1114,8 +1114,8 @@
               "order": 21,
               "distance": 254,
               "stop": {
-                "id": 50156,
-                "publicId": "6029",
+                "id": "6029",
+                "internalId": 50156,
                 "name": "Pç D. António Ribeiro",
                 "position": {
                   "latitude": 38.780489,
@@ -1130,8 +1130,8 @@
               "order": 22,
               "distance": 527,
               "stop": {
-                "id": 6020,
-                "publicId": "6020",
+                "id": "6020",
+                "internalId": 6020,
                 "name": "Av. Nuno Kruz Abecassis",
                 "position": {
                   "latitude": 38.779634,
@@ -1146,8 +1146,8 @@
               "order": 23,
               "distance": 329,
               "stop": {
-                "id": 11511,
-                "publicId": "11511",
+                "id": "11511",
+                "internalId": 11511,
                 "name": "Esc. Pintor Almada Negreiros",
                 "position": {
                   "latitude": 38.77713,
@@ -1162,8 +1162,8 @@
               "order": 24,
               "distance": 881,
               "stop": {
-                "id": 6016,
-                "publicId": "6016",
+                "id": "6016",
+                "internalId": 6016,
                 "name": "R. Melo Antunes",
                 "position": {
                   "latitude": 38.779042,
@@ -1178,8 +1178,8 @@
               "order": 25,
               "distance": 222,
               "stop": {
-                "id": 6014,
-                "publicId": "6014",
+                "id": "6014",
+                "internalId": 6014,
                 "name": "Igreja Charneca",
                 "position": {
                   "latitude": 38.783622,
@@ -1194,8 +1194,8 @@
               "order": 26,
               "distance": 227,
               "stop": {
-                "id": 6006,
-                "publicId": "6006",
+                "id": "6006",
+                "internalId": 6006,
                 "name": "Campo Amoreiras",
                 "position": {
                   "latitude": 38.785447,
@@ -1210,8 +1210,8 @@
               "order": 27,
               "distance": 187,
               "stop": {
-                "id": 6008,
-                "publicId": "6008",
+                "id": "6008",
+                "internalId": 6008,
                 "name": "Charneca",
                 "position": {
                   "latitude": 38.78718,
@@ -1226,8 +1226,8 @@
               "order": 28,
               "distance": 257,
               "stop": {
-                "id": 6010,
-                "publicId": "6010",
+                "id": "6010",
+                "internalId": 6010,
                 "name": "Qta. Pailepa",
                 "position": {
                   "latitude": 38.78788,
@@ -1242,8 +1242,8 @@
               "order": 29,
               "distance": 426,
               "stop": {
-                "id": 6002,
-                "publicId": "6002",
+                "id": "6002",
+                "internalId": 6002,
                 "name": "R. João Amaral",
                 "position": {
                   "latitude": 38.787517,
@@ -1258,8 +1258,8 @@
               "order": 30,
               "distance": 240,
               "stop": {
-                "id": 11602,
-                "publicId": "11602",
+                "id": "11602",
+                "internalId": 11602,
                 "name": "Estr. Forte (Escola)",
                 "position": {
                   "latitude": 38.790396,
@@ -1274,8 +1274,8 @@
               "order": 31,
               "distance": 0,
               "stop": {
-                "id": 11608,
-                "publicId": "11608",
+                "id": "11608",
+                "internalId": 11608,
                 "name": "Galinheiras",
                 "position": {
                   "latitude": 38.79243,
@@ -1297,8 +1297,8 @@
               "order": 1,
               "distance": 262,
               "stop": {
-                "id": 11608,
-                "publicId": "11608",
+                "id": "11608",
+                "internalId": 11608,
                 "name": "Galinheiras",
                 "position": {
                   "latitude": 38.79243,
@@ -1313,8 +1313,8 @@
               "order": 2,
               "distance": 454,
               "stop": {
-                "id": 11601,
-                "publicId": "11601",
+                "id": "11601",
+                "internalId": 11601,
                 "name": "Estr. Forte (Escola)",
                 "position": {
                   "latitude": 38.790751,
@@ -1329,8 +1329,8 @@
               "order": 3,
               "distance": 284,
               "stop": {
-                "id": 6001,
-                "publicId": "6001",
+                "id": "6001",
+                "internalId": 6001,
                 "name": "R. João Amaral",
                 "position": {
                   "latitude": 38.787328,
@@ -1345,8 +1345,8 @@
               "order": 4,
               "distance": 347,
               "stop": {
-                "id": 6003,
-                "publicId": "6003",
+                "id": "6003",
+                "internalId": 6003,
                 "name": "Qta. Pailepa",
                 "position": {
                   "latitude": 38.787847,
@@ -1361,8 +1361,8 @@
               "order": 5,
               "distance": 262,
               "stop": {
-                "id": 6005,
-                "publicId": "6005",
+                "id": "6005",
+                "internalId": 6005,
                 "name": "Charneca",
                 "position": {
                   "latitude": 38.78718,
@@ -1377,8 +1377,8 @@
               "order": 6,
               "distance": 261,
               "stop": {
-                "id": 6009,
-                "publicId": "6009",
+                "id": "6009",
+                "internalId": 6009,
                 "name": "Campo Amoreiras",
                 "position": {
                   "latitude": 38.785714,
@@ -1393,8 +1393,8 @@
               "order": 7,
               "distance": 858,
               "stop": {
-                "id": 6011,
-                "publicId": "6011",
+                "id": "6011",
+                "internalId": 6011,
                 "name": "Igreja Charneca",
                 "position": {
                   "latitude": 38.783408,
@@ -1409,8 +1409,8 @@
               "order": 8,
               "distance": 339,
               "stop": {
-                "id": 6013,
-                "publicId": "6013",
+                "id": "6013",
+                "internalId": 6013,
                 "name": "R. Melo Antunes",
                 "position": {
                   "latitude": 38.779201,
@@ -1425,8 +1425,8 @@
               "order": 9,
               "distance": 528,
               "stop": {
-                "id": 11509,
-                "publicId": "11509",
+                "id": "11509",
+                "internalId": 11509,
                 "name": "Esc. Pintor Almada Negreiros",
                 "position": {
                   "latitude": 38.77728,
@@ -1441,8 +1441,8 @@
               "order": 10,
               "distance": 108,
               "stop": {
-                "id": 6019,
-                "publicId": "6019",
+                "id": "6019",
+                "internalId": 6019,
                 "name": "Av. Nuno Kruz Abecassis",
                 "position": {
                   "latitude": 38.779807,
@@ -1457,8 +1457,8 @@
               "order": 11,
               "distance": 322,
               "stop": {
-                "id": 50344,
-                "publicId": "6030",
+                "id": "6030",
+                "internalId": 50344,
                 "name": "Pç D. António Ribeiro",
                 "position": {
                   "latitude": 38.780186,
@@ -1473,8 +1473,8 @@
               "order": 12,
               "distance": 734,
               "stop": {
-                "id": 6015,
-                "publicId": "6015",
+                "id": "6015",
+                "internalId": 6015,
                 "name": "Vale Castanheira",
                 "position": {
                   "latitude": 38.779915,
@@ -1489,8 +1489,8 @@
               "order": 13,
               "distance": 232,
               "stop": {
-                "id": 11505,
-                "publicId": "11505",
+                "id": "11505",
+                "internalId": 11505,
                 "name": "Estação Musgueira",
                 "position": {
                   "latitude": 38.774713,
@@ -1505,8 +1505,8 @@
               "order": 14,
               "distance": 221,
               "stop": {
-                "id": 11510,
-                "publicId": "11510",
+                "id": "11510",
+                "internalId": 11510,
                 "name": "Av. Carlos Paredes",
                 "position": {
                   "latitude": 38.774406,
@@ -1521,8 +1521,8 @@
               "order": 15,
               "distance": 1008,
               "stop": {
-                "id": 11513,
-                "publicId": "11513",
+                "id": "11513",
+                "internalId": 11513,
                 "name": "Rua Helena Vaz Da Silva",
                 "position": {
                   "latitude": 38.773111,
@@ -1537,8 +1537,8 @@
               "order": 16,
               "distance": 411,
               "stop": {
-                "id": 11504,
-                "publicId": "11504",
+                "id": "11504",
+                "internalId": 11504,
                 "name": "Alta De Lisboa - Qta Conchas",
                 "position": {
                   "latitude": 38.768801,
@@ -1553,8 +1553,8 @@
               "order": 17,
               "distance": 278,
               "stop": {
-                "id": 50157,
-                "publicId": "11519",
+                "id": "11519",
+                "internalId": 50157,
                 "name": "Av. Helena Vieira Da Silva",
                 "position": {
                   "latitude": 38.766867,
@@ -1569,8 +1569,8 @@
               "order": 18,
               "distance": 178,
               "stop": {
-                "id": 5835,
-                "publicId": "5835",
+                "id": "5835",
+                "internalId": 5835,
                 "name": "Rua Manuel Marques",
                 "position": {
                   "latitude": 38.766313,
@@ -1585,8 +1585,8 @@
               "order": 19,
               "distance": 200,
               "stop": {
-                "id": 5836,
-                "publicId": "5836",
+                "id": "5836",
+                "internalId": 5836,
                 "name": "Rua Amílcar Cabral",
                 "position": {
                   "latitude": 38.764728,
@@ -1601,8 +1601,8 @@
               "order": 20,
               "distance": 177,
               "stop": {
-                "id": 5833,
-                "publicId": "5833",
+                "id": "5833",
+                "internalId": 5833,
                 "name": "Rua Agostinho Neto",
                 "position": {
                   "latitude": 38.76295,
@@ -1617,8 +1617,8 @@
               "order": 21,
               "distance": 683,
               "stop": {
-                "id": 5840,
-                "publicId": "5840",
+                "id": "5840",
+                "internalId": 5840,
                 "name": "Rua Agostinho Neto",
                 "position": {
                   "latitude": 38.76175,
@@ -1633,8 +1633,8 @@
               "order": 22,
               "distance": 476,
               "stop": {
-                "id": 5806,
-                "publicId": "5806",
+                "id": "5806",
+                "internalId": 5806,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.757628,
@@ -1649,8 +1649,8 @@
               "order": 23,
               "distance": 230,
               "stop": {
-                "id": 5704,
-                "publicId": "5704",
+                "id": "5704",
+                "internalId": 5704,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.753919,
@@ -1665,8 +1665,8 @@
               "order": 24,
               "distance": 379,
               "stop": {
-                "id": 2008,
-                "publicId": "2008",
+                "id": "2008",
+                "internalId": 2008,
                 "name": "Campo Grande",
                 "position": {
                   "latitude": 38.752122,
@@ -1681,8 +1681,8 @@
               "order": 25,
               "distance": 189,
               "stop": {
-                "id": 2006,
-                "publicId": "2006",
+                "id": "2006",
+                "internalId": 2006,
                 "name": "Entrecampos Norte",
                 "position": {
                   "latitude": 38.749116,
@@ -1697,8 +1697,8 @@
               "order": 26,
               "distance": 316,
               "stop": {
-                "id": 2002,
-                "publicId": "2002",
+                "id": "2002",
+                "internalId": 2002,
                 "name": "Entrecampos",
                 "position": {
                   "latitude": 38.747602,
@@ -1713,8 +1713,8 @@
               "order": 27,
               "distance": 329,
               "stop": {
-                "id": 2019,
-                "publicId": "2019",
+                "id": "2019",
+                "internalId": 2019,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.744815,
@@ -1729,8 +1729,8 @@
               "order": 28,
               "distance": 417,
               "stop": {
-                "id": 1902,
-                "publicId": "1902",
+                "id": "1902",
+                "internalId": 1902,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.741922,
@@ -1745,8 +1745,8 @@
               "order": 29,
               "distance": 688,
               "stop": {
-                "id": 1814,
-                "publicId": "1814",
+                "id": "1814",
+                "internalId": 1814,
                 "name": "Av. Da República",
                 "position": {
                   "latitude": 38.738267,
@@ -1761,8 +1761,8 @@
               "order": 30,
               "distance": 0,
               "stop": {
-                "id": 1807,
-                "publicId": "1807",
+                "id": "1807",
+                "internalId": 1807,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733918,

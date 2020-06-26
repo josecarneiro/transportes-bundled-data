@@ -1,11 +1,15 @@
 {
-  "id": 17580,
-  "publicId": "83116",
+  "id": "83116",
+  "internalId": 17580,
   "name": "Az. Salgada",
   "position": {
     "latitude": 38.736095,
     "longitude": -9.113232
   },
   "visible": true,
-  "updateDate": "2018-06-01T09:41:52.000Z"
+  "updateDate": "2018-06-01T09:41:52.000Z",
+  "routes": [
+    "759",
+    "793"
+  ]
 }

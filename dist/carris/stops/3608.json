@@ -1,11 +1,16 @@
 {
-  "id": 3608,
-  "publicId": "3608",
+  "id": "3608",
+  "internalId": 3608,
   "name": "B.º Armador",
   "position": {
     "latitude": 38.746594,
     "longitude": -9.119256
   },
   "visible": true,
-  "updateDate": "2019-02-13T17:39:54.000Z"
+  "updateDate": "2019-02-13T17:39:54.000Z",
+  "routes": [
+    "208",
+    "793",
+    "794"
+  ]
 }

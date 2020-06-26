@@ -1,11 +1,16 @@
 {
-  "id": 12615,
-  "publicId": "12615",
+  "id": "12615",
+  "internalId": 12615,
   "name": "Centro Comercial Da Portela",
   "position": {
     "latitude": 38.781007,
     "longitude": -9.11183
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:29:08.000Z"
+  "updateDate": "2014-10-15T11:29:08.000Z",
+  "routes": [
+    "210",
+    "722",
+    "728"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 8423,
-  "publicId": "8423",
+  "id": "8423",
+  "internalId": 8423,
   "name": "Cemitério Dos Olivais",
   "position": {
     "latitude": 38.762359,
     "longitude": -9.109549
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:55.000Z"
+  "updateDate": "2010-12-02T17:19:55.000Z",
+  "routes": [
+    "210",
+    "781",
+    "29B"
+  ]
 }

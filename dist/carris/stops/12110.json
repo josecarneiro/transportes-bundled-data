@@ -1,11 +1,18 @@
 {
-  "id": 12110,
-  "publicId": "12110",
+  "id": "12110",
+  "internalId": 12110,
   "name": "R. Alcântara",
   "position": {
     "latitude": 38.706207,
     "longitude": -9.175552
   },
   "visible": true,
-  "updateDate": "2019-01-16T09:14:13.000Z"
+  "updateDate": "2019-01-16T09:14:13.000Z",
+  "routes": [
+    "714",
+    "727",
+    "751",
+    "756",
+    "73B"
+  ]
 }

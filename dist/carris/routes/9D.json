@@ -1,6 +1,6 @@
 {
-  "id": 217,
-  "number": "9D",
+  "id": "9D",
+  "internalId": 217,
   "name": "Algés (Docapesca) - Parque Campismo",
   "visible": true,
   "creationDate": "2018-07-10T17:32:36.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 6960,
               "stop": {
-                "id": 50308,
-                "publicId": "99999",
+                "id": "99999",
+                "internalId": 50308,
                 "name": "Algés (Docapesca)",
                 "position": {
                   "latitude": 38.696747,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 14007,
-                "publicId": "14007",
+                "id": "14007",
+                "internalId": 14007,
                 "name": "Parque De Campismo - Recepção",
                 "position": {
                   "latitude": 38.724554,
@@ -60,8 +60,8 @@
               "order": 1,
               "distance": 1379,
               "stop": {
-                "id": 14007,
-                "publicId": "14007",
+                "id": "14007",
+                "internalId": 14007,
                 "name": "Parque De Campismo - Recepção",
                 "position": {
                   "latitude": 38.724554,
@@ -76,8 +76,8 @@
               "order": 2,
               "distance": 2780,
               "stop": {
-                "id": 18111,
-                "publicId": "18111",
+                "id": "18111",
+                "internalId": 18111,
                 "name": "Bº Do Alto Do Moínho",
                 "position": {
                   "latitude": 38.727522,
@@ -92,8 +92,8 @@
               "order": 3,
               "distance": 268,
               "stop": {
-                "id": 14309,
-                "publicId": "14309",
+                "id": "14309",
+                "internalId": 14309,
                 "name": "Miraflores",
                 "position": {
                   "latitude": 38.713332,
@@ -108,8 +108,8 @@
               "order": 4,
               "distance": 466,
               "stop": {
-                "id": 14311,
-                "publicId": "14311",
+                "id": "14311",
+                "internalId": 14311,
                 "name": "Escola Preparatória Miraflores",
                 "position": {
                   "latitude": 38.711082,
@@ -124,8 +124,8 @@
               "order": 5,
               "distance": 239,
               "stop": {
-                "id": 18401,
-                "publicId": "18401",
+                "id": "18401",
+                "internalId": 18401,
                 "name": "Av. Bombeiros De Algés",
                 "position": {
                   "latitude": 38.7077,
@@ -140,8 +140,8 @@
               "order": 6,
               "distance": 284,
               "stop": {
-                "id": 18403,
-                "publicId": "18403",
+                "id": "18403",
+                "internalId": 18403,
                 "name": "Av. Bombeiros De Algés-Cinema",
                 "position": {
                   "latitude": 38.705725,
@@ -156,8 +156,8 @@
               "order": 7,
               "distance": 241,
               "stop": {
-                "id": 4225,
-                "publicId": "4225",
+                "id": "4225",
+                "internalId": 4225,
                 "name": "Rua Latino Coelho",
                 "position": {
                   "latitude": 38.703206,
@@ -172,8 +172,8 @@
               "order": 8,
               "distance": 3430,
               "stop": {
-                "id": 4213,
-                "publicId": "4213",
+                "id": "4213",
+                "internalId": 4213,
                 "name": "Algés - Mercado",
                 "position": {
                   "latitude": 38.701126,
@@ -188,8 +188,8 @@
               "order": 9,
               "distance": 0,
               "stop": {
-                "id": 50308,
-                "publicId": "99999",
+                "id": "99999",
+                "internalId": 50308,
                 "name": "Algés (Docapesca)",
                 "position": {
                   "latitude": 38.696747,

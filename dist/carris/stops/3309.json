@@ -1,11 +1,14 @@
 {
-  "id": 3309,
-  "publicId": "3309",
+  "id": "3309",
+  "internalId": 3309,
   "name": "Qta Das Freiras",
   "position": {
     "latitude": 38.743946,
     "longitude": -9.154776
   },
   "visible": true,
-  "updateDate": "2012-12-14T18:15:59.000Z"
+  "updateDate": "2012-12-14T18:15:59.000Z",
+  "routes": [
+    "731"
+  ]
 }

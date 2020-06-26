@@ -1,11 +1,17 @@
 {
-  "id": 302,
-  "publicId": "302",
+  "id": "302",
+  "internalId": 302,
   "name": "Areeiro",
   "position": {
     "latitude": 38.742141,
     "longitude": -9.134454
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "206",
+    "722",
+    "735",
+    "756"
+  ]
 }

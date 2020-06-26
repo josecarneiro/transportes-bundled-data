@@ -1,11 +1,19 @@
 {
-  "id": 10704,
-  "publicId": "10704",
+  "id": "10704",
+  "internalId": 10704,
   "name": "B.º Novo",
   "position": {
     "latitude": 38.744557,
     "longitude": -9.17914
   },
   "visible": true,
-  "updateDate": "2017-12-07T12:44:56.000Z"
+  "updateDate": "2017-12-07T12:44:56.000Z",
+  "routes": [
+    "202",
+    "716",
+    "746",
+    "754",
+    "758",
+    "768"
+  ]
 }

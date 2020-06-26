@@ -1,11 +1,19 @@
 {
-  "id": 7011,
-  "publicId": "7011",
+  "id": "7011",
+  "internalId": 7011,
   "name": "Pç. Paiva Couceiro / R. Morais",
   "position": {
     "latitude": 38.732115,
     "longitude": -9.128297
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:28:27.000Z"
+  "updateDate": "2018-04-03T15:28:27.000Z",
+  "routes": [
+    "206",
+    "706",
+    "718",
+    "735",
+    "742",
+    "797"
+  ]
 }

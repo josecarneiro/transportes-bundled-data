@@ -1,11 +1,16 @@
 {
-  "id": 50323,
-  "publicId": "21309",
+  "id": "21309",
+  "internalId": 50323,
   "name": "Parque Infantil Alvito",
   "position": {
     "latitude": 38.719873,
     "longitude": -9.185344
   },
   "visible": true,
-  "updateDate": "2017-07-05T14:00:00.000Z"
+  "updateDate": "2017-07-05T14:00:00.000Z",
+  "routes": [
+    "711",
+    "723",
+    "9B"
+  ]
 }

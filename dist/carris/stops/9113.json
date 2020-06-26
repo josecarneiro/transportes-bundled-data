@@ -1,11 +1,15 @@
 {
-  "id": 9113,
-  "publicId": "9113",
+  "id": "9113",
+  "internalId": 9113,
   "name": "R. Bartolomeu Costa",
   "position": {
     "latitude": 38.720561,
     "longitude": -9.123771
   },
   "visible": true,
-  "updateDate": "2018-02-05T14:28:13.000Z"
+  "updateDate": "2018-02-05T14:28:13.000Z",
+  "routes": [
+    "206",
+    "735"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 5928,
-  "publicId": "5928",
+  "id": "5928",
+  "internalId": 5928,
   "name": "Az. S. Gonçalo",
   "position": {
     "latitude": 38.781614,
     "longitude": -9.156563
   },
   "visible": true,
-  "updateDate": "2019-02-14T12:59:06.000Z"
+  "updateDate": "2019-02-14T12:59:06.000Z",
+  "routes": [
+    "703",
+    "40B"
+  ]
 }

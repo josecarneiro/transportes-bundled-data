@@ -1,6 +1,6 @@
 {
-  "id": 190,
-  "number": "731",
+  "id": "731",
+  "internalId": 190,
   "name": "Av. José Malhoa - Moscavide Centro",
   "visible": true,
   "creationDate": "2020-05-20T09:22:38.000Z",
@@ -2694,8 +2694,8 @@
               "order": 1,
               "distance": 529,
               "stop": {
-                "id": 50038,
-                "publicId": "1613",
+                "id": "1613",
+                "internalId": 50038,
                 "name": "Av. José Malhoa",
                 "position": {
                   "latitude": 38.737569,
@@ -2710,8 +2710,8 @@
               "order": 2,
               "distance": 309,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -2726,8 +2726,8 @@
               "order": 3,
               "distance": 546,
               "stop": {
-                "id": 1603,
-                "publicId": "1603",
+                "id": "1603",
+                "internalId": 1603,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742577,
@@ -2742,8 +2742,8 @@
               "order": 4,
               "distance": 299,
               "stop": {
-                "id": 1605,
-                "publicId": "1605",
+                "id": "1605",
+                "internalId": 1605,
                 "name": "Escola Dom Pedro V",
                 "position": {
                   "latitude": 38.741185,
@@ -2758,8 +2758,8 @@
               "order": 5,
               "distance": 369,
               "stop": {
-                "id": 1509,
-                "publicId": "1509",
+                "id": "1509",
+                "internalId": 1509,
                 "name": "Rua Filipe Da Mata",
                 "position": {
                   "latitude": 38.741146,
@@ -2774,8 +2774,8 @@
               "order": 6,
               "distance": 219,
               "stop": {
-                "id": 3301,
-                "publicId": "3301",
+                "id": "3301",
+                "internalId": 3301,
                 "name": "Estação Do Rego",
                 "position": {
                   "latitude": 38.741685,
@@ -2790,8 +2790,8 @@
               "order": 7,
               "distance": 222,
               "stop": {
-                "id": 3303,
-                "publicId": "3303",
+                "id": "3303",
+                "internalId": 3303,
                 "name": "Rua Da Beneficência",
                 "position": {
                   "latitude": 38.743144,
@@ -2806,8 +2806,8 @@
               "order": 8,
               "distance": 415,
               "stop": {
-                "id": 3305,
-                "publicId": "3305",
+                "id": "3305",
+                "internalId": 3305,
                 "name": "Bº De Santos",
                 "position": {
                   "latitude": 38.744846,
@@ -2822,8 +2822,8 @@
               "order": 9,
               "distance": 520,
               "stop": {
-                "id": 3309,
-                "publicId": "3309",
+                "id": "3309",
+                "internalId": 3309,
                 "name": "Qta Das Freiras",
                 "position": {
                   "latitude": 38.743946,
@@ -2838,8 +2838,8 @@
               "order": 10,
               "distance": 789,
               "stop": {
-                "id": 3311,
-                "publicId": "3311",
+                "id": "3311",
+                "internalId": 3311,
                 "name": "Av. Álvaro Pais",
                 "position": {
                   "latitude": 38.745335,
@@ -2854,8 +2854,8 @@
               "order": 11,
               "distance": 156,
               "stop": {
-                "id": 13505,
-                "publicId": "13505",
+                "id": "13505",
+                "internalId": 13505,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.750076,
@@ -2870,8 +2870,8 @@
               "order": 12,
               "distance": 336,
               "stop": {
-                "id": 13510,
-                "publicId": "13510",
+                "id": "13510",
+                "internalId": 13510,
                 "name": "Cantina Da Universidade",
                 "position": {
                   "latitude": 38.751401,
@@ -2886,8 +2886,8 @@
               "order": 13,
               "distance": 553,
               "stop": {
-                "id": 5702,
-                "publicId": "5702",
+                "id": "5702",
+                "internalId": 5702,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.752847,
@@ -2902,8 +2902,8 @@
               "order": 14,
               "distance": 562,
               "stop": {
-                "id": 5712,
-                "publicId": "5712",
+                "id": "5712",
+                "internalId": 5712,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.755108,
@@ -2918,8 +2918,8 @@
               "order": 15,
               "distance": 383,
               "stop": {
-                "id": 11304,
-                "publicId": "11304",
+                "id": "11304",
+                "internalId": 11304,
                 "name": "Hosp. Júlio Matos",
                 "position": {
                   "latitude": 38.757036,
@@ -2934,8 +2934,8 @@
               "order": 16,
               "distance": 368,
               "stop": {
-                "id": 11303,
-                "publicId": "11303",
+                "id": "11303",
+                "internalId": 11303,
                 "name": "Lnec",
                 "position": {
                   "latitude": 38.758309,
@@ -2950,8 +2950,8 @@
               "order": 17,
               "distance": 643,
               "stop": {
-                "id": 11305,
-                "publicId": "11305",
+                "id": "11305",
+                "internalId": 11305,
                 "name": "Pote De Água",
                 "position": {
                   "latitude": 38.759636,
@@ -2966,8 +2966,8 @@
               "order": 18,
               "distance": 776,
               "stop": {
-                "id": 7501,
-                "publicId": "7501",
+                "id": "7501",
+                "internalId": 7501,
                 "name": "Pç. Aeroporto",
                 "position": {
                   "latitude": 38.762408,
@@ -2982,8 +2982,8 @@
               "order": 19,
               "distance": 415,
               "stop": {
-                "id": 7509,
-                "publicId": "7509",
+                "id": "7509",
+                "internalId": 7509,
                 "name": "Av. Marechal Gomes Da Costa",
                 "position": {
                   "latitude": 38.761222,
@@ -2998,8 +2998,8 @@
               "order": 20,
               "distance": 195,
               "stop": {
-                "id": 8401,
-                "publicId": "8401",
+                "id": "8401",
+                "internalId": 8401,
                 "name": "Av. Cidade Lourenço Marques",
                 "position": {
                   "latitude": 38.762674,
@@ -3014,8 +3014,8 @@
               "order": 21,
               "distance": 372,
               "stop": {
-                "id": 8403,
-                "publicId": "8403",
+                "id": "8403",
+                "internalId": 8403,
                 "name": "Olivais Sul",
                 "position": {
                   "latitude": 38.764277,
@@ -3030,8 +3030,8 @@
               "order": 22,
               "distance": 251,
               "stop": {
-                "id": 7701,
-                "publicId": "7701",
+                "id": "7701",
+                "internalId": 7701,
                 "name": "Av. Cidade Lourenço Marques",
                 "position": {
                   "latitude": 38.767407,
@@ -3046,8 +3046,8 @@
               "order": 23,
               "distance": 498,
               "stop": {
-                "id": 7703,
-                "publicId": "7703",
+                "id": "7703",
+                "internalId": 7703,
                 "name": "Av. De Berlim - Viveiros",
                 "position": {
                   "latitude": 38.768918,
@@ -3062,8 +3062,8 @@
               "order": 24,
               "distance": 336,
               "stop": {
-                "id": 7705,
-                "publicId": "7705",
+                "id": "7705",
+                "internalId": 7705,
                 "name": "Piscina Dos Olivais",
                 "position": {
                   "latitude": 38.769537,
@@ -3078,8 +3078,8 @@
               "order": 25,
               "distance": 243,
               "stop": {
-                "id": 7809,
-                "publicId": "7809",
+                "id": "7809",
+                "internalId": 7809,
                 "name": "Qta Conde Dos Arcos",
                 "position": {
                   "latitude": 38.770538,
@@ -3094,8 +3094,8 @@
               "order": 26,
               "distance": 439,
               "stop": {
-                "id": 7801,
-                "publicId": "7801",
+                "id": "7801",
+                "internalId": 7801,
                 "name": "Rua Sargento Monteiro Ferreira",
                 "position": {
                   "latitude": 38.771901,
@@ -3110,8 +3110,8 @@
               "order": 27,
               "distance": 697,
               "stop": {
-                "id": 12301,
-                "publicId": "12301",
+                "id": "12301",
+                "internalId": 12301,
                 "name": "Olivais Norte",
                 "position": {
                   "latitude": 38.775372,
@@ -3126,8 +3126,8 @@
               "order": 28,
               "distance": 355,
               "stop": {
-                "id": 7807,
-                "publicId": "7807",
+                "id": "7807",
+                "internalId": 7807,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.773965,
@@ -3142,8 +3142,8 @@
               "order": 29,
               "distance": 406,
               "stop": {
-                "id": 7909,
-                "publicId": "7909",
+                "id": "7909",
+                "internalId": 7909,
                 "name": "Rua João Pinto Ribeiro",
                 "position": {
                   "latitude": 38.774787,
@@ -3158,8 +3158,8 @@
               "order": 30,
               "distance": 265,
               "stop": {
-                "id": 7905,
-                "publicId": "7905",
+                "id": "7905",
+                "internalId": 7905,
                 "name": "Rua Laureano Oliveira",
                 "position": {
                   "latitude": 38.777627,
@@ -3174,8 +3174,8 @@
               "order": 31,
               "distance": 0,
               "stop": {
-                "id": 7902,
-                "publicId": "7902",
+                "id": "7902",
+                "internalId": 7902,
                 "name": "Moscavide Centro",
                 "position": {
                   "latitude": 38.779906,
@@ -5510,8 +5510,8 @@
               "order": 1,
               "distance": 278,
               "stop": {
-                "id": 7902,
-                "publicId": "7902",
+                "id": "7902",
+                "internalId": 7902,
                 "name": "Moscavide Centro",
                 "position": {
                   "latitude": 38.779906,
@@ -5526,8 +5526,8 @@
               "order": 2,
               "distance": 387,
               "stop": {
-                "id": 7904,
-                "publicId": "7904",
+                "id": "7904",
+                "internalId": 7904,
                 "name": "Moscavide Centro",
                 "position": {
                   "latitude": 38.779637,
@@ -5542,8 +5542,8 @@
               "order": 3,
               "distance": 198,
               "stop": {
-                "id": 7906,
-                "publicId": "7906",
+                "id": "7906",
+                "internalId": 7906,
                 "name": "Rua Laureano Oliveira",
                 "position": {
                   "latitude": 38.776416,
@@ -5558,8 +5558,8 @@
               "order": 4,
               "distance": 351,
               "stop": {
-                "id": 7908,
-                "publicId": "7908",
+                "id": "7908",
+                "internalId": 7908,
                 "name": "Moscavide",
                 "position": {
                   "latitude": 38.775044,
@@ -5574,8 +5574,8 @@
               "order": 5,
               "distance": 712,
               "stop": {
-                "id": 7810,
-                "publicId": "7810",
+                "id": "7810",
+                "internalId": 7810,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.774425,
@@ -5590,8 +5590,8 @@
               "order": 6,
               "distance": 302,
               "stop": {
-                "id": 12310,
-                "publicId": "12310",
+                "id": "12310",
+                "internalId": 12310,
                 "name": "Olivais Norte",
                 "position": {
                   "latitude": 38.774242,
@@ -5606,8 +5606,8 @@
               "order": 7,
               "distance": 451,
               "stop": {
-                "id": 7802,
-                "publicId": "7802",
+                "id": "7802",
+                "internalId": 7802,
                 "name": "Rua Sargento Monteiro Ferreira",
                 "position": {
                   "latitude": 38.771711,
@@ -5622,8 +5622,8 @@
               "order": 8,
               "distance": 385,
               "stop": {
-                "id": 7706,
-                "publicId": "7706",
+                "id": "7706",
+                "internalId": 7706,
                 "name": "Piscina Dos Olivais",
                 "position": {
                   "latitude": 38.769494,
@@ -5638,8 +5638,8 @@
               "order": 9,
               "distance": 385,
               "stop": {
-                "id": 7704,
-                "publicId": "7704",
+                "id": "7704",
+                "internalId": 7704,
                 "name": "Av. De Berlim - Viveiros",
                 "position": {
                   "latitude": 38.769084,
@@ -5654,8 +5654,8 @@
               "order": 10,
               "distance": 322,
               "stop": {
-                "id": 7702,
-                "publicId": "7702",
+                "id": "7702",
+                "internalId": 7702,
                 "name": "Av. Cidade Lourenço Marques",
                 "position": {
                   "latitude": 38.766903,
@@ -5670,8 +5670,8 @@
               "order": 11,
               "distance": 199,
               "stop": {
-                "id": 8404,
-                "publicId": "8404",
+                "id": "8404",
+                "internalId": 8404,
                 "name": "Olivais Sul",
                 "position": {
                   "latitude": 38.764046,
@@ -5686,8 +5686,8 @@
               "order": 12,
               "distance": 286,
               "stop": {
-                "id": 8402,
-                "publicId": "8402",
+                "id": "8402",
+                "internalId": 8402,
                 "name": "Av. Cidade Lourenço Marques",
                 "position": {
                   "latitude": 38.762622,
@@ -5702,8 +5702,8 @@
               "order": 13,
               "distance": 833,
               "stop": {
-                "id": 7506,
-                "publicId": "7506",
+                "id": "7506",
+                "internalId": 7506,
                 "name": "Av. Marechal Gomes Da Costa",
                 "position": {
                   "latitude": 38.761704,
@@ -5718,8 +5718,8 @@
               "order": 14,
               "distance": 694,
               "stop": {
-                "id": 7515,
-                "publicId": "7515",
+                "id": "7515",
+                "internalId": 7515,
                 "name": "Pç. Aeroporto",
                 "position": {
                   "latitude": 38.762481,
@@ -5734,8 +5734,8 @@
               "order": 15,
               "distance": 419,
               "stop": {
-                "id": 11308,
-                "publicId": "11308",
+                "id": "11308",
+                "internalId": 11308,
                 "name": "Pote De Água",
                 "position": {
                   "latitude": 38.759463,
@@ -5750,8 +5750,8 @@
               "order": 16,
               "distance": 501,
               "stop": {
-                "id": 11306,
-                "publicId": "11306",
+                "id": "11306",
+                "internalId": 11306,
                 "name": "Lnec",
                 "position": {
                   "latitude": 38.758134,
@@ -5766,8 +5766,8 @@
               "order": 17,
               "distance": 480,
               "stop": {
-                "id": 11321,
-                "publicId": "11321",
+                "id": "11321",
+                "internalId": 11321,
                 "name": "Hosp. Júlio Matos",
                 "position": {
                   "latitude": 38.756321,
@@ -5782,8 +5782,8 @@
               "order": 18,
               "distance": 411,
               "stop": {
-                "id": 5703,
-                "publicId": "5703",
+                "id": "5703",
+                "internalId": 5703,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.754814,
@@ -5798,8 +5798,8 @@
               "order": 19,
               "distance": 574,
               "stop": {
-                "id": 5701,
-                "publicId": "5701",
+                "id": "5701",
+                "internalId": 5701,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.753853,
@@ -5814,8 +5814,8 @@
               "order": 20,
               "distance": 768,
               "stop": {
-                "id": 13507,
-                "publicId": "13507",
+                "id": "13507",
+                "internalId": 13507,
                 "name": "Cantina Da Universidade",
                 "position": {
                   "latitude": 38.750757,
@@ -5830,8 +5830,8 @@
               "order": 21,
               "distance": 267,
               "stop": {
-                "id": 3306,
-                "publicId": "3306",
+                "id": "3306",
+                "internalId": 3306,
                 "name": "Bº De Santos",
                 "position": {
                   "latitude": 38.745341,
@@ -5846,8 +5846,8 @@
               "order": 22,
               "distance": 318,
               "stop": {
-                "id": 3304,
-                "publicId": "3304",
+                "id": "3304",
+                "internalId": 3304,
                 "name": "Rua Da Beneficência",
                 "position": {
                   "latitude": 38.743964,
@@ -5862,8 +5862,8 @@
               "order": 23,
               "distance": 341,
               "stop": {
-                "id": 3302,
-                "publicId": "3302",
+                "id": "3302",
+                "internalId": 3302,
                 "name": "Rua Da Beneficência",
                 "position": {
                   "latitude": 38.741672,
@@ -5878,8 +5878,8 @@
               "order": 24,
               "distance": 194,
               "stop": {
-                "id": 1512,
-                "publicId": "1512",
+                "id": "1512",
+                "internalId": 1512,
                 "name": "Rua Filipe Da Mata",
                 "position": {
                   "latitude": 38.741315,
@@ -5894,8 +5894,8 @@
               "order": 25,
               "distance": 639,
               "stop": {
-                "id": 1608,
-                "publicId": "1608",
+                "id": "1608",
+                "internalId": 1608,
                 "name": "Escola Dom Pedro V",
                 "position": {
                   "latitude": 38.741222,
@@ -5910,8 +5910,8 @@
               "order": 26,
               "distance": 431,
               "stop": {
-                "id": 1604,
-                "publicId": "1604",
+                "id": "1604",
+                "internalId": 1604,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742544,
@@ -5926,8 +5926,8 @@
               "order": 27,
               "distance": 260,
               "stop": {
-                "id": 1620,
-                "publicId": "1620",
+                "id": "1620",
+                "internalId": 1620,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.739162,
@@ -5942,8 +5942,8 @@
               "order": 28,
               "distance": 249,
               "stop": {
-                "id": 1602,
-                "publicId": "1602",
+                "id": "1602",
+                "internalId": 1602,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.73864,
@@ -5958,8 +5958,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 50038,
-                "publicId": "1613",
+                "id": "1613",
+                "internalId": 50038,
                 "name": "Av. José Malhoa",
                 "position": {
                   "latitude": 38.737569,
@@ -5988,8 +5988,8 @@
               "order": 1,
               "distance": 546,
               "stop": {
-                "id": 1603,
-                "publicId": "1603",
+                "id": "1603",
+                "internalId": 1603,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742577,
@@ -6004,8 +6004,8 @@
               "order": 2,
               "distance": 299,
               "stop": {
-                "id": 1605,
-                "publicId": "1605",
+                "id": "1605",
+                "internalId": 1605,
                 "name": "Escola Dom Pedro V",
                 "position": {
                   "latitude": 38.741185,
@@ -6020,8 +6020,8 @@
               "order": 3,
               "distance": 369,
               "stop": {
-                "id": 1509,
-                "publicId": "1509",
+                "id": "1509",
+                "internalId": 1509,
                 "name": "Rua Filipe Da Mata",
                 "position": {
                   "latitude": 38.741146,
@@ -6036,8 +6036,8 @@
               "order": 4,
               "distance": 219,
               "stop": {
-                "id": 3301,
-                "publicId": "3301",
+                "id": "3301",
+                "internalId": 3301,
                 "name": "Estação Do Rego",
                 "position": {
                   "latitude": 38.741685,
@@ -6052,8 +6052,8 @@
               "order": 5,
               "distance": 222,
               "stop": {
-                "id": 3303,
-                "publicId": "3303",
+                "id": "3303",
+                "internalId": 3303,
                 "name": "Rua Da Beneficência",
                 "position": {
                   "latitude": 38.743144,
@@ -6068,8 +6068,8 @@
               "order": 6,
               "distance": 415,
               "stop": {
-                "id": 3305,
-                "publicId": "3305",
+                "id": "3305",
+                "internalId": 3305,
                 "name": "Bº De Santos",
                 "position": {
                   "latitude": 38.744846,
@@ -6084,8 +6084,8 @@
               "order": 7,
               "distance": 520,
               "stop": {
-                "id": 3309,
-                "publicId": "3309",
+                "id": "3309",
+                "internalId": 3309,
                 "name": "Qta Das Freiras",
                 "position": {
                   "latitude": 38.743946,
@@ -6100,8 +6100,8 @@
               "order": 8,
               "distance": 607,
               "stop": {
-                "id": 3311,
-                "publicId": "3311",
+                "id": "3311",
+                "internalId": 3311,
                 "name": "Av. Álvaro Pais",
                 "position": {
                   "latitude": 38.745335,
@@ -6116,8 +6116,8 @@
               "order": 9,
               "distance": 232,
               "stop": {
-                "id": 13503,
-                "publicId": "13503",
+                "id": "13503",
+                "internalId": 13503,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.748551,
@@ -6132,8 +6132,8 @@
               "order": 10,
               "distance": 244,
               "stop": {
-                "id": 50185,
-                "publicId": "13514",
+                "id": "13514",
+                "internalId": 50185,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.750195,
@@ -6148,8 +6148,8 @@
               "order": 11,
               "distance": 628,
               "stop": {
-                "id": 13508,
-                "publicId": "13508",
+                "id": "13508",
+                "internalId": 13508,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.75019,
@@ -6164,8 +6164,8 @@
               "order": 12,
               "distance": 373,
               "stop": {
-                "id": 13619,
-                "publicId": "13619",
+                "id": "13619",
+                "internalId": 13619,
                 "name": "Rua Tomás De Aquino",
                 "position": {
                   "latitude": 38.751631,
@@ -6180,8 +6180,8 @@
               "order": 13,
               "distance": 269,
               "stop": {
-                "id": 13621,
-                "publicId": "13621",
+                "id": "13621",
+                "internalId": 13621,
                 "name": "Rua António Albino Machado",
                 "position": {
                   "latitude": 38.754345,
@@ -6196,8 +6196,8 @@
               "order": 14,
               "distance": 0,
               "stop": {
-                "id": 50243,
-                "publicId": "50020",
+                "id": "50020",
+                "internalId": 50243,
                 "name": "Qta Dos Barros",
                 "position": {
                   "latitude": 38.755739,
@@ -6219,8 +6219,8 @@
               "order": 1,
               "distance": 217,
               "stop": {
-                "id": 50243,
-                "publicId": "50020",
+                "id": "50020",
+                "internalId": 50243,
                 "name": "Qta Dos Barros",
                 "position": {
                   "latitude": 38.755739,
@@ -6235,8 +6235,8 @@
               "order": 2,
               "distance": 268,
               "stop": {
-                "id": 13622,
-                "publicId": "13622",
+                "id": "13622",
+                "internalId": 13622,
                 "name": "Rua António Albino Machado",
                 "position": {
                   "latitude": 38.754603,
@@ -6251,8 +6251,8 @@
               "order": 3,
               "distance": 112,
               "stop": {
-                "id": 50462,
-                "publicId": "13616",
+                "id": "13616",
+                "internalId": 50462,
                 "name": "R. A. A. Machado / R. S. Tomás",
                 "position": {
                   "latitude": 38.75281,
@@ -6267,8 +6267,8 @@
               "order": 4,
               "distance": 860,
               "stop": {
-                "id": 13620,
-                "publicId": "13620",
+                "id": "13620",
+                "internalId": 13620,
                 "name": "R. S. Tomás Aquino",
                 "position": {
                   "latitude": 38.751873,
@@ -6283,8 +6283,8 @@
               "order": 5,
               "distance": 788,
               "stop": {
-                "id": 13509,
-                "publicId": "13509",
+                "id": "13509",
+                "internalId": 13509,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.750002,
@@ -6299,8 +6299,8 @@
               "order": 6,
               "distance": 267,
               "stop": {
-                "id": 3306,
-                "publicId": "3306",
+                "id": "3306",
+                "internalId": 3306,
                 "name": "Bº De Santos",
                 "position": {
                   "latitude": 38.745341,
@@ -6315,8 +6315,8 @@
               "order": 7,
               "distance": 318,
               "stop": {
-                "id": 3304,
-                "publicId": "3304",
+                "id": "3304",
+                "internalId": 3304,
                 "name": "Rua Da Beneficência",
                 "position": {
                   "latitude": 38.743964,
@@ -6331,8 +6331,8 @@
               "order": 8,
               "distance": 341,
               "stop": {
-                "id": 3302,
-                "publicId": "3302",
+                "id": "3302",
+                "internalId": 3302,
                 "name": "Rua Da Beneficência",
                 "position": {
                   "latitude": 38.741672,
@@ -6347,8 +6347,8 @@
               "order": 9,
               "distance": 194,
               "stop": {
-                "id": 1512,
-                "publicId": "1512",
+                "id": "1512",
+                "internalId": 1512,
                 "name": "Rua Filipe Da Mata",
                 "position": {
                   "latitude": 38.741315,
@@ -6363,8 +6363,8 @@
               "order": 10,
               "distance": 858,
               "stop": {
-                "id": 1608,
-                "publicId": "1608",
+                "id": "1608",
+                "internalId": 1608,
                 "name": "Escola Dom Pedro V",
                 "position": {
                   "latitude": 38.741222,
@@ -6379,8 +6379,8 @@
               "order": 11,
               "distance": 0,
               "stop": {
-                "id": 1603,
-                "publicId": "1603",
+                "id": "1603",
+                "internalId": 1603,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742577,

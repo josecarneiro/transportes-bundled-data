@@ -1,11 +1,15 @@
 {
-  "id": 103,
-  "publicId": "103",
+  "id": "103",
+  "internalId": 103,
   "name": "Pç. Alvalade (Esc. Eugénio San",
   "position": {
     "latitude": 38.754219,
     "longitude": -9.14442
   },
   "visible": true,
-  "updateDate": "2018-02-08T10:58:07.000Z"
+  "updateDate": "2018-02-08T10:58:07.000Z",
+  "routes": [
+    "735",
+    "755"
+  ]
 }

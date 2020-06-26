@@ -1,11 +1,15 @@
 {
-  "id": 2124,
-  "publicId": "2124",
+  "id": "2124",
+  "internalId": 2124,
   "name": "Campo Sta. Clara",
   "position": {
     "latitude": 38.715436,
     "longitude": -9.123224
   },
   "visible": true,
-  "updateDate": "2018-04-03T14:56:15.000Z"
+  "updateDate": "2018-04-03T14:56:15.000Z",
+  "routes": [
+    "712",
+    "734"
+  ]
 }

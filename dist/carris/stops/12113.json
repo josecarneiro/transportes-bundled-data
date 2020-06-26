@@ -1,11 +1,15 @@
 {
-  "id": 12113,
-  "publicId": "12113",
+  "id": "12113",
+  "internalId": 12113,
   "name": "R. Lusíadas",
   "position": {
     "latitude": 38.705329,
     "longitude": -9.18028
   },
   "visible": true,
-  "updateDate": "2019-01-16T09:57:53.000Z"
+  "updateDate": "2019-01-16T09:57:53.000Z",
+  "routes": [
+    "738",
+    "73B"
+  ]
 }

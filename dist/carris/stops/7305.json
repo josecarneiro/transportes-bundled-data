@@ -1,11 +1,16 @@
 {
-  "id": 7305,
-  "publicId": "7305",
+  "id": "7305",
+  "internalId": 7305,
   "name": "Av. Alm. Gago Coutinho",
   "position": {
     "latitude": 38.7496,
     "longitude": -9.13075
   },
   "visible": true,
-  "updateDate": "2012-06-15T11:24:33.000Z"
+  "updateDate": "2012-06-15T11:24:33.000Z",
+  "routes": [
+    "705",
+    "708",
+    "722"
+  ]
 }

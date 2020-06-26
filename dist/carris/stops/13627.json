@@ -1,11 +1,12 @@
 {
-  "id": 50423,
-  "publicId": "13627",
+  "id": "13627",
+  "internalId": 50423,
   "name": "R. Natércia Freire",
   "position": {
     "latitude": 38.754683,
     "longitude": -9.182339
   },
   "visible": true,
-  "updateDate": "2019-10-01T16:58:16.000Z"
+  "updateDate": "2019-10-01T16:58:16.000Z",
+  "routes": []
 }

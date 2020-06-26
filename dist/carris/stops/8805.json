@@ -1,11 +1,14 @@
 {
-  "id": 50401,
-  "publicId": "8805",
+  "id": "8805",
+  "internalId": 50401,
   "name": "R. D. Maria I",
   "position": {
     "latitude": 38.733988,
     "longitude": -9.205296
   },
   "visible": true,
-  "updateDate": "2019-06-14T16:48:20.000Z"
+  "updateDate": "2019-06-14T16:48:20.000Z",
+  "routes": [
+    "70B"
+  ]
 }

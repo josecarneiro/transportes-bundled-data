@@ -1,11 +1,16 @@
 {
-  "id": 13911,
-  "publicId": "13911",
+  "id": "13911",
+  "internalId": 13911,
   "name": "Pontinha (Metro)",
   "position": {
     "latitude": 38.761614,
     "longitude": -9.196761
   },
   "visible": true,
-  "updateDate": "2020-03-06T14:01:06.000Z"
+  "updateDate": "2020-03-06T14:01:06.000Z",
+  "routes": [
+    "202",
+    "724",
+    "729"
+  ]
 }

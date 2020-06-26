@@ -1,11 +1,15 @@
 {
-  "id": 6701,
-  "publicId": "6701",
+  "id": "6701",
+  "internalId": 6701,
   "name": "Assembleia Da República",
   "position": {
     "latitude": 38.711006,
     "longitude": -9.153505
   },
   "visible": true,
-  "updateDate": "2008-12-05T13:16:41.000Z"
+  "updateDate": "2008-12-05T13:16:41.000Z",
+  "routes": [
+    "706",
+    "727"
+  ]
 }

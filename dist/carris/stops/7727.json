@@ -1,11 +1,15 @@
 {
-  "id": 7727,
-  "publicId": "7727",
+  "id": "7727",
+  "internalId": 7727,
   "name": "Rua Do Mercado",
   "position": {
     "latitude": 38.77096,
     "longitude": -9.11714
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:11:02.000Z"
+  "updateDate": "2008-12-05T17:11:02.000Z",
+  "routes": [
+    "759",
+    "29B"
+  ]
 }

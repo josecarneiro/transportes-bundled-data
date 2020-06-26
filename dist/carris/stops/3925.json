@@ -1,11 +1,16 @@
 {
-  "id": 3925,
-  "publicId": "3925",
+  "id": "3925",
+  "internalId": 3925,
   "name": "Largo Vitorino Damásio",
   "position": {
     "latitude": 38.707443,
     "longitude": -9.154485
   },
   "visible": true,
-  "updateDate": "2015-05-05T16:05:12.000Z"
+  "updateDate": "2015-05-05T16:05:12.000Z",
+  "routes": [
+    "706",
+    "714",
+    "774"
+  ]
 }

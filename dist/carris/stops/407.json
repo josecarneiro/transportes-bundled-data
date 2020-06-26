@@ -1,11 +1,14 @@
 {
-  "id": 407,
-  "publicId": "407",
+  "id": "407",
+  "internalId": 407,
   "name": "Av. Guerra Junqueiro",
   "position": {
     "latitude": 38.737513,
     "longitude": -9.134764
   },
   "visible": true,
-  "updateDate": "2018-02-08T11:27:28.000Z"
+  "updateDate": "2018-02-08T11:27:28.000Z",
+  "routes": [
+    "720"
+  ]
 }

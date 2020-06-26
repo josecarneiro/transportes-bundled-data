@@ -1,11 +1,14 @@
 {
-  "id": 6405,
-  "publicId": "6405",
+  "id": "6405",
+  "internalId": 6405,
   "name": "Pç. Londres",
   "position": {
     "latitude": 38.74138,
     "longitude": -9.137447
   },
   "visible": true,
-  "updateDate": "2020-02-27T16:40:22.000Z"
+  "updateDate": "2020-02-27T16:40:22.000Z",
+  "routes": [
+    "767"
+  ]
 }

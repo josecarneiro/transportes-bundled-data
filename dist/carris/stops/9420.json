@@ -1,11 +1,14 @@
 {
-  "id": 9420,
-  "publicId": "9420",
+  "id": "9420",
+  "internalId": 9420,
   "name": "Largo Das Necessidades",
   "position": {
     "latitude": 38.70711,
     "longitude": -9.171423
   },
   "visible": true,
-  "updateDate": "2015-09-24T08:37:41.000Z"
+  "updateDate": "2015-09-24T08:37:41.000Z",
+  "routes": [
+    "773"
+  ]
 }

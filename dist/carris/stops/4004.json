@@ -1,11 +1,21 @@
 {
-  "id": 4004,
-  "publicId": "4004",
+  "id": "4004",
+  "internalId": 4004,
   "name": "Alcântara - Av. 24 De Julho",
   "position": {
     "latitude": 38.704304,
     "longitude": -9.173951
   },
   "visible": true,
-  "updateDate": "2018-02-20T09:25:06.000Z"
+  "updateDate": "2018-02-20T09:25:06.000Z",
+  "routes": [
+    "201",
+    "720",
+    "732",
+    "738",
+    "742",
+    "760",
+    "15E",
+    "18E"
+  ]
 }

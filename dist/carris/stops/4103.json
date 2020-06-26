@@ -1,11 +1,14 @@
 {
-  "id": 50135,
-  "publicId": "4103",
+  "id": "4103",
+  "internalId": 50135,
   "name": "Belém / Cç. Da Ajuda",
   "position": {
     "latitude": 38.697823,
     "longitude": -9.199488
   },
   "visible": true,
-  "updateDate": "2014-10-16T08:20:34.000Z"
+  "updateDate": "2014-10-16T08:20:34.000Z",
+  "routes": [
+    "729"
+  ]
 }

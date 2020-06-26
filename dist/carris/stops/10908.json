@@ -1,11 +1,19 @@
 {
-  "id": 10908,
-  "publicId": "10908",
+  "id": "10908",
+  "internalId": 10908,
   "name": "Estr. Benfica / Av. Gomes Pere",
   "position": {
     "latitude": 38.749296,
     "longitude": -9.197668
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:11:16.000Z"
+  "updateDate": "2019-02-18T12:11:16.000Z",
+  "routes": [
+    "202",
+    "703",
+    "724",
+    "750",
+    "799",
+    "70B"
+  ]
 }

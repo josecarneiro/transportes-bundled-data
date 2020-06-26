@@ -1,11 +1,16 @@
 {
-  "id": 50014,
-  "publicId": "50014",
+  "id": "50014",
+  "internalId": 50014,
   "name": "R. Prof. Fernando Fonseca",
   "position": {
     "latitude": 38.761573,
     "longitude": -9.165074
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:35:18.000Z"
+  "updateDate": "2019-01-16T08:35:18.000Z",
+  "routes": [
+    "767",
+    "778",
+    "43B"
+  ]
 }

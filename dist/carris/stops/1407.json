@@ -1,11 +1,15 @@
 {
-  "id": 1407,
-  "publicId": "1407",
+  "id": "1407",
+  "internalId": 1407,
   "name": "Av. Visconde Valmor",
   "position": {
     "latitude": 38.737521,
     "longitude": -9.149518
   },
   "visible": true,
-  "updateDate": "2008-02-27T16:10:44.000Z"
+  "updateDate": "2008-02-27T16:10:44.000Z",
+  "routes": [
+    "716",
+    "726"
+  ]
 }

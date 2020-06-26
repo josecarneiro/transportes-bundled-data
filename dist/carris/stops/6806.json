@@ -1,11 +1,16 @@
 {
-  "id": 6806,
-  "publicId": "6806",
+  "id": "6806",
+  "internalId": 6806,
   "name": "Rua Braamcamp",
   "position": {
     "latitude": 38.722236,
     "longitude": -9.151987
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:06:27.000Z"
+  "updateDate": "2008-12-05T18:06:27.000Z",
+  "routes": [
+    "720",
+    "727",
+    "738"
+  ]
 }

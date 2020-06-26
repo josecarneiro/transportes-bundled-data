@@ -1,11 +1,14 @@
 {
-  "id": 12919,
-  "publicId": "12919",
+  "id": "12919",
+  "internalId": 12919,
   "name": "Ajuda - Rua Das Açucenas",
   "position": {
     "latitude": 38.708802,
     "longitude": -9.200021
   },
   "visible": true,
-  "updateDate": "2017-07-25T09:24:57.000Z"
+  "updateDate": "2017-07-25T09:24:57.000Z",
+  "routes": [
+    "18E"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 9425,
-  "publicId": "9425",
+  "id": "9425",
+  "internalId": 9425,
   "name": "Alcântara - Av. De Ceuta",
   "position": {
     "latitude": 38.7081,
     "longitude": -9.173737
   },
   "visible": true,
-  "updateDate": "2018-02-20T09:24:43.000Z"
+  "updateDate": "2018-02-20T09:24:43.000Z",
+  "routes": [
+    "713",
+    "751",
+    "756"
+  ]
 }

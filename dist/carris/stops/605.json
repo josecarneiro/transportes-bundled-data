@@ -1,11 +1,16 @@
 {
-  "id": 605,
-  "publicId": "605",
+  "id": "605",
+  "internalId": 605,
   "name": "Av. Almirante Reis / R. Febo M",
   "position": {
     "latitude": 38.726429,
     "longitude": -9.135574
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:41:52.000Z"
+  "updateDate": "2018-04-03T15:41:52.000Z",
+  "routes": [
+    "712",
+    "726",
+    "730"
+  ]
 }

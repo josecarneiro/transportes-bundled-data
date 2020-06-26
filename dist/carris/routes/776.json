@@ -1,6 +1,6 @@
 {
-  "id": 193,
-  "number": "776",
+  "id": "776",
+  "internalId": 193,
   "name": "Algés - Cruz Quebrada",
   "visible": true,
   "creationDate": "2020-05-20T09:49:07.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 128,
               "stop": {
-                "id": 4220,
-                "publicId": "4220",
+                "id": "4220",
+                "internalId": 4220,
                 "name": "Algés",
                 "position": {
                   "latitude": 38.699505,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 331,
               "stop": {
-                "id": 4218,
-                "publicId": "4218",
+                "id": "4218",
+                "internalId": 4218,
                 "name": "Algés - Pç. D. Manuel I",
                 "position": {
                   "latitude": 38.699502,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 487,
               "stop": {
-                "id": 4212,
-                "publicId": "4212",
+                "id": "4212",
+                "internalId": 4212,
                 "name": "Algés (Jardim)",
                 "position": {
                   "latitude": 38.699546,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 320,
               "stop": {
-                "id": 14908,
-                "publicId": "14908",
+                "id": "14908",
+                "internalId": 14908,
                 "name": "Aquário Vasco Gama",
                 "position": {
                   "latitude": 38.699266,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 338,
               "stop": {
-                "id": 14906,
-                "publicId": "14906",
+                "id": "14906",
+                "internalId": 14906,
                 "name": "Dafundo",
                 "position": {
                   "latitude": 38.700278,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 206,
               "stop": {
-                "id": 14904,
-                "publicId": "14904",
+                "id": "14904",
+                "internalId": 14904,
                 "name": "Dafundo - R. 1º Maio",
                 "position": {
                   "latitude": 38.700732,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 235,
               "stop": {
-                "id": 14902,
-                "publicId": "14902",
+                "id": "14902",
+                "internalId": 14902,
                 "name": "R. Bombeiros Voluntários Dafun",
                 "position": {
                   "latitude": 38.700345,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 199,
               "stop": {
-                "id": 4302,
-                "publicId": "4302",
+                "id": "4302",
+                "internalId": 4302,
                 "name": "Igreja Cruz Quebrada",
                 "position": {
                   "latitude": 38.70103,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 179,
               "stop": {
-                "id": 4304,
-                "publicId": "4304",
+                "id": "4304",
+                "internalId": 4304,
                 "name": "Cruz Quebrada",
                 "position": {
                   "latitude": 38.701861,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 276,
               "stop": {
-                "id": 4305,
-                "publicId": "4305",
+                "id": "4305",
+                "internalId": 4305,
                 "name": "Estr. Costa",
                 "position": {
                   "latitude": 38.703366,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 457,
               "stop": {
-                "id": 50406,
-                "publicId": "4308",
+                "id": "4308",
+                "internalId": 50406,
                 "name": "Cruz Quebrada (Fac. Motricidad",
                 "position": {
                   "latitude": 38.705354,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 0,
               "stop": {
-                "id": 50407,
-                "publicId": "4309",
+                "id": "4309",
+                "internalId": 50407,
                 "name": "Cruz Quebrada (Clube Ténis Jam",
                 "position": {
                   "latitude": 38.70774,
@@ -220,8 +220,8 @@
               "order": 1,
               "distance": 310,
               "stop": {
-                "id": 50407,
-                "publicId": "4309",
+                "id": "4309",
+                "internalId": 50407,
                 "name": "Cruz Quebrada (Clube Ténis Jam",
                 "position": {
                   "latitude": 38.70774,
@@ -236,8 +236,8 @@
               "order": 2,
               "distance": 425,
               "stop": {
-                "id": 4301,
-                "publicId": "4301",
+                "id": "4301",
+                "internalId": 4301,
                 "name": "Cruz Quebrada (Fac. Motricidad",
                 "position": {
                   "latitude": 38.705166,
@@ -252,8 +252,8 @@
               "order": 3,
               "distance": 190,
               "stop": {
-                "id": 4307,
-                "publicId": "4307",
+                "id": "4307",
+                "internalId": 4307,
                 "name": "Cruz Quebrada",
                 "position": {
                   "latitude": 38.701895,
@@ -268,8 +268,8 @@
               "order": 4,
               "distance": 261,
               "stop": {
-                "id": 4303,
-                "publicId": "4303",
+                "id": "4303",
+                "internalId": 4303,
                 "name": "Igreja Cruz Quebrada",
                 "position": {
                   "latitude": 38.701005,
@@ -284,8 +284,8 @@
               "order": 5,
               "distance": 198,
               "stop": {
-                "id": 14901,
-                "publicId": "14901",
+                "id": "14901",
+                "internalId": 14901,
                 "name": "R. Bombeiros Voluntários Dafun",
                 "position": {
                   "latitude": 38.70027,
@@ -300,8 +300,8 @@
               "order": 6,
               "distance": 379,
               "stop": {
-                "id": 14903,
-                "publicId": "14903",
+                "id": "14903",
+                "internalId": 14903,
                 "name": "Dafundo - R. 1º Maio",
                 "position": {
                   "latitude": 38.700623,
@@ -316,8 +316,8 @@
               "order": 7,
               "distance": 281,
               "stop": {
-                "id": 14905,
-                "publicId": "14905",
+                "id": "14905",
+                "internalId": 14905,
                 "name": "Dafundo",
                 "position": {
                   "latitude": 38.70014,
@@ -332,8 +332,8 @@
               "order": 8,
               "distance": 483,
               "stop": {
-                "id": 14907,
-                "publicId": "14907",
+                "id": "14907",
+                "internalId": 14907,
                 "name": "Aquário Vasco Gama",
                 "position": {
                   "latitude": 38.699182,
@@ -348,8 +348,8 @@
               "order": 9,
               "distance": 130,
               "stop": {
-                "id": 4223,
-                "publicId": "4223",
+                "id": "4223",
+                "internalId": 4223,
                 "name": "Algés (Jardim)",
                 "position": {
                   "latitude": 38.699422,
@@ -364,8 +364,8 @@
               "order": 10,
               "distance": 191,
               "stop": {
-                "id": 4217,
-                "publicId": "4217",
+                "id": "4217",
+                "internalId": 4217,
                 "name": "Palácio Anjos",
                 "position": {
                   "latitude": 38.699234,
@@ -380,8 +380,8 @@
               "order": 11,
               "distance": 82,
               "stop": {
-                "id": 4219,
-                "publicId": "4219",
+                "id": "4219",
+                "internalId": 4219,
                 "name": "Algés - Pç. D. Manuel I",
                 "position": {
                   "latitude": 38.699408,
@@ -396,8 +396,8 @@
               "order": 12,
               "distance": 0,
               "stop": {
-                "id": 4220,
-                "publicId": "4220",
+                "id": "4220",
+                "internalId": 4220,
                 "name": "Algés",
                 "position": {
                   "latitude": 38.699505,

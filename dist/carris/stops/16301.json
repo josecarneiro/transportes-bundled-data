@@ -1,11 +1,14 @@
 {
-  "id": 16301,
-  "publicId": "16301",
+  "id": "16301",
+  "internalId": 16301,
   "name": "Rotunda Da Encarnação",
   "position": {
     "latitude": 38.782368,
     "longitude": -9.126004
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "705"
+  ]
 }

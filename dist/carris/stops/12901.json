@@ -1,11 +1,14 @@
 {
-  "id": 12901,
-  "publicId": "12901",
+  "id": "12901",
+  "internalId": 12901,
   "name": "Ajuda",
   "position": {
     "latitude": 38.709134,
     "longitude": -9.199986
   },
   "visible": true,
-  "updateDate": "2002-09-05T15:14:56.000Z"
+  "updateDate": "2002-09-05T15:14:56.000Z",
+  "routes": [
+    "729"
+  ]
 }

@@ -1,11 +1,12 @@
 {
-  "id": 50419,
-  "publicId": "13623",
+  "id": "13623",
+  "internalId": 50419,
   "name": "R. Soeiros",
   "position": {
     "latitude": 38.754843,
     "longitude": -9.173744
   },
   "visible": true,
-  "updateDate": "2019-10-01T16:56:13.000Z"
+  "updateDate": "2019-10-01T16:56:13.000Z",
+  "routes": []
 }

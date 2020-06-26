@@ -1,11 +1,16 @@
 {
-  "id": 50231,
-  "publicId": "2904",
+  "id": "2904",
+  "internalId": 50231,
   "name": "Benfica (Mercado)",
   "position": {
     "latitude": 38.749741,
     "longitude": -9.207002
   },
   "visible": true,
-  "updateDate": "2018-02-21T18:53:42.000Z"
+  "updateDate": "2018-02-21T18:53:42.000Z",
+  "routes": [
+    "202",
+    "711",
+    "70B"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 201,
-  "publicId": "201",
+  "id": "201",
+  "internalId": 201,
   "name": "B.º S. Miguel - Av. Roma",
   "position": {
     "latitude": 38.747568,
     "longitude": -9.140826
   },
   "visible": true,
-  "updateDate": "2019-02-12T12:04:04.000Z"
+  "updateDate": "2019-02-12T12:04:04.000Z",
+  "routes": [
+    "206",
+    "727",
+    "735",
+    "767"
+  ]
 }

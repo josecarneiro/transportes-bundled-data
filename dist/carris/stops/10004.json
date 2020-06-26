@@ -1,11 +1,15 @@
 {
-  "id": 10004,
-  "publicId": "10004",
+  "id": "10004",
+  "internalId": 10004,
   "name": "Lapa",
   "position": {
     "latitude": 38.710984,
     "longitude": -9.158476
   },
   "visible": true,
-  "updateDate": "2007-12-20T11:19:46.000Z"
+  "updateDate": "2007-12-20T11:19:46.000Z",
+  "routes": [
+    "713",
+    "773"
+  ]
 }

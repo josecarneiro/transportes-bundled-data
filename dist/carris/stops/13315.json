@@ -1,11 +1,14 @@
 {
-  "id": 50370,
-  "publicId": "13315",
+  "id": "13315",
+  "internalId": 50370,
   "name": "Tv. Memória",
   "position": {
     "latitude": 38.702567,
     "longitude": -9.200849
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "76B"
+  ]
 }

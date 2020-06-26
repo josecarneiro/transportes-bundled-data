@@ -1,11 +1,15 @@
 {
-  "id": 11902,
-  "publicId": "11902",
+  "id": "11902",
+  "internalId": 11902,
   "name": "Av. De Ceuta - Arco Carvalhão",
   "position": {
     "latitude": 38.718668,
     "longitude": -9.175047
   },
   "visible": true,
-  "updateDate": "2012-12-13T16:18:16.000Z"
+  "updateDate": "2012-12-13T16:18:16.000Z",
+  "routes": [
+    "713",
+    "751"
+  ]
 }

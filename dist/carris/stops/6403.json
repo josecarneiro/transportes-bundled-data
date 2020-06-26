@@ -1,11 +1,14 @@
 {
-  "id": 6403,
-  "publicId": "6403",
+  "id": "6403",
+  "internalId": 6403,
   "name": "Praça De Londres",
   "position": {
     "latitude": 38.740594,
     "longitude": -9.137556
   },
   "visible": true,
-  "updateDate": "2019-04-10T09:46:37.000Z"
+  "updateDate": "2019-04-10T09:46:37.000Z",
+  "routes": [
+    "722"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 6704,
-  "publicId": "6704",
+  "id": "6704",
+  "internalId": 6704,
   "name": "Palácio De São Bento (Jardim)",
   "position": {
     "latitude": 38.713484,
     "longitude": -9.153328
   },
   "visible": true,
-  "updateDate": "2008-12-05T15:41:02.000Z"
+  "updateDate": "2008-12-05T15:41:02.000Z",
+  "routes": [
+    "706",
+    "727",
+    "773",
+    "22B"
+  ]
 }

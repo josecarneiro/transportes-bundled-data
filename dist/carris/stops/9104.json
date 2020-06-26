@@ -1,11 +1,15 @@
 {
-  "id": 9104,
-  "publicId": "9104",
+  "id": "9104",
+  "internalId": 9104,
   "name": "R. Penha França",
   "position": {
     "latitude": 38.723879,
     "longitude": -9.129382
   },
   "visible": true,
-  "updateDate": "2018-02-21T11:47:26.000Z"
+  "updateDate": "2018-02-21T11:47:26.000Z",
+  "routes": [
+    "730",
+    "797"
+  ]
 }

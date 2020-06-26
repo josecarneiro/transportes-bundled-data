@@ -1,11 +1,14 @@
 {
-  "id": 4220,
-  "publicId": "4220",
+  "id": "4220",
+  "internalId": 4220,
   "name": "Algés",
   "position": {
     "latitude": 38.699505,
     "longitude": -9.227797
   },
   "visible": true,
-  "updateDate": "2019-07-23T10:04:52.000Z"
+  "updateDate": "2019-07-23T10:04:52.000Z",
+  "routes": [
+    "776"
+  ]
 }

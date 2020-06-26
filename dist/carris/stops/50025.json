@@ -1,11 +1,15 @@
 {
-  "id": 50025,
-  "publicId": "50025",
+  "id": "50025",
+  "internalId": 50025,
   "name": "R. Prof. Prado Coelho",
   "position": {
     "latitude": 38.767005,
     "longitude": -9.170666
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:36:17.000Z"
+  "updateDate": "2019-01-16T08:36:17.000Z",
+  "routes": [
+    "778",
+    "44B"
+  ]
 }

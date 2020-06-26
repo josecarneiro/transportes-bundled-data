@@ -1,11 +1,16 @@
 {
-  "id": 29368,
-  "publicId": "94904",
+  "id": "94904",
+  "internalId": 29368,
   "name": "Linda A Velha",
   "position": {
     "latitude": 38.716029,
     "longitude": -9.235668
   },
   "visible": true,
-  "updateDate": "2018-02-21T11:16:50.000Z"
+  "updateDate": "2018-02-21T11:16:50.000Z",
+  "routes": [
+    "201",
+    "748",
+    "751"
+  ]
 }

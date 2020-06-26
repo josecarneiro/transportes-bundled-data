@@ -1,11 +1,14 @@
 {
-  "id": 12515,
-  "publicId": "12515",
+  "id": "12515",
+  "internalId": 12515,
   "name": "Escola Afonso Domingues",
   "position": {
     "latitude": 38.735226,
     "longitude": -9.108466
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:28:50.000Z"
+  "updateDate": "2008-12-05T18:28:50.000Z",
+  "routes": [
+    "793"
+  ]
 }

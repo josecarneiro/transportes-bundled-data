@@ -1,11 +1,15 @@
 {
-  "id": 1414,
-  "publicId": "1414",
+  "id": "1414",
+  "internalId": 1414,
   "name": "São Sebastião",
   "position": {
     "latitude": 38.734899,
     "longitude": -9.151384
   },
   "visible": true,
-  "updateDate": "2015-08-12T13:51:18.000Z"
+  "updateDate": "2015-08-12T13:51:18.000Z",
+  "routes": [
+    "713",
+    "742"
+  ]
 }

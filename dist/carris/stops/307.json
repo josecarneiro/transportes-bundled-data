@@ -1,11 +1,16 @@
 {
-  "id": 307,
-  "publicId": "307",
+  "id": "307",
+  "internalId": 307,
   "name": "Av. Roma (Piscina)",
   "position": {
     "latitude": 38.744287,
     "longitude": -9.139119
   },
   "visible": true,
-  "updateDate": "2019-02-12T12:06:23.000Z"
+  "updateDate": "2019-02-12T12:06:23.000Z",
+  "routes": [
+    "206",
+    "735",
+    "767"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 50459,
-  "publicId": "2815",
+  "id": "2815",
+  "internalId": 50459,
   "name": "Trav. Sargento Abílio",
   "position": {
     "latitude": 38.742409,
     "longitude": -9.200764
   },
   "visible": true,
-  "updateDate": "2019-11-27T18:48:31.000Z"
+  "updateDate": "2019-11-27T18:48:31.000Z",
+  "routes": [
+    "70B"
+  ]
 }

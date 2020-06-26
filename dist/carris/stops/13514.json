@@ -1,11 +1,14 @@
 {
-  "id": 50185,
-  "publicId": "13514",
+  "id": "13514",
+  "internalId": 50185,
   "name": "Cidade Universitária",
   "position": {
     "latitude": 38.750195,
     "longitude": -9.158911
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:35:57.000Z"
+  "updateDate": "2014-10-15T11:35:57.000Z",
+  "routes": [
+    "731"
+  ]
 }

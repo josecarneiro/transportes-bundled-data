@@ -1,11 +1,14 @@
 {
-  "id": 12320,
-  "publicId": "12320",
+  "id": "12320",
+  "internalId": 12320,
   "name": "Av. Doutor Alfredo Bensaúde",
   "position": {
     "latitude": 38.779063,
     "longitude": -9.116294
   },
   "visible": true,
-  "updateDate": "2012-12-13T16:25:32.000Z"
+  "updateDate": "2012-12-13T16:25:32.000Z",
+  "routes": [
+    "725"
+  ]
 }

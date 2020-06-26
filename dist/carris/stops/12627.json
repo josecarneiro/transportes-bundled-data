@@ -1,11 +1,16 @@
 {
-  "id": 12627,
-  "publicId": "12627",
+  "id": "12627",
+  "internalId": 12627,
   "name": "Portela - Avenida Da República",
   "position": {
     "latitude": 38.783939,
     "longitude": -9.109829
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:29:51.000Z"
+  "updateDate": "2014-10-15T11:29:51.000Z",
+  "routes": [
+    "210",
+    "722",
+    "728"
+  ]
 }

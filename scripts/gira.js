@@ -16,6 +16,7 @@ module.exports = async (path, { pretty = false } = {}) => {
     await ensureDirectoryExists(stationsBasePath);
     // List all stations
     const stations = await client.listStations();
+    stations.sort(({ id: a }, { id: b }) => a - b);
     const stationData = stations.map(
       ({ bikes, docks, ratio, status, updated, ...station }) => station
     );
@@ -25,7 +26,7 @@ module.exports = async (path, { pretty = false } = {}) => {
     // // const visibleStops = stops;
     // const visibleStops = stops.filter(({ visible }) => visible);
     // for (const stop of visibleStops) {
-    //   write(join(stopsBasePath, `${stop.publicId}.json`), stop, { pretty });
+    //   write(join(stopsBasePath, `${stop.id}.json`), stop, { pretty });
     // }
   };
 

@@ -1,11 +1,14 @@
 {
-  "id": 50385,
-  "publicId": "13207",
+  "id": "13207",
+  "internalId": 50385,
   "name": "Lg. Princesa",
   "position": {
     "latitude": 38.695504,
     "longitude": -9.215095
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "79B"
+  ]
 }

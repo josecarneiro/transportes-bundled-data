@@ -1,11 +1,14 @@
 {
-  "id": 8841,
-  "publicId": "8841",
+  "id": "8841",
+  "internalId": 8841,
   "name": "Alfragide",
   "position": {
     "latitude": 38.738112,
     "longitude": -9.212832
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:11:53.000Z"
+  "updateDate": "2018-02-20T10:11:53.000Z",
+  "routes": [
+    "754"
+  ]
 }

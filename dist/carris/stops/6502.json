@@ -1,11 +1,16 @@
 {
-  "id": 6502,
-  "publicId": "6502",
+  "id": "6502",
+  "internalId": 6502,
   "name": "Estefânia",
   "position": {
     "latitude": 38.732553,
     "longitude": -9.140991
   },
   "visible": true,
-  "updateDate": "2019-02-14T16:34:23.000Z"
+  "updateDate": "2019-02-14T16:34:23.000Z",
+  "routes": [
+    "720",
+    "726",
+    "767"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 8712,
-  "publicId": "8712",
+  "id": "8712",
+  "internalId": 8712,
   "name": "Estrada Das Oliveiras De Baixo",
   "position": {
     "latitude": 38.726255,
     "longitude": -9.196224
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:19:52.000Z"
+  "updateDate": "2008-12-05T18:19:52.000Z",
+  "routes": [
+    "724"
+  ]
 }

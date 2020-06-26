@@ -1,11 +1,14 @@
 {
-  "id": 7808,
-  "publicId": "7808",
+  "id": "7808",
+  "internalId": 7808,
   "name": "Estação Oriente",
   "position": {
     "latitude": 38.76799,
     "longitude": -9.100009
   },
   "visible": true,
-  "updateDate": "2013-08-12T17:37:18.000Z"
+  "updateDate": "2013-08-12T17:37:18.000Z",
+  "routes": [
+    "725"
+  ]
 }

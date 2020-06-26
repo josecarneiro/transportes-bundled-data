@@ -1,11 +1,15 @@
 {
-  "id": 50350,
-  "publicId": "6031",
+  "id": "6031",
+  "internalId": 50350,
   "name": "Vale Castanheira",
   "position": {
     "latitude": 38.780586,
     "longitude": -9.148197
   },
   "visible": true,
-  "updateDate": "2019-10-30T16:09:14.000Z"
+  "updateDate": "2019-10-30T16:09:14.000Z",
+  "routes": [
+    "40B",
+    "41B"
+  ]
 }

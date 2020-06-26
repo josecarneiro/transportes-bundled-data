@@ -1,11 +1,14 @@
 {
-  "id": 11801,
-  "publicId": "11801",
+  "id": "11801",
+  "internalId": 11801,
   "name": "Estádio Da Tapadinha",
   "position": {
     "latitude": 38.709681,
     "longitude": -9.179457
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:44:45.000Z"
+  "updateDate": "2008-12-05T18:44:45.000Z",
+  "routes": [
+    "724"
+  ]
 }

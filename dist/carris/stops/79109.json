@@ -1,11 +1,15 @@
 {
-  "id": 13573,
-  "publicId": "79109",
+  "id": "79109",
+  "internalId": 13573,
   "name": "Parque Nações Norte",
   "position": {
     "latitude": 38.793478,
     "longitude": -9.097765
   },
   "visible": true,
-  "updateDate": "2019-04-15T16:48:13.000Z"
+  "updateDate": "2019-04-15T16:48:13.000Z",
+  "routes": [
+    "708",
+    "26B"
+  ]
 }

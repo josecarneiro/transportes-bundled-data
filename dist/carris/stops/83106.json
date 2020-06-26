@@ -1,11 +1,15 @@
 {
-  "id": 17570,
-  "publicId": "83106",
+  "id": "83106",
+  "internalId": 17570,
   "name": "Bº Madre Deus",
   "position": {
     "latitude": 38.731925,
     "longitude": -9.114974
   },
   "visible": true,
-  "updateDate": "2017-04-28T09:58:21.000Z"
+  "updateDate": "2017-04-28T09:58:21.000Z",
+  "routes": [
+    "742",
+    "759"
+  ]
 }

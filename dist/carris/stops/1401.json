@@ -1,11 +1,15 @@
 {
-  "id": 1401,
-  "publicId": "1401",
+  "id": "1401",
+  "internalId": 1401,
   "name": "Igreja De São Sebastião",
   "position": {
     "latitude": 38.731809,
     "longitude": -9.151616
   },
   "visible": true,
-  "updateDate": "2014-03-03T11:23:01.000Z"
+  "updateDate": "2014-03-03T11:23:01.000Z",
+  "routes": [
+    "726",
+    "746"
+  ]
 }

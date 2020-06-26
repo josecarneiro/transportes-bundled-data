@@ -1,11 +1,15 @@
 {
-  "id": 801,
-  "publicId": "801",
+  "id": "801",
+  "internalId": 801,
   "name": "Martim Moniz",
   "position": {
     "latitude": 38.715277,
     "longitude": -9.136012
   },
   "visible": true,
-  "updateDate": "2018-01-29T12:19:11.000Z"
+  "updateDate": "2018-01-29T12:19:11.000Z",
+  "routes": [
+    "12E",
+    "28E"
+  ]
 }

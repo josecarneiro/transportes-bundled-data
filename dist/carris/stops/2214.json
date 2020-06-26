@@ -1,11 +1,14 @@
 {
-  "id": 50228,
-  "publicId": "2214",
+  "id": "2214",
+  "internalId": 50228,
   "name": "Vale Formoso De Cima",
   "position": {
     "latitude": 38.749783,
     "longitude": -9.103089
   },
   "visible": true,
-  "updateDate": "2018-01-31T11:39:50.000Z"
+  "updateDate": "2018-01-31T11:39:50.000Z",
+  "routes": [
+    "749"
+  ]
 }

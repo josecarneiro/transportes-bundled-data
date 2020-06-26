@@ -1,11 +1,17 @@
 {
-  "id": 10014,
-  "publicId": "10014",
+  "id": "10014",
+  "internalId": 10014,
   "name": "Rua Santana À Lapa",
   "position": {
     "latitude": 38.710835,
     "longitude": -9.161372
   },
   "visible": true,
-  "updateDate": "2015-08-11T15:51:42.000Z"
+  "updateDate": "2015-08-11T15:51:42.000Z",
+  "routes": [
+    "714",
+    "773",
+    "774",
+    "25E"
+  ]
 }

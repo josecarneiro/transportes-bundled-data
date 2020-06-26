@@ -1,11 +1,15 @@
 {
-  "id": 8826,
-  "publicId": "8826",
+  "id": "8826",
+  "internalId": 8826,
   "name": "Pina Manique",
   "position": {
     "latitude": 38.735625,
     "longitude": -9.203037
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:59:35.000Z"
+  "updateDate": "2012-12-13T17:59:35.000Z",
+  "routes": [
+    "711",
+    "724"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 50409,
-  "publicId": "8922",
+  "id": "8922",
+  "internalId": 50409,
   "name": "R. João Nascimento Costa",
   "position": {
     "latitude": 38.737293,
     "longitude": -9.125477
   },
   "visible": true,
-  "updateDate": "2019-07-19T15:54:04.000Z"
+  "updateDate": "2019-07-19T15:54:04.000Z",
+  "routes": [
+    "34B"
+  ]
 }

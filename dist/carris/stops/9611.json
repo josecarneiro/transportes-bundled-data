@@ -1,11 +1,16 @@
 {
-  "id": 50322,
-  "publicId": "9611",
+  "id": "9611",
+  "internalId": 50322,
   "name": "Mosteiro Dos Jerónimos",
   "position": {
     "latitude": 38.69795,
     "longitude": -9.204519
   },
   "visible": true,
-  "updateDate": "2019-07-25T11:24:03.000Z"
+  "updateDate": "2019-07-25T11:24:03.000Z",
+  "routes": [
+    "751",
+    "15E",
+    "18E"
+  ]
 }

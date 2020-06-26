@@ -1,11 +1,16 @@
 {
-  "id": 10211,
-  "publicId": "10211",
+  "id": "10211",
+  "internalId": 10211,
   "name": "Rua Presidente Arriaga",
   "position": {
     "latitude": 38.70448,
     "longitude": -9.164187
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:39:12.000Z"
+  "updateDate": "2008-12-05T16:39:12.000Z",
+  "routes": [
+    "713",
+    "714",
+    "727"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 12501,
-  "publicId": "12501",
+  "id": "12501",
+  "internalId": 12501,
   "name": "Fábrica Braço Prata",
   "position": {
     "latitude": 38.744621,
     "longitude": -9.101017
   },
   "visible": true,
-  "updateDate": "2020-05-04T16:00:59.000Z"
+  "updateDate": "2020-05-04T16:00:59.000Z",
+  "routes": [
+    "210",
+    "728",
+    "781"
+  ]
 }

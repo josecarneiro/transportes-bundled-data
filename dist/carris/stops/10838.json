@@ -1,11 +1,15 @@
 {
-  "id": 10838,
-  "publicId": "10838",
+  "id": "10838",
+  "internalId": 10838,
   "name": "Rua Carolina Michaelis",
   "position": {
     "latitude": 38.744487,
     "longitude": -9.192036
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:04:56.000Z"
+  "updateDate": "2008-12-05T18:04:56.000Z",
+  "routes": [
+    "754",
+    "764"
+  ]
 }

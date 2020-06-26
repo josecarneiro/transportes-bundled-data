@@ -1,11 +1,16 @@
 {
-  "id": 12508,
-  "publicId": "12508",
+  "id": "12508",
+  "internalId": 12508,
   "name": "Rua Do Açúcar",
   "position": {
     "latitude": 38.736915,
     "longitude": -9.103825
   },
   "visible": true,
-  "updateDate": "2009-02-23T16:43:23.000Z"
+  "updateDate": "2009-02-23T16:43:23.000Z",
+  "routes": [
+    "210",
+    "718",
+    "728"
+  ]
 }

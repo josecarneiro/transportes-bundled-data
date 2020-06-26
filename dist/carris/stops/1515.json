@@ -1,11 +1,12 @@
 {
-  "id": 50042,
-  "publicId": "1515",
+  "id": "1515",
+  "internalId": 50042,
   "name": "Rua Ramalho Ortigão",
   "position": {
     "latitude": 38.736413,
     "longitude": -9.160954
   },
   "visible": true,
-  "updateDate": "2014-10-15T16:27:59.000Z"
+  "updateDate": "2014-10-15T16:27:59.000Z",
+  "routes": []
 }

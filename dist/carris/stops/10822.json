@@ -1,11 +1,15 @@
 {
-  "id": 10822,
-  "publicId": "10822",
+  "id": "10822",
+  "internalId": 10822,
   "name": "Calhariz (Rua Ribeiro Reis)",
   "position": {
     "latitude": 38.746268,
     "longitude": -9.189821
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:09:12.000Z"
+  "updateDate": "2014-10-15T11:09:12.000Z",
+  "routes": [
+    "754",
+    "764"
+  ]
 }

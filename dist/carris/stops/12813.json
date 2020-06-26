@@ -1,11 +1,16 @@
 {
-  "id": 12813,
-  "publicId": "12813",
+  "id": "12813",
+  "internalId": 12813,
   "name": "Estação Da Pontinha",
   "position": {
     "latitude": 38.760328,
     "longitude": -9.19414
   },
   "visible": true,
-  "updateDate": "2020-03-06T14:00:03.000Z"
+  "updateDate": "2020-03-06T14:00:03.000Z",
+  "routes": [
+    "726",
+    "729",
+    "768"
+  ]
 }

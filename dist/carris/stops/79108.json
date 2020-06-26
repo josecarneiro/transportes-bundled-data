@@ -1,11 +1,15 @@
 {
-  "id": 50131,
-  "publicId": "79108",
+  "id": "79108",
+  "internalId": 50131,
   "name": "Rossio De Levante",
   "position": {
     "latitude": 38.783211,
     "longitude": -9.09513
   },
   "visible": true,
-  "updateDate": "2018-02-20T23:56:08.000Z"
+  "updateDate": "2018-02-20T23:56:08.000Z",
+  "routes": [
+    "708",
+    "26B"
+  ]
 }

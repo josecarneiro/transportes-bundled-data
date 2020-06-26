@@ -1,11 +1,14 @@
 {
-  "id": 50207,
-  "publicId": "11622",
+  "id": "11622",
+  "internalId": 50207,
   "name": "Largo Do Castelo",
   "position": {
     "latitude": 38.791734,
     "longitude": -9.14733
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:43:04.000Z"
+  "updateDate": "2012-12-13T17:43:04.000Z",
+  "routes": [
+    "40B"
+  ]
 }

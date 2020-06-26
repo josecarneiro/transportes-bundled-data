@@ -1,11 +1,14 @@
 {
-  "id": 18711,
-  "publicId": "18711",
+  "id": "18711",
+  "internalId": 18711,
   "name": "Estrada Da Portela",
   "position": {
     "latitude": 38.720269,
     "longitude": -9.219459
   },
   "visible": true,
-  "updateDate": "2014-10-15T10:44:26.000Z"
+  "updateDate": "2014-10-15T10:44:26.000Z",
+  "routes": [
+    "714"
+  ]
 }

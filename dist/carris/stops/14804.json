@@ -1,11 +1,16 @@
 {
-  "id": 14804,
-  "publicId": "14804",
+  "id": "14804",
+  "internalId": 14804,
   "name": "Graça",
   "position": {
     "latitude": 38.717268,
     "longitude": -9.129897
   },
   "visible": true,
-  "updateDate": "2017-03-14T16:43:08.000Z"
+  "updateDate": "2017-03-14T16:43:08.000Z",
+  "routes": [
+    "734",
+    "797",
+    "28E"
+  ]
 }

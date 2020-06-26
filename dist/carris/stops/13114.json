@@ -1,11 +1,16 @@
 {
-  "id": 13114,
-  "publicId": "13114",
+  "id": "13114",
+  "internalId": 13114,
   "name": "Esc. Paula Vicente",
   "position": {
     "latitude": 38.70585,
     "longitude": -9.20229
   },
   "visible": true,
-  "updateDate": "2019-01-17T11:31:17.000Z"
+  "updateDate": "2019-01-17T11:31:17.000Z",
+  "routes": [
+    "727",
+    "729",
+    "79B"
+  ]
 }

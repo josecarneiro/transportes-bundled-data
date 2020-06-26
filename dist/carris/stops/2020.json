@@ -1,11 +1,17 @@
 {
-  "id": 2020,
-  "publicId": "2020",
+  "id": "2020",
+  "internalId": 2020,
   "name": "Estação Entrecampos",
   "position": {
     "latitude": 38.74457,
     "longitude": -9.147622
   },
   "visible": true,
-  "updateDate": "2018-11-02T11:58:39.000Z"
+  "updateDate": "2018-11-02T11:58:39.000Z",
+  "routes": [
+    "207",
+    "727",
+    "738",
+    "754"
+  ]
 }

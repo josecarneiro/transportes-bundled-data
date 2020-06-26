@@ -1,11 +1,15 @@
 {
-  "id": 2121,
-  "publicId": "2121",
+  "id": "2121",
+  "internalId": 2121,
   "name": "R. Paraíso",
   "position": {
     "latitude": 38.71399,
     "longitude": -9.124358
   },
   "visible": true,
-  "updateDate": "2018-04-03T14:54:42.000Z"
+  "updateDate": "2018-04-03T14:54:42.000Z",
+  "routes": [
+    "712",
+    "734"
+  ]
 }

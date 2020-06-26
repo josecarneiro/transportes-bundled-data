@@ -1,11 +1,14 @@
 {
-  "id": 50126,
-  "publicId": "79103",
+  "id": "79103",
+  "internalId": 50126,
   "name": "Rotunda Das Oliveiras",
   "position": {
     "latitude": 38.78067,
     "longitude": -9.09643
   },
   "visible": true,
-  "updateDate": "2014-10-16T11:37:36.000Z"
+  "updateDate": "2014-10-16T11:37:36.000Z",
+  "routes": [
+    "708"
+  ]
 }

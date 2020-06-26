@@ -1,11 +1,15 @@
 {
-  "id": 8419,
-  "publicId": "8419",
+  "id": "8419",
+  "internalId": 8419,
   "name": "Centro Comercial Dos Olivais",
   "position": {
     "latitude": 38.763031,
     "longitude": -9.114068
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:55.000Z"
+  "updateDate": "2010-12-02T17:19:55.000Z",
+  "routes": [
+    "708",
+    "759"
+  ]
 }

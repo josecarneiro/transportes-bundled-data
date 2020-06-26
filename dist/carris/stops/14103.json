@@ -1,11 +1,18 @@
 {
-  "id": 14103,
-  "publicId": "14103",
+  "id": "14103",
+  "internalId": 14103,
   "name": "Serra Luz",
   "position": {
     "latitude": 38.772223,
     "longitude": -9.190734
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:29:52.000Z"
+  "updateDate": "2019-02-18T12:29:52.000Z",
+  "routes": [
+    "202",
+    "726",
+    "729",
+    "747",
+    "768"
+  ]
 }

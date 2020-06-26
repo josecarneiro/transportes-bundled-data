@@ -1,11 +1,17 @@
 {
-  "id": 12406,
-  "publicId": "12406",
+  "id": "12406",
+  "internalId": 12406,
   "name": "Restelo (Torres) - R. Antão Go",
   "position": {
     "latitude": 38.709346,
     "longitude": -9.211566
   },
   "visible": true,
-  "updateDate": "2019-01-17T11:29:06.000Z"
+  "updateDate": "2019-01-17T11:29:06.000Z",
+  "routes": [
+    "727",
+    "728",
+    "732",
+    "79B"
+  ]
 }

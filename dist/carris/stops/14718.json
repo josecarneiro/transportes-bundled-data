@@ -1,11 +1,12 @@
 {
-  "id": 50364,
-  "publicId": "14718",
+  "id": "14718",
+  "internalId": 50364,
   "name": "Av. Cidade De Bratislava",
   "position": {
     "latitude": 38.749769,
     "longitude": -9.119735
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": []
 }

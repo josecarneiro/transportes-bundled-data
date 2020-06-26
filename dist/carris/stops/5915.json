@@ -1,11 +1,16 @@
 {
-  "id": 5915,
-  "publicId": "5915",
+  "id": "5915",
+  "internalId": 5915,
   "name": "Lumiar - Av. Padre Cruz",
   "position": {
     "latitude": 38.774496,
     "longitude": -9.163784
   },
   "visible": true,
-  "updateDate": "2019-02-14T12:55:43.000Z"
+  "updateDate": "2019-02-14T12:55:43.000Z",
+  "routes": [
+    "703",
+    "43B",
+    "44B"
+  ]
 }

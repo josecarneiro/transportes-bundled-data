@@ -1,11 +1,15 @@
 {
-  "id": 6127,
-  "publicId": "6127",
+  "id": "6127",
+  "internalId": 6127,
   "name": "Rua Artilharia Um",
   "position": {
     "latitude": 38.725911,
     "longitude": -9.157439
   },
   "visible": true,
-  "updateDate": "2014-03-03T12:39:31.000Z"
+  "updateDate": "2014-03-03T12:39:31.000Z",
+  "routes": [
+    "702",
+    "712"
+  ]
 }

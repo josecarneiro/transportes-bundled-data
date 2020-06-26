@@ -1,11 +1,18 @@
 {
-  "id": 12603,
-  "publicId": "12603",
+  "id": "12603",
+  "internalId": 12603,
   "name": "Qta Do Morgado",
   "position": {
     "latitude": 38.779376,
     "longitude": -9.120132
   },
   "visible": true,
-  "updateDate": "2012-12-14T18:16:50.000Z"
+  "updateDate": "2012-12-14T18:16:50.000Z",
+  "routes": [
+    "705",
+    "725",
+    "781",
+    "783",
+    "29B"
+  ]
 }

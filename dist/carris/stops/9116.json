@@ -1,11 +1,15 @@
 {
-  "id": 9116,
-  "publicId": "9116",
+  "id": "9116",
+  "internalId": 9116,
   "name": "Rua Do Mato Grosso",
   "position": {
     "latitude": 38.719524,
     "longitude": -9.122865
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:56:33.000Z"
+  "updateDate": "2008-12-05T16:56:33.000Z",
+  "routes": [
+    "206",
+    "735"
+  ]
 }

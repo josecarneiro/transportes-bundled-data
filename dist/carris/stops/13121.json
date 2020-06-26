@@ -1,11 +1,14 @@
 {
-  "id": 13121,
-  "publicId": "13121",
+  "id": "13121",
+  "internalId": 13121,
   "name": "Rua Pero De Alenquer",
   "position": {
     "latitude": 38.703155,
     "longitude": -9.211198
   },
   "visible": true,
-  "updateDate": "2011-09-14T15:10:08.000Z"
+  "updateDate": "2011-09-14T15:10:08.000Z",
+  "routes": [
+    "714"
+  ]
 }

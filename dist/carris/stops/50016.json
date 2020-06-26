@@ -1,11 +1,14 @@
 {
-  "id": 50016,
-  "publicId": "50016",
+  "id": "50016",
+  "internalId": 50016,
   "name": "Esc. Sec. Telheiras",
   "position": {
     "latitude": 38.76001,
     "longitude": -9.174402
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:39:20.000Z"
+  "updateDate": "2019-02-18T12:39:20.000Z",
+  "routes": [
+    "767"
+  ]
 }

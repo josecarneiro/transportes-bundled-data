@@ -1,11 +1,16 @@
 {
-  "id": 203,
-  "publicId": "203",
+  "id": "203",
+  "internalId": 203,
   "name": "Av. Roma / Av. Eua",
   "position": {
     "latitude": 38.750084,
     "longitude": -9.142147
   },
   "visible": true,
-  "updateDate": "2019-02-12T12:05:25.000Z"
+  "updateDate": "2019-02-12T12:05:25.000Z",
+  "routes": [
+    "206",
+    "735",
+    "767"
+  ]
 }

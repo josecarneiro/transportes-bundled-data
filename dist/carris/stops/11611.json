@@ -1,11 +1,14 @@
 {
-  "id": 11611,
-  "publicId": "11611",
+  "id": "11611",
+  "internalId": 11611,
   "name": "Qta Dos Balsares",
   "position": {
     "latitude": 38.793383,
     "longitude": -9.153137
   },
   "visible": true,
-  "updateDate": "2010-06-01T09:03:47.000Z"
+  "updateDate": "2010-06-01T09:03:47.000Z",
+  "routes": [
+    "40B"
+  ]
 }

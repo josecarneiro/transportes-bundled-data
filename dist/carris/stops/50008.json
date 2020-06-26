@@ -1,11 +1,14 @@
 {
-  "id": 50008,
-  "publicId": "50008",
+  "id": "50008",
+  "internalId": 50008,
   "name": "R. Prof. Vieira Almeida",
   "position": {
     "latitude": 38.76458,
     "longitude": -9.166564
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:38:10.000Z"
+  "updateDate": "2019-02-18T12:38:10.000Z",
+  "routes": [
+    "747"
+  ]
 }

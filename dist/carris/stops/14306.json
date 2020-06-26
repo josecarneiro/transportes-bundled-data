@@ -1,11 +1,16 @@
 {
-  "id": 14306,
-  "publicId": "14306",
+  "id": "14306",
+  "internalId": 14306,
   "name": "Alameda Fernão Lopes - Estação",
   "position": {
     "latitude": 38.715005,
     "longitude": -9.229437
   },
   "visible": true,
-  "updateDate": "2012-12-13T16:04:03.000Z"
+  "updateDate": "2012-12-13T16:04:03.000Z",
+  "routes": [
+    "201",
+    "748",
+    "751"
+  ]
 }

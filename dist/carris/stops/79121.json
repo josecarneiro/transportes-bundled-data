@@ -1,11 +1,15 @@
 {
-  "id": 50302,
-  "publicId": "79121",
+  "id": "79121",
+  "internalId": 50302,
   "name": "Via Oriente",
   "position": {
     "latitude": 38.791645,
     "longitude": -9.099205
   },
   "visible": true,
-  "updateDate": "2018-02-21T00:00:19.000Z"
+  "updateDate": "2018-02-21T00:00:19.000Z",
+  "routes": [
+    "708",
+    "26B"
+  ]
 }

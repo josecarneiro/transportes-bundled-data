@@ -1,6 +1,6 @@
 {
-  "id": 60,
-  "number": "201",
+  "id": "201",
+  "internalId": 60,
   "name": "Cais Sodré - Linda-a-Velha",
   "visible": true,
   "creationDate": "2020-05-20T10:03:32.000Z",
@@ -2134,8 +2134,8 @@
               "order": 1,
               "distance": 264,
               "stop": {
-                "id": 3807,
-                "publicId": "3807",
+                "id": "3807",
+                "internalId": 3807,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.705582,
@@ -2150,8 +2150,8 @@
               "order": 2,
               "distance": 390,
               "stop": {
-                "id": 3802,
-                "publicId": "3802",
+                "id": "3802",
+                "internalId": 3802,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706332,
@@ -2166,8 +2166,8 @@
               "order": 3,
               "distance": 547,
               "stop": {
-                "id": 7102,
-                "publicId": "7102",
+                "id": "7102",
+                "internalId": 7102,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706414,
@@ -2182,8 +2182,8 @@
               "order": 4,
               "distance": 632,
               "stop": {
-                "id": 3902,
-                "publicId": "3902",
+                "id": "3902",
+                "internalId": 3902,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706142,
@@ -2198,8 +2198,8 @@
               "order": 5,
               "distance": 458,
               "stop": {
-                "id": 3906,
-                "publicId": "3906",
+                "id": "3906",
+                "internalId": 3906,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.70367,
@@ -2214,8 +2214,8 @@
               "order": 6,
               "distance": 563,
               "stop": {
-                "id": 10202,
-                "publicId": "10202",
+                "id": "10202",
+                "internalId": 10202,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703447,
@@ -2230,8 +2230,8 @@
               "order": 7,
               "distance": 344,
               "stop": {
-                "id": 4004,
-                "publicId": "4004",
+                "id": "4004",
+                "internalId": 4004,
                 "name": "Alcântara - Av. 24 De Julho",
                 "position": {
                   "latitude": 38.704304,
@@ -2246,8 +2246,8 @@
               "order": 8,
               "distance": 433,
               "stop": {
-                "id": 12121,
-                "publicId": "12121",
+                "id": "12121",
+                "internalId": 12121,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.704779,
@@ -2262,8 +2262,8 @@
               "order": 9,
               "distance": 388,
               "stop": {
-                "id": 12108,
-                "publicId": "12108",
+                "id": "12108",
+                "internalId": 12108,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.701991,
@@ -2278,8 +2278,8 @@
               "order": 10,
               "distance": 383,
               "stop": {
-                "id": 9504,
-                "publicId": "9504",
+                "id": "9504",
+                "internalId": 9504,
                 "name": "R. Junqueira (Centro Congresso",
                 "position": {
                   "latitude": 38.699786,
@@ -2294,8 +2294,8 @@
               "order": 11,
               "distance": 303,
               "stop": {
-                "id": 9506,
-                "publicId": "9506",
+                "id": "9506",
+                "internalId": 9506,
                 "name": "Hosp. Egas Moniz",
                 "position": {
                   "latitude": 38.698464,
@@ -2310,8 +2310,8 @@
               "order": 12,
               "distance": 376,
               "stop": {
-                "id": 9508,
-                "publicId": "9508",
+                "id": "9508",
+                "internalId": 9508,
                 "name": "Rua Pinto Ferreira",
                 "position": {
                   "latitude": 38.697806,
@@ -2326,8 +2326,8 @@
               "order": 13,
               "distance": 250,
               "stop": {
-                "id": 4114,
-                "publicId": "4114",
+                "id": "4114",
+                "internalId": 4114,
                 "name": "Altinho (Maat)",
                 "position": {
                   "latitude": 38.697512,
@@ -2342,8 +2342,8 @@
               "order": 14,
               "distance": 504,
               "stop": {
-                "id": 4110,
-                "publicId": "4110",
+                "id": "4110",
+                "internalId": 4110,
                 "name": "Belém",
                 "position": {
                   "latitude": 38.697483,
@@ -2358,8 +2358,8 @@
               "order": 15,
               "distance": 265,
               "stop": {
-                "id": 9604,
-                "publicId": "9604",
+                "id": "9604",
+                "internalId": 9604,
                 "name": "Mosteiro Jerónimos",
                 "position": {
                   "latitude": 38.697725,
@@ -2374,8 +2374,8 @@
               "order": 16,
               "distance": 443,
               "stop": {
-                "id": 9608,
-                "publicId": "9608",
+                "id": "9608",
+                "internalId": 9608,
                 "name": "Rua Dos Jerónimos",
                 "position": {
                   "latitude": 38.699801,
@@ -2390,8 +2390,8 @@
               "order": 17,
               "distance": 414,
               "stop": {
-                "id": 9614,
-                "publicId": "9614",
+                "id": "9614",
+                "internalId": 9614,
                 "name": "Estádio - Av. Do Restelo",
                 "position": {
                   "latitude": 38.700527,
@@ -2406,8 +2406,8 @@
               "order": 18,
               "distance": 225,
               "stop": {
-                "id": 9714,
-                "publicId": "9714",
+                "id": "9714",
+                "internalId": 9714,
                 "name": "Av. Do Restelo",
                 "position": {
                   "latitude": 38.699831,
@@ -2422,8 +2422,8 @@
               "order": 19,
               "distance": 579,
               "stop": {
-                "id": 9712,
-                "publicId": "9712",
+                "id": "9712",
+                "internalId": 9712,
                 "name": "Av. Dom Vasco Da Gama",
                 "position": {
                   "latitude": 38.700965,
@@ -2438,8 +2438,8 @@
               "order": 20,
               "distance": 280,
               "stop": {
-                "id": 9709,
-                "publicId": "9709",
+                "id": "9709",
+                "internalId": 9709,
                 "name": "Rua Do Alto Do Duque",
                 "position": {
                   "latitude": 38.701017,
@@ -2454,8 +2454,8 @@
               "order": 21,
               "distance": 281,
               "stop": {
-                "id": 4205,
-                "publicId": "4205",
+                "id": "4205",
+                "internalId": 4205,
                 "name": "Rua Jerónimo Osório",
                 "position": {
                   "latitude": 38.699832,
@@ -2470,8 +2470,8 @@
               "order": 22,
               "distance": 309,
               "stop": {
-                "id": 4207,
-                "publicId": "4207",
+                "id": "4207",
+                "internalId": 4207,
                 "name": "Algés",
                 "position": {
                   "latitude": 38.699208,
@@ -2486,8 +2486,8 @@
               "order": 23,
               "distance": 271,
               "stop": {
-                "id": 4202,
-                "publicId": "4202",
+                "id": "4202",
+                "internalId": 4202,
                 "name": "Algés - Mercado",
                 "position": {
                   "latitude": 38.701501,
@@ -2502,8 +2502,8 @@
               "order": 24,
               "distance": 240,
               "stop": {
-                "id": 4224,
-                "publicId": "4224",
+                "id": "4224",
+                "internalId": 4224,
                 "name": "Rua Latino Coelho",
                 "position": {
                   "latitude": 38.703171,
@@ -2518,8 +2518,8 @@
               "order": 25,
               "distance": 250,
               "stop": {
-                "id": 18404,
-                "publicId": "18404",
+                "id": "18404",
+                "internalId": 18404,
                 "name": "Av. Bombeiros De Algés-Cinema",
                 "position": {
                   "latitude": 38.705295,
@@ -2534,8 +2534,8 @@
               "order": 26,
               "distance": 540,
               "stop": {
-                "id": 18402,
-                "publicId": "18402",
+                "id": "18402",
+                "internalId": 18402,
                 "name": "Av. Bombeiros De Algés",
                 "position": {
                   "latitude": 38.707337,
@@ -2550,8 +2550,8 @@
               "order": 27,
               "distance": 242,
               "stop": {
-                "id": 14312,
-                "publicId": "14312",
+                "id": "14312",
+                "internalId": 14312,
                 "name": "Escola Preparatória Miraflores",
                 "position": {
                   "latitude": 38.711236,
@@ -2566,8 +2566,8 @@
               "order": 28,
               "distance": 265,
               "stop": {
-                "id": 14310,
-                "publicId": "14310",
+                "id": "14310",
+                "internalId": 14310,
                 "name": "Miraflores",
                 "position": {
                   "latitude": 38.713311,
@@ -2582,8 +2582,8 @@
               "order": 29,
               "distance": 284,
               "stop": {
-                "id": 14308,
-                "publicId": "14308",
+                "id": "14308",
+                "internalId": 14308,
                 "name": "Miraflores Norte",
                 "position": {
                   "latitude": 38.714244,
@@ -2598,8 +2598,8 @@
               "order": 30,
               "distance": 195,
               "stop": {
-                "id": 14306,
-                "publicId": "14306",
+                "id": "14306",
+                "internalId": 14306,
                 "name": "Alameda Fernão Lopes - Estação",
                 "position": {
                   "latitude": 38.715005,
@@ -2614,8 +2614,8 @@
               "order": 31,
               "distance": 428,
               "stop": {
-                "id": 50059,
-                "publicId": "94901",
+                "id": "94901",
+                "internalId": 50059,
                 "name": "Av. José Gomes Ferreira",
                 "position": {
                   "latitude": 38.714926,
@@ -2630,8 +2630,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 29368,
-                "publicId": "94904",
+                "id": "94904",
+                "internalId": 29368,
                 "name": "Linda A Velha",
                 "position": {
                   "latitude": 38.716029,
@@ -5156,8 +5156,8 @@
               "order": 1,
               "distance": 417,
               "stop": {
-                "id": 29367,
-                "publicId": "94903",
+                "id": "94903",
+                "internalId": 29367,
                 "name": "Linda A Velha",
                 "position": {
                   "latitude": 38.715833,
@@ -5172,8 +5172,8 @@
               "order": 2,
               "distance": 209,
               "stop": {
-                "id": 50066,
-                "publicId": "94902",
+                "id": "94902",
+                "internalId": 50066,
                 "name": "Av. José Gomes Ferreira",
                 "position": {
                   "latitude": 38.714856,
@@ -5188,8 +5188,8 @@
               "order": 3,
               "distance": 186,
               "stop": {
-                "id": 14305,
-                "publicId": "14305",
+                "id": "14305",
+                "internalId": 14305,
                 "name": "Alameda Fernão Lopes - Estação",
                 "position": {
                   "latitude": 38.714636,
@@ -5204,8 +5204,8 @@
               "order": 4,
               "distance": 246,
               "stop": {
-                "id": 14307,
-                "publicId": "14307",
+                "id": "14307",
+                "internalId": 14307,
                 "name": "Miraflores Norte",
                 "position": {
                   "latitude": 38.714145,
@@ -5220,8 +5220,8 @@
               "order": 5,
               "distance": 268,
               "stop": {
-                "id": 14309,
-                "publicId": "14309",
+                "id": "14309",
+                "internalId": 14309,
                 "name": "Miraflores",
                 "position": {
                   "latitude": 38.713332,
@@ -5236,8 +5236,8 @@
               "order": 6,
               "distance": 466,
               "stop": {
-                "id": 14311,
-                "publicId": "14311",
+                "id": "14311",
+                "internalId": 14311,
                 "name": "Escola Preparatória Miraflores",
                 "position": {
                   "latitude": 38.711082,
@@ -5252,8 +5252,8 @@
               "order": 7,
               "distance": 239,
               "stop": {
-                "id": 18401,
-                "publicId": "18401",
+                "id": "18401",
+                "internalId": 18401,
                 "name": "Av. Bombeiros De Algés",
                 "position": {
                   "latitude": 38.7077,
@@ -5268,8 +5268,8 @@
               "order": 8,
               "distance": 284,
               "stop": {
-                "id": 18403,
-                "publicId": "18403",
+                "id": "18403",
+                "internalId": 18403,
                 "name": "Av. Bombeiros De Algés-Cinema",
                 "position": {
                   "latitude": 38.705725,
@@ -5284,8 +5284,8 @@
               "order": 9,
               "distance": 241,
               "stop": {
-                "id": 4225,
-                "publicId": "4225",
+                "id": "4225",
+                "internalId": 4225,
                 "name": "Rua Latino Coelho",
                 "position": {
                   "latitude": 38.703206,
@@ -5300,8 +5300,8 @@
               "order": 10,
               "distance": 321,
               "stop": {
-                "id": 4213,
-                "publicId": "4213",
+                "id": "4213",
+                "internalId": 4213,
                 "name": "Algés - Mercado",
                 "position": {
                   "latitude": 38.701126,
@@ -5316,8 +5316,8 @@
               "order": 11,
               "distance": 289,
               "stop": {
-                "id": 4210,
-                "publicId": "4210",
+                "id": "4210",
+                "internalId": 4210,
                 "name": "Algés",
                 "position": {
                   "latitude": 38.6985,
@@ -5332,8 +5332,8 @@
               "order": 12,
               "distance": 359,
               "stop": {
-                "id": 4204,
-                "publicId": "4204",
+                "id": "4204",
+                "internalId": 4204,
                 "name": "Rua Jerónimo Osório",
                 "position": {
                   "latitude": 38.699363,
@@ -5348,8 +5348,8 @@
               "order": 13,
               "distance": 500,
               "stop": {
-                "id": 9710,
-                "publicId": "9710",
+                "id": "9710",
+                "internalId": 9710,
                 "name": "Rua Do Alto Do Duque",
                 "position": {
                   "latitude": 38.700882,
@@ -5364,8 +5364,8 @@
               "order": 14,
               "distance": 346,
               "stop": {
-                "id": 9711,
-                "publicId": "9711",
+                "id": "9711",
+                "internalId": 9711,
                 "name": "Av. Dom Vasco Da Gama",
                 "position": {
                   "latitude": 38.701402,
@@ -5380,8 +5380,8 @@
               "order": 15,
               "distance": 331,
               "stop": {
-                "id": 9713,
-                "publicId": "9713",
+                "id": "9713",
+                "internalId": 9713,
                 "name": "Av. Do Restelo",
                 "position": {
                   "latitude": 38.699615,
@@ -5396,8 +5396,8 @@
               "order": 16,
               "distance": 451,
               "stop": {
-                "id": 9613,
-                "publicId": "9613",
+                "id": "9613",
+                "internalId": 9613,
                 "name": "Estádio - Av. Do Restelo",
                 "position": {
                   "latitude": 38.700369,
@@ -5412,8 +5412,8 @@
               "order": 17,
               "distance": 365,
               "stop": {
-                "id": 9607,
-                "publicId": "9607",
+                "id": "9607",
+                "internalId": 9607,
                 "name": "Rua Dos Jerónimos",
                 "position": {
                   "latitude": 38.699795,
@@ -5428,8 +5428,8 @@
               "order": 18,
               "distance": 255,
               "stop": {
-                "id": 9603,
-                "publicId": "9603",
+                "id": "9603",
+                "internalId": 9603,
                 "name": "Mosteiro Dos Jerónimos",
                 "position": {
                   "latitude": 38.697258,
@@ -5444,8 +5444,8 @@
               "order": 19,
               "distance": 575,
               "stop": {
-                "id": 4109,
-                "publicId": "4109",
+                "id": "4109",
+                "internalId": 4109,
                 "name": "Belém",
                 "position": {
                   "latitude": 38.697127,
@@ -5460,8 +5460,8 @@
               "order": 20,
               "distance": 322,
               "stop": {
-                "id": 4115,
-                "publicId": "4115",
+                "id": "4115",
+                "internalId": 4115,
                 "name": "Altinho (Maat)",
                 "position": {
                   "latitude": 38.697367,
@@ -5476,8 +5476,8 @@
               "order": 21,
               "distance": 282,
               "stop": {
-                "id": 9507,
-                "publicId": "9507",
+                "id": "9507",
+                "internalId": 9507,
                 "name": "Rua Pinto Ferreira",
                 "position": {
                   "latitude": 38.697994,
@@ -5492,8 +5492,8 @@
               "order": 22,
               "distance": 363,
               "stop": {
-                "id": 9505,
-                "publicId": "9505",
+                "id": "9505",
+                "internalId": 9505,
                 "name": "Hosp. Egas Moniz",
                 "position": {
                   "latitude": 38.698591,
@@ -5508,8 +5508,8 @@
               "order": 23,
               "distance": 482,
               "stop": {
-                "id": 9503,
-                "publicId": "9503",
+                "id": "9503",
+                "internalId": 9503,
                 "name": "Rua Da Junqueira",
                 "position": {
                   "latitude": 38.700037,
@@ -5524,8 +5524,8 @@
               "order": 24,
               "distance": 378,
               "stop": {
-                "id": 12107,
-                "publicId": "12107",
+                "id": "12107",
+                "internalId": 12107,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.703077,
@@ -5540,8 +5540,8 @@
               "order": 25,
               "distance": 240,
               "stop": {
-                "id": 12101,
-                "publicId": "12101",
+                "id": "12101",
+                "internalId": 12101,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.704501,
@@ -5556,8 +5556,8 @@
               "order": 26,
               "distance": 609,
               "stop": {
-                "id": 4001,
-                "publicId": "4001",
+                "id": "4001",
+                "internalId": 4001,
                 "name": "Alcântara - Av. 24 De Julho",
                 "position": {
                   "latitude": 38.704145,
@@ -5572,8 +5572,8 @@
               "order": 27,
               "distance": 373,
               "stop": {
-                "id": 10201,
-                "publicId": "10201",
+                "id": "10201",
+                "internalId": 10201,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703363,
@@ -5588,8 +5588,8 @@
               "order": 28,
               "distance": 679,
               "stop": {
-                "id": 3905,
-                "publicId": "3905",
+                "id": "3905",
+                "internalId": 3905,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.703508,
@@ -5604,8 +5604,8 @@
               "order": 29,
               "distance": 509,
               "stop": {
-                "id": 3901,
-                "publicId": "3901",
+                "id": "3901",
+                "internalId": 3901,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706171,
@@ -5620,8 +5620,8 @@
               "order": 30,
               "distance": 428,
               "stop": {
-                "id": 7101,
-                "publicId": "7101",
+                "id": "7101",
+                "internalId": 7101,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706331,
@@ -5636,8 +5636,8 @@
               "order": 31,
               "distance": 290,
               "stop": {
-                "id": 3803,
-                "publicId": "3803",
+                "id": "3803",
+                "internalId": 3803,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706244,
@@ -5652,8 +5652,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 3807,
-                "publicId": "3807",
+                "id": "3807",
+                "internalId": 3807,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.705582,
@@ -5682,8 +5682,8 @@
               "order": 1,
               "distance": 9900,
               "stop": {
-                "id": 50456,
-                "publicId": "16",
+                "id": "16",
+                "internalId": 50456,
                 "name": "Miraflores",
                 "position": {
                   "latitude": 38.715136,
@@ -5698,8 +5698,8 @@
               "order": 2,
               "distance": 3200,
               "stop": {
-                "id": 5801,
-                "publicId": "5801",
+                "id": "5801",
+                "internalId": 5801,
                 "name": "Hipódromo",
                 "position": {
                   "latitude": 38.757615,
@@ -5714,8 +5714,8 @@
               "order": 3,
               "distance": 0,
               "stop": {
-                "id": 50453,
-                "publicId": "13",
+                "id": "13",
+                "internalId": 50453,
                 "name": "Musgueira",
                 "position": {
                   "latitude": 38.773671,
@@ -5737,8 +5737,8 @@
               "order": 1,
               "distance": 6100,
               "stop": {
-                "id": 50453,
-                "publicId": "13",
+                "id": "13",
+                "internalId": 50453,
                 "name": "Musgueira",
                 "position": {
                   "latitude": 38.773671,
@@ -5753,8 +5753,8 @@
               "order": 2,
               "distance": 4300,
               "stop": {
-                "id": 50454,
-                "publicId": "14",
+                "id": "14",
+                "internalId": 50454,
                 "name": "Cabo Ruivo",
                 "position": {
                   "latitude": 38.756252,
@@ -5769,8 +5769,8 @@
               "order": 3,
               "distance": 4500,
               "stop": {
-                "id": 5810,
-                "publicId": "5810",
+                "id": "5810",
+                "internalId": 5810,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.759728,
@@ -5785,8 +5785,8 @@
               "order": 4,
               "distance": 7000,
               "stop": {
-                "id": 2806,
-                "publicId": "2806",
+                "id": "2806",
+                "internalId": 2806,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.745077,
@@ -5801,8 +5801,8 @@
               "order": 5,
               "distance": 0,
               "stop": {
-                "id": 50456,
-                "publicId": "16",
+                "id": "16",
+                "internalId": 50456,
                 "name": "Miraflores",
                 "position": {
                   "latitude": 38.715136,

@@ -1,11 +1,15 @@
 {
-  "id": 2512,
-  "publicId": "2512",
+  "id": "2512",
+  "internalId": 2512,
   "name": "Rua Do Caribe",
   "position": {
     "latitude": 38.766221,
     "longitude": -9.097806
   },
   "visible": true,
-  "updateDate": "2009-02-23T16:33:59.000Z"
+  "updateDate": "2009-02-23T16:33:59.000Z",
+  "routes": [
+    "728",
+    "26B"
+  ]
 }

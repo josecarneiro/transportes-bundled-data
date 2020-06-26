@@ -1,6 +1,6 @@
 {
-  "id": 223,
-  "number": "44B",
+  "id": "44B",
+  "internalId": 223,
   "name": "Paço Lumiar (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -21,8 +21,8 @@
               "order": 7,
               "distance": 342,
               "stop": {
-                "id": 5940,
-                "publicId": "5940",
+                "id": "5940",
+                "internalId": 5940,
                 "name": "Lumiar",
                 "position": {
                   "latitude": 38.773077,
@@ -37,8 +37,8 @@
               "order": 8,
               "distance": 435,
               "stop": {
-                "id": 5904,
-                "publicId": "5904",
+                "id": "5904",
+                "internalId": 5904,
                 "name": "Qta. Conchas",
                 "position": {
                   "latitude": 38.770239,
@@ -53,8 +53,8 @@
               "order": 9,
               "distance": 604,
               "stop": {
-                "id": 5916,
-                "publicId": "5916",
+                "id": "5916",
+                "internalId": 5916,
                 "name": "R. Rainha D. Luísa Gusmão",
                 "position": {
                   "latitude": 38.767459,
@@ -69,8 +69,8 @@
               "order": 10,
               "distance": 343,
               "stop": {
-                "id": 5835,
-                "publicId": "5835",
+                "id": "5835",
+                "internalId": 5835,
                 "name": "Rua Manuel Marques",
                 "position": {
                   "latitude": 38.766313,
@@ -85,8 +85,8 @@
               "order": 11,
               "distance": 533,
               "stop": {
-                "id": 50389,
-                "publicId": "5812",
+                "id": "5812",
+                "internalId": 50389,
                 "name": "Hosp. Pulido Valente",
                 "position": {
                   "latitude": 38.765184,
@@ -101,8 +101,8 @@
               "order": 12,
               "distance": 109,
               "stop": {
-                "id": 5808,
-                "publicId": "5808",
+                "id": "5808",
+                "internalId": 5808,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.76094,
@@ -117,8 +117,8 @@
               "order": 13,
               "distance": 670,
               "stop": {
-                "id": 5809,
-                "publicId": "5809",
+                "id": "5809",
+                "internalId": 5809,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.76078,
@@ -133,8 +133,8 @@
               "order": 14,
               "distance": 480,
               "stop": {
-                "id": 5823,
-                "publicId": "5823",
+                "id": "5823",
+                "internalId": 5823,
                 "name": "Inst. Ricardo Jorge",
                 "position": {
                   "latitude": 38.762558,
@@ -149,8 +149,8 @@
               "order": 15,
               "distance": 203,
               "stop": {
-                "id": 50013,
-                "publicId": "50013",
+                "id": "50013",
+                "internalId": 50013,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761716,
@@ -165,8 +165,8 @@
               "order": 16,
               "distance": 302,
               "stop": {
-                "id": 50005,
-                "publicId": "50005",
+                "id": "50005",
+                "internalId": 50005,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.761099,
@@ -181,8 +181,8 @@
               "order": 17,
               "distance": 306,
               "stop": {
-                "id": 50011,
-                "publicId": "50011",
+                "id": "50011",
+                "internalId": 50011,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760578,
@@ -197,8 +197,8 @@
               "order": 18,
               "distance": 173,
               "stop": {
-                "id": 50007,
-                "publicId": "50007",
+                "id": "50007",
+                "internalId": 50007,
                 "name": "R. Prof. João Barreira",
                 "position": {
                   "latitude": 38.762457,
@@ -213,8 +213,8 @@
               "order": 19,
               "distance": 175,
               "stop": {
-                "id": 50098,
-                "publicId": "50004",
+                "id": "50004",
+                "internalId": 50098,
                 "name": "R. Prof. Queirós Veloso",
                 "position": {
                   "latitude": 38.764083,
@@ -229,8 +229,8 @@
               "order": 20,
               "distance": 229,
               "stop": {
-                "id": 50023,
-                "publicId": "50023",
+                "id": "50023",
+                "internalId": 50023,
                 "name": "Alto Faia Sul",
                 "position": {
                   "latitude": 38.765219,
@@ -245,8 +245,8 @@
               "order": 21,
               "distance": 144,
               "stop": {
-                "id": 50025,
-                "publicId": "50025",
+                "id": "50025",
+                "internalId": 50025,
                 "name": "R. Prof. Prado Coelho",
                 "position": {
                   "latitude": 38.767005,
@@ -261,8 +261,8 @@
               "order": 22,
               "distance": 296,
               "stop": {
-                "id": 50027,
-                "publicId": "50027",
+                "id": "50027",
+                "internalId": 50027,
                 "name": "R. Frederico George",
                 "position": {
                   "latitude": 38.767992,
@@ -277,8 +277,8 @@
               "order": 23,
               "distance": 620,
               "stop": {
-                "id": 50280,
-                "publicId": "50031",
+                "id": "50031",
+                "internalId": 50280,
                 "name": "R. Armindo Rodrigues",
                 "position": {
                   "latitude": 38.768106,
@@ -293,8 +293,8 @@
               "order": 24,
               "distance": 266,
               "stop": {
-                "id": 50113,
-                "publicId": "5956",
+                "id": "5956",
+                "internalId": 50113,
                 "name": "R. Fernando Lopes Graça",
                 "position": {
                   "latitude": 38.769262,
@@ -309,8 +309,8 @@
               "order": 25,
               "distance": 0,
               "stop": {
-                "id": 50112,
-                "publicId": "5955",
+                "id": "5955",
+                "internalId": 50112,
                 "name": "Paço Lumiar",
                 "position": {
                   "latitude": 38.77,
@@ -325,8 +325,8 @@
               "order": 2,
               "distance": 371,
               "stop": {
-                "id": 5949,
-                "publicId": "5949",
+                "id": "5949",
+                "internalId": 5949,
                 "name": "Paço Lumiar",
                 "position": {
                   "latitude": 38.771166,
@@ -341,8 +341,8 @@
               "order": 3,
               "distance": 272,
               "stop": {
-                "id": 5918,
-                "publicId": "5918",
+                "id": "5918",
+                "internalId": 5918,
                 "name": "Lg. Paço",
                 "position": {
                   "latitude": 38.773288,
@@ -357,8 +357,8 @@
               "order": 4,
               "distance": 336,
               "stop": {
-                "id": 5919,
-                "publicId": "5919",
+                "id": "5919",
+                "internalId": 5919,
                 "name": "Estr. Lumiar",
                 "position": {
                   "latitude": 38.77397,
@@ -373,8 +373,8 @@
               "order": 5,
               "distance": 181,
               "stop": {
-                "id": 5917,
-                "publicId": "5917",
+                "id": "5917",
+                "internalId": 5917,
                 "name": "Igreja Lumiar",
                 "position": {
                   "latitude": 38.774837,
@@ -389,8 +389,8 @@
               "order": 6,
               "distance": 329,
               "stop": {
-                "id": 5915,
-                "publicId": "5915",
+                "id": "5915",
+                "internalId": 5915,
                 "name": "Lumiar - Av. Padre Cruz",
                 "position": {
                   "latitude": 38.774496,
@@ -405,8 +405,8 @@
               "order": 1,
               "distance": 130,
               "stop": {
-                "id": 50112,
-                "publicId": "5955",
+                "id": "5955",
+                "internalId": 50112,
                 "name": "Paço Lumiar",
                 "position": {
                   "latitude": 38.77,

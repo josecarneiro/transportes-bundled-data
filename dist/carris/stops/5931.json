@@ -1,11 +1,15 @@
 {
-  "id": 5931,
-  "publicId": "5931",
+  "id": "5931",
+  "internalId": 5931,
   "name": "Ameixoeira",
   "position": {
     "latitude": 38.78208,
     "longitude": -9.158746
   },
   "visible": true,
-  "updateDate": "2019-02-14T12:59:25.000Z"
+  "updateDate": "2019-02-14T12:59:25.000Z",
+  "routes": [
+    "703",
+    "40B"
+  ]
 }

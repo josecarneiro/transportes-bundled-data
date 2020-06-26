@@ -1,11 +1,12 @@
 {
-  "id": 50420,
-  "publicId": "13624",
+  "id": "13624",
+  "internalId": 50420,
   "name": "R. Virgílio Correia",
   "position": {
     "latitude": 38.754846,
     "longitude": -9.173742
   },
   "visible": true,
-  "updateDate": "2020-02-27T16:52:30.000Z"
+  "updateDate": "2020-02-27T16:52:30.000Z",
+  "routes": []
 }

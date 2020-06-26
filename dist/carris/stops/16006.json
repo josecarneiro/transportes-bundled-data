@@ -1,11 +1,14 @@
 {
-  "id": 50204,
-  "publicId": "16006",
+  "id": "16006",
+  "internalId": 50204,
   "name": "Az. Reguengo",
   "position": {
     "latitude": 38.788414,
     "longitude": -9.145346
   },
   "visible": true,
-  "updateDate": "2018-05-21T23:18:54.000Z"
+  "updateDate": "2018-05-21T23:18:54.000Z",
+  "routes": [
+    "40B"
+  ]
 }

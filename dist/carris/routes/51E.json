@@ -1,6 +1,6 @@
 {
-  "id": 158,
-  "number": "51E",
+  "id": "51E",
+  "internalId": 158,
   "name": "Restauradores - S. Pedro Alcantâra",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -90,8 +90,8 @@
               "order": 1,
               "distance": 248,
               "stop": {
-                "id": 50320,
-                "publicId": "1014",
+                "id": "1014",
+                "internalId": 50320,
                 "name": "Restauradores - Glória",
                 "position": {
                   "latitude": 38.716169,
@@ -106,8 +106,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 50244,
-                "publicId": "10611",
+                "id": "10611",
+                "internalId": 50244,
                 "name": "Rua São Pedro De Alcântara",
                 "position": {
                   "latitude": 38.714218,
@@ -198,8 +198,8 @@
               "order": 1,
               "distance": 248,
               "stop": {
-                "id": 50244,
-                "publicId": "10611",
+                "id": "10611",
+                "internalId": 50244,
                 "name": "Rua São Pedro De Alcântara",
                 "position": {
                   "latitude": 38.714218,
@@ -214,8 +214,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 50320,
-                "publicId": "1014",
+                "id": "1014",
+                "internalId": 50320,
                 "name": "Restauradores - Glória",
                 "position": {
                   "latitude": 38.716169,

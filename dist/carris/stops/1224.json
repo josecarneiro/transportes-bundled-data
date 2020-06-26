@@ -1,11 +1,21 @@
 {
-  "id": 1224,
-  "publicId": "1224",
+  "id": "1224",
+  "internalId": 1224,
   "name": "Rua Joaquim António De Aguiar",
   "position": {
     "latitude": 38.724903,
     "longitude": -9.154848
   },
   "visible": true,
-  "updateDate": "2014-03-03T11:21:58.000Z"
+  "updateDate": "2014-03-03T11:21:58.000Z",
+  "routes": [
+    "702",
+    "711",
+    "712",
+    "723",
+    "748",
+    "753",
+    "783",
+    "9B"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 10808,
-  "publicId": "10808",
+  "id": "10808",
+  "internalId": 10808,
   "name": "Colégio Militar (Metro)",
   "position": {
     "latitude": 38.752385,
     "longitude": -9.188966
   },
   "visible": true,
-  "updateDate": "2019-02-20T17:08:27.000Z"
+  "updateDate": "2019-02-20T17:08:27.000Z",
+  "routes": [
+    "703",
+    "764",
+    "767"
+  ]
 }

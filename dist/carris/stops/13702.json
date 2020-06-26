@@ -1,11 +1,16 @@
 {
-  "id": 13702,
-  "publicId": "13702",
+  "id": "13702",
+  "internalId": 13702,
   "name": "R. João Ortigão Ramos",
   "position": {
     "latitude": 38.756419,
     "longitude": -9.204079
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:26:23.000Z"
+  "updateDate": "2019-02-18T12:26:23.000Z",
+  "routes": [
+    "724",
+    "765",
+    "767"
+  ]
 }

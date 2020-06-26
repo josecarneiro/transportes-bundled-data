@@ -1,11 +1,15 @@
 {
-  "id": 5949,
-  "publicId": "5949",
+  "id": "5949",
+  "internalId": 5949,
   "name": "Paço Lumiar",
   "position": {
     "latitude": 38.771166,
     "longitude": -9.173724
   },
   "visible": true,
-  "updateDate": "2019-02-14T13:01:10.000Z"
+  "updateDate": "2019-02-14T13:01:10.000Z",
+  "routes": [
+    "703",
+    "44B"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 504,
-  "publicId": "504",
+  "id": "504",
+  "internalId": 504,
   "name": "Pç. Chile",
   "position": {
     "latitude": 38.733227,
     "longitude": -9.132798
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:35:15.000Z"
+  "updateDate": "2018-04-03T15:35:15.000Z",
+  "routes": [
+    "706",
+    "735",
+    "797"
+  ]
 }

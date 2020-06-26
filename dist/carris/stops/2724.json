@@ -1,11 +1,14 @@
 {
-  "id": 50085,
-  "publicId": "2724",
+  "id": "2724",
+  "internalId": 50085,
   "name": "Serafina",
   "position": {
     "latitude": 38.73251,
     "longitude": -9.172404
   },
   "visible": true,
-  "updateDate": "2018-01-09T18:31:31.000Z"
+  "updateDate": "2018-01-09T18:31:31.000Z",
+  "routes": [
+    "702"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 8312,
-  "publicId": "8312",
+  "id": "8312",
+  "internalId": 8312,
   "name": "Doca De Xabregas",
   "position": {
     "latitude": 38.72891,
     "longitude": -9.107391
   },
   "visible": true,
-  "updateDate": "2014-03-03T13:00:00.000Z"
+  "updateDate": "2014-03-03T13:00:00.000Z",
+  "routes": [
+    "728"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 50196,
-  "publicId": "11617",
+  "id": "11617",
+  "internalId": 50196,
   "name": "Cç. Do Mercado",
   "position": {
     "latitude": 38.792761,
     "longitude": -9.14818
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:11:53.000Z"
+  "updateDate": "2012-12-13T17:11:53.000Z",
+  "routes": [
+    "40B"
+  ]
 }

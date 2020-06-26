@@ -1,11 +1,17 @@
 {
-  "id": 8607,
-  "publicId": "8607",
+  "id": "8607",
+  "internalId": 8607,
   "name": "Viaduto Duarte Pacheco",
   "position": {
     "latitude": 38.723244,
     "longitude": -9.166678
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:55.000Z"
+  "updateDate": "2010-12-02T17:19:55.000Z",
+  "routes": [
+    "711",
+    "723",
+    "748",
+    "753"
+  ]
 }

@@ -1,11 +1,21 @@
 {
-  "id": 9507,
-  "publicId": "9507",
+  "id": "9507",
+  "internalId": 9507,
   "name": "Rua Pinto Ferreira",
   "position": {
     "latitude": 38.697994,
     "longitude": -9.190554
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:40:36.000Z"
+  "updateDate": "2008-12-05T16:40:36.000Z",
+  "routes": [
+    "201",
+    "714",
+    "727",
+    "732",
+    "751",
+    "15E",
+    "18E",
+    "9A"
+  ]
 }

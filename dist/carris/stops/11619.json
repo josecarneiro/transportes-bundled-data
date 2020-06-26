@@ -1,11 +1,14 @@
 {
-  "id": 50176,
-  "publicId": "11619",
+  "id": "11619",
+  "internalId": 50176,
   "name": "Piscina Municipal Ameixoeira",
   "position": {
     "latitude": 38.785878,
     "longitude": -9.159691
   },
   "visible": true,
-  "updateDate": "2012-12-13T18:00:56.000Z"
+  "updateDate": "2012-12-13T18:00:56.000Z",
+  "routes": [
+    "796"
+  ]
 }

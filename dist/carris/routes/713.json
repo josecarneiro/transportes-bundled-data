@@ -1,6 +1,6 @@
 {
-  "id": 122,
-  "number": "713",
+  "id": "713",
+  "internalId": 122,
   "name": "Alameda - Estação Campolide",
   "visible": true,
   "creationDate": "2020-05-20T09:13:30.000Z",
@@ -2662,8 +2662,8 @@
               "order": 1,
               "distance": 406,
               "stop": {
-                "id": 50278,
-                "publicId": "11111",
+                "id": "11111",
+                "internalId": 50278,
                 "name": "Alameda D. Afonso Heniriques",
                 "position": {
                   "latitude": 38.736753,
@@ -2678,8 +2678,8 @@
               "order": 2,
               "distance": 269,
               "stop": {
-                "id": 11109,
-                "publicId": "11109",
+                "id": "11109",
+                "internalId": 11109,
                 "name": "Av. António José De Almeida",
                 "position": {
                   "latitude": 38.738218,
@@ -2694,8 +2694,8 @@
               "order": 3,
               "distance": 342,
               "stop": {
-                "id": 11118,
-                "publicId": "11118",
+                "id": "11118",
+                "internalId": 11118,
                 "name": "Arco Cego - Av.Miguel Bombard",
                 "position": {
                   "latitude": 38.737701,
@@ -2710,8 +2710,8 @@
               "order": 4,
               "distance": 344,
               "stop": {
-                "id": 1811,
-                "publicId": "1811",
+                "id": "1811",
+                "internalId": 1811,
                 "name": "Av. Miguel Bombarda (Iscal)",
                 "position": {
                   "latitude": 38.737161,
@@ -2726,8 +2726,8 @@
               "order": 5,
               "distance": 330,
               "stop": {
-                "id": 1409,
-                "publicId": "1409",
+                "id": "1409",
+                "internalId": 1409,
                 "name": "Av. Marquês De Tomar",
                 "position": {
                   "latitude": 38.736542,
@@ -2742,8 +2742,8 @@
               "order": 6,
               "distance": 257,
               "stop": {
-                "id": 1413,
-                "publicId": "1413",
+                "id": "1413",
+                "internalId": 1413,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.734851,
@@ -2758,8 +2758,8 @@
               "order": 7,
               "distance": 377,
               "stop": {
-                "id": 1405,
-                "publicId": "1405",
+                "id": "1405",
+                "internalId": 1405,
                 "name": "Bº Azul",
                 "position": {
                   "latitude": 38.733335,
@@ -2774,8 +2774,8 @@
               "order": 8,
               "distance": 258,
               "stop": {
-                "id": 6117,
-                "publicId": "6117",
+                "id": "6117",
+                "internalId": 6117,
                 "name": "Palácio Da Justiça",
                 "position": {
                   "latitude": 38.730648,
@@ -2790,8 +2790,8 @@
               "order": 9,
               "distance": 403,
               "stop": {
-                "id": 6115,
-                "publicId": "6115",
+                "id": "6115",
+                "internalId": 6115,
                 "name": "Rua Marquês De Fronteira",
                 "position": {
                   "latitude": 38.729089,
@@ -2806,8 +2806,8 @@
               "order": 10,
               "distance": 376,
               "stop": {
-                "id": 6120,
-                "publicId": "6120",
+                "id": "6120",
+                "internalId": 6120,
                 "name": "Campolide (Av. Cons. Fernando",
                 "position": {
                   "latitude": 38.726441,
@@ -2822,8 +2822,8 @@
               "order": 11,
               "distance": 279,
               "stop": {
-                "id": 8512,
-                "publicId": "8512",
+                "id": "8512",
+                "internalId": 8512,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.723824,
@@ -2838,8 +2838,8 @@
               "order": 12,
               "distance": 329,
               "stop": {
-                "id": 8516,
-                "publicId": "8516",
+                "id": "8516",
+                "internalId": 8516,
                 "name": "R. Amoreiras",
                 "position": {
                   "latitude": 38.723347,
@@ -2854,8 +2854,8 @@
               "order": 13,
               "distance": 162,
               "stop": {
-                "id": 6823,
-                "publicId": "6823",
+                "id": "6823",
+                "internalId": 6823,
                 "name": "Jardim Amoreiras",
                 "position": {
                   "latitude": 38.721516,
@@ -2870,8 +2870,8 @@
               "order": 14,
               "distance": 249,
               "stop": {
-                "id": 50191,
-                "publicId": "6822",
+                "id": "6822",
+                "internalId": 50191,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.720291,
@@ -2886,8 +2886,8 @@
               "order": 15,
               "distance": 406,
               "stop": {
-                "id": 6802,
-                "publicId": "6802",
+                "id": "6802",
+                "internalId": 6802,
                 "name": "Av. Álvares Cabral",
                 "position": {
                   "latitude": 38.718344,
@@ -2902,8 +2902,8 @@
               "order": 16,
               "distance": 376,
               "stop": {
-                "id": 8104,
-                "publicId": "8104",
+                "id": "8104",
+                "internalId": 8104,
                 "name": "Jardim Da Estrela",
                 "position": {
                   "latitude": 38.715773,
@@ -2918,8 +2918,8 @@
               "order": 17,
               "distance": 166,
               "stop": {
-                "id": 8111,
-                "publicId": "8111",
+                "id": "8111",
+                "internalId": 8111,
                 "name": "Estrela (Basílica)",
                 "position": {
                   "latitude": 38.713627,
@@ -2934,8 +2934,8 @@
               "order": 18,
               "distance": 183,
               "stop": {
-                "id": 8113,
-                "publicId": "8113",
+                "id": "8113",
+                "internalId": 8113,
                 "name": "Rua João De Deus",
                 "position": {
                   "latitude": 38.712681,
@@ -2950,8 +2950,8 @@
               "order": 19,
               "distance": 193,
               "stop": {
-                "id": 10011,
-                "publicId": "10011",
+                "id": "10011",
+                "internalId": 10011,
                 "name": "Rua Buenos Aires",
                 "position": {
                   "latitude": 38.711322,
@@ -2966,8 +2966,8 @@
               "order": 20,
               "distance": 159,
               "stop": {
-                "id": 10013,
-                "publicId": "10013",
+                "id": "10013",
+                "internalId": 10013,
                 "name": "Rua Santana À Lapa",
                 "position": {
                   "latitude": 38.710054,
@@ -2982,8 +2982,8 @@
               "order": 21,
               "distance": 189,
               "stop": {
-                "id": 10015,
-                "publicId": "10015",
+                "id": "10015",
+                "internalId": 10015,
                 "name": "Rua De São Domingos À Lapa",
                 "position": {
                   "latitude": 38.708923,
@@ -2998,8 +2998,8 @@
               "order": 22,
               "distance": 242,
               "stop": {
-                "id": 10007,
-                "publicId": "10007",
+                "id": "10007",
+                "internalId": 10007,
                 "name": "Rua Garcia Da Orta",
                 "position": {
                   "latitude": 38.707269,
@@ -3014,8 +3014,8 @@
               "order": 23,
               "distance": 271,
               "stop": {
-                "id": 10009,
-                "publicId": "10009",
+                "id": "10009",
+                "internalId": 10009,
                 "name": "Rua De São João Da Mata",
                 "position": {
                   "latitude": 38.707888,
@@ -3030,8 +3030,8 @@
               "order": 24,
               "distance": 279,
               "stop": {
-                "id": 3910,
-                "publicId": "3910",
+                "id": "3910",
+                "internalId": 3910,
                 "name": "Santos-O-Velho",
                 "position": {
                   "latitude": 38.706432,
@@ -3046,8 +3046,8 @@
               "order": 25,
               "distance": 209,
               "stop": {
-                "id": 3908,
-                "publicId": "3908",
+                "id": "3908",
+                "internalId": 3908,
                 "name": "Rua Das Janelas Verdes",
                 "position": {
                   "latitude": 38.705102,
@@ -3062,8 +3062,8 @@
               "order": 26,
               "distance": 369,
               "stop": {
-                "id": 10212,
-                "publicId": "10212",
+                "id": "10212",
+                "internalId": 10212,
                 "name": "Rua Presidente Arriaga",
                 "position": {
                   "latitude": 38.704613,
@@ -3078,8 +3078,8 @@
               "order": 27,
               "distance": 272,
               "stop": {
-                "id": 10210,
-                "publicId": "10210",
+                "id": "10210",
+                "internalId": 10210,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.704757,
@@ -3094,8 +3094,8 @@
               "order": 28,
               "distance": 261,
               "stop": {
-                "id": 10208,
-                "publicId": "10208",
+                "id": "10208",
+                "internalId": 10208,
                 "name": "Praça Da Armada",
                 "position": {
                   "latitude": 38.705294,
@@ -3110,8 +3110,8 @@
               "order": 29,
               "distance": 143,
               "stop": {
-                "id": 9417,
-                "publicId": "9417",
+                "id": "9417",
+                "internalId": 9417,
                 "name": "Alcântara",
                 "position": {
                   "latitude": 38.706277,
@@ -3126,8 +3126,8 @@
               "order": 30,
               "distance": 682,
               "stop": {
-                "id": 9415,
-                "publicId": "9415",
+                "id": "9415",
+                "internalId": 9415,
                 "name": "Alcântara - Av. De Ceuta",
                 "position": {
                   "latitude": 38.707253,
@@ -3142,8 +3142,8 @@
               "order": 31,
               "distance": 319,
               "stop": {
-                "id": 9411,
-                "publicId": "9411",
+                "id": "9411",
+                "internalId": 9411,
                 "name": "Qta Do Cabrinha - Av. De Ceuta",
                 "position": {
                   "latitude": 38.713106,
@@ -3158,8 +3158,8 @@
               "order": 32,
               "distance": 395,
               "stop": {
-                "id": 11903,
-                "publicId": "11903",
+                "id": "11903",
+                "internalId": 11903,
                 "name": "Bº Do Loureiro - Av. De Ceuta",
                 "position": {
                   "latitude": 38.715875,
@@ -3174,8 +3174,8 @@
               "order": 33,
               "distance": 416,
               "stop": {
-                "id": 11901,
-                "publicId": "11901",
+                "id": "11901",
+                "internalId": 11901,
                 "name": "Av. De Ceuta - Arco Carvalhão",
                 "position": {
                   "latitude": 38.719371,
@@ -3190,8 +3190,8 @@
               "order": 34,
               "distance": 1242,
               "stop": {
-                "id": 8601,
-                "publicId": "8601",
+                "id": "8601",
+                "internalId": 8601,
                 "name": "Av. De Ceuta - Viveiros",
                 "position": {
                   "latitude": 38.723011,
@@ -3206,8 +3206,8 @@
               "order": 35,
               "distance": 0,
               "stop": {
-                "id": 2716,
-                "publicId": "2716",
+                "id": "2716",
+                "internalId": 2716,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.731361,
@@ -6000,8 +6000,8 @@
               "order": 1,
               "distance": 214,
               "stop": {
-                "id": 2716,
-                "publicId": "2716",
+                "id": "2716",
+                "internalId": 2716,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.731361,
@@ -6016,8 +6016,8 @@
               "order": 2,
               "distance": 1256,
               "stop": {
-                "id": 2704,
-                "publicId": "2704",
+                "id": "2704",
+                "internalId": 2704,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.730838,
@@ -6032,8 +6032,8 @@
               "order": 3,
               "distance": 544,
               "stop": {
-                "id": 8602,
-                "publicId": "8602",
+                "id": "8602",
+                "internalId": 8602,
                 "name": "Av. De Ceuta - Viveiros",
                 "position": {
                   "latitude": 38.723469,
@@ -6048,8 +6048,8 @@
               "order": 4,
               "distance": 314,
               "stop": {
-                "id": 11902,
-                "publicId": "11902",
+                "id": "11902",
+                "internalId": 11902,
                 "name": "Av. De Ceuta - Arco Carvalhão",
                 "position": {
                   "latitude": 38.718668,
@@ -6064,8 +6064,8 @@
               "order": 5,
               "distance": 397,
               "stop": {
-                "id": 11904,
-                "publicId": "11904",
+                "id": "11904",
+                "internalId": 11904,
                 "name": "Bº Do Loureiro - Av. De Ceuta",
                 "position": {
                   "latitude": 38.715921,
@@ -6080,8 +6080,8 @@
               "order": 6,
               "distance": 512,
               "stop": {
-                "id": 9412,
-                "publicId": "9412",
+                "id": "9412",
+                "internalId": 9412,
                 "name": "Qta Do Cabrinha - Av. De Ceuta",
                 "position": {
                   "latitude": 38.712414,
@@ -6096,8 +6096,8 @@
               "order": 7,
               "distance": 301,
               "stop": {
-                "id": 9425,
-                "publicId": "9425",
+                "id": "9425",
+                "internalId": 9425,
                 "name": "Alcântara - Av. De Ceuta",
                 "position": {
                   "latitude": 38.7081,
@@ -6112,8 +6112,8 @@
               "order": 8,
               "distance": 236,
               "stop": {
-                "id": 9418,
-                "publicId": "9418",
+                "id": "9418",
+                "internalId": 9418,
                 "name": "Alcântara",
                 "position": {
                   "latitude": 38.705883,
@@ -6128,8 +6128,8 @@
               "order": 9,
               "distance": 263,
               "stop": {
-                "id": 10207,
-                "publicId": "10207",
+                "id": "10207",
+                "internalId": 10207,
                 "name": "Praça Da Armada",
                 "position": {
                   "latitude": 38.704975,
@@ -6144,8 +6144,8 @@
               "order": 10,
               "distance": 278,
               "stop": {
-                "id": 10209,
-                "publicId": "10209",
+                "id": "10209",
+                "internalId": 10209,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.70458,
@@ -6160,8 +6160,8 @@
               "order": 11,
               "distance": 342,
               "stop": {
-                "id": 10211,
-                "publicId": "10211",
+                "id": "10211",
+                "internalId": 10211,
                 "name": "Rua Presidente Arriaga",
                 "position": {
                   "latitude": 38.70448,
@@ -6176,8 +6176,8 @@
               "order": 12,
               "distance": 258,
               "stop": {
-                "id": 3907,
-                "publicId": "3907",
+                "id": "3907",
+                "internalId": 3907,
                 "name": "Rua Das Janelas Verdes",
                 "position": {
                   "latitude": 38.705388,
@@ -6192,8 +6192,8 @@
               "order": 13,
               "distance": 265,
               "stop": {
-                "id": 3909,
-                "publicId": "3909",
+                "id": "3909",
+                "internalId": 3909,
                 "name": "Santos-O-Velho",
                 "position": {
                   "latitude": 38.706693,
@@ -6208,8 +6208,8 @@
               "order": 14,
               "distance": 218,
               "stop": {
-                "id": 10010,
-                "publicId": "10010",
+                "id": "10010",
+                "internalId": 10010,
                 "name": "Rua De São João Da Mata",
                 "position": {
                   "latitude": 38.707704,
@@ -6224,8 +6224,8 @@
               "order": 15,
               "distance": 217,
               "stop": {
-                "id": 10008,
-                "publicId": "10008",
+                "id": "10008",
+                "internalId": 10008,
                 "name": "Rua Garcia Da Orta",
                 "position": {
                   "latitude": 38.707553,
@@ -6240,8 +6240,8 @@
               "order": 16,
               "distance": 337,
               "stop": {
-                "id": 10006,
-                "publicId": "10006",
+                "id": "10006",
+                "internalId": 10006,
                 "name": "R. S. Domingos À Lapa",
                 "position": {
                   "latitude": 38.709305,
@@ -6256,8 +6256,8 @@
               "order": 17,
               "distance": 236,
               "stop": {
-                "id": 10004,
-                "publicId": "10004",
+                "id": "10004",
+                "internalId": 10004,
                 "name": "Lapa",
                 "position": {
                   "latitude": 38.710984,
@@ -6272,8 +6272,8 @@
               "order": 18,
               "distance": 154,
               "stop": {
-                "id": 6708,
-                "publicId": "6708",
+                "id": "6708",
+                "internalId": 6708,
                 "name": "R. Borges Carneiro / Cç. Estre",
                 "position": {
                   "latitude": 38.71229,
@@ -6288,8 +6288,8 @@
               "order": 19,
               "distance": 297,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -6304,8 +6304,8 @@
               "order": 20,
               "distance": 275,
               "stop": {
-                "id": 8114,
-                "publicId": "8114",
+                "id": "8114",
+                "internalId": 8114,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713883,
@@ -6320,8 +6320,8 @@
               "order": 21,
               "distance": 372,
               "stop": {
-                "id": 8103,
-                "publicId": "8103",
+                "id": "8103",
+                "internalId": 8103,
                 "name": "Jardim Da Estrela",
                 "position": {
                   "latitude": 38.715563,
@@ -6336,8 +6336,8 @@
               "order": 22,
               "distance": 479,
               "stop": {
-                "id": 6801,
-                "publicId": "6801",
+                "id": "6801",
+                "internalId": 6801,
                 "name": "Av. Álvares Cabral",
                 "position": {
                   "latitude": 38.717485,
@@ -6352,8 +6352,8 @@
               "order": 23,
               "distance": 28,
               "stop": {
-                "id": 50190,
-                "publicId": "6821",
+                "id": "6821",
+                "internalId": 50190,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.721257,
@@ -6368,8 +6368,8 @@
               "order": 24,
               "distance": 427,
               "stop": {
-                "id": 6824,
-                "publicId": "6824",
+                "id": "6824",
+                "internalId": 6824,
                 "name": "Jardim Das Amoreiras",
                 "position": {
                   "latitude": 38.721471,
@@ -6384,8 +6384,8 @@
               "order": 25,
               "distance": 214,
               "stop": {
-                "id": 8517,
-                "publicId": "8517",
+                "id": "8517",
+                "internalId": 8517,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.723216,
@@ -6400,8 +6400,8 @@
               "order": 26,
               "distance": 168,
               "stop": {
-                "id": 8511,
-                "publicId": "8511",
+                "id": "8511",
+                "internalId": 8511,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.723867,
@@ -6416,8 +6416,8 @@
               "order": 27,
               "distance": 376,
               "stop": {
-                "id": 8509,
-                "publicId": "8509",
+                "id": "8509",
+                "internalId": 8509,
                 "name": "Rua Conselheiro Fernando Sousa",
                 "position": {
                   "latitude": 38.725223,
@@ -6432,8 +6432,8 @@
               "order": 28,
               "distance": 100,
               "stop": {
-                "id": 6109,
-                "publicId": "6109",
+                "id": "6109",
+                "internalId": 6109,
                 "name": "Bº De Campolide",
                 "position": {
                   "latitude": 38.728964,
@@ -6448,8 +6448,8 @@
               "order": 28,
               "distance": 298,
               "stop": {
-                "id": 6106,
-                "publicId": "6106",
+                "id": "6106",
+                "internalId": 6106,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.727648,
@@ -6464,8 +6464,8 @@
               "order": 29,
               "distance": 266,
               "stop": {
-                "id": 6116,
-                "publicId": "6116",
+                "id": "6116",
+                "internalId": 6116,
                 "name": "Rua Marquês De Fronteira",
                 "position": {
                   "latitude": 38.729532,
@@ -6480,8 +6480,8 @@
               "order": 30,
               "distance": 294,
               "stop": {
-                "id": 6118,
-                "publicId": "6118",
+                "id": "6118",
+                "internalId": 6118,
                 "name": "Palácio Da Justiça",
                 "position": {
                   "latitude": 38.731142,
@@ -6496,8 +6496,8 @@
               "order": 31,
               "distance": 264,
               "stop": {
-                "id": 1406,
-                "publicId": "1406",
+                "id": "1406",
+                "internalId": 1406,
                 "name": "Bº Azul",
                 "position": {
                   "latitude": 38.733413,
@@ -6512,8 +6512,8 @@
               "order": 32,
               "distance": 248,
               "stop": {
-                "id": 1414,
-                "publicId": "1414",
+                "id": "1414",
+                "internalId": 1414,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.734899,
@@ -6528,8 +6528,8 @@
               "order": 33,
               "distance": 285,
               "stop": {
-                "id": 1410,
-                "publicId": "1410",
+                "id": "1410",
+                "internalId": 1410,
                 "name": "Av. Marquês De Tomar",
                 "position": {
                   "latitude": 38.734936,
@@ -6544,8 +6544,8 @@
               "order": 34,
               "distance": 336,
               "stop": {
-                "id": 1806,
-                "publicId": "1806",
+                "id": "1806",
+                "internalId": 1806,
                 "name": "Av. Duque D'ávila",
                 "position": {
                   "latitude": 38.735014,
@@ -6560,8 +6560,8 @@
               "order": 35,
               "distance": 248,
               "stop": {
-                "id": 11101,
-                "publicId": "11101",
+                "id": "11101",
+                "internalId": 11101,
                 "name": "Arco Cego",
                 "position": {
                   "latitude": 38.73511,
@@ -6576,8 +6576,8 @@
               "order": 36,
               "distance": 368,
               "stop": {
-                "id": 11108,
-                "publicId": "11108",
+                "id": "11108",
+                "internalId": 11108,
                 "name": "Av. Rovisco Pais",
                 "position": {
                   "latitude": 38.735189,
@@ -6592,8 +6592,8 @@
               "order": 37,
               "distance": 0,
               "stop": {
-                "id": 50278,
-                "publicId": "11111",
+                "id": "11111",
+                "internalId": 50278,
                 "name": "Alameda D. Afonso Heniriques",
                 "position": {
                   "latitude": 38.736753,

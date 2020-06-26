@@ -1,6 +1,6 @@
 {
-  "id": 219,
-  "number": "76B",
+  "id": "76B",
+  "internalId": 219,
   "name": "Boa-Hora (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -21,8 +21,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 50366,
-                "publicId": "13402",
+                "id": "13402",
+                "internalId": 50366,
                 "name": "Boa Hora (R. Guarda Jóias)",
                 "position": {
                   "latitude": 38.704861,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 171,
               "stop": {
-                "id": 13410,
-                "publicId": "13410",
+                "id": "13410",
+                "internalId": 13410,
                 "name": "Boa Hora",
                 "position": {
                   "latitude": 38.703711,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 280,
               "stop": {
-                "id": 13401,
-                "publicId": "13401",
+                "id": "13401",
+                "internalId": 13401,
                 "name": "Boa Hora",
                 "position": {
                   "latitude": 38.702931,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 256,
               "stop": {
-                "id": 13405,
-                "publicId": "13405",
+                "id": "13405",
+                "internalId": 13405,
                 "name": "Rio Seco",
                 "position": {
                   "latitude": 38.703409,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 248,
               "stop": {
-                "id": 50371,
-                "publicId": "13411",
+                "id": "13411",
+                "internalId": 50371,
                 "name": "R. D. João Castro",
                 "position": {
                   "latitude": 38.705045,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 191,
               "stop": {
-                "id": 50369,
-                "publicId": "12015",
+                "id": "12015",
+                "internalId": 50369,
                 "name": "Tv. Fornos / R. Cruzeiro",
                 "position": {
                   "latitude": 38.706247,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 190,
               "stop": {
-                "id": 50331,
-                "publicId": "10318",
+                "id": "10318",
+                "internalId": 50331,
                 "name": "R. Cruzeiro/Tv. Pardal",
                 "position": {
                   "latitude": 38.706865,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 210,
               "stop": {
-                "id": 50367,
-                "publicId": "10319",
+                "id": "10319",
+                "internalId": 50367,
                 "name": "R. Cruzeiro/Tv. José Fernandes",
                 "position": {
                   "latitude": 38.708035,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 333,
               "stop": {
-                "id": 50368,
-                "publicId": "10320",
+                "id": "10320",
+                "internalId": 50368,
                 "name": "R. Cruzeiro",
                 "position": {
                   "latitude": 38.709207,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 466,
               "stop": {
-                "id": 10303,
-                "publicId": "10303",
+                "id": "10303",
+                "internalId": 10303,
                 "name": "Lg. Ajuda (Palácio)",
                 "position": {
                   "latitude": 38.707644,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 465,
               "stop": {
-                "id": 10311,
-                "publicId": "10311",
+                "id": "10311",
+                "internalId": 10311,
                 "name": "Cç. Da Ajuda - Palácio",
                 "position": {
                   "latitude": 38.707167,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 196,
               "stop": {
-                "id": 12920,
-                "publicId": "12920",
+                "id": "12920",
+                "internalId": 12920,
                 "name": "Ajuda - Rua Das Açucenas",
                 "position": {
                   "latitude": 38.708942,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 245,
               "stop": {
-                "id": 12908,
-                "publicId": "12908",
+                "id": "12908",
+                "internalId": 12908,
                 "name": "Pólo Universitário Ajuda - Est",
                 "position": {
                   "latitude": 38.713328,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 228,
               "stop": {
-                "id": 12907,
-                "publicId": "12907",
+                "id": "12907",
+                "internalId": 12907,
                 "name": "Estr. Marcos",
                 "position": {
                   "latitude": 38.713409,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 208,
               "stop": {
-                "id": 12906,
-                "publicId": "12906",
+                "id": "12906",
+                "internalId": 12906,
                 "name": "Caramão (Ajuda)",
                 "position": {
                   "latitude": 38.714579,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 157,
               "stop": {
-                "id": 12918,
-                "publicId": "12918",
+                "id": "12918",
+                "internalId": 12918,
                 "name": "R. José Pinto Bastos",
                 "position": {
                   "latitude": 38.714019,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 149,
               "stop": {
-                "id": 12925,
-                "publicId": "12925",
+                "id": "12925",
+                "internalId": 12925,
                 "name": "Clube Atlético Caramão",
                 "position": {
                   "latitude": 38.712848,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 251,
               "stop": {
-                "id": 12926,
-                "publicId": "12926",
+                "id": "12926",
+                "internalId": 12926,
                 "name": "Av. Helen Keller",
                 "position": {
                   "latitude": 38.711675,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 329,
               "stop": {
-                "id": 12913,
-                "publicId": "12913",
+                "id": "12913",
+                "internalId": 12913,
                 "name": "B.º Caramão",
                 "position": {
                   "latitude": 38.710867,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 189,
               "stop": {
-                "id": 12915,
-                "publicId": "12915",
+                "id": "12915",
+                "internalId": 12915,
                 "name": "Cemitério Ajuda",
                 "position": {
                   "latitude": 38.70904,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 201,
               "stop": {
-                "id": 13111,
-                "publicId": "13111",
+                "id": "13111",
+                "internalId": 13111,
                 "name": "Cç. Galvão (Gnr)",
                 "position": {
                   "latitude": 38.707422,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 353,
               "stop": {
-                "id": 13113,
-                "publicId": "13113",
+                "id": "13113",
+                "internalId": 13113,
                 "name": "Esc. Paula Vicente",
                 "position": {
                   "latitude": 38.70562,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 219,
               "stop": {
-                "id": 13309,
-                "publicId": "13309",
+                "id": "13309",
+                "internalId": 13309,
                 "name": "Igreja Memória",
                 "position": {
                   "latitude": 38.702456,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 286,
               "stop": {
-                "id": 50370,
-                "publicId": "13315",
+                "id": "13315",
+                "internalId": 50370,
                 "name": "Tv. Memória",
                 "position": {
                   "latitude": 38.702567,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 100,
               "stop": {
-                "id": 13308,
-                "publicId": "13308",
+                "id": "13308",
+                "internalId": 13308,
                 "name": "Rua Bica Do Marquês",
                 "position": {
                   "latitude": 38.704327,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 211,
               "stop": {
-                "id": 13303,
-                "publicId": "13303",
+                "id": "13303",
+                "internalId": 13303,
                 "name": "R. Bica Marquês",
                 "position": {
                   "latitude": 38.704697,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 218,
               "stop": {
-                "id": 13305,
-                "publicId": "13305",
+                "id": "13305",
+                "internalId": 13305,
                 "name": "R. D. Vasco",
                 "position": {
                   "latitude": 38.704888,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 114,
               "stop": {
-                "id": 50372,
-                "publicId": "13412",
+                "id": "13412",
+                "internalId": 50372,
                 "name": "Centro Saúde Ajuda",
                 "position": {
                   "latitude": 38.705521,
@@ -469,8 +469,8 @@
               "order": 1,
               "distance": 259,
               "stop": {
-                "id": 50366,
-                "publicId": "13402",
+                "id": "13402",
+                "internalId": 50366,
                 "name": "Boa Hora (R. Guarda Jóias)",
                 "position": {
                   "latitude": 38.704861,

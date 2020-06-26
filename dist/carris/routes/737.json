@@ -1,6 +1,6 @@
 {
-  "id": 173,
-  "number": "737",
+  "id": "737",
+  "internalId": 173,
   "name": "Pç. Figueira - Castelo",
   "visible": true,
   "creationDate": "2020-05-20T09:24:34.000Z",
@@ -442,8 +442,8 @@
               "order": 1,
               "distance": 572,
               "stop": {
-                "id": 912,
-                "publicId": "912",
+                "id": "912",
+                "internalId": 912,
                 "name": "Praça Da Figueira",
                 "position": {
                   "latitude": 38.713912,
@@ -458,8 +458,8 @@
               "order": 2,
               "distance": 154,
               "stop": {
-                "id": 5601,
-                "publicId": "5601",
+                "id": "5601",
+                "internalId": 5601,
                 "name": "Igreja Sta. Maria Madalena",
                 "position": {
                   "latitude": 38.710046,
@@ -474,8 +474,8 @@
               "order": 3,
               "distance": 201,
               "stop": {
-                "id": 13801,
-                "publicId": "13801",
+                "id": "13801",
+                "internalId": 13801,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.709761,
@@ -490,8 +490,8 @@
               "order": 4,
               "distance": 212,
               "stop": {
-                "id": 13803,
-                "publicId": "13803",
+                "id": "13803",
+                "internalId": 13803,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710327,
@@ -506,8 +506,8 @@
               "order": 5,
               "distance": 182,
               "stop": {
-                "id": 13807,
-                "publicId": "13807",
+                "id": "13807",
+                "internalId": 13807,
                 "name": "Largo Do Contador Mor",
                 "position": {
                   "latitude": 38.711944,
@@ -522,8 +522,8 @@
               "order": 6,
               "distance": 0,
               "stop": {
-                "id": 13810,
-                "publicId": "13810",
+                "id": "13810",
+                "internalId": 13810,
                 "name": "Castelo",
                 "position": {
                   "latitude": 38.71229,
@@ -1002,8 +1002,8 @@
               "order": 1,
               "distance": 72,
               "stop": {
-                "id": 13810,
-                "publicId": "13810",
+                "id": "13810",
+                "internalId": 13810,
                 "name": "Castelo",
                 "position": {
                   "latitude": 38.71229,
@@ -1018,8 +1018,8 @@
               "order": 2,
               "distance": 281,
               "stop": {
-                "id": 13808,
-                "publicId": "13808",
+                "id": "13808",
+                "internalId": 13808,
                 "name": "Costa Do Castelo",
                 "position": {
                   "latitude": 38.71179,
@@ -1034,8 +1034,8 @@
               "order": 3,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -1050,8 +1050,8 @@
               "order": 4,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -1066,8 +1066,8 @@
               "order": 5,
               "distance": 162,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -1082,8 +1082,8 @@
               "order": 6,
               "distance": 556,
               "stop": {
-                "id": 5602,
-                "publicId": "5602",
+                "id": "5602",
+                "internalId": 5602,
                 "name": "Rua Da Conceição",
                 "position": {
                   "latitude": 38.709944,
@@ -1098,8 +1098,8 @@
               "order": 7,
               "distance": 0,
               "stop": {
-                "id": 912,
-                "publicId": "912",
+                "id": "912",
+                "internalId": 912,
                 "name": "Praça Da Figueira",
                 "position": {
                   "latitude": 38.713912,

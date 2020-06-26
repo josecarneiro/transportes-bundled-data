@@ -1,6 +1,6 @@
 {
-  "id": 169,
-  "number": "748",
+  "id": "748",
+  "internalId": 169,
   "name": "Marquês Pombal - Linda-a-Velha",
   "visible": true,
   "creationDate": "2020-05-20T09:29:01.000Z",
@@ -1002,8 +1002,8 @@
               "order": 1,
               "distance": 302,
               "stop": {
-                "id": 1229,
-                "publicId": "1229",
+                "id": "1229",
+                "internalId": 1229,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725664,
@@ -1018,8 +1018,8 @@
               "order": 2,
               "distance": 298,
               "stop": {
-                "id": 1209,
-                "publicId": "1209",
+                "id": "1209",
+                "internalId": 1209,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725361,
@@ -1034,8 +1034,8 @@
               "order": 3,
               "distance": 494,
               "stop": {
-                "id": 1223,
-                "publicId": "1223",
+                "id": "1223",
+                "internalId": 1223,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.725106,
@@ -1050,8 +1050,8 @@
               "order": 4,
               "distance": 518,
               "stop": {
-                "id": 8501,
-                "publicId": "8501",
+                "id": "8501",
+                "internalId": 8501,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724375,
@@ -1066,8 +1066,8 @@
               "order": 5,
               "distance": 4759,
               "stop": {
-                "id": 8607,
-                "publicId": "8607",
+                "id": "8607",
+                "internalId": 8607,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723244,
@@ -1082,8 +1082,8 @@
               "order": 6,
               "distance": 2640,
               "stop": {
-                "id": 18102,
-                "publicId": "18102",
+                "id": "18102",
+                "internalId": 18102,
                 "name": "Bº Do Alto Do Moínho",
                 "position": {
                   "latitude": 38.727745,
@@ -1098,8 +1098,8 @@
               "order": 7,
               "distance": 112,
               "stop": {
-                "id": 50274,
-                "publicId": "14301",
+                "id": "14301",
+                "internalId": 50274,
                 "name": "Miraflores",
                 "position": {
                   "latitude": 38.713882,
@@ -1114,8 +1114,8 @@
               "order": 8,
               "distance": 284,
               "stop": {
-                "id": 14308,
-                "publicId": "14308",
+                "id": "14308",
+                "internalId": 14308,
                 "name": "Miraflores Norte",
                 "position": {
                   "latitude": 38.714244,
@@ -1130,8 +1130,8 @@
               "order": 9,
               "distance": 195,
               "stop": {
-                "id": 14306,
-                "publicId": "14306",
+                "id": "14306",
+                "internalId": 14306,
                 "name": "Alameda Fernão Lopes - Estação",
                 "position": {
                   "latitude": 38.715005,
@@ -1146,8 +1146,8 @@
               "order": 10,
               "distance": 428,
               "stop": {
-                "id": 50059,
-                "publicId": "94901",
+                "id": "94901",
+                "internalId": 50059,
                 "name": "Av. José Gomes Ferreira",
                 "position": {
                   "latitude": 38.714926,
@@ -1162,8 +1162,8 @@
               "order": 11,
               "distance": 0,
               "stop": {
-                "id": 29368,
-                "publicId": "94904",
+                "id": "94904",
+                "internalId": 29368,
                 "name": "Linda A Velha",
                 "position": {
                   "latitude": 38.716029,
@@ -2186,8 +2186,8 @@
               "order": 1,
               "distance": 417,
               "stop": {
-                "id": 29367,
-                "publicId": "94903",
+                "id": "94903",
+                "internalId": 29367,
                 "name": "Linda A Velha",
                 "position": {
                   "latitude": 38.715833,
@@ -2202,8 +2202,8 @@
               "order": 2,
               "distance": 209,
               "stop": {
-                "id": 50066,
-                "publicId": "94902",
+                "id": "94902",
+                "internalId": 50066,
                 "name": "Av. José Gomes Ferreira",
                 "position": {
                   "latitude": 38.714856,
@@ -2218,8 +2218,8 @@
               "order": 3,
               "distance": 186,
               "stop": {
-                "id": 14305,
-                "publicId": "14305",
+                "id": "14305",
+                "internalId": 14305,
                 "name": "Alameda Fernão Lopes - Estação",
                 "position": {
                   "latitude": 38.714636,
@@ -2234,8 +2234,8 @@
               "order": 4,
               "distance": 246,
               "stop": {
-                "id": 14307,
-                "publicId": "14307",
+                "id": "14307",
+                "internalId": 14307,
                 "name": "Miraflores Norte",
                 "position": {
                   "latitude": 38.714145,
@@ -2250,8 +2250,8 @@
               "order": 5,
               "distance": 268,
               "stop": {
-                "id": 14309,
-                "publicId": "14309",
+                "id": "14309",
+                "internalId": 14309,
                 "name": "Miraflores",
                 "position": {
                   "latitude": 38.713332,
@@ -2266,8 +2266,8 @@
               "order": 6,
               "distance": 6976,
               "stop": {
-                "id": 14311,
-                "publicId": "14311",
+                "id": "14311",
+                "internalId": 14311,
                 "name": "Escola Preparatória Miraflores",
                 "position": {
                   "latitude": 38.711082,
@@ -2282,8 +2282,8 @@
               "order": 7,
               "distance": 437,
               "stop": {
-                "id": 8608,
-                "publicId": "8608",
+                "id": "8608",
+                "internalId": 8608,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723303,
@@ -2298,8 +2298,8 @@
               "order": 8,
               "distance": 521,
               "stop": {
-                "id": 8502,
-                "publicId": "8502",
+                "id": "8502",
+                "internalId": 8502,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724091,
@@ -2314,8 +2314,8 @@
               "order": 9,
               "distance": 384,
               "stop": {
-                "id": 1224,
-                "publicId": "1224",
+                "id": "1224",
+                "internalId": 1224,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.724903,
@@ -2330,8 +2330,8 @@
               "order": 10,
               "distance": 266,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,
@@ -2346,8 +2346,8 @@
               "order": 11,
               "distance": 0,
               "stop": {
-                "id": 1229,
-                "publicId": "1229",
+                "id": "1229",
+                "internalId": 1229,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725664,

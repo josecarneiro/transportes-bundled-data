@@ -1,11 +1,15 @@
 {
-  "id": 10919,
-  "publicId": "10919",
+  "id": "10919",
+  "internalId": 10919,
   "name": "R. Garridas",
   "position": {
     "latitude": 38.748556,
     "longitude": -9.201475
   },
   "visible": true,
-  "updateDate": "2019-06-14T16:53:05.000Z"
+  "updateDate": "2019-06-14T16:53:05.000Z",
+  "routes": [
+    "729",
+    "70B"
+  ]
 }

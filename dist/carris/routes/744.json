@@ -1,6 +1,6 @@
 {
-  "id": 200,
-  "number": "744",
+  "id": "744",
+  "internalId": 200,
   "name": "Marquês Pombal - Moscavide",
   "visible": true,
   "creationDate": "2020-05-20T09:26:54.000Z",
@@ -2388,8 +2388,8 @@
               "order": 1,
               "distance": 545,
               "stop": {
-                "id": 1213,
-                "publicId": "1213",
+                "id": "1213",
+                "internalId": 1213,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726129,
@@ -2404,8 +2404,8 @@
               "order": 2,
               "distance": 306,
               "stop": {
-                "id": 1225,
-                "publicId": "1225",
+                "id": "1225",
+                "internalId": 1225,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726303,
@@ -2420,8 +2420,8 @@
               "order": 3,
               "distance": 280,
               "stop": {
-                "id": 1701,
-                "publicId": "1701",
+                "id": "1701",
+                "internalId": 1701,
                 "name": "Av. Fontes Pereira De Melo",
                 "position": {
                   "latitude": 38.728781,
@@ -2436,8 +2436,8 @@
               "order": 4,
               "distance": 354,
               "stop": {
-                "id": 1713,
-                "publicId": "1713",
+                "id": "1713",
+                "internalId": 1713,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.731033,
@@ -2452,8 +2452,8 @@
               "order": 5,
               "distance": 524,
               "stop": {
-                "id": 1807,
-                "publicId": "1807",
+                "id": "1807",
+                "internalId": 1807,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733918,
@@ -2468,8 +2468,8 @@
               "order": 6,
               "distance": 506,
               "stop": {
-                "id": 1809,
-                "publicId": "1809",
+                "id": "1809",
+                "internalId": 1809,
                 "name": "Av. Da República",
                 "position": {
                   "latitude": 38.738523,
@@ -2484,8 +2484,8 @@
               "order": 7,
               "distance": 335,
               "stop": {
-                "id": 1901,
-                "publicId": "1901",
+                "id": "1901",
+                "internalId": 1901,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.742978,
@@ -2500,8 +2500,8 @@
               "order": 8,
               "distance": 355,
               "stop": {
-                "id": 2021,
-                "publicId": "2021",
+                "id": "2021",
+                "internalId": 2021,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.745504,
@@ -2516,8 +2516,8 @@
               "order": 9,
               "distance": 981,
               "stop": {
-                "id": 2053,
-                "publicId": "2053",
+                "id": "2053",
+                "internalId": 2053,
                 "name": "Entrecampos - Av. Eua",
                 "position": {
                   "latitude": 38.748368,
@@ -2532,8 +2532,8 @@
               "order": 10,
               "distance": 327,
               "stop": {
-                "id": 11205,
-                "publicId": "11205",
+                "id": "11205",
+                "internalId": 11205,
                 "name": "Av. Rio Janeiro / Av. Eua",
                 "position": {
                   "latitude": 38.750239,
@@ -2548,8 +2548,8 @@
               "order": 11,
               "distance": 279,
               "stop": {
-                "id": 11201,
-                "publicId": "11201",
+                "id": "11201",
+                "internalId": 11201,
                 "name": "Estádio 1º Maio",
                 "position": {
                   "latitude": 38.753091,
@@ -2564,8 +2564,8 @@
               "order": 12,
               "distance": 211,
               "stop": {
-                "id": 7410,
-                "publicId": "7410",
+                "id": "7410",
+                "internalId": 7410,
                 "name": "Lg. Frei Heitor Pinto",
                 "position": {
                   "latitude": 38.755225,
@@ -2580,8 +2580,8 @@
               "order": 13,
               "distance": 334,
               "stop": {
-                "id": 11315,
-                "publicId": "11315",
+                "id": "11315",
+                "internalId": 11315,
                 "name": "Bombeiros De Alvalade",
                 "position": {
                   "latitude": 38.756795,
@@ -2596,8 +2596,8 @@
               "order": 14,
               "distance": 256,
               "stop": {
-                "id": 11317,
-                "publicId": "11317",
+                "id": "11317",
+                "internalId": 11317,
                 "name": "Escola Padre António Vieira",
                 "position": {
                   "latitude": 38.757521,
@@ -2612,8 +2612,8 @@
               "order": 15,
               "distance": 624,
               "stop": {
-                "id": 11319,
-                "publicId": "11319",
+                "id": "11319",
+                "internalId": 11319,
                 "name": "Pote De Água",
                 "position": {
                   "latitude": 38.759433,
@@ -2628,8 +2628,8 @@
               "order": 16,
               "distance": 721,
               "stop": {
-                "id": 7513,
-                "publicId": "7513",
+                "id": "7513",
+                "internalId": 7513,
                 "name": "Pç. Aeroporto",
                 "position": {
                   "latitude": 38.762248,
@@ -2644,8 +2644,8 @@
               "order": 17,
               "distance": 399,
               "stop": {
-                "id": 7601,
-                "publicId": "7601",
+                "id": "7601",
+                "internalId": 7601,
                 "name": "Aeroporto",
                 "position": {
                   "latitude": 38.767825,
@@ -2660,8 +2660,8 @@
               "order": 18,
               "distance": 308,
               "stop": {
-                "id": 7603,
-                "publicId": "7603",
+                "id": "7603",
+                "internalId": 7603,
                 "name": "Av. De Berlim - Aeroporto",
                 "position": {
                   "latitude": 38.769828,
@@ -2676,8 +2676,8 @@
               "order": 19,
               "distance": 467,
               "stop": {
-                "id": 12209,
-                "publicId": "12209",
+                "id": "12209",
+                "internalId": 12209,
                 "name": "Encarnação - Bombeiros",
                 "position": {
                   "latitude": 38.769456,
@@ -2692,8 +2692,8 @@
               "order": 20,
               "distance": 258,
               "stop": {
-                "id": 7703,
-                "publicId": "7703",
+                "id": "7703",
+                "internalId": 7703,
                 "name": "Av. De Berlim - Viveiros",
                 "position": {
                   "latitude": 38.768918,
@@ -2708,8 +2708,8 @@
               "order": 21,
               "distance": 326,
               "stop": {
-                "id": 7707,
-                "publicId": "7707",
+                "id": "7707",
+                "internalId": 7707,
                 "name": "Piscina Dos Olivais",
                 "position": {
                   "latitude": 38.768601,
@@ -2724,8 +2724,8 @@
               "order": 22,
               "distance": 488,
               "stop": {
-                "id": 7709,
-                "publicId": "7709",
+                "id": "7709",
+                "internalId": 7709,
                 "name": "Av. De Berlim",
                 "position": {
                   "latitude": 38.768241,
@@ -2740,8 +2740,8 @@
               "order": 23,
               "distance": 846,
               "stop": {
-                "id": 7711,
-                "publicId": "7711",
+                "id": "7711",
+                "internalId": 7711,
                 "name": "Av. De Berlim",
                 "position": {
                   "latitude": 38.76769,
@@ -2756,8 +2756,8 @@
               "order": 24,
               "distance": 465,
               "stop": {
-                "id": 7805,
-                "publicId": "7805",
+                "id": "7805",
+                "internalId": 7805,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.768475,
@@ -2772,8 +2772,8 @@
               "order": 25,
               "distance": 328,
               "stop": {
-                "id": 7821,
-                "publicId": "7821",
+                "id": "7821",
+                "internalId": 7821,
                 "name": "Av. Dom João Ii",
                 "position": {
                   "latitude": 38.771557,
@@ -2788,8 +2788,8 @@
               "order": 26,
               "distance": 534,
               "stop": {
-                "id": 7823,
-                "publicId": "7823",
+                "id": "7823",
+                "internalId": 7823,
                 "name": "Av. Da Boa Esperança",
                 "position": {
                   "latitude": 38.7745,
@@ -2804,8 +2804,8 @@
               "order": 27,
               "distance": 222,
               "stop": {
-                "id": 7911,
-                "publicId": "7911",
+                "id": "7911",
+                "internalId": 7911,
                 "name": "Moscavide",
                 "position": {
                   "latitude": 38.774633,
@@ -2820,8 +2820,8 @@
               "order": 28,
               "distance": 181,
               "stop": {
-                "id": 7912,
-                "publicId": "7912",
+                "id": "7912",
+                "internalId": 7912,
                 "name": "Estrada De Moscavide",
                 "position": {
                   "latitude": 38.772781,
@@ -2836,8 +2836,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 7916,
-                "publicId": "7916",
+                "id": "7916",
+                "internalId": 7916,
                 "name": "Qta Das Laranjeiras",
                 "position": {
                   "latitude": 38.771913,
@@ -5190,8 +5190,8 @@
               "order": 1,
               "distance": 201,
               "stop": {
-                "id": 7916,
-                "publicId": "7916",
+                "id": "7916",
+                "internalId": 7916,
                 "name": "Qta Das Laranjeiras",
                 "position": {
                   "latitude": 38.771913,
@@ -5206,8 +5206,8 @@
               "order": 2,
               "distance": 413,
               "stop": {
-                "id": 7915,
-                "publicId": "7915",
+                "id": "7915",
+                "internalId": 7915,
                 "name": "Rua Padre Joaquim Correia",
                 "position": {
                   "latitude": 38.772738,
@@ -5222,8 +5222,8 @@
               "order": 3,
               "distance": 448,
               "stop": {
-                "id": 7910,
-                "publicId": "7910",
+                "id": "7910",
+                "internalId": 7910,
                 "name": "Rua João Pinto Ribeiro",
                 "position": {
                   "latitude": 38.77478,
@@ -5238,8 +5238,8 @@
               "order": 4,
               "distance": 339,
               "stop": {
-                "id": 7824,
-                "publicId": "7824",
+                "id": "7824",
+                "internalId": 7824,
                 "name": "Av. Da Boa Esperança",
                 "position": {
                   "latitude": 38.774377,
@@ -5254,8 +5254,8 @@
               "order": 5,
               "distance": 599,
               "stop": {
-                "id": 7822,
-                "publicId": "7822",
+                "id": "7822",
+                "internalId": 7822,
                 "name": "Av. Dom João Ii",
                 "position": {
                   "latitude": 38.771328,
@@ -5270,8 +5270,8 @@
               "order": 6,
               "distance": 611,
               "stop": {
-                "id": 7825,
-                "publicId": "7825",
+                "id": "7825",
+                "internalId": 7825,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.767173,
@@ -5286,8 +5286,8 @@
               "order": 7,
               "distance": 263,
               "stop": {
-                "id": 7712,
-                "publicId": "7712",
+                "id": "7712",
+                "internalId": 7712,
                 "name": "Av. De Berlim",
                 "position": {
                   "latitude": 38.767814,
@@ -5302,8 +5302,8 @@
               "order": 8,
               "distance": 263,
               "stop": {
-                "id": 50330,
-                "publicId": "7728",
+                "id": "7728",
+                "internalId": 50330,
                 "name": "Av. Berlim (Pç. Baden Powell)",
                 "position": {
                   "latitude": 38.768116,
@@ -5318,8 +5318,8 @@
               "order": 9,
               "distance": 250,
               "stop": {
-                "id": 7710,
-                "publicId": "7710",
+                "id": "7710",
+                "internalId": 7710,
                 "name": "Av. De Berlim",
                 "position": {
                   "latitude": 38.768384,
@@ -5334,8 +5334,8 @@
               "order": 10,
               "distance": 244,
               "stop": {
-                "id": 7708,
-                "publicId": "7708",
+                "id": "7708",
+                "internalId": 7708,
                 "name": "Piscina Dos Olivais",
                 "position": {
                   "latitude": 38.768694,
@@ -5350,8 +5350,8 @@
               "order": 11,
               "distance": 512,
               "stop": {
-                "id": 7704,
-                "publicId": "7704",
+                "id": "7704",
+                "internalId": 7704,
                 "name": "Av. De Berlim - Viveiros",
                 "position": {
                   "latitude": 38.769084,
@@ -5366,8 +5366,8 @@
               "order": 12,
               "distance": 378,
               "stop": {
-                "id": 12202,
-                "publicId": "12202",
+                "id": "12202",
+                "internalId": 12202,
                 "name": "Encarnação - Bombeiros",
                 "position": {
                   "latitude": 38.769616,
@@ -5382,8 +5382,8 @@
               "order": 13,
               "distance": 318,
               "stop": {
-                "id": 7604,
-                "publicId": "7604",
+                "id": "7604",
+                "internalId": 7604,
                 "name": "Av. De Berlim - Aeroporto",
                 "position": {
                   "latitude": 38.770196,
@@ -5398,8 +5398,8 @@
               "order": 14,
               "distance": 885,
               "stop": {
-                "id": 7602,
-                "publicId": "7602",
+                "id": "7602",
+                "internalId": 7602,
                 "name": "Aeroporto",
                 "position": {
                   "latitude": 38.768962,
@@ -5414,8 +5414,8 @@
               "order": 15,
               "distance": 709,
               "stop": {
-                "id": 7502,
-                "publicId": "7502",
+                "id": "7502",
+                "internalId": 7502,
                 "name": "Pç. Aeroporto",
                 "position": {
                   "latitude": 38.762363,
@@ -5430,8 +5430,8 @@
               "order": 16,
               "distance": 186,
               "stop": {
-                "id": 11316,
-                "publicId": "11316",
+                "id": "11316",
+                "internalId": 11316,
                 "name": "Pote De Água",
                 "position": {
                   "latitude": 38.759119,
@@ -5446,8 +5446,8 @@
               "order": 17,
               "distance": 259,
               "stop": {
-                "id": 11318,
-                "publicId": "11318",
+                "id": "11318",
+                "internalId": 11318,
                 "name": "Rua Reinaldo Ferreira",
                 "position": {
                   "latitude": 38.75757,
@@ -5462,8 +5462,8 @@
               "order": 18,
               "distance": 260,
               "stop": {
-                "id": 11314,
-                "publicId": "11314",
+                "id": "11314",
+                "internalId": 11314,
                 "name": "Bombeiros Alvalade",
                 "position": {
                   "latitude": 38.756341,
@@ -5478,8 +5478,8 @@
               "order": 19,
               "distance": 220,
               "stop": {
-                "id": 7411,
-                "publicId": "7411",
+                "id": "7411",
+                "internalId": 7411,
                 "name": "Lg. Frei Heitor Pinto",
                 "position": {
                   "latitude": 38.754292,
@@ -5494,8 +5494,8 @@
               "order": 20,
               "distance": 443,
               "stop": {
-                "id": 11202,
-                "publicId": "11202",
+                "id": "11202",
+                "internalId": 11202,
                 "name": "Estádio 1º Maio",
                 "position": {
                   "latitude": 38.752465,
@@ -5510,8 +5510,8 @@
               "order": 21,
               "distance": 732,
               "stop": {
-                "id": 11209,
-                "publicId": "11209",
+                "id": "11209",
+                "internalId": 11209,
                 "name": "Av. Do Rio De Janeiro",
                 "position": {
                   "latitude": 38.749242,
@@ -5526,8 +5526,8 @@
               "order": 22,
               "distance": 320,
               "stop": {
-                "id": 2016,
-                "publicId": "2016",
+                "id": "2016",
+                "internalId": 2016,
                 "name": "Entrecampos - Av. Eua",
                 "position": {
                   "latitude": 38.748714,
@@ -5542,8 +5542,8 @@
               "order": 23,
               "distance": 231,
               "stop": {
-                "id": 2002,
-                "publicId": "2002",
+                "id": "2002",
+                "internalId": 2002,
                 "name": "Entrecampos",
                 "position": {
                   "latitude": 38.747602,
@@ -5558,8 +5558,8 @@
               "order": 24,
               "distance": 378,
               "stop": {
-                "id": 2019,
-                "publicId": "2019",
+                "id": "2019",
+                "internalId": 2019,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.744815,
@@ -5574,8 +5574,8 @@
               "order": 25,
               "distance": 417,
               "stop": {
-                "id": 1902,
-                "publicId": "1902",
+                "id": "1902",
+                "internalId": 1902,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.741922,
@@ -5590,8 +5590,8 @@
               "order": 26,
               "distance": 525,
               "stop": {
-                "id": 1814,
-                "publicId": "1814",
+                "id": "1814",
+                "internalId": 1814,
                 "name": "Av. Da República",
                 "position": {
                   "latitude": 38.738267,
@@ -5606,8 +5606,8 @@
               "order": 27,
               "distance": 313,
               "stop": {
-                "id": 1812,
-                "publicId": "1812",
+                "id": "1812",
+                "internalId": 1812,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733625,
@@ -5622,8 +5622,8 @@
               "order": 28,
               "distance": 307,
               "stop": {
-                "id": 1714,
-                "publicId": "1714",
+                "id": "1714",
+                "internalId": 1714,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.731072,
@@ -5638,8 +5638,8 @@
               "order": 29,
               "distance": 301,
               "stop": {
-                "id": 1702,
-                "publicId": "1702",
+                "id": "1702",
+                "internalId": 1702,
                 "name": "Av. Fontes Pereira De Melo",
                 "position": {
                   "latitude": 38.72861,
@@ -5654,8 +5654,8 @@
               "order": 30,
               "distance": 83,
               "stop": {
-                "id": 1206,
-                "publicId": "1206",
+                "id": "1206",
+                "internalId": 1206,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726233,
@@ -5670,8 +5670,8 @@
               "order": 31,
               "distance": 0,
               "stop": {
-                "id": 1213,
-                "publicId": "1213",
+                "id": "1213",
+                "internalId": 1213,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726129,

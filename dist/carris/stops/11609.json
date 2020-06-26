@@ -1,11 +1,14 @@
 {
-  "id": 11609,
-  "publicId": "11609",
+  "id": "11609",
+  "internalId": 11609,
   "name": "Qta Da Torrinha",
   "position": {
     "latitude": 38.790887,
     "longitude": -9.157305
   },
   "visible": true,
-  "updateDate": "2012-12-14T18:15:04.000Z"
+  "updateDate": "2012-12-14T18:15:04.000Z",
+  "routes": [
+    "796"
+  ]
 }

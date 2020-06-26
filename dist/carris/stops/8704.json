@@ -1,11 +1,15 @@
 {
-  "id": 8704,
-  "publicId": "8704",
+  "id": "8704",
+  "internalId": 8704,
   "name": "Av. Tenente Martins",
   "position": {
     "latitude": 38.728692,
     "longitude": -9.190766
   },
   "visible": true,
-  "updateDate": "2012-12-13T16:45:30.000Z"
+  "updateDate": "2012-12-13T16:45:30.000Z",
+  "routes": [
+    "711",
+    "724"
+  ]
 }

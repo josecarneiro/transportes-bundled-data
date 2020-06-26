@@ -1,11 +1,16 @@
 {
-  "id": 13606,
-  "publicId": "13606",
+  "id": "13606",
+  "internalId": 13606,
   "name": "Estr. Da Luz / Rua Dos Soeiros",
   "position": {
     "latitude": 38.756594,
     "longitude": -9.177394
   },
   "visible": true,
-  "updateDate": "2012-06-15T11:48:31.000Z"
+  "updateDate": "2012-06-15T11:48:31.000Z",
+  "routes": [
+    "726",
+    "764",
+    "768"
+  ]
 }

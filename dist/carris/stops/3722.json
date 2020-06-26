@@ -1,11 +1,15 @@
 {
-  "id": 50175,
-  "publicId": "3722",
+  "id": "3722",
+  "internalId": 50175,
   "name": "Bº Alfinetes",
   "position": {
     "latitude": 38.741858,
     "longitude": -9.108452
   },
   "visible": true,
-  "updateDate": "2018-01-31T11:40:50.000Z"
+  "updateDate": "2018-01-31T11:40:50.000Z",
+  "routes": [
+    "793",
+    "31B"
+  ]
 }

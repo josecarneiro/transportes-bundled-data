@@ -1,6 +1,6 @@
 {
-  "id": 191,
-  "number": "770",
+  "id": "770",
+  "internalId": 191,
   "name": "Sete Rios (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -1946,8 +1946,8 @@
               "order": 18,
               "distance": 0,
               "stop": {
-                "id": 1614,
-                "publicId": "1614",
+                "id": "1614",
+                "internalId": 1614,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.74192,
@@ -1962,8 +1962,8 @@
               "order": 2,
               "distance": 447,
               "stop": {
-                "id": 1606,
-                "publicId": "1606",
+                "id": "1606",
+                "internalId": 1606,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.741872,
@@ -1978,8 +1978,8 @@
               "order": 3,
               "distance": 485,
               "stop": {
-                "id": 1618,
-                "publicId": "1618",
+                "id": "1618",
+                "internalId": 1618,
                 "name": "Centro De Saúde De Sete Rios",
                 "position": {
                   "latitude": 38.739868,
@@ -1994,8 +1994,8 @@
               "order": 4,
               "distance": 230,
               "stop": {
-                "id": 10718,
-                "publicId": "10718",
+                "id": "10718",
+                "internalId": 10718,
                 "name": "Rua Francisco Gentil - Furnas",
                 "position": {
                   "latitude": 38.740118,
@@ -2010,8 +2010,8 @@
               "order": 5,
               "distance": 446,
               "stop": {
-                "id": 10714,
-                "publicId": "10714",
+                "id": "10714",
+                "internalId": 10714,
                 "name": "Cruz Da Pedra",
                 "position": {
                   "latitude": 38.741232,
@@ -2026,8 +2026,8 @@
               "order": 6,
               "distance": 322,
               "stop": {
-                "id": 10711,
-                "publicId": "10711",
+                "id": "10711",
+                "internalId": 10711,
                 "name": "Rua Conde De Almoster",
                 "position": {
                   "latitude": 38.743413,
@@ -2042,8 +2042,8 @@
               "order": 7,
               "distance": 910,
               "stop": {
-                "id": 10717,
-                "publicId": "10717",
+                "id": "10717",
+                "internalId": 10717,
                 "name": "Rua Sousa Loureiro",
                 "position": {
                   "latitude": 38.744722,
@@ -2058,8 +2058,8 @@
               "order": 8,
               "distance": 267,
               "stop": {
-                "id": 10719,
-                "publicId": "10719",
+                "id": "10719",
+                "internalId": 10719,
                 "name": "Travessa De São Domingos",
                 "position": {
                   "latitude": 38.742321,
@@ -2074,8 +2074,8 @@
               "order": 9,
               "distance": 417,
               "stop": {
-                "id": 10721,
-                "publicId": "10721",
+                "id": "10721",
+                "internalId": 10721,
                 "name": "Palácio Marquês De Fronteira",
                 "position": {
                   "latitude": 38.740406,
@@ -2090,8 +2090,8 @@
               "order": 10,
               "distance": 319,
               "stop": {
-                "id": 10723,
-                "publicId": "10723",
+                "id": "10723",
+                "internalId": 10723,
                 "name": "Bº Do Calhau",
                 "position": {
                   "latitude": 38.739275,
@@ -2106,8 +2106,8 @@
               "order": 11,
               "distance": 722,
               "stop": {
-                "id": 10722,
-                "publicId": "10722",
+                "id": "10722",
+                "internalId": 10722,
                 "name": "Palácio Marquês De Fronteira",
                 "position": {
                   "latitude": 38.740523,
@@ -2122,8 +2122,8 @@
               "order": 12,
               "distance": 1474,
               "stop": {
-                "id": 10726,
-                "publicId": "10726",
+                "id": "10726",
+                "internalId": 10726,
                 "name": "Parque Recreativo Da Serafina",
                 "position": {
                   "latitude": 38.735858,
@@ -2138,8 +2138,8 @@
               "order": 13,
               "distance": 367,
               "stop": {
-                "id": 50087,
-                "publicId": "2723",
+                "id": "2723",
+                "internalId": 50087,
                 "name": "Serafina",
                 "position": {
                   "latitude": 38.730892,
@@ -2154,8 +2154,8 @@
               "order": 14,
               "distance": 372,
               "stop": {
-                "id": 2709,
-                "publicId": "2709",
+                "id": "2709",
+                "internalId": 2709,
                 "name": "Rua Padre Domingos Santos",
                 "position": {
                   "latitude": 38.732515,
@@ -2170,8 +2170,8 @@
               "order": 15,
               "distance": 566,
               "stop": {
-                "id": 2720,
-                "publicId": "2720",
+                "id": "2720",
+                "internalId": 2720,
                 "name": "Rua C - Bº Da Liberdade",
                 "position": {
                   "latitude": 38.735392,
@@ -2186,8 +2186,8 @@
               "order": 16,
               "distance": 330,
               "stop": {
-                "id": 2713,
-                "publicId": "2713",
+                "id": "2713",
+                "internalId": 2713,
                 "name": "Av. José Malhoa",
                 "position": {
                   "latitude": 38.737727,
@@ -2202,8 +2202,8 @@
               "order": 17,
               "distance": 289,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -2218,8 +2218,8 @@
               "order": 1,
               "distance": 182,
               "stop": {
-                "id": 1614,
-                "publicId": "1614",
+                "id": "1614",
+                "internalId": 1614,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.74192,
@@ -4313,8 +4313,8 @@
               "order": 19,
               "distance": 0,
               "stop": {
-                "id": 1614,
-                "publicId": "1614",
+                "id": "1614",
+                "internalId": 1614,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.74192,
@@ -4329,8 +4329,8 @@
               "order": 2,
               "distance": 447,
               "stop": {
-                "id": 1606,
-                "publicId": "1606",
+                "id": "1606",
+                "internalId": 1606,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.741872,
@@ -4345,8 +4345,8 @@
               "order": 3,
               "distance": 485,
               "stop": {
-                "id": 1618,
-                "publicId": "1618",
+                "id": "1618",
+                "internalId": 1618,
                 "name": "Centro De Saúde De Sete Rios",
                 "position": {
                   "latitude": 38.739868,
@@ -4361,8 +4361,8 @@
               "order": 4,
               "distance": 230,
               "stop": {
-                "id": 10718,
-                "publicId": "10718",
+                "id": "10718",
+                "internalId": 10718,
                 "name": "Rua Francisco Gentil - Furnas",
                 "position": {
                   "latitude": 38.740118,
@@ -4377,8 +4377,8 @@
               "order": 5,
               "distance": 446,
               "stop": {
-                "id": 10714,
-                "publicId": "10714",
+                "id": "10714",
+                "internalId": 10714,
                 "name": "Cruz Da Pedra",
                 "position": {
                   "latitude": 38.741232,
@@ -4393,8 +4393,8 @@
               "order": 6,
               "distance": 322,
               "stop": {
-                "id": 10711,
-                "publicId": "10711",
+                "id": "10711",
+                "internalId": 10711,
                 "name": "Rua Conde De Almoster",
                 "position": {
                   "latitude": 38.743413,
@@ -4409,8 +4409,8 @@
               "order": 7,
               "distance": 910,
               "stop": {
-                "id": 10717,
-                "publicId": "10717",
+                "id": "10717",
+                "internalId": 10717,
                 "name": "Rua Sousa Loureiro",
                 "position": {
                   "latitude": 38.744722,
@@ -4425,8 +4425,8 @@
               "order": 8,
               "distance": 267,
               "stop": {
-                "id": 10719,
-                "publicId": "10719",
+                "id": "10719",
+                "internalId": 10719,
                 "name": "Travessa De São Domingos",
                 "position": {
                   "latitude": 38.742321,
@@ -4441,8 +4441,8 @@
               "order": 9,
               "distance": 417,
               "stop": {
-                "id": 10721,
-                "publicId": "10721",
+                "id": "10721",
+                "internalId": 10721,
                 "name": "Palácio Marquês De Fronteira",
                 "position": {
                   "latitude": 38.740406,
@@ -4457,8 +4457,8 @@
               "order": 10,
               "distance": 319,
               "stop": {
-                "id": 10723,
-                "publicId": "10723",
+                "id": "10723",
+                "internalId": 10723,
                 "name": "Bº Do Calhau",
                 "position": {
                   "latitude": 38.739275,
@@ -4473,8 +4473,8 @@
               "order": 11,
               "distance": 1363,
               "stop": {
-                "id": 10722,
-                "publicId": "10722",
+                "id": "10722",
+                "internalId": 10722,
                 "name": "Palácio Marquês De Fronteira",
                 "position": {
                   "latitude": 38.740523,
@@ -4489,8 +4489,8 @@
               "order": 12,
               "distance": 970,
               "stop": {
-                "id": 50355,
-                "publicId": "87101",
+                "id": "87101",
+                "internalId": 50355,
                 "name": "Espaço Monsanto",
                 "position": {
                   "latitude": 38.740673,
@@ -4505,8 +4505,8 @@
               "order": 13,
               "distance": 1474,
               "stop": {
-                "id": 10726,
-                "publicId": "10726",
+                "id": "10726",
+                "internalId": 10726,
                 "name": "Parque Recreativo Da Serafina",
                 "position": {
                   "latitude": 38.735858,
@@ -4521,8 +4521,8 @@
               "order": 14,
               "distance": 367,
               "stop": {
-                "id": 50087,
-                "publicId": "2723",
+                "id": "2723",
+                "internalId": 50087,
                 "name": "Serafina",
                 "position": {
                   "latitude": 38.730892,
@@ -4537,8 +4537,8 @@
               "order": 15,
               "distance": 372,
               "stop": {
-                "id": 2709,
-                "publicId": "2709",
+                "id": "2709",
+                "internalId": 2709,
                 "name": "Rua Padre Domingos Santos",
                 "position": {
                   "latitude": 38.732515,
@@ -4553,8 +4553,8 @@
               "order": 16,
               "distance": 566,
               "stop": {
-                "id": 2720,
-                "publicId": "2720",
+                "id": "2720",
+                "internalId": 2720,
                 "name": "Rua C - Bº Da Liberdade",
                 "position": {
                   "latitude": 38.735392,
@@ -4569,8 +4569,8 @@
               "order": 17,
               "distance": 330,
               "stop": {
-                "id": 2713,
-                "publicId": "2713",
+                "id": "2713",
+                "internalId": 2713,
                 "name": "Av. José Malhoa",
                 "position": {
                   "latitude": 38.737727,
@@ -4585,8 +4585,8 @@
               "order": 18,
               "distance": 289,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -4601,8 +4601,8 @@
               "order": 1,
               "distance": 182,
               "stop": {
-                "id": 1614,
-                "publicId": "1614",
+                "id": "1614",
+                "internalId": 1614,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.74192,

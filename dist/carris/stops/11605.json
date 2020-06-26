@@ -1,11 +1,15 @@
 {
-  "id": 11605,
-  "publicId": "11605",
+  "id": "11605",
+  "internalId": 11605,
   "name": "Qta. Balsares",
   "position": {
     "latitude": 38.793497,
     "longitude": -9.152046
   },
   "visible": true,
-  "updateDate": "2019-03-26T17:44:38.000Z"
+  "updateDate": "2019-03-26T17:44:38.000Z",
+  "routes": [
+    "207",
+    "717"
+  ]
 }

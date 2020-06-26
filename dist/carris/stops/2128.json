@@ -1,11 +1,20 @@
 {
-  "id": 2128,
-  "publicId": "2128",
+  "id": "2128",
+  "internalId": 2128,
   "name": "Estação Sta. Apolónia (Mercado",
   "position": {
     "latitude": 38.716784,
     "longitude": -9.119135
   },
   "visible": true,
-  "updateDate": "2019-02-12T12:09:36.000Z"
+  "updateDate": "2019-02-12T12:09:36.000Z",
+  "routes": [
+    "206",
+    "210",
+    "706",
+    "728",
+    "735",
+    "759",
+    "794"
+  ]
 }

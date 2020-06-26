@@ -1,11 +1,21 @@
 {
-  "id": 1103,
-  "publicId": "1103",
+  "id": "1103",
+  "internalId": 1103,
   "name": "Av. Da Liberdade",
   "position": {
     "latitude": 38.719736,
     "longitude": -9.145015
   },
   "visible": true,
-  "updateDate": "2018-06-29T15:29:24.000Z"
+  "updateDate": "2018-06-29T15:29:24.000Z",
+  "routes": [
+    "207",
+    "709",
+    "711",
+    "732",
+    "736",
+    "746",
+    "783",
+    "88B"
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "id": 236,
-  "number": "22B",
+  "id": "22B",
+  "internalId": 236,
   "name": "Cais Sodré (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -21,8 +21,8 @@
               "order": 15,
               "distance": 0,
               "stop": {
-                "id": 50460,
-                "publicId": "3816",
+                "id": "3816",
+                "internalId": 50460,
                 "name": "Cais Sodré (Centro Saúde)",
                 "position": {
                   "latitude": 38.707239,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 113,
               "stop": {
-                "id": 50461,
-                "publicId": "3817",
+                "id": "3817",
+                "internalId": 50461,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706656,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 400,
               "stop": {
-                "id": 3825,
-                "publicId": "3825",
+                "id": "3825",
+                "internalId": 3825,
                 "name": "Rua Do Alecrim",
                 "position": {
                   "latitude": 38.707592,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 237,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 249,
               "stop": {
-                "id": 50074,
-                "publicId": "10505",
+                "id": "10505",
+                "internalId": 50074,
                 "name": "Travessa Da Água Da Flor",
                 "position": {
                   "latitude": 38.713567,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 292,
               "stop": {
-                "id": 50076,
-                "publicId": "10603",
+                "id": "10603",
+                "internalId": 50076,
                 "name": "Príncipe Real",
                 "position": {
                   "latitude": 38.715712,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 263,
               "stop": {
-                "id": 50075,
-                "publicId": "10610",
+                "id": "10610",
+                "internalId": 50075,
                 "name": "Rua Dom Pedro V",
                 "position": {
                   "latitude": 38.715387,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 132,
               "stop": {
-                "id": 6716,
-                "publicId": "6716",
+                "id": "6716",
+                "internalId": 6716,
                 "name": "Rua Da Palmeira",
                 "position": {
                   "latitude": 38.714839,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 249,
               "stop": {
-                "id": 6714,
-                "publicId": "6714",
+                "id": "6714",
+                "internalId": 6714,
                 "name": "Praça Das Flores",
                 "position": {
                   "latitude": 38.714907,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 317,
               "stop": {
-                "id": 6704,
-                "publicId": "6704",
+                "id": "6704",
+                "internalId": 6704,
                 "name": "Palácio De São Bento (Jardim)",
                 "position": {
                   "latitude": 38.713484,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 280,
               "stop": {
-                "id": 6723,
-                "publicId": "6723",
+                "id": "6723",
+                "internalId": 6723,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.710967,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 423,
               "stop": {
-                "id": 7106,
-                "publicId": "7106",
+                "id": "7106",
+                "internalId": 7106,
                 "name": "Conde Barão",
                 "position": {
                   "latitude": 38.70862,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 329,
               "stop": {
-                "id": 9902,
-                "publicId": "9902",
+                "id": "9902",
+                "internalId": 9902,
                 "name": "Rua De São Paulo / Bica",
                 "position": {
                   "latitude": 38.708449,
@@ -245,8 +245,8 @@
               "order": 1,
               "distance": 282,
               "stop": {
-                "id": 50460,
-                "publicId": "3816",
+                "id": "3816",
+                "internalId": 50460,
                 "name": "Cais Sodré (Centro Saúde)",
                 "position": {
                   "latitude": 38.707239,

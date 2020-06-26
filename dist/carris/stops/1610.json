@@ -1,11 +1,16 @@
 {
-  "id": 1610,
-  "publicId": "1610",
+  "id": "1610",
+  "internalId": 1610,
   "name": "Sete Rios",
   "position": {
     "latitude": 38.742006,
     "longitude": -9.169437
   },
   "visible": true,
-  "updateDate": "2018-02-20T09:58:31.000Z"
+  "updateDate": "2018-02-20T09:58:31.000Z",
+  "routes": [
+    "202",
+    "716",
+    "746"
+  ]
 }

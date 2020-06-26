@@ -1,11 +1,14 @@
 {
-  "id": 10707,
-  "publicId": "10707",
+  "id": "10707",
+  "internalId": 10707,
   "name": "Escola Delfim Santos",
   "position": {
     "latitude": 38.748161,
     "longitude": -9.180958
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:55.000Z"
+  "updateDate": "2010-12-02T17:19:55.000Z",
+  "routes": [
+    "754"
+  ]
 }

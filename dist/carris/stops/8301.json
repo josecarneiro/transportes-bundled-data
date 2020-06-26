@@ -1,11 +1,19 @@
 {
-  "id": 8301,
-  "publicId": "8301",
+  "id": "8301",
+  "internalId": 8301,
   "name": "Ponte Xabregas",
   "position": {
     "latitude": 38.726269,
     "longitude": -9.111863
   },
   "visible": true,
-  "updateDate": "2019-07-19T15:41:22.000Z"
+  "updateDate": "2019-07-19T15:41:22.000Z",
+  "routes": [
+    "210",
+    "718",
+    "728",
+    "742",
+    "759",
+    "34B"
+  ]
 }

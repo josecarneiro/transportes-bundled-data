@@ -1,6 +1,6 @@
 {
-  "id": 177,
-  "number": "747",
+  "id": "747",
+  "internalId": 177,
   "name": "C. Grande-Metro - Pontinha-Metro",
   "visible": true,
   "creationDate": "2020-05-21T11:02:00.000Z",
@@ -1782,8 +1782,8 @@
               "order": 1,
               "distance": 243,
               "stop": {
-                "id": 5827,
-                "publicId": "5827",
+                "id": "5827",
+                "internalId": 5827,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.761073,
@@ -1798,8 +1798,8 @@
               "order": 2,
               "distance": 428,
               "stop": {
-                "id": 5807,
-                "publicId": "5807",
+                "id": "5807",
+                "internalId": 5807,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.761097,
@@ -1814,8 +1814,8 @@
               "order": 3,
               "distance": 495,
               "stop": {
-                "id": 5811,
-                "publicId": "5811",
+                "id": "5811",
+                "internalId": 5811,
                 "name": "Hosp. Pulido Valente",
                 "position": {
                   "latitude": 38.764564,
@@ -1830,8 +1830,8 @@
               "order": 4,
               "distance": 299,
               "stop": {
-                "id": 5813,
-                "publicId": "5813",
+                "id": "5813",
+                "internalId": 5813,
                 "name": "Av. Rainha D. Amélia",
                 "position": {
                   "latitude": 38.76677,
@@ -1846,8 +1846,8 @@
               "order": 5,
               "distance": 545,
               "stop": {
-                "id": 5815,
-                "publicId": "5815",
+                "id": "5815",
+                "internalId": 5815,
                 "name": "Inst. Ricardo Jorge",
                 "position": {
                   "latitude": 38.767055,
@@ -1862,8 +1862,8 @@
               "order": 6,
               "distance": 346,
               "stop": {
-                "id": 50003,
-                "publicId": "50003",
+                "id": "50003",
+                "internalId": 50003,
                 "name": "R. Prof. Vieira Almeida",
                 "position": {
                   "latitude": 38.764216,
@@ -1878,8 +1878,8 @@
               "order": 7,
               "distance": 302,
               "stop": {
-                "id": 50005,
-                "publicId": "50005",
+                "id": "50005",
+                "internalId": 50005,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.761099,
@@ -1894,8 +1894,8 @@
               "order": 8,
               "distance": 306,
               "stop": {
-                "id": 50011,
-                "publicId": "50011",
+                "id": "50011",
+                "internalId": 50011,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760578,
@@ -1910,8 +1910,8 @@
               "order": 9,
               "distance": 690,
               "stop": {
-                "id": 50007,
-                "publicId": "50007",
+                "id": "50007",
+                "internalId": 50007,
                 "name": "R. Prof. João Barreira",
                 "position": {
                   "latitude": 38.762457,
@@ -1926,8 +1926,8 @@
               "order": 10,
               "distance": 413,
               "stop": {
-                "id": 50021,
-                "publicId": "50021",
+                "id": "50021",
+                "internalId": 50021,
                 "name": "Av. Nações Unidas",
                 "position": {
                   "latitude": 38.76462,
@@ -1942,8 +1942,8 @@
               "order": 11,
               "distance": 297,
               "stop": {
-                "id": 12829,
-                "publicId": "12829",
+                "id": "12829",
+                "internalId": 12829,
                 "name": "R. Eugénio Salvador",
                 "position": {
                   "latitude": 38.767095,
@@ -1958,8 +1958,8 @@
               "order": 12,
               "distance": 224,
               "stop": {
-                "id": 12810,
-                "publicId": "12810",
+                "id": "12810",
+                "internalId": 12810,
                 "name": "B.º Horta Nova",
                 "position": {
                   "latitude": 38.767048,
@@ -1974,8 +1974,8 @@
               "order": 13,
               "distance": 273,
               "stop": {
-                "id": 50360,
-                "publicId": "12815",
+                "id": "12815",
+                "internalId": 50360,
                 "name": "Av. Cidade Praga (Lispolis)",
                 "position": {
                   "latitude": 38.766387,
@@ -1990,8 +1990,8 @@
               "order": 14,
               "distance": 537,
               "stop": {
-                "id": 12832,
-                "publicId": "12832",
+                "id": "12832",
+                "internalId": 12832,
                 "name": "Az. Serrado",
                 "position": {
                   "latitude": 38.76764,
@@ -2006,8 +2006,8 @@
               "order": 15,
               "distance": 209,
               "stop": {
-                "id": 14112,
-                "publicId": "14112",
+                "id": "14112",
+                "internalId": 14112,
                 "name": "B.º Padre Cruz",
                 "position": {
                   "latitude": 38.76959,
@@ -2022,8 +2022,8 @@
               "order": 16,
               "distance": 220,
               "stop": {
-                "id": 14105,
-                "publicId": "14105",
+                "id": "14105",
+                "internalId": 14105,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.770974,
@@ -2038,8 +2038,8 @@
               "order": 17,
               "distance": 283,
               "stop": {
-                "id": 14103,
-                "publicId": "14103",
+                "id": "14103",
+                "internalId": 14103,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.772223,
@@ -2054,8 +2054,8 @@
               "order": 18,
               "distance": 312,
               "stop": {
-                "id": 14101,
-                "publicId": "14101",
+                "id": "14101",
+                "internalId": 14101,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770995,
@@ -2070,8 +2070,8 @@
               "order": 19,
               "distance": 514,
               "stop": {
-                "id": 14111,
-                "publicId": "14111",
+                "id": "14111",
+                "internalId": 14111,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768798,
@@ -2086,8 +2086,8 @@
               "order": 20,
               "distance": 581,
               "stop": {
-                "id": 13909,
-                "publicId": "13909",
+                "id": "13909",
+                "internalId": 13909,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.765117,
@@ -2102,8 +2102,8 @@
               "order": 21,
               "distance": 232,
               "stop": {
-                "id": 13907,
-                "publicId": "13907",
+                "id": "13907",
+                "internalId": 13907,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761686,
@@ -2118,8 +2118,8 @@
               "order": 22,
               "distance": 0,
               "stop": {
-                "id": 13913,
-                "publicId": "13913",
+                "id": "13913",
+                "internalId": 13913,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761463,
@@ -2141,8 +2141,8 @@
               "order": 1,
               "distance": 566,
               "stop": {
-                "id": 13913,
-                "publicId": "13913",
+                "id": "13913",
+                "internalId": 13913,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761463,
@@ -2157,8 +2157,8 @@
               "order": 2,
               "distance": 401,
               "stop": {
-                "id": 13906,
-                "publicId": "13906",
+                "id": "13906",
+                "internalId": 13906,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.766045,
@@ -2173,8 +2173,8 @@
               "order": 3,
               "distance": 294,
               "stop": {
-                "id": 14110,
-                "publicId": "14110",
+                "id": "14110",
+                "internalId": 14110,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768933,
@@ -2189,8 +2189,8 @@
               "order": 4,
               "distance": 339,
               "stop": {
-                "id": 14102,
-                "publicId": "14102",
+                "id": "14102",
+                "internalId": 14102,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770954,
@@ -2205,8 +2205,8 @@
               "order": 5,
               "distance": 130,
               "stop": {
-                "id": 14104,
-                "publicId": "14104",
+                "id": "14104",
+                "internalId": 14104,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.771974,
@@ -2221,8 +2221,8 @@
               "order": 6,
               "distance": 262,
               "stop": {
-                "id": 14106,
-                "publicId": "14106",
+                "id": "14106",
+                "internalId": 14106,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.771073,
@@ -2237,8 +2237,8 @@
               "order": 7,
               "distance": 426,
               "stop": {
-                "id": 14108,
-                "publicId": "14108",
+                "id": "14108",
+                "internalId": 14108,
                 "name": "B.º Padre Cruz",
                 "position": {
                   "latitude": 38.769246,
@@ -2253,8 +2253,8 @@
               "order": 8,
               "distance": 198,
               "stop": {
-                "id": 12831,
-                "publicId": "12831",
+                "id": "12831",
+                "internalId": 12831,
                 "name": "Az. Serrado",
                 "position": {
                   "latitude": 38.76743,
@@ -2269,8 +2269,8 @@
               "order": 9,
               "distance": 353,
               "stop": {
-                "id": 50365,
-                "publicId": "12818",
+                "id": "12818",
+                "internalId": 50365,
                 "name": "Av. Cidade Praga (Lispolis)",
                 "position": {
                   "latitude": 38.766468,
@@ -2285,8 +2285,8 @@
               "order": 10,
               "distance": 150,
               "stop": {
-                "id": 12811,
-                "publicId": "12811",
+                "id": "12811",
+                "internalId": 12811,
                 "name": "B.º Horta Nova",
                 "position": {
                   "latitude": 38.767279,
@@ -2301,8 +2301,8 @@
               "order": 11,
               "distance": 346,
               "stop": {
-                "id": 12830,
-                "publicId": "12830",
+                "id": "12830",
+                "internalId": 12830,
                 "name": "R. Eugénio Salvador",
                 "position": {
                   "latitude": 38.767707,
@@ -2317,8 +2317,8 @@
               "order": 12,
               "distance": 264,
               "stop": {
-                "id": 12833,
-                "publicId": "12833",
+                "id": "12833",
+                "internalId": 12833,
                 "name": "R. Virgilio Martinho",
                 "position": {
                   "latitude": 38.765164,
@@ -2333,8 +2333,8 @@
               "order": 13,
               "distance": 589,
               "stop": {
-                "id": 50022,
-                "publicId": "50022",
+                "id": "50022",
+                "internalId": 50022,
                 "name": "Av. Nações Unidas",
                 "position": {
                   "latitude": 38.764078,
@@ -2349,8 +2349,8 @@
               "order": 14,
               "distance": 359,
               "stop": {
-                "id": 50010,
-                "publicId": "50010",
+                "id": "50010",
+                "internalId": 50010,
                 "name": "R. Prof. João Barreira",
                 "position": {
                   "latitude": 38.76254,
@@ -2365,8 +2365,8 @@
               "order": 15,
               "distance": 170,
               "stop": {
-                "id": 50012,
-                "publicId": "50012",
+                "id": "50012",
+                "internalId": 50012,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760467,
@@ -2381,8 +2381,8 @@
               "order": 16,
               "distance": 480,
               "stop": {
-                "id": 50006,
-                "publicId": "50006",
+                "id": "50006",
+                "internalId": 50006,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.760516,
@@ -2397,8 +2397,8 @@
               "order": 17,
               "distance": 504,
               "stop": {
-                "id": 50008,
-                "publicId": "50008",
+                "id": "50008",
+                "internalId": 50008,
                 "name": "R. Prof. Vieira Almeida",
                 "position": {
                   "latitude": 38.76458,
@@ -2413,8 +2413,8 @@
               "order": 18,
               "distance": 374,
               "stop": {
-                "id": 5818,
-                "publicId": "5818",
+                "id": "5818",
+                "internalId": 5818,
                 "name": "Inst. Ricardo Jorge",
                 "position": {
                   "latitude": 38.766855,
@@ -2429,8 +2429,8 @@
               "order": 19,
               "distance": 334,
               "stop": {
-                "id": 5816,
-                "publicId": "5816",
+                "id": "5816",
+                "internalId": 5816,
                 "name": "Av. Rainha D. Amélia",
                 "position": {
                   "latitude": 38.766598,
@@ -2445,8 +2445,8 @@
               "order": 20,
               "distance": 510,
               "stop": {
-                "id": 5814,
-                "publicId": "5814",
+                "id": "5814",
+                "internalId": 5814,
                 "name": "Hosp. Pulido Valente",
                 "position": {
                   "latitude": 38.765266,
@@ -2461,8 +2461,8 @@
               "order": 21,
               "distance": 0,
               "stop": {
-                "id": 5827,
-                "publicId": "5827",
+                "id": "5827",
+                "internalId": 5827,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.761073,

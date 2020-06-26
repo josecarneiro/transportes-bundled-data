@@ -1,11 +1,15 @@
 {
-  "id": 7511,
-  "publicId": "7511",
+  "id": "7511",
+  "internalId": 7511,
   "name": "Pç. Aeroporto",
   "position": {
     "latitude": 38.762168,
     "longitude": -9.129477
   },
   "visible": true,
-  "updateDate": "2018-02-21T00:45:08.000Z"
+  "updateDate": "2018-02-21T00:45:08.000Z",
+  "routes": [
+    "705",
+    "722"
+  ]
 }

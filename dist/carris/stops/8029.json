@@ -1,11 +1,14 @@
 {
-  "id": 8029,
-  "publicId": "8029",
+  "id": "8029",
+  "internalId": 8029,
   "name": "Campo De Ourique / Prazeres",
   "position": {
     "latitude": 38.714697,
     "longitude": -9.170062
   },
   "visible": true,
-  "updateDate": "2015-01-16T15:16:22.000Z"
+  "updateDate": "2015-01-16T15:16:22.000Z",
+  "routes": [
+    "709"
+  ]
 }

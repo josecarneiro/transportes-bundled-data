@@ -1,11 +1,14 @@
 {
-  "id": 12303,
-  "publicId": "12303",
+  "id": "12303",
+  "internalId": 12303,
   "name": "Bº Da Encarnação",
   "position": {
     "latitude": 38.775345,
     "longitude": -9.113384
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:10:30.000Z"
+  "updateDate": "2008-12-05T17:10:30.000Z",
+  "routes": [
+    "759"
+  ]
 }

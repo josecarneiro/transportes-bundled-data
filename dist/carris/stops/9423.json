@@ -1,11 +1,14 @@
 {
-  "id": 50373,
-  "publicId": "9423",
+  "id": "9423",
+  "internalId": 50373,
   "name": "R. Cruz Alcântara",
   "position": {
     "latitude": 38.709052,
     "longitude": -9.174364
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "73B"
+  ]
 }

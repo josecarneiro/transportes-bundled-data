@@ -1,11 +1,15 @@
 {
-  "id": 3812,
-  "publicId": "3812",
+  "id": "3812",
+  "internalId": 3812,
   "name": "Cais Sodré",
   "position": {
     "latitude": 38.705619,
     "longitude": -9.143833
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:13:45.000Z"
+  "updateDate": "2018-02-20T10:13:45.000Z",
+  "routes": [
+    "207",
+    "736"
+  ]
 }

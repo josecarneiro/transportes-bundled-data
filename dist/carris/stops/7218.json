@@ -1,11 +1,15 @@
 {
-  "id": 7218,
-  "publicId": "7218",
+  "id": "7218",
+  "internalId": 7218,
   "name": "Olival Basto",
   "position": {
     "latitude": 38.789658,
     "longitude": -9.1685
   },
   "visible": true,
-  "updateDate": "2018-08-27T11:35:16.000Z"
+  "updateDate": "2018-08-27T11:35:16.000Z",
+  "routes": [
+    "206",
+    "736"
+  ]
 }

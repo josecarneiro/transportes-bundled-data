@@ -1,11 +1,15 @@
 {
-  "id": 7016,
-  "publicId": "7016",
+  "id": "7016",
+  "internalId": 7016,
   "name": "Rua Cesário Verde",
   "position": {
     "latitude": 38.730042,
     "longitude": -9.13035
   },
   "visible": true,
-  "updateDate": "2008-12-11T10:25:42.000Z"
+  "updateDate": "2008-12-11T10:25:42.000Z",
+  "routes": [
+    "730",
+    "797"
+  ]
 }

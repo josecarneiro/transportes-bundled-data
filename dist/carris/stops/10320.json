@@ -1,11 +1,14 @@
 {
-  "id": 50368,
-  "publicId": "10320",
+  "id": "10320",
+  "internalId": 50368,
   "name": "R. Cruzeiro",
   "position": {
     "latitude": 38.709207,
     "longitude": -9.194622
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "76B"
+  ]
 }

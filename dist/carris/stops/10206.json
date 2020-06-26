@@ -1,11 +1,17 @@
 {
-  "id": 10206,
-  "publicId": "10206",
+  "id": "10206",
+  "internalId": 10206,
   "name": "Cova Da Moura",
   "position": {
     "latitude": 38.707024,
     "longitude": -9.167631
   },
   "visible": true,
-  "updateDate": "2016-10-28T10:01:58.000Z"
+  "updateDate": "2016-10-28T10:01:58.000Z",
+  "routes": [
+    "712",
+    "720",
+    "738",
+    "742"
+  ]
 }

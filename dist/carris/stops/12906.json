@@ -1,11 +1,16 @@
 {
-  "id": 12906,
-  "publicId": "12906",
+  "id": "12906",
+  "internalId": 12906,
   "name": "Caramão (Ajuda)",
   "position": {
     "latitude": 38.714579,
     "longitude": -9.204519
   },
   "visible": true,
-  "updateDate": "2019-01-03T12:17:45.000Z"
+  "updateDate": "2019-01-03T12:17:45.000Z",
+  "routes": [
+    "723",
+    "760",
+    "76B"
+  ]
 }

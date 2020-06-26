@@ -1,11 +1,14 @@
 {
-  "id": 8845,
-  "publicId": "8845",
+  "id": "8845",
+  "internalId": 8845,
   "name": "Alto Do Zambujal",
   "position": {
     "latitude": 38.736464,
     "longitude": -9.212763
   },
   "visible": true,
-  "updateDate": "2008-12-05T13:15:13.000Z"
+  "updateDate": "2008-12-05T13:15:13.000Z",
+  "routes": [
+    "754"
+  ]
 }

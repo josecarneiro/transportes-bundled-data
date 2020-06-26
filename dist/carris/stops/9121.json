@@ -1,11 +1,14 @@
 {
-  "id": 9121,
-  "publicId": "9121",
+  "id": "9121",
+  "internalId": 9121,
   "name": "R. Leite Vasconcelos",
   "position": {
     "latitude": 38.717713,
     "longitude": -9.125016
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:02:46.000Z"
+  "updateDate": "2018-04-03T15:02:46.000Z",
+  "routes": [
+    "712"
+  ]
 }

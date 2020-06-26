@@ -1,11 +1,14 @@
 {
-  "id": 9204,
-  "publicId": "9204",
+  "id": "9204",
+  "internalId": 9204,
   "name": "Campo Mártires Pátria",
   "position": {
     "latitude": 38.722234,
     "longitude": -9.139723
   },
   "visible": true,
-  "updateDate": "2019-09-03T16:53:12.000Z"
+  "updateDate": "2019-09-03T16:53:12.000Z",
+  "routes": [
+    "730"
+  ]
 }

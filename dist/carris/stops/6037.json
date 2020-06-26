@@ -1,11 +1,14 @@
 {
-  "id": 50438,
-  "publicId": "6037",
+  "id": "6037",
+  "internalId": 50438,
   "name": "R. Raul Rego (Escola)",
   "position": {
     "latitude": 38.782499,
     "longitude": -9.149458
   },
   "visible": true,
-  "updateDate": "2019-10-30T16:13:11.000Z"
+  "updateDate": "2019-10-30T16:13:11.000Z",
+  "routes": [
+    "41B"
+  ]
 }

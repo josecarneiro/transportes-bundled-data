@@ -1,11 +1,18 @@
 {
-  "id": 8101,
-  "publicId": "8101",
+  "id": "8101",
+  "internalId": 8101,
   "name": "Estrela",
   "position": {
     "latitude": 38.713163,
     "longitude": -9.162023
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "712",
+    "720",
+    "738",
+    "742",
+    "773"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 50278,
-  "publicId": "11111",
+  "id": "11111",
+  "internalId": 50278,
   "name": "Alameda D. Afonso Heniriques",
   "position": {
     "latitude": 38.736753,
     "longitude": -9.136329
   },
   "visible": true,
-  "updateDate": "2017-04-28T09:53:40.000Z"
+  "updateDate": "2017-04-28T09:53:40.000Z",
+  "routes": [
+    "713"
+  ]
 }

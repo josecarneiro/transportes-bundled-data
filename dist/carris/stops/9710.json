@@ -1,11 +1,15 @@
 {
-  "id": 9710,
-  "publicId": "9710",
+  "id": "9710",
+  "internalId": 9710,
   "name": "Rua Do Alto Do Duque",
   "position": {
     "latitude": 38.700882,
     "longitude": -9.221304
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:33:19.000Z"
+  "updateDate": "2008-12-05T17:33:19.000Z",
+  "routes": [
+    "201",
+    "751"
+  ]
 }

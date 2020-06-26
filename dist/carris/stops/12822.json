@@ -1,11 +1,15 @@
 {
-  "id": 12822,
-  "publicId": "12822",
+  "id": "12822",
+  "internalId": 12822,
   "name": "Carnide (Metro)",
   "position": {
     "latitude": 38.759041,
     "longitude": -9.192629
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:25:09.000Z"
+  "updateDate": "2019-01-16T08:25:09.000Z",
+  "routes": [
+    "729",
+    "778"
+  ]
 }

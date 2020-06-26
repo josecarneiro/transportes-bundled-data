@@ -1,11 +1,15 @@
 {
-  "id": 11707,
-  "publicId": "11707",
+  "id": "11707",
+  "internalId": 11707,
   "name": "R. Castelo Branco Saraiva",
   "position": {
     "latitude": 38.725765,
     "longitude": -9.122421
   },
   "visible": true,
-  "updateDate": "2019-04-08T11:45:09.000Z"
+  "updateDate": "2019-04-08T11:45:09.000Z",
+  "routes": [
+    "706",
+    "37B"
+  ]
 }

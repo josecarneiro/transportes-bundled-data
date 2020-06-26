@@ -1,11 +1,16 @@
 {
-  "id": 10601,
-  "publicId": "10601",
+  "id": "10601",
+  "internalId": 10601,
   "name": "Elevador Da Glória",
   "position": {
     "latitude": 38.714911,
     "longitude": -9.144479
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:24:13.000Z"
+  "updateDate": "2008-12-05T18:24:13.000Z",
+  "routes": [
+    "202",
+    "758",
+    "24E"
+  ]
 }

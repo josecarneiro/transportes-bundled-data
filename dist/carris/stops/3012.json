@@ -1,11 +1,15 @@
 {
-  "id": 3012,
-  "publicId": "3012",
+  "id": "3012",
+  "internalId": 3012,
   "name": "Av. Dom João V",
   "position": {
     "latitude": 38.745485,
     "longitude": -9.218066
   },
   "visible": true,
-  "updateDate": "2017-03-08T11:46:51.000Z"
+  "updateDate": "2017-03-08T11:46:51.000Z",
+  "routes": [
+    "711",
+    "764"
+  ]
 }

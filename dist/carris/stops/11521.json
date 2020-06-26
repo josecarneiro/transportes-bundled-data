@@ -1,11 +1,14 @@
 {
-  "id": 50445,
-  "publicId": "11521",
+  "id": "11521",
+  "internalId": 50445,
   "name": "R. Luis Piçarra",
   "position": {
     "latitude": 38.775888,
     "longitude": -9.150836
   },
   "visible": true,
-  "updateDate": "2019-10-30T16:51:09.000Z"
+  "updateDate": "2019-10-30T16:51:09.000Z",
+  "routes": [
+    "41B"
+  ]
 }

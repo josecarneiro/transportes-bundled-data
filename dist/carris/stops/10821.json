@@ -1,11 +1,17 @@
 {
-  "id": 10821,
-  "publicId": "10821",
+  "id": "10821",
+  "internalId": 10821,
   "name": "R. Prof. Reinaldo Santos",
   "position": {
     "latitude": 38.747029,
     "longitude": -9.188711
   },
   "visible": true,
-  "updateDate": "2019-10-01T16:53:27.000Z"
+  "updateDate": "2019-10-01T16:53:27.000Z",
+  "routes": [
+    "202",
+    "716",
+    "746",
+    "758"
+  ]
 }

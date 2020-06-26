@@ -1,11 +1,17 @@
 {
-  "id": 5908,
-  "publicId": "5908",
+  "id": "5908",
+  "internalId": 5908,
   "name": "R. Lumiar",
   "position": {
     "latitude": 38.775957,
     "longitude": -9.163406
   },
   "visible": true,
-  "updateDate": "2019-10-30T16:06:36.000Z"
+  "updateDate": "2019-10-30T16:06:36.000Z",
+  "routes": [
+    "206",
+    "736",
+    "796",
+    "41B"
+  ]
 }

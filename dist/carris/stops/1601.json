@@ -1,11 +1,16 @@
 {
-  "id": 1601,
-  "publicId": "1601",
+  "id": "1601",
+  "internalId": 1601,
   "name": "Rua António Granjo",
   "position": {
     "latitude": 38.738837,
     "longitude": -9.164612
   },
   "visible": true,
-  "updateDate": "2008-12-11T10:13:28.000Z"
+  "updateDate": "2008-12-11T10:13:28.000Z",
+  "routes": [
+    "716",
+    "726",
+    "746"
+  ]
 }

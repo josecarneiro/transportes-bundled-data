@@ -1,11 +1,16 @@
 {
-  "id": 9111,
-  "publicId": "9111",
+  "id": "9111",
+  "internalId": 9111,
   "name": "R. Sapadores",
   "position": {
     "latitude": 38.721226,
     "longitude": -9.127186
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:04:30.000Z"
+  "updateDate": "2018-04-03T15:04:30.000Z",
+  "routes": [
+    "206",
+    "712",
+    "735"
+  ]
 }

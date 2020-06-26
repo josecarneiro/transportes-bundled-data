@@ -1,11 +1,14 @@
 {
-  "id": 12836,
-  "publicId": "12836",
+  "id": "12836",
+  "internalId": 12836,
   "name": "R. Padre Américo",
   "position": {
     "latitude": 38.761736,
     "longitude": -9.179625
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:26:04.000Z"
+  "updateDate": "2019-02-18T12:26:04.000Z",
+  "routes": [
+    "703"
+  ]
 }

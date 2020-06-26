@@ -1,11 +1,15 @@
 {
-  "id": 50281,
-  "publicId": "50032",
+  "id": "50032",
+  "internalId": 50281,
   "name": "R. Armindo Rodrigues",
   "position": {
     "latitude": 38.768799,
     "longitude": -9.167451
   },
   "visible": true,
-  "updateDate": "2019-03-11T10:47:14.000Z"
+  "updateDate": "2019-03-11T10:47:14.000Z",
+  "routes": [
+    "778",
+    "43B"
+  ]
 }

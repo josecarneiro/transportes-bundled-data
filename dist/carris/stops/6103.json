@@ -1,11 +1,15 @@
 {
-  "id": 6103,
-  "publicId": "6103",
+  "id": "6103",
+  "internalId": 6103,
   "name": "Rua Francisco Manuel De Melo",
   "position": {
     "latitude": 38.72792,
     "longitude": -9.159334
   },
   "visible": true,
-  "updateDate": "2014-10-15T10:21:20.000Z"
+  "updateDate": "2014-10-15T10:21:20.000Z",
+  "routes": [
+    "702",
+    "712"
+  ]
 }

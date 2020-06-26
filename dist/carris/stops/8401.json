@@ -1,11 +1,14 @@
 {
-  "id": 8401,
-  "publicId": "8401",
+  "id": "8401",
+  "internalId": 8401,
   "name": "Av. Cidade Lourenço Marques",
   "position": {
     "latitude": 38.762674,
     "longitude": -9.119387
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "731"
+  ]
 }

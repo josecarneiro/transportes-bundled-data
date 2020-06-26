@@ -1,11 +1,14 @@
 {
-  "id": 50381,
-  "publicId": "4221",
+  "id": "4221",
+  "internalId": 50381,
   "name": "R. Fernão Mendes Pinto",
   "position": {
     "latitude": 38.698193,
     "longitude": -9.225524
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "79B"
+  ]
 }

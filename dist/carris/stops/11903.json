@@ -1,11 +1,16 @@
 {
-  "id": 11903,
-  "publicId": "11903",
+  "id": "11903",
+  "internalId": 11903,
   "name": "Bº Do Loureiro - Av. De Ceuta",
   "position": {
     "latitude": 38.715875,
     "longitude": -9.175511
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:11:43.000Z"
+  "updateDate": "2008-12-05T17:11:43.000Z",
+  "routes": [
+    "713",
+    "751",
+    "756"
+  ]
 }

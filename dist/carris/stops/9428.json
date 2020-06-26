@@ -1,11 +1,14 @@
 {
-  "id": 50375,
-  "publicId": "9428",
+  "id": "9428",
+  "internalId": 50375,
   "name": "Av. Ceuta",
   "position": {
     "latitude": 38.707227,
     "longitude": -9.174161
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "73B"
+  ]
 }

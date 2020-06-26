@@ -1,11 +1,14 @@
 {
-  "id": 3909,
-  "publicId": "3909",
+  "id": "3909",
+  "internalId": 3909,
   "name": "Santos-O-Velho",
   "position": {
     "latitude": 38.706693,
     "longitude": -9.158016
   },
   "visible": true,
-  "updateDate": "2020-05-05T10:42:42.000Z"
+  "updateDate": "2020-05-05T10:42:42.000Z",
+  "routes": [
+    "713"
+  ]
 }

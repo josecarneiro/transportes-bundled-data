@@ -1,11 +1,16 @@
 {
-  "id": 5940,
-  "publicId": "5940",
+  "id": "5940",
+  "internalId": 5940,
   "name": "Lumiar",
   "position": {
     "latitude": 38.773077,
     "longitude": -9.161431
   },
   "visible": true,
-  "updateDate": "2017-07-24T11:50:51.000Z"
+  "updateDate": "2017-07-24T11:50:51.000Z",
+  "routes": [
+    "796",
+    "40B",
+    "44B"
+  ]
 }

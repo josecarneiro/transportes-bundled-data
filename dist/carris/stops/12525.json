@@ -1,11 +1,14 @@
 {
-  "id": 50071,
-  "publicId": "12525",
+  "id": "12525",
+  "internalId": 50071,
   "name": "Az. Veigas",
   "position": {
     "latitude": 38.736577,
     "longitude": -9.107793
   },
   "visible": true,
-  "updateDate": "2018-06-01T09:36:49.000Z"
+  "updateDate": "2018-06-01T09:36:49.000Z",
+  "routes": [
+    "793"
+  ]
 }

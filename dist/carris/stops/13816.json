@@ -1,11 +1,16 @@
 {
-  "id": 13816,
-  "publicId": "13816",
+  "id": "13816",
+  "internalId": 13816,
   "name": "Miradouro Sta. Luzia",
   "position": {
     "latitude": 38.711314,
     "longitude": -9.130714
   },
   "visible": true,
-  "updateDate": "2019-10-04T17:39:02.000Z"
+  "updateDate": "2019-10-04T17:39:02.000Z",
+  "routes": [
+    "737",
+    "12E",
+    "28E"
+  ]
 }

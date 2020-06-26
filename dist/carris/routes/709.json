@@ -1,6 +1,6 @@
 {
-  "id": 148,
-  "number": "709",
+  "id": "709",
+  "internalId": 148,
   "name": "Restauradores - Campo Ourique",
   "visible": true,
   "creationDate": "2020-05-20T09:11:13.000Z",
@@ -794,8 +794,8 @@
               "order": 1,
               "distance": 190,
               "stop": {
-                "id": 1002,
-                "publicId": "1002",
+                "id": "1002",
+                "internalId": 1002,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715437,
@@ -810,8 +810,8 @@
               "order": 2,
               "distance": 513,
               "stop": {
-                "id": 1003,
-                "publicId": "1003",
+                "id": "1003",
+                "internalId": 1003,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715976,
@@ -826,8 +826,8 @@
               "order": 3,
               "distance": 1323,
               "stop": {
-                "id": 1103,
-                "publicId": "1103",
+                "id": "1103",
+                "internalId": 1103,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.719736,
@@ -842,8 +842,8 @@
               "order": 4,
               "distance": 243,
               "stop": {
-                "id": 1211,
-                "publicId": "1211",
+                "id": "1211",
+                "internalId": 1211,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.722917,
@@ -858,8 +858,8 @@
               "order": 5,
               "distance": 364,
               "stop": {
-                "id": 6820,
-                "publicId": "6820",
+                "id": "6820",
+                "internalId": 6820,
                 "name": "Rua Braamcamp",
                 "position": {
                   "latitude": 38.721689,
@@ -874,8 +874,8 @@
               "order": 6,
               "distance": 260,
               "stop": {
-                "id": 6810,
-                "publicId": "6810",
+                "id": "6810",
+                "internalId": 6810,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.720033,
@@ -890,8 +890,8 @@
               "order": 7,
               "distance": 406,
               "stop": {
-                "id": 6802,
-                "publicId": "6802",
+                "id": "6802",
+                "internalId": 6802,
                 "name": "Av. Álvares Cabral",
                 "position": {
                   "latitude": 38.718344,
@@ -906,8 +906,8 @@
               "order": 8,
               "distance": 412,
               "stop": {
-                "id": 8104,
-                "publicId": "8104",
+                "id": "8104",
+                "internalId": 8104,
                 "name": "Jardim Da Estrela",
                 "position": {
                   "latitude": 38.715773,
@@ -922,8 +922,8 @@
               "order": 9,
               "distance": 252,
               "stop": {
-                "id": 8110,
-                "publicId": "8110",
+                "id": "8110",
+                "internalId": 8110,
                 "name": "Estrela - R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.714509,
@@ -938,8 +938,8 @@
               "order": 10,
               "distance": 174,
               "stop": {
-                "id": 8002,
-                "publicId": "8002",
+                "id": "8002",
+                "internalId": 8002,
                 "name": "R. Saraiva Carvalho",
                 "position": {
                   "latitude": 38.715461,
@@ -954,8 +954,8 @@
               "order": 11,
               "distance": 444,
               "stop": {
-                "id": 8018,
-                "publicId": "8018",
+                "id": "8018",
+                "internalId": 8018,
                 "name": "Igreja Sto. Condestável",
                 "position": {
                   "latitude": 38.714973,
@@ -970,8 +970,8 @@
               "order": 12,
               "distance": 0,
               "stop": {
-                "id": 8029,
-                "publicId": "8029",
+                "id": "8029",
+                "internalId": 8029,
                 "name": "Campo De Ourique / Prazeres",
                 "position": {
                   "latitude": 38.714697,
@@ -1614,8 +1614,8 @@
               "order": 1,
               "distance": 394,
               "stop": {
-                "id": 8029,
-                "publicId": "8029",
+                "id": "8029",
+                "internalId": 8029,
                 "name": "Campo De Ourique / Prazeres",
                 "position": {
                   "latitude": 38.714697,
@@ -1630,8 +1630,8 @@
               "order": 2,
               "distance": 174,
               "stop": {
-                "id": 8019,
-                "publicId": "8019",
+                "id": "8019",
+                "internalId": 8019,
                 "name": "Igreja Sto. Condestável",
                 "position": {
                   "latitude": 38.714841,
@@ -1646,8 +1646,8 @@
               "order": 3,
               "distance": 460,
               "stop": {
-                "id": 8001,
-                "publicId": "8001",
+                "id": "8001",
+                "internalId": 8001,
                 "name": "R. Saraiva Carvalho",
                 "position": {
                   "latitude": 38.715321,
@@ -1662,8 +1662,8 @@
               "order": 4,
               "distance": 175,
               "stop": {
-                "id": 8105,
-                "publicId": "8105",
+                "id": "8105",
+                "internalId": 8105,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.714409,
@@ -1678,8 +1678,8 @@
               "order": 5,
               "distance": 398,
               "stop": {
-                "id": 8103,
-                "publicId": "8103",
+                "id": "8103",
+                "internalId": 8103,
                 "name": "Jardim Da Estrela",
                 "position": {
                   "latitude": 38.715563,
@@ -1694,8 +1694,8 @@
               "order": 6,
               "distance": 435,
               "stop": {
-                "id": 6803,
-                "publicId": "6803",
+                "id": "6803",
+                "internalId": 6803,
                 "name": "Av. Álvares Cabral",
                 "position": {
                   "latitude": 38.717691,
@@ -1710,8 +1710,8 @@
               "order": 7,
               "distance": 468,
               "stop": {
-                "id": 6811,
-                "publicId": "6811",
+                "id": "6811",
+                "internalId": 6811,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.720279,
@@ -1726,8 +1726,8 @@
               "order": 8,
               "distance": 521,
               "stop": {
-                "id": 1216,
-                "publicId": "1216",
+                "id": "1216",
+                "internalId": 1216,
                 "name": "Mq. Pombal - R. Alexandre Herc",
                 "position": {
                   "latitude": 38.722674,
@@ -1742,8 +1742,8 @@
               "order": 9,
               "distance": 639,
               "stop": {
-                "id": 1102,
-                "publicId": "1102",
+                "id": "1102",
+                "internalId": 1102,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.720248,
@@ -1758,8 +1758,8 @@
               "order": 10,
               "distance": 0,
               "stop": {
-                "id": 1002,
-                "publicId": "1002",
+                "id": "1002",
+                "internalId": 1002,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715437,

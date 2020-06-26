@@ -1,11 +1,14 @@
 {
-  "id": 50407,
-  "publicId": "4309",
+  "id": "4309",
+  "internalId": 50407,
   "name": "Cruz Quebrada (Clube Ténis Jam",
   "position": {
     "latitude": 38.70774,
     "longitude": -9.251515
   },
   "visible": true,
-  "updateDate": "2019-07-18T16:57:38.000Z"
+  "updateDate": "2019-07-18T16:57:38.000Z",
+  "routes": [
+    "776"
+  ]
 }

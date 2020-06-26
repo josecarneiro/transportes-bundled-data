@@ -1,11 +1,15 @@
 {
-  "id": 8003,
-  "publicId": "8003",
+  "id": "8003",
+  "internalId": 8003,
   "name": "R. 4 Infantaria",
   "position": {
     "latitude": 38.71827,
     "longitude": -9.164784
   },
   "visible": true,
-  "updateDate": "2018-02-07T12:48:20.000Z"
+  "updateDate": "2018-02-07T12:48:20.000Z",
+  "routes": [
+    "714",
+    "774"
+  ]
 }

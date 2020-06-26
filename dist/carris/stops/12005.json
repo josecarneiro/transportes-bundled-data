@@ -1,11 +1,18 @@
 {
-  "id": 12005,
-  "publicId": "12005",
+  "id": "12005",
+  "internalId": 12005,
   "name": "R. Luis Camões",
   "position": {
     "latitude": 38.704103,
     "longitude": -9.182767
   },
   "visible": true,
-  "updateDate": "2019-01-16T09:04:19.000Z"
+  "updateDate": "2019-01-16T09:04:19.000Z",
+  "routes": [
+    "720",
+    "738",
+    "742",
+    "760",
+    "73B"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 7803,
-  "publicId": "7803",
+  "id": "7803",
+  "internalId": 7803,
   "name": "Olivais Velho",
   "position": {
     "latitude": 38.770041,
     "longitude": -9.104324
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:50:45.000Z"
+  "updateDate": "2012-12-13T17:50:45.000Z",
+  "routes": [
+    "210",
+    "728"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 14708,
-  "publicId": "14708",
+  "id": "14708",
+  "internalId": 14708,
   "name": "Esc. Damião Góis",
   "position": {
     "latitude": 38.75762,
     "longitude": -9.126371
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:34:03.000Z"
+  "updateDate": "2019-02-18T12:34:03.000Z",
+  "routes": [
+    "208",
+    "755",
+    "794"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 24386,
-  "publicId": "89922",
+  "id": "89922",
+  "internalId": 24386,
   "name": "R. Tomás Alcaide",
   "position": {
     "latitude": 38.753003,
     "longitude": -9.110313
   },
   "visible": true,
-  "updateDate": "2018-02-21T11:14:44.000Z"
+  "updateDate": "2018-02-21T11:14:44.000Z",
+  "routes": [
+    "718",
+    "31B"
+  ]
 }

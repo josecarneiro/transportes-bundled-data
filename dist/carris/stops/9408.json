@@ -1,11 +1,14 @@
 {
-  "id": 50081,
-  "publicId": "9408",
+  "id": "9408",
+  "internalId": 50081,
   "name": "Rua Capitão Afonso Pala",
   "position": {
     "latitude": 38.708476,
     "longitude": -9.171363
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:51:39.000Z"
+  "updateDate": "2008-12-05T17:51:39.000Z",
+  "routes": [
+    "773"
+  ]
 }

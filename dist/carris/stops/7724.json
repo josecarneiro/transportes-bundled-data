@@ -1,11 +1,14 @@
 {
-  "id": 7724,
-  "publicId": "7724",
+  "id": "7724",
+  "internalId": 7724,
   "name": "Rua Cidade Benguela - Mercado",
   "position": {
     "latitude": 38.765188,
     "longitude": -9.110919
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:58:56.000Z"
+  "updateDate": "2008-12-05T17:58:56.000Z",
+  "routes": [
+    "708"
+  ]
 }

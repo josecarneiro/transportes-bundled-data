@@ -1,6 +1,6 @@
 {
-  "id": 123,
-  "number": "701",
+  "id": "701",
+  "internalId": 123,
   "name": "C. Grande-Metro - Campo Ourique",
   "visible": true,
   "creationDate": "2020-05-21T11:02:00.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 380,
               "stop": {
-                "id": 5829,
-                "publicId": "5829",
+                "id": "5829",
+                "internalId": 5829,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.760667,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 348,
               "stop": {
-                "id": 5824,
-                "publicId": "5824",
+                "id": "5824",
+                "internalId": 5824,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.760339,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 476,
               "stop": {
-                "id": 5806,
-                "publicId": "5806",
+                "id": "5806",
+                "internalId": 5806,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.757628,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 230,
               "stop": {
-                "id": 5704,
-                "publicId": "5704",
+                "id": "5704",
+                "internalId": 5704,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.753919,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 379,
               "stop": {
-                "id": 2008,
-                "publicId": "2008",
+                "id": "2008",
+                "internalId": 2008,
                 "name": "Campo Grande",
                 "position": {
                   "latitude": 38.752122,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 296,
               "stop": {
-                "id": 2006,
-                "publicId": "2006",
+                "id": "2006",
+                "internalId": 2006,
                 "name": "Entrecampos Norte",
                 "position": {
                   "latitude": 38.749116,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 149,
               "stop": {
-                "id": 2007,
-                "publicId": "2007",
+                "id": "2007",
+                "internalId": 2007,
                 "name": "Av. Das Forças Armadas",
                 "position": {
                   "latitude": 38.748047,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 236,
               "stop": {
-                "id": 2009,
-                "publicId": "2009",
+                "id": "2009",
+                "internalId": 2009,
                 "name": "Av. Forças Armadas / R. Sanche",
                 "position": {
                   "latitude": 38.747735,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 292,
               "stop": {
-                "id": 13501,
-                "publicId": "13501",
+                "id": "13501",
+                "internalId": 13501,
                 "name": "Faculdade De Farmácia",
                 "position": {
                   "latitude": 38.74738,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 476,
               "stop": {
-                "id": 13503,
-                "publicId": "13503",
+                "id": "13503",
+                "internalId": 13503,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.748551,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 628,
               "stop": {
-                "id": 13508,
-                "publicId": "13508",
+                "id": "13508",
+                "internalId": 13508,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.75019,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 373,
               "stop": {
-                "id": 13619,
-                "publicId": "13619",
+                "id": "13619",
+                "internalId": 13619,
                 "name": "Rua Tomás De Aquino",
                 "position": {
                   "latitude": 38.751631,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 327,
               "stop": {
-                "id": 13621,
-                "publicId": "13621",
+                "id": "13621",
+                "internalId": 13621,
                 "name": "Rua António Albino Machado",
                 "position": {
                   "latitude": 38.754345,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 487,
               "stop": {
-                "id": 50177,
-                "publicId": "13610",
+                "id": "13610",
+                "internalId": 50177,
                 "name": "Rua Tomás Da Fonseca",
                 "position": {
                   "latitude": 38.755984,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 249,
               "stop": {
-                "id": 50143,
-                "publicId": "13602",
+                "id": "13602",
+                "internalId": 50143,
                 "name": "R. Tomás Fonseca",
                 "position": {
                   "latitude": 38.756125,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 604,
               "stop": {
-                "id": 13618,
-                "publicId": "13618",
+                "id": "13618",
+                "internalId": 13618,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.754522,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 244,
               "stop": {
-                "id": 12712,
-                "publicId": "12712",
+                "id": "12712",
+                "internalId": 12712,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.749661,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 328,
               "stop": {
-                "id": 12710,
-                "publicId": "12710",
+                "id": "12710",
+                "internalId": 12710,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747742,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 457,
               "stop": {
-                "id": 12708,
-                "publicId": "12708",
+                "id": "12708",
+                "internalId": 12708,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745263,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 492,
               "stop": {
-                "id": 1604,
-                "publicId": "1604",
+                "id": "1604",
+                "internalId": 1604,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742544,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 303,
               "stop": {
-                "id": 2712,
-                "publicId": "2712",
+                "id": "2712",
+                "internalId": 2712,
                 "name": "Estação Sete Rios",
                 "position": {
                   "latitude": 38.738832,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 301,
               "stop": {
-                "id": 2718,
-                "publicId": "2718",
+                "id": "2718",
+                "internalId": 2718,
                 "name": "Rua De Campolide - José Malhoa",
                 "position": {
                   "latitude": 38.736776,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 426,
               "stop": {
-                "id": 2710,
-                "publicId": "2710",
+                "id": "2710",
+                "internalId": 2710,
                 "name": "Tarujo",
                 "position": {
                   "latitude": 38.735177,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 326,
               "stop": {
-                "id": 6124,
-                "publicId": "6124",
+                "id": "6124",
+                "internalId": 6124,
                 "name": "R. Campolide (Escola)",
                 "position": {
                   "latitude": 38.732213,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 324,
               "stop": {
-                "id": 6122,
-                "publicId": "6122",
+                "id": "6122",
+                "internalId": 6122,
                 "name": "R. Campolide",
                 "position": {
                   "latitude": 38.72932,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 180,
               "stop": {
-                "id": 6113,
-                "publicId": "6113",
+                "id": "6113",
+                "internalId": 6113,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.726425,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 188,
               "stop": {
-                "id": 8507,
-                "publicId": "8507",
+                "id": "8507",
+                "internalId": 8507,
                 "name": "Cruz Das Almas",
                 "position": {
                   "latitude": 38.725345,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 344,
               "stop": {
-                "id": 8609,
-                "publicId": "8609",
+                "id": "8609",
+                "internalId": 8609,
                 "name": "Arco Carvalhão",
                 "position": {
                   "latitude": 38.724206,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 438,
               "stop": {
-                "id": 8010,
-                "publicId": "8010",
+                "id": "8010",
+                "internalId": 8010,
                 "name": "Terramotos",
                 "position": {
                   "latitude": 38.721557,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 181,
               "stop": {
-                "id": 8015,
-                "publicId": "8015",
+                "id": "8015",
+                "internalId": 8015,
                 "name": "Rua Sampaio Bruno",
                 "position": {
                   "latitude": 38.718617,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 323,
               "stop": {
-                "id": 8013,
-                "publicId": "8013",
+                "id": "8013",
+                "internalId": 8013,
                 "name": "Escola Manuel Da Maia",
                 "position": {
                   "latitude": 38.716991,
@@ -517,8 +517,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 8016,
-                "publicId": "8016",
+                "id": "8016",
+                "internalId": 8016,
                 "name": "Campo De Ourique / Prazeres",
                 "position": {
                   "latitude": 38.714399,
@@ -540,8 +540,8 @@
               "order": 1,
               "distance": 448,
               "stop": {
-                "id": 8016,
-                "publicId": "8016",
+                "id": "8016",
+                "internalId": 8016,
                 "name": "Campo De Ourique / Prazeres",
                 "position": {
                   "latitude": 38.714399,
@@ -556,8 +556,8 @@
               "order": 2,
               "distance": 206,
               "stop": {
-                "id": 8012,
-                "publicId": "8012",
+                "id": "8012",
+                "internalId": 8012,
                 "name": "Esc. Manuel Maia",
                 "position": {
                   "latitude": 38.717115,
@@ -572,8 +572,8 @@
               "order": 3,
               "distance": 344,
               "stop": {
-                "id": 8014,
-                "publicId": "8014",
+                "id": "8014",
+                "internalId": 8014,
                 "name": "Rua Sampaio Bruno",
                 "position": {
                   "latitude": 38.718959,
@@ -588,8 +588,8 @@
               "order": 4,
               "distance": 379,
               "stop": {
-                "id": 8011,
-                "publicId": "8011",
+                "id": "8011",
+                "internalId": 8011,
                 "name": "Terramotos",
                 "position": {
                   "latitude": 38.721114,
@@ -604,8 +604,8 @@
               "order": 5,
               "distance": 232,
               "stop": {
-                "id": 8610,
-                "publicId": "8610",
+                "id": "8610",
+                "internalId": 8610,
                 "name": "Arco Carvalhão",
                 "position": {
                   "latitude": 38.724023,
@@ -620,8 +620,8 @@
               "order": 6,
               "distance": 154,
               "stop": {
-                "id": 8508,
-                "publicId": "8508",
+                "id": "8508",
+                "internalId": 8508,
                 "name": "Cruz Das Almas",
                 "position": {
                   "latitude": 38.725309,
@@ -636,8 +636,8 @@
               "order": 7,
               "distance": 440,
               "stop": {
-                "id": 6104,
-                "publicId": "6104",
+                "id": "6104",
+                "internalId": 6104,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.726242,
@@ -652,8 +652,8 @@
               "order": 8,
               "distance": 221,
               "stop": {
-                "id": 6121,
-                "publicId": "6121",
+                "id": "6121",
+                "internalId": 6121,
                 "name": "R. Campolide",
                 "position": {
                   "latitude": 38.730336,
@@ -668,8 +668,8 @@
               "order": 9,
               "distance": 402,
               "stop": {
-                "id": 6123,
-                "publicId": "6123",
+                "id": "6123",
+                "internalId": 6123,
                 "name": "R. Campolide (Escola)",
                 "position": {
                   "latitude": 38.732267,
@@ -684,8 +684,8 @@
               "order": 10,
               "distance": 466,
               "stop": {
-                "id": 2711,
-                "publicId": "2711",
+                "id": "2711",
+                "internalId": 2711,
                 "name": "Tarujo",
                 "position": {
                   "latitude": 38.735087,
@@ -700,8 +700,8 @@
               "order": 11,
               "distance": 330,
               "stop": {
-                "id": 2713,
-                "publicId": "2713",
+                "id": "2713",
+                "internalId": 2713,
                 "name": "Av. José Malhoa",
                 "position": {
                   "latitude": 38.737727,
@@ -716,8 +716,8 @@
               "order": 12,
               "distance": 216,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -732,8 +732,8 @@
               "order": 13,
               "distance": 557,
               "stop": {
-                "id": 1611,
-                "publicId": "1611",
+                "id": "1611",
+                "internalId": 1611,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742127,
@@ -748,8 +748,8 @@
               "order": 14,
               "distance": 265,
               "stop": {
-                "id": 12707,
-                "publicId": "12707",
+                "id": "12707",
+                "internalId": 12707,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745558,
@@ -764,8 +764,8 @@
               "order": 15,
               "distance": 417,
               "stop": {
-                "id": 12709,
-                "publicId": "12709",
+                "id": "12709",
+                "internalId": 12709,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747561,
@@ -780,8 +780,8 @@
               "order": 16,
               "distance": 327,
               "stop": {
-                "id": 12711,
-                "publicId": "12711",
+                "id": "12711",
+                "internalId": 12711,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.750864,
@@ -796,8 +796,8 @@
               "order": 17,
               "distance": 409,
               "stop": {
-                "id": 13617,
-                "publicId": "13617",
+                "id": "13617",
+                "internalId": 13617,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.753612,
@@ -812,8 +812,8 @@
               "order": 18,
               "distance": 436,
               "stop": {
-                "id": 50144,
-                "publicId": "13601",
+                "id": "13601",
+                "internalId": 50144,
                 "name": "Rua Tomás Da Fonseca",
                 "position": {
                   "latitude": 38.755949,
@@ -828,8 +828,8 @@
               "order": 19,
               "distance": 207,
               "stop": {
-                "id": 50145,
-                "publicId": "13609",
+                "id": "13609",
+                "internalId": 50145,
                 "name": "Rua Tomás Da Fonseca",
                 "position": {
                   "latitude": 38.755759,
@@ -844,8 +844,8 @@
               "order": 20,
               "distance": 191,
               "stop": {
-                "id": 50017,
-                "publicId": "50017",
+                "id": "50017",
+                "internalId": 50017,
                 "name": "Qta Dos Barros",
                 "position": {
                   "latitude": 38.755724,
@@ -860,8 +860,8 @@
               "order": 21,
               "distance": 268,
               "stop": {
-                "id": 13622,
-                "publicId": "13622",
+                "id": "13622",
+                "internalId": 13622,
                 "name": "Rua António Albino Machado",
                 "position": {
                   "latitude": 38.754603,
@@ -876,8 +876,8 @@
               "order": 22,
               "distance": 112,
               "stop": {
-                "id": 50462,
-                "publicId": "13616",
+                "id": "13616",
+                "internalId": 50462,
                 "name": "R. A. A. Machado / R. S. Tomás",
                 "position": {
                   "latitude": 38.75281,
@@ -892,8 +892,8 @@
               "order": 23,
               "distance": 860,
               "stop": {
-                "id": 13620,
-                "publicId": "13620",
+                "id": "13620",
+                "internalId": 13620,
                 "name": "R. S. Tomás Aquino",
                 "position": {
                   "latitude": 38.751873,
@@ -908,8 +908,8 @@
               "order": 24,
               "distance": 679,
               "stop": {
-                "id": 13509,
-                "publicId": "13509",
+                "id": "13509",
+                "internalId": 13509,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.750002,
@@ -924,8 +924,8 @@
               "order": 25,
               "distance": 253,
               "stop": {
-                "id": 13502,
-                "publicId": "13502",
+                "id": "13502",
+                "internalId": 13502,
                 "name": "Faculdade De Farmácia",
                 "position": {
                   "latitude": 38.74719,
@@ -940,8 +940,8 @@
               "order": 26,
               "distance": 539,
               "stop": {
-                "id": 2010,
-                "publicId": "2010",
+                "id": "2010",
+                "internalId": 2010,
                 "name": "Av. Forças Armadas / R. Sanche",
                 "position": {
                   "latitude": 38.747648,
@@ -956,8 +956,8 @@
               "order": 27,
               "distance": 281,
               "stop": {
-                "id": 2015,
-                "publicId": "2015",
+                "id": "2015",
+                "internalId": 2015,
                 "name": "Entrecampos Norte",
                 "position": {
                   "latitude": 38.749993,
@@ -972,8 +972,8 @@
               "order": 28,
               "distance": 400,
               "stop": {
-                "id": 2017,
-                "publicId": "2017",
+                "id": "2017",
+                "internalId": 2017,
                 "name": "Campo Grande",
                 "position": {
                   "latitude": 38.752315,
@@ -988,8 +988,8 @@
               "order": 29,
               "distance": 399,
               "stop": {
-                "id": 5705,
-                "publicId": "5705",
+                "id": "5705",
+                "internalId": 5705,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.755629,
@@ -1004,8 +1004,8 @@
               "order": 30,
               "distance": 467,
               "stop": {
-                "id": 5805,
-                "publicId": "5805",
+                "id": "5805",
+                "internalId": 5805,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.758587,
@@ -1020,8 +1020,8 @@
               "order": 31,
               "distance": 0,
               "stop": {
-                "id": 5829,
-                "publicId": "5829",
+                "id": "5829",
+                "internalId": 5829,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.760667,
@@ -1050,8 +1050,8 @@
               "order": 1,
               "distance": 380,
               "stop": {
-                "id": 5829,
-                "publicId": "5829",
+                "id": "5829",
+                "internalId": 5829,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.760667,
@@ -1066,8 +1066,8 @@
               "order": 2,
               "distance": 348,
               "stop": {
-                "id": 5824,
-                "publicId": "5824",
+                "id": "5824",
+                "internalId": 5824,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.760339,
@@ -1082,8 +1082,8 @@
               "order": 3,
               "distance": 476,
               "stop": {
-                "id": 5806,
-                "publicId": "5806",
+                "id": "5806",
+                "internalId": 5806,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.757628,
@@ -1098,8 +1098,8 @@
               "order": 4,
               "distance": 230,
               "stop": {
-                "id": 5704,
-                "publicId": "5704",
+                "id": "5704",
+                "internalId": 5704,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.753919,
@@ -1114,8 +1114,8 @@
               "order": 5,
               "distance": 379,
               "stop": {
-                "id": 2008,
-                "publicId": "2008",
+                "id": "2008",
+                "internalId": 2008,
                 "name": "Campo Grande",
                 "position": {
                   "latitude": 38.752122,
@@ -1130,8 +1130,8 @@
               "order": 6,
               "distance": 296,
               "stop": {
-                "id": 2006,
-                "publicId": "2006",
+                "id": "2006",
+                "internalId": 2006,
                 "name": "Entrecampos Norte",
                 "position": {
                   "latitude": 38.749116,
@@ -1146,8 +1146,8 @@
               "order": 7,
               "distance": 149,
               "stop": {
-                "id": 2007,
-                "publicId": "2007",
+                "id": "2007",
+                "internalId": 2007,
                 "name": "Av. Das Forças Armadas",
                 "position": {
                   "latitude": 38.748047,
@@ -1162,8 +1162,8 @@
               "order": 8,
               "distance": 236,
               "stop": {
-                "id": 2009,
-                "publicId": "2009",
+                "id": "2009",
+                "internalId": 2009,
                 "name": "Av. Forças Armadas / R. Sanche",
                 "position": {
                   "latitude": 38.747735,
@@ -1178,8 +1178,8 @@
               "order": 9,
               "distance": 292,
               "stop": {
-                "id": 13501,
-                "publicId": "13501",
+                "id": "13501",
+                "internalId": 13501,
                 "name": "Faculdade De Farmácia",
                 "position": {
                   "latitude": 38.74738,
@@ -1194,8 +1194,8 @@
               "order": 10,
               "distance": 476,
               "stop": {
-                "id": 13503,
-                "publicId": "13503",
+                "id": "13503",
+                "internalId": 13503,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.748551,
@@ -1210,8 +1210,8 @@
               "order": 11,
               "distance": 628,
               "stop": {
-                "id": 13508,
-                "publicId": "13508",
+                "id": "13508",
+                "internalId": 13508,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.75019,
@@ -1226,8 +1226,8 @@
               "order": 12,
               "distance": 373,
               "stop": {
-                "id": 13619,
-                "publicId": "13619",
+                "id": "13619",
+                "internalId": 13619,
                 "name": "Rua Tomás De Aquino",
                 "position": {
                   "latitude": 38.751631,
@@ -1242,8 +1242,8 @@
               "order": 13,
               "distance": 327,
               "stop": {
-                "id": 13621,
-                "publicId": "13621",
+                "id": "13621",
+                "internalId": 13621,
                 "name": "Rua António Albino Machado",
                 "position": {
                   "latitude": 38.754345,
@@ -1258,8 +1258,8 @@
               "order": 14,
               "distance": 487,
               "stop": {
-                "id": 50177,
-                "publicId": "13610",
+                "id": "13610",
+                "internalId": 50177,
                 "name": "Rua Tomás Da Fonseca",
                 "position": {
                   "latitude": 38.755984,
@@ -1274,8 +1274,8 @@
               "order": 15,
               "distance": 249,
               "stop": {
-                "id": 50143,
-                "publicId": "13602",
+                "id": "13602",
+                "internalId": 50143,
                 "name": "R. Tomás Fonseca",
                 "position": {
                   "latitude": 38.756125,
@@ -1290,8 +1290,8 @@
               "order": 16,
               "distance": 604,
               "stop": {
-                "id": 13618,
-                "publicId": "13618",
+                "id": "13618",
+                "internalId": 13618,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.754522,
@@ -1306,8 +1306,8 @@
               "order": 17,
               "distance": 244,
               "stop": {
-                "id": 12712,
-                "publicId": "12712",
+                "id": "12712",
+                "internalId": 12712,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.749661,
@@ -1322,8 +1322,8 @@
               "order": 18,
               "distance": 328,
               "stop": {
-                "id": 12710,
-                "publicId": "12710",
+                "id": "12710",
+                "internalId": 12710,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747742,
@@ -1338,8 +1338,8 @@
               "order": 19,
               "distance": 621,
               "stop": {
-                "id": 12708,
-                "publicId": "12708",
+                "id": "12708",
+                "internalId": 12708,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745263,
@@ -1354,8 +1354,8 @@
               "order": 20,
               "distance": 0,
               "stop": {
-                "id": 50088,
-                "publicId": "1622",
+                "id": "1622",
+                "internalId": 50088,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.741556,
@@ -1377,8 +1377,8 @@
               "order": 1,
               "distance": 729,
               "stop": {
-                "id": 50088,
-                "publicId": "1622",
+                "id": "1622",
+                "internalId": 50088,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.741556,
@@ -1393,8 +1393,8 @@
               "order": 2,
               "distance": 265,
               "stop": {
-                "id": 12707,
-                "publicId": "12707",
+                "id": "12707",
+                "internalId": 12707,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745558,
@@ -1409,8 +1409,8 @@
               "order": 3,
               "distance": 417,
               "stop": {
-                "id": 12709,
-                "publicId": "12709",
+                "id": "12709",
+                "internalId": 12709,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747561,
@@ -1425,8 +1425,8 @@
               "order": 4,
               "distance": 327,
               "stop": {
-                "id": 12711,
-                "publicId": "12711",
+                "id": "12711",
+                "internalId": 12711,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.750864,
@@ -1441,8 +1441,8 @@
               "order": 5,
               "distance": 409,
               "stop": {
-                "id": 13617,
-                "publicId": "13617",
+                "id": "13617",
+                "internalId": 13617,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.753612,
@@ -1457,8 +1457,8 @@
               "order": 6,
               "distance": 436,
               "stop": {
-                "id": 50144,
-                "publicId": "13601",
+                "id": "13601",
+                "internalId": 50144,
                 "name": "Rua Tomás Da Fonseca",
                 "position": {
                   "latitude": 38.755949,
@@ -1473,8 +1473,8 @@
               "order": 7,
               "distance": 207,
               "stop": {
-                "id": 50145,
-                "publicId": "13609",
+                "id": "13609",
+                "internalId": 50145,
                 "name": "Rua Tomás Da Fonseca",
                 "position": {
                   "latitude": 38.755759,
@@ -1489,8 +1489,8 @@
               "order": 8,
               "distance": 191,
               "stop": {
-                "id": 50017,
-                "publicId": "50017",
+                "id": "50017",
+                "internalId": 50017,
                 "name": "Qta Dos Barros",
                 "position": {
                   "latitude": 38.755724,
@@ -1505,8 +1505,8 @@
               "order": 9,
               "distance": 268,
               "stop": {
-                "id": 13622,
-                "publicId": "13622",
+                "id": "13622",
+                "internalId": 13622,
                 "name": "Rua António Albino Machado",
                 "position": {
                   "latitude": 38.754603,
@@ -1521,8 +1521,8 @@
               "order": 10,
               "distance": 112,
               "stop": {
-                "id": 50462,
-                "publicId": "13616",
+                "id": "13616",
+                "internalId": 50462,
                 "name": "R. A. A. Machado / R. S. Tomás",
                 "position": {
                   "latitude": 38.75281,
@@ -1537,8 +1537,8 @@
               "order": 11,
               "distance": 860,
               "stop": {
-                "id": 13620,
-                "publicId": "13620",
+                "id": "13620",
+                "internalId": 13620,
                 "name": "R. S. Tomás Aquino",
                 "position": {
                   "latitude": 38.751873,
@@ -1553,8 +1553,8 @@
               "order": 12,
               "distance": 679,
               "stop": {
-                "id": 13509,
-                "publicId": "13509",
+                "id": "13509",
+                "internalId": 13509,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.750002,
@@ -1569,8 +1569,8 @@
               "order": 13,
               "distance": 253,
               "stop": {
-                "id": 13502,
-                "publicId": "13502",
+                "id": "13502",
+                "internalId": 13502,
                 "name": "Faculdade De Farmácia",
                 "position": {
                   "latitude": 38.74719,
@@ -1585,8 +1585,8 @@
               "order": 14,
               "distance": 539,
               "stop": {
-                "id": 2010,
-                "publicId": "2010",
+                "id": "2010",
+                "internalId": 2010,
                 "name": "Av. Forças Armadas / R. Sanche",
                 "position": {
                   "latitude": 38.747648,
@@ -1601,8 +1601,8 @@
               "order": 15,
               "distance": 281,
               "stop": {
-                "id": 2015,
-                "publicId": "2015",
+                "id": "2015",
+                "internalId": 2015,
                 "name": "Entrecampos Norte",
                 "position": {
                   "latitude": 38.749993,
@@ -1617,8 +1617,8 @@
               "order": 16,
               "distance": 400,
               "stop": {
-                "id": 2017,
-                "publicId": "2017",
+                "id": "2017",
+                "internalId": 2017,
                 "name": "Campo Grande",
                 "position": {
                   "latitude": 38.752315,
@@ -1633,8 +1633,8 @@
               "order": 17,
               "distance": 399,
               "stop": {
-                "id": 5705,
-                "publicId": "5705",
+                "id": "5705",
+                "internalId": 5705,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.755629,
@@ -1649,8 +1649,8 @@
               "order": 18,
               "distance": 467,
               "stop": {
-                "id": 5805,
-                "publicId": "5805",
+                "id": "5805",
+                "internalId": 5805,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.758587,
@@ -1665,8 +1665,8 @@
               "order": 19,
               "distance": 0,
               "stop": {
-                "id": 5829,
-                "publicId": "5829",
+                "id": "5829",
+                "internalId": 5829,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.760667,

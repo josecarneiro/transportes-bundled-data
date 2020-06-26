@@ -1,11 +1,14 @@
 {
-  "id": 4307,
-  "publicId": "4307",
+  "id": "4307",
+  "internalId": 4307,
   "name": "Cruz Quebrada",
   "position": {
     "latitude": 38.701895,
     "longitude": -9.251449
   },
   "visible": true,
-  "updateDate": "2019-07-23T10:07:47.000Z"
+  "updateDate": "2019-07-23T10:07:47.000Z",
+  "routes": [
+    "776"
+  ]
 }

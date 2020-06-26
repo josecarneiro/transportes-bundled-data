@@ -1,11 +1,14 @@
 {
-  "id": 4212,
-  "publicId": "4212",
+  "id": "4212",
+  "internalId": 4212,
   "name": "Algés (Jardim)",
   "position": {
     "latitude": 38.699546,
     "longitude": -9.232096
   },
   "visible": true,
-  "updateDate": "2019-07-23T10:02:46.000Z"
+  "updateDate": "2019-07-23T10:02:46.000Z",
+  "routes": [
+    "776"
+  ]
 }

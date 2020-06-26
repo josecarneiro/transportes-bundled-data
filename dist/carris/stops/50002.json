@@ -1,11 +1,14 @@
 {
-  "id": 50002,
-  "publicId": "50002",
+  "id": "50002",
+  "internalId": 50002,
   "name": "Az. Galhardas",
   "position": {
     "latitude": 38.75742,
     "longitude": -9.167362
   },
   "visible": true,
-  "updateDate": "2018-06-01T09:40:56.000Z"
+  "updateDate": "2018-06-01T09:40:56.000Z",
+  "routes": [
+    "750"
+  ]
 }

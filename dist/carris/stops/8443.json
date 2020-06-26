@@ -1,11 +1,14 @@
 {
-  "id": 8443,
-  "publicId": "8443",
+  "id": "8443",
+  "internalId": 8443,
   "name": "Rua Cidade Novo Redondo",
   "position": {
     "latitude": 38.76494,
     "longitude": -9.116061
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:10:31.000Z"
+  "updateDate": "2008-12-05T18:10:31.000Z",
+  "routes": [
+    "708"
+  ]
 }

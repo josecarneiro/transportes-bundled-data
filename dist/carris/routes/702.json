@@ -1,6 +1,6 @@
 {
-  "id": 146,
-  "number": "702",
+  "id": "702",
+  "internalId": 146,
   "name": "Marquês Pombal - Serafina",
   "visible": true,
   "creationDate": "2020-05-20T09:05:51.000Z",
@@ -1198,8 +1198,8 @@
               "order": 1,
               "distance": 48,
               "stop": {
-                "id": 50188,
-                "publicId": "1221",
+                "id": "1221",
+                "internalId": 50188,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725435,
@@ -1214,8 +1214,8 @@
               "order": 2,
               "distance": 538,
               "stop": {
-                "id": 1209,
-                "publicId": "1209",
+                "id": "1209",
+                "internalId": 1209,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725361,
@@ -1230,8 +1230,8 @@
               "order": 3,
               "distance": 279,
               "stop": {
-                "id": 6127,
-                "publicId": "6127",
+                "id": "6127",
+                "internalId": 6127,
                 "name": "Rua Artilharia Um",
                 "position": {
                   "latitude": 38.725911,
@@ -1246,8 +1246,8 @@
               "order": 4,
               "distance": 371,
               "stop": {
-                "id": 6103,
-                "publicId": "6103",
+                "id": "6103",
+                "internalId": 6103,
                 "name": "Rua Francisco Manuel De Melo",
                 "position": {
                   "latitude": 38.72792,
@@ -1262,8 +1262,8 @@
               "order": 5,
               "distance": 256,
               "stop": {
-                "id": 6105,
-                "publicId": "6105",
+                "id": "6105",
+                "internalId": 6105,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.727491,
@@ -1278,8 +1278,8 @@
               "order": 6,
               "distance": 334,
               "stop": {
-                "id": 6107,
-                "publicId": "6107",
+                "id": "6107",
+                "internalId": 6107,
                 "name": "Cç. Dos Mestres",
                 "position": {
                   "latitude": 38.726517,
@@ -1294,8 +1294,8 @@
               "order": 7,
               "distance": 156,
               "stop": {
-                "id": 6109,
-                "publicId": "6109",
+                "id": "6109",
+                "internalId": 6109,
                 "name": "Bº De Campolide",
                 "position": {
                   "latitude": 38.728964,
@@ -1310,8 +1310,8 @@
               "order": 8,
               "distance": 502,
               "stop": {
-                "id": 6111,
-                "publicId": "6111",
+                "id": "6111",
+                "internalId": 6111,
                 "name": "Bº Da Cç. Dos Mestres",
                 "position": {
                   "latitude": 38.729435,
@@ -1326,8 +1326,8 @@
               "order": 9,
               "distance": 477,
               "stop": {
-                "id": 6132,
-                "publicId": "6132",
+                "id": "6132",
+                "internalId": 6132,
                 "name": "Bº Da Cç. Dos Mestres",
                 "position": {
                   "latitude": 38.727982,
@@ -1342,8 +1342,8 @@
               "order": 10,
               "distance": 461,
               "stop": {
-                "id": 2701,
-                "publicId": "2701",
+                "id": "2701",
+                "internalId": 2701,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.731375,
@@ -1358,8 +1358,8 @@
               "order": 11,
               "distance": 218,
               "stop": {
-                "id": 2705,
-                "publicId": "2705",
+                "id": "2705",
+                "internalId": 2705,
                 "name": "Bº Da Liberdade",
                 "position": {
                   "latitude": 38.733334,
@@ -1374,8 +1374,8 @@
               "order": 12,
               "distance": 440,
               "stop": {
-                "id": 2707,
-                "publicId": "2707",
+                "id": "2707",
+                "internalId": 2707,
                 "name": "Rua B - Bº Da Liberdade",
                 "position": {
                   "latitude": 38.734887,
@@ -1390,8 +1390,8 @@
               "order": 13,
               "distance": 316,
               "stop": {
-                "id": 50085,
-                "publicId": "2724",
+                "id": "2724",
+                "internalId": 50085,
                 "name": "Serafina",
                 "position": {
                   "latitude": 38.73251,
@@ -1406,8 +1406,8 @@
               "order": 14,
               "distance": 0,
               "stop": {
-                "id": 50086,
-                "publicId": "2722",
+                "id": "2722",
+                "internalId": 50086,
                 "name": "Serafina - Igreja",
                 "position": {
                   "latitude": 38.730742,
@@ -2800,8 +2800,8 @@
               "order": 1,
               "distance": 394,
               "stop": {
-                "id": 50086,
-                "publicId": "2722",
+                "id": "2722",
+                "internalId": 50086,
                 "name": "Serafina - Igreja",
                 "position": {
                   "latitude": 38.730742,
@@ -2816,8 +2816,8 @@
               "order": 2,
               "distance": 413,
               "stop": {
-                "id": 2709,
-                "publicId": "2709",
+                "id": "2709",
+                "internalId": 2709,
                 "name": "Rua Padre Domingos Santos",
                 "position": {
                   "latitude": 38.732515,
@@ -2832,8 +2832,8 @@
               "order": 3,
               "distance": 224,
               "stop": {
-                "id": 2708,
-                "publicId": "2708",
+                "id": "2708",
+                "internalId": 2708,
                 "name": "Rua B - Bº Da Liberdade",
                 "position": {
                   "latitude": 38.734679,
@@ -2848,8 +2848,8 @@
               "order": 4,
               "distance": 301,
               "stop": {
-                "id": 2706,
-                "publicId": "2706",
+                "id": "2706",
+                "internalId": 2706,
                 "name": "Bº Da Liberdade",
                 "position": {
                   "latitude": 38.733084,
@@ -2864,8 +2864,8 @@
               "order": 5,
               "distance": 634,
               "stop": {
-                "id": 2704,
-                "publicId": "2704",
+                "id": "2704",
+                "internalId": 2704,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.730838,
@@ -2880,8 +2880,8 @@
               "order": 6,
               "distance": 332,
               "stop": {
-                "id": 8606,
-                "publicId": "8606",
+                "id": "8606",
+                "internalId": 8606,
                 "name": "Cç. Dos Sete Moínhos",
                 "position": {
                   "latitude": 38.726199,
@@ -2896,8 +2896,8 @@
               "order": 7,
               "distance": 482,
               "stop": {
-                "id": 6112,
-                "publicId": "6112",
+                "id": "6112",
+                "internalId": 6112,
                 "name": "Bº Da Cç. Dos Mestres",
                 "position": {
                   "latitude": 38.726359,
@@ -2912,8 +2912,8 @@
               "order": 8,
               "distance": 214,
               "stop": {
-                "id": 6110,
-                "publicId": "6110",
+                "id": "6110",
+                "internalId": 6110,
                 "name": "Bº De Campolide",
                 "position": {
                   "latitude": 38.728512,
@@ -2928,8 +2928,8 @@
               "order": 9,
               "distance": 415,
               "stop": {
-                "id": 6108,
-                "publicId": "6108",
+                "id": "6108",
+                "internalId": 6108,
                 "name": "Cç. Mestres",
                 "position": {
                   "latitude": 38.726812,
@@ -2944,8 +2944,8 @@
               "order": 10,
               "distance": 385,
               "stop": {
-                "id": 6101,
-                "publicId": "6101",
+                "id": "6101",
+                "internalId": 6101,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.727597,
@@ -2960,8 +2960,8 @@
               "order": 11,
               "distance": 415,
               "stop": {
-                "id": 6128,
-                "publicId": "6128",
+                "id": "6128",
+                "internalId": 6128,
                 "name": "Rua Artilharia Um",
                 "position": {
                   "latitude": 38.726686,
@@ -2976,8 +2976,8 @@
               "order": 12,
               "distance": 189,
               "stop": {
-                "id": 1224,
-                "publicId": "1224",
+                "id": "1224",
+                "internalId": 1224,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.724903,
@@ -2992,8 +2992,8 @@
               "order": 13,
               "distance": 543,
               "stop": {
-                "id": 50197,
-                "publicId": "1215",
+                "id": "1215",
+                "internalId": 50197,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724996,
@@ -3008,8 +3008,8 @@
               "order": 14,
               "distance": 0,
               "stop": {
-                "id": 50188,
-                "publicId": "1221",
+                "id": "1221",
+                "internalId": 50188,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725435,
@@ -4077,8 +4077,8 @@
               "order": 1,
               "distance": 48,
               "stop": {
-                "id": 50188,
-                "publicId": "1221",
+                "id": "1221",
+                "internalId": 50188,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725435,
@@ -4093,8 +4093,8 @@
               "order": 2,
               "distance": 538,
               "stop": {
-                "id": 1209,
-                "publicId": "1209",
+                "id": "1209",
+                "internalId": 1209,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725361,
@@ -4109,8 +4109,8 @@
               "order": 3,
               "distance": 279,
               "stop": {
-                "id": 6127,
-                "publicId": "6127",
+                "id": "6127",
+                "internalId": 6127,
                 "name": "Rua Artilharia Um",
                 "position": {
                   "latitude": 38.725911,
@@ -4125,8 +4125,8 @@
               "order": 4,
               "distance": 371,
               "stop": {
-                "id": 6103,
-                "publicId": "6103",
+                "id": "6103",
+                "internalId": 6103,
                 "name": "Rua Francisco Manuel De Melo",
                 "position": {
                   "latitude": 38.72792,
@@ -4141,8 +4141,8 @@
               "order": 5,
               "distance": 256,
               "stop": {
-                "id": 6105,
-                "publicId": "6105",
+                "id": "6105",
+                "internalId": 6105,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.727491,
@@ -4157,8 +4157,8 @@
               "order": 6,
               "distance": 334,
               "stop": {
-                "id": 6107,
-                "publicId": "6107",
+                "id": "6107",
+                "internalId": 6107,
                 "name": "Cç. Dos Mestres",
                 "position": {
                   "latitude": 38.726517,
@@ -4173,8 +4173,8 @@
               "order": 7,
               "distance": 156,
               "stop": {
-                "id": 6109,
-                "publicId": "6109",
+                "id": "6109",
+                "internalId": 6109,
                 "name": "Bº De Campolide",
                 "position": {
                   "latitude": 38.728964,
@@ -4189,8 +4189,8 @@
               "order": 8,
               "distance": 502,
               "stop": {
-                "id": 6111,
-                "publicId": "6111",
+                "id": "6111",
+                "internalId": 6111,
                 "name": "Bº Da Cç. Dos Mestres",
                 "position": {
                   "latitude": 38.729435,
@@ -4205,8 +4205,8 @@
               "order": 9,
               "distance": 477,
               "stop": {
-                "id": 6132,
-                "publicId": "6132",
+                "id": "6132",
+                "internalId": 6132,
                 "name": "Bº Da Cç. Dos Mestres",
                 "position": {
                   "latitude": 38.727982,
@@ -4221,8 +4221,8 @@
               "order": 10,
               "distance": 304,
               "stop": {
-                "id": 2701,
-                "publicId": "2701",
+                "id": "2701",
+                "internalId": 2701,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.731375,
@@ -4237,8 +4237,8 @@
               "order": 11,
               "distance": 218,
               "stop": {
-                "id": 2705,
-                "publicId": "2705",
+                "id": "2705",
+                "internalId": 2705,
                 "name": "Bº Da Liberdade",
                 "position": {
                   "latitude": 38.733334,
@@ -4253,8 +4253,8 @@
               "order": 12,
               "distance": 450,
               "stop": {
-                "id": 2707,
-                "publicId": "2707",
+                "id": "2707",
+                "internalId": 2707,
                 "name": "Rua B - Bº Da Liberdade",
                 "position": {
                   "latitude": 38.734887,
@@ -4269,8 +4269,8 @@
               "order": 13,
               "distance": 0,
               "stop": {
-                "id": 2709,
-                "publicId": "2709",
+                "id": "2709",
+                "internalId": 2709,
                 "name": "Rua Padre Domingos Santos",
                 "position": {
                   "latitude": 38.732515,
@@ -5531,8 +5531,8 @@
               "order": 1,
               "distance": 413,
               "stop": {
-                "id": 2709,
-                "publicId": "2709",
+                "id": "2709",
+                "internalId": 2709,
                 "name": "Rua Padre Domingos Santos",
                 "position": {
                   "latitude": 38.732515,
@@ -5547,8 +5547,8 @@
               "order": 2,
               "distance": 224,
               "stop": {
-                "id": 2708,
-                "publicId": "2708",
+                "id": "2708",
+                "internalId": 2708,
                 "name": "Rua B - Bº Da Liberdade",
                 "position": {
                   "latitude": 38.734679,
@@ -5563,8 +5563,8 @@
               "order": 3,
               "distance": 301,
               "stop": {
-                "id": 2706,
-                "publicId": "2706",
+                "id": "2706",
+                "internalId": 2706,
                 "name": "Bº Da Liberdade",
                 "position": {
                   "latitude": 38.733084,
@@ -5579,8 +5579,8 @@
               "order": 4,
               "distance": 634,
               "stop": {
-                "id": 2704,
-                "publicId": "2704",
+                "id": "2704",
+                "internalId": 2704,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.730838,
@@ -5595,8 +5595,8 @@
               "order": 5,
               "distance": 332,
               "stop": {
-                "id": 8606,
-                "publicId": "8606",
+                "id": "8606",
+                "internalId": 8606,
                 "name": "Cç. Dos Sete Moínhos",
                 "position": {
                   "latitude": 38.726199,
@@ -5611,8 +5611,8 @@
               "order": 6,
               "distance": 482,
               "stop": {
-                "id": 6112,
-                "publicId": "6112",
+                "id": "6112",
+                "internalId": 6112,
                 "name": "Bº Da Cç. Dos Mestres",
                 "position": {
                   "latitude": 38.726359,
@@ -5627,8 +5627,8 @@
               "order": 7,
               "distance": 214,
               "stop": {
-                "id": 6110,
-                "publicId": "6110",
+                "id": "6110",
+                "internalId": 6110,
                 "name": "Bº De Campolide",
                 "position": {
                   "latitude": 38.728512,
@@ -5643,8 +5643,8 @@
               "order": 8,
               "distance": 415,
               "stop": {
-                "id": 6108,
-                "publicId": "6108",
+                "id": "6108",
+                "internalId": 6108,
                 "name": "Cç. Mestres",
                 "position": {
                   "latitude": 38.726812,
@@ -5659,8 +5659,8 @@
               "order": 9,
               "distance": 385,
               "stop": {
-                "id": 6101,
-                "publicId": "6101",
+                "id": "6101",
+                "internalId": 6101,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.727597,
@@ -5675,8 +5675,8 @@
               "order": 10,
               "distance": 415,
               "stop": {
-                "id": 6128,
-                "publicId": "6128",
+                "id": "6128",
+                "internalId": 6128,
                 "name": "Rua Artilharia Um",
                 "position": {
                   "latitude": 38.726686,
@@ -5691,8 +5691,8 @@
               "order": 11,
               "distance": 189,
               "stop": {
-                "id": 1224,
-                "publicId": "1224",
+                "id": "1224",
+                "internalId": 1224,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.724903,
@@ -5707,8 +5707,8 @@
               "order": 12,
               "distance": 543,
               "stop": {
-                "id": 50197,
-                "publicId": "1215",
+                "id": "1215",
+                "internalId": 50197,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724996,
@@ -5723,8 +5723,8 @@
               "order": 13,
               "distance": 0,
               "stop": {
-                "id": 50188,
-                "publicId": "1221",
+                "id": "1221",
+                "internalId": 50188,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725435,
@@ -6206,8 +6206,8 @@
               "order": 1,
               "distance": 461,
               "stop": {
-                "id": 2701,
-                "publicId": "2701",
+                "id": "2701",
+                "internalId": 2701,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.731375,
@@ -6222,8 +6222,8 @@
               "order": 2,
               "distance": 218,
               "stop": {
-                "id": 2705,
-                "publicId": "2705",
+                "id": "2705",
+                "internalId": 2705,
                 "name": "Bº Da Liberdade",
                 "position": {
                   "latitude": 38.733334,
@@ -6238,8 +6238,8 @@
               "order": 3,
               "distance": 440,
               "stop": {
-                "id": 2707,
-                "publicId": "2707",
+                "id": "2707",
+                "internalId": 2707,
                 "name": "Rua B - Bº Da Liberdade",
                 "position": {
                   "latitude": 38.734887,
@@ -6254,8 +6254,8 @@
               "order": 4,
               "distance": 316,
               "stop": {
-                "id": 50085,
-                "publicId": "2724",
+                "id": "2724",
+                "internalId": 50085,
                 "name": "Serafina",
                 "position": {
                   "latitude": 38.73251,
@@ -6270,8 +6270,8 @@
               "order": 5,
               "distance": 0,
               "stop": {
-                "id": 50086,
-                "publicId": "2722",
+                "id": "2722",
+                "internalId": 50086,
                 "name": "Serafina - Igreja",
                 "position": {
                   "latitude": 38.730742,
@@ -6762,8 +6762,8 @@
               "order": 1,
               "distance": 390,
               "stop": {
-                "id": 50086,
-                "publicId": "2722",
+                "id": "2722",
+                "internalId": 50086,
                 "name": "Serafina - Igreja",
                 "position": {
                   "latitude": 38.730742,
@@ -6778,8 +6778,8 @@
               "order": 2,
               "distance": 413,
               "stop": {
-                "id": 2709,
-                "publicId": "2709",
+                "id": "2709",
+                "internalId": 2709,
                 "name": "Rua Padre Domingos Santos",
                 "position": {
                   "latitude": 38.732515,
@@ -6794,8 +6794,8 @@
               "order": 3,
               "distance": 224,
               "stop": {
-                "id": 2708,
-                "publicId": "2708",
+                "id": "2708",
+                "internalId": 2708,
                 "name": "Rua B - Bº Da Liberdade",
                 "position": {
                   "latitude": 38.734679,
@@ -6810,8 +6810,8 @@
               "order": 4,
               "distance": 301,
               "stop": {
-                "id": 2706,
-                "publicId": "2706",
+                "id": "2706",
+                "internalId": 2706,
                 "name": "Bº Da Liberdade",
                 "position": {
                   "latitude": 38.733084,
@@ -6826,8 +6826,8 @@
               "order": 5,
               "distance": 0,
               "stop": {
-                "id": 2704,
-                "publicId": "2704",
+                "id": "2704",
+                "internalId": 2704,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.730838,

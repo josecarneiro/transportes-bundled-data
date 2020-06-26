@@ -1,11 +1,20 @@
 {
-  "id": 8002,
-  "publicId": "8002",
+  "id": "8002",
+  "internalId": 8002,
   "name": "R. Saraiva Carvalho",
   "position": {
     "latitude": 38.715461,
     "longitude": -9.164532
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:36:40.000Z"
+  "updateDate": "2019-09-02T14:36:40.000Z",
+  "routes": [
+    "709",
+    "712",
+    "714",
+    "742",
+    "774",
+    "25E",
+    "28E"
+  ]
 }

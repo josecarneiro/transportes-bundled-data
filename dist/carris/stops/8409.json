@@ -1,11 +1,17 @@
 {
-  "id": 8409,
-  "publicId": "8409",
+  "id": "8409",
+  "internalId": 8409,
   "name": "Cabo Ruivo - Av. Mar. Gomes Co",
   "position": {
     "latitude": 38.758756,
     "longitude": -9.113436
   },
   "visible": true,
-  "updateDate": "2019-01-02T16:04:06.000Z"
+  "updateDate": "2019-01-02T16:04:06.000Z",
+  "routes": [
+    "208",
+    "708",
+    "750",
+    "9E"
+  ]
 }

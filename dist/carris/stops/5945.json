@@ -1,11 +1,15 @@
 {
-  "id": 50161,
-  "publicId": "5945",
+  "id": "5945",
+  "internalId": 50161,
   "name": "Hosp. Forças Armadas",
   "position": {
     "latitude": 38.76891,
     "longitude": -9.17425
   },
   "visible": true,
-  "updateDate": "2019-03-11T10:45:29.000Z"
+  "updateDate": "2019-03-11T10:45:29.000Z",
+  "routes": [
+    "703",
+    "778"
+  ]
 }

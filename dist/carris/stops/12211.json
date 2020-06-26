@@ -1,11 +1,15 @@
 {
-  "id": 50079,
-  "publicId": "12211",
+  "id": "12211",
+  "internalId": 50079,
   "name": "Centro De Saúde Da Encarnação",
   "position": {
     "latitude": 38.772449,
     "longitude": -9.117945
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:14:48.000Z"
+  "updateDate": "2012-12-13T17:14:48.000Z",
+  "routes": [
+    "759",
+    "29B"
+  ]
 }

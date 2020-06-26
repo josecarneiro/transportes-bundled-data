@@ -1,11 +1,14 @@
 {
-  "id": 2210,
-  "publicId": "2210",
+  "id": "2210",
+  "internalId": 2210,
   "name": "Bº Prodac",
   "position": {
     "latitude": 38.746741,
     "longitude": -9.106876
   },
   "visible": true,
-  "updateDate": "2002-09-05T15:21:58.000Z"
+  "updateDate": "2002-09-05T15:21:58.000Z",
+  "routes": [
+    "755"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 50219,
-  "publicId": "904",
+  "id": "904",
+  "internalId": 50219,
   "name": "Rua Da Prata",
   "position": {
     "latitude": 38.712053,
     "longitude": -9.139588
   },
   "visible": true,
-  "updateDate": "2014-11-04T16:19:05.000Z"
+  "updateDate": "2014-11-04T16:19:05.000Z",
+  "routes": [
+    "54E"
+  ]
 }

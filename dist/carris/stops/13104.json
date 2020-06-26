@@ -1,11 +1,14 @@
 {
-  "id": 13104,
-  "publicId": "13104",
+  "id": "13104",
+  "internalId": 13104,
   "name": "Rua Mem Rodrigues",
   "position": {
     "latitude": 38.707362,
     "longitude": -9.208612
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:55:22.000Z"
+  "updateDate": "2008-12-05T16:55:22.000Z",
+  "routes": [
+    "732"
+  ]
 }

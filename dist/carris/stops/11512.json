@@ -1,11 +1,14 @@
 {
-  "id": 11512,
-  "publicId": "11512",
+  "id": "11512",
+  "internalId": 11512,
   "name": "Rua Helena Vaz Da Silva",
   "position": {
     "latitude": 38.773239,
     "longitude": -9.153054
   },
   "visible": true,
-  "updateDate": "2014-03-03T14:57:46.000Z"
+  "updateDate": "2014-03-03T14:57:46.000Z",
+  "routes": [
+    "798"
+  ]
 }

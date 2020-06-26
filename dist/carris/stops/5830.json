@@ -1,11 +1,14 @@
 {
-  "id": 50390,
-  "publicId": "5830",
+  "id": "5830",
+  "internalId": 50390,
   "name": "Qta. Conchas (Metro)",
   "position": {
     "latitude": 38.766781,
     "longitude": -9.157417
   },
   "visible": true,
-  "updateDate": "2019-03-13T13:48:54.000Z"
+  "updateDate": "2019-03-13T13:48:54.000Z",
+  "routes": [
+    "43B"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 5515,
-  "publicId": "5515",
+  "id": "5515",
+  "internalId": 5515,
   "name": "Praça Do Comércio",
   "position": {
     "latitude": 38.708165,
     "longitude": -9.137112
   },
   "visible": true,
-  "updateDate": "2016-10-03T16:04:51.000Z"
+  "updateDate": "2016-10-03T16:04:51.000Z",
+  "routes": [
+    "15E",
+    "25E"
+  ]
 }

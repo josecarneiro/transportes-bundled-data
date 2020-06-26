@@ -1,11 +1,18 @@
 {
-  "id": 11511,
-  "publicId": "11511",
+  "id": "11511",
+  "internalId": 11511,
   "name": "Esc. Pintor Almada Negreiros",
   "position": {
     "latitude": 38.77713,
     "longitude": -9.146463
   },
   "visible": true,
-  "updateDate": "2019-03-26T17:43:15.000Z"
+  "updateDate": "2019-03-26T17:43:15.000Z",
+  "routes": [
+    "207",
+    "717",
+    "798",
+    "40B",
+    "41B"
+  ]
 }

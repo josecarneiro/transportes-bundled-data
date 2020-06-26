@@ -1,6 +1,6 @@
 {
-  "id": 216,
-  "number": "9B",
+  "id": "9B",
+  "internalId": 216,
   "name": "Algés (Docapesca) - Marquês Pombal",
   "visible": true,
   "creationDate": "2018-07-10T17:31:46.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 3000,
               "stop": {
-                "id": 50308,
-                "publicId": "99999",
+                "id": "99999",
+                "internalId": 50308,
                 "name": "Algés (Docapesca)",
                 "position": {
                   "latitude": 38.696747,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 503,
               "stop": {
-                "id": 4209,
-                "publicId": "4209",
+                "id": "4209",
+                "internalId": 4209,
                 "name": "Rua Damião De Góis",
                 "position": {
                   "latitude": 38.698227,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 289,
               "stop": {
-                "id": 13212,
-                "publicId": "13212",
+                "id": "13212",
+                "internalId": 13212,
                 "name": "Inst. Altos Estudos Militares",
                 "position": {
                   "latitude": 38.696886,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 326,
               "stop": {
-                "id": 9716,
-                "publicId": "9716",
+                "id": "9716",
+                "internalId": 9716,
                 "name": "R. S. Francisco Xavier",
                 "position": {
                   "latitude": 38.698774,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 623,
               "stop": {
-                "id": 9712,
-                "publicId": "9712",
+                "id": "9712",
+                "internalId": 9712,
                 "name": "Av. Dom Vasco Da Gama",
                 "position": {
                   "latitude": 38.700965,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 398,
               "stop": {
-                "id": 9706,
-                "publicId": "9706",
+                "id": "9706",
+                "internalId": 9706,
                 "name": "Rua Constantino De Bragança",
                 "position": {
                   "latitude": 38.706369,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 261,
               "stop": {
-                "id": 12404,
-                "publicId": "12404",
+                "id": "12404",
+                "internalId": 12404,
                 "name": "Restelo - Av. Descobertas",
                 "position": {
                   "latitude": 38.709819,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 512,
               "stop": {
-                "id": 12402,
-                "publicId": "12402",
+                "id": "12402",
+                "internalId": 12402,
                 "name": "R. Gregório Lopes",
                 "position": {
                   "latitude": 38.711874,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 261,
               "stop": {
-                "id": 10402,
-                "publicId": "10402",
+                "id": "10402",
+                "internalId": 10402,
                 "name": "Fonte Caselas",
                 "position": {
                   "latitude": 38.715795,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 328,
               "stop": {
-                "id": 10404,
-                "publicId": "10404",
+                "id": "10404",
+                "internalId": 10404,
                 "name": "Caselas",
                 "position": {
                   "latitude": 38.716942,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 746,
               "stop": {
-                "id": 10406,
-                "publicId": "10406",
+                "id": "10406",
+                "internalId": 10406,
                 "name": "Estr. Queluz",
                 "position": {
                   "latitude": 38.717459,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 121,
               "stop": {
-                "id": 12905,
-                "publicId": "12905",
+                "id": "12905",
+                "internalId": 12905,
                 "name": "Caramão Da Ajuda",
                 "position": {
                   "latitude": 38.714452,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 256,
               "stop": {
-                "id": 50168,
-                "publicId": "12416",
+                "id": "12416",
+                "internalId": 50168,
                 "name": "Estrada Pedro Teixeira",
                 "position": {
                   "latitude": 38.713611,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 242,
               "stop": {
-                "id": 12910,
-                "publicId": "12910",
+                "id": "12910",
+                "internalId": 12910,
                 "name": "Bº Da Ajuda - Escola",
                 "position": {
                   "latitude": 38.712098,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 281,
               "stop": {
-                "id": 12923,
-                "publicId": "12923",
+                "id": "12923",
+                "internalId": 12923,
                 "name": "Bº Dois De Maio",
                 "position": {
                   "latitude": 38.712093,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 458,
               "stop": {
-                "id": 12928,
-                "publicId": "12928",
+                "id": "12928",
+                "internalId": 12928,
                 "name": "I.S.C.S.P.",
                 "position": {
                   "latitude": 38.713717,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 843,
               "stop": {
-                "id": 10315,
-                "publicId": "10315",
+                "id": "10315",
+                "internalId": 10315,
                 "name": "Pólo Universitário Da Ajuda",
                 "position": {
                   "latitude": 38.713933,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 535,
               "stop": {
-                "id": 21304,
-                "publicId": "21304",
+                "id": "21304",
+                "internalId": 21304,
                 "name": "Montes Claros",
                 "position": {
                   "latitude": 38.717839,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 396,
               "stop": {
-                "id": 21302,
-                "publicId": "21302",
+                "id": "21302",
+                "internalId": 21302,
                 "name": "Alto Dos Moínhos",
                 "position": {
                   "latitude": 38.72208,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 652,
               "stop": {
-                "id": 8714,
-                "publicId": "8714",
+                "id": "8714",
+                "internalId": 8714,
                 "name": "Cruz Das Oliveiras",
                 "position": {
                   "latitude": 38.723966,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 422,
               "stop": {
-                "id": 21308,
-                "publicId": "21308",
+                "id": "21308",
+                "internalId": 21308,
                 "name": "Estrada Do Alvito",
                 "position": {
                   "latitude": 38.723391,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 587,
               "stop": {
-                "id": 50323,
-                "publicId": "21309",
+                "id": "21309",
+                "internalId": 50323,
                 "name": "Parque Infantil Alvito",
                 "position": {
                   "latitude": 38.719873,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 1620,
               "stop": {
-                "id": 50324,
-                "publicId": "21310",
+                "id": "21310",
+                "internalId": 50324,
                 "name": "Estrada Pimenteira",
                 "position": {
                   "latitude": 38.723133,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 443,
               "stop": {
-                "id": 8608,
-                "publicId": "8608",
+                "id": "8608",
+                "internalId": 8608,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723303,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 515,
               "stop": {
-                "id": 8502,
-                "publicId": "8502",
+                "id": "8502",
+                "internalId": 8502,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724091,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 384,
               "stop": {
-                "id": 1224,
-                "publicId": "1224",
+                "id": "1224",
+                "internalId": 1224,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.724903,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 0,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,
@@ -460,8 +460,8 @@
               "order": 1,
               "distance": 102,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,
@@ -476,8 +476,8 @@
               "order": 2,
               "distance": 9000,
               "stop": {
-                "id": 1209,
-                "publicId": "1209",
+                "id": "1209",
+                "internalId": 1209,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725361,
@@ -492,8 +492,8 @@
               "order": 3,
               "distance": 1498,
               "stop": {
-                "id": 14309,
-                "publicId": "14309",
+                "id": "14309",
+                "internalId": 14309,
                 "name": "Miraflores",
                 "position": {
                   "latitude": 38.713332,
@@ -508,8 +508,8 @@
               "order": 4,
               "distance": 3000,
               "stop": {
-                "id": 4213,
-                "publicId": "4213",
+                "id": "4213",
+                "internalId": 4213,
                 "name": "Algés - Mercado",
                 "position": {
                   "latitude": 38.701126,
@@ -524,8 +524,8 @@
               "order": 5,
               "distance": 0,
               "stop": {
-                "id": 50308,
-                "publicId": "99999",
+                "id": "99999",
+                "internalId": 50308,
                 "name": "Algés (Docapesca)",
                 "position": {
                   "latitude": 38.696747,

@@ -1,11 +1,15 @@
 {
-  "id": 2718,
-  "publicId": "2718",
+  "id": "2718",
+  "internalId": 2718,
   "name": "Rua De Campolide - José Malhoa",
   "position": {
     "latitude": 38.736776,
     "longitude": -9.167456
   },
   "visible": true,
-  "updateDate": "2014-03-03T11:55:43.000Z"
+  "updateDate": "2014-03-03T11:55:43.000Z",
+  "routes": [
+    "701",
+    "758"
+  ]
 }

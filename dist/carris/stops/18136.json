@@ -1,11 +1,14 @@
 {
-  "id": 50329,
-  "publicId": "18136",
+  "id": "18136",
+  "internalId": 50329,
   "name": "Estrada Do Seminário",
   "position": {
     "latitude": 38.734324,
     "longitude": -9.220415
   },
   "visible": true,
-  "updateDate": "2017-07-05T14:00:00.000Z"
+  "updateDate": "2017-07-05T14:00:00.000Z",
+  "routes": [
+    "754"
+  ]
 }

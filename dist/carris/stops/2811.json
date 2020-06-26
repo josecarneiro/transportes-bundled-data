@@ -1,11 +1,16 @@
 {
-  "id": 2811,
-  "publicId": "2811",
+  "id": "2811",
+  "internalId": 2811,
   "name": "Estação Benfica",
   "position": {
     "latitude": 38.744722,
     "longitude": -9.199043
   },
   "visible": true,
-  "updateDate": "2018-02-21T18:52:27.000Z"
+  "updateDate": "2018-02-21T18:52:27.000Z",
+  "routes": [
+    "202",
+    "754",
+    "764"
+  ]
 }

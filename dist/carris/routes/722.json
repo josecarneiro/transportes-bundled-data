@@ -1,6 +1,6 @@
 {
-  "id": 196,
-  "number": "722",
+  "id": "722",
+  "internalId": 196,
   "name": "Pç. Londres - Portela",
   "visible": true,
   "creationDate": "2020-05-20T09:16:42.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 486,
               "stop": {
-                "id": 6403,
-                "publicId": "6403",
+                "id": "6403",
+                "internalId": 6403,
                 "name": "Praça De Londres",
                 "position": {
                   "latitude": 38.740594,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 272,
               "stop": {
-                "id": 304,
-                "publicId": "304",
+                "id": "304",
+                "internalId": 304,
                 "name": "Av. João Xxi / Pç. Londres",
                 "position": {
                   "latitude": 38.742369,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 291,
               "stop": {
-                "id": 302,
-                "publicId": "302",
+                "id": "302",
+                "internalId": 302,
                 "name": "Areeiro",
                 "position": {
                   "latitude": 38.742141,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 278,
               "stop": {
-                "id": 317,
-                "publicId": "317",
+                "id": "317",
+                "internalId": 317,
                 "name": "Areeiro - Av. Alm. Gago Coutin",
                 "position": {
                   "latitude": 38.743412,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 434,
               "stop": {
-                "id": 313,
-                "publicId": "313",
+                "id": "313",
+                "internalId": 313,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.745698,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 334,
               "stop": {
-                "id": 7305,
-                "publicId": "7305",
+                "id": "7305",
+                "internalId": 7305,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.7496,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 278,
               "stop": {
-                "id": 7307,
-                "publicId": "7307",
+                "id": "7307",
+                "internalId": 7307,
                 "name": "Qta De Santo António",
                 "position": {
                   "latitude": 38.7526,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 314,
               "stop": {
-                "id": 7401,
-                "publicId": "7401",
+                "id": "7401",
+                "internalId": 7401,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.755087,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 474,
               "stop": {
-                "id": 7507,
-                "publicId": "7507",
+                "id": "7507",
+                "internalId": 7507,
                 "name": "Qta Do Narigão",
                 "position": {
                   "latitude": 38.757914,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 675,
               "stop": {
-                "id": 7511,
-                "publicId": "7511",
+                "id": "7511",
+                "internalId": 7511,
                 "name": "Pç. Aeroporto",
                 "position": {
                   "latitude": 38.762168,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 399,
               "stop": {
-                "id": 7601,
-                "publicId": "7601",
+                "id": "7601",
+                "internalId": 7601,
                 "name": "Aeroporto",
                 "position": {
                   "latitude": 38.767825,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 399,
               "stop": {
-                "id": 7603,
-                "publicId": "7603",
+                "id": "7603",
+                "internalId": 7603,
                 "name": "Av. De Berlim - Aeroporto",
                 "position": {
                   "latitude": 38.769828,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 163,
               "stop": {
-                "id": 12201,
-                "publicId": "12201",
+                "id": "12201",
+                "internalId": 12201,
                 "name": "Encarnação - Bombeiros",
                 "position": {
                   "latitude": 38.770198,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 359,
               "stop": {
-                "id": 12203,
-                "publicId": "12203",
+                "id": "12203",
+                "internalId": 12203,
                 "name": "Encarnação",
                 "position": {
                   "latitude": 38.770812,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 301,
               "stop": {
-                "id": 12205,
-                "publicId": "12205",
+                "id": "12205",
+                "internalId": 12205,
                 "name": "Igreja Da Encarnação",
                 "position": {
                   "latitude": 38.7727,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 323,
               "stop": {
-                "id": 12208,
-                "publicId": "12208",
+                "id": "12208",
+                "internalId": 12208,
                 "name": "Rua Dos Lojistas",
                 "position": {
                   "latitude": 38.774067,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 231,
               "stop": {
-                "id": 12311,
-                "publicId": "12311",
+                "id": "12311",
+                "internalId": 12311,
                 "name": "Praça Do Norte - Mercado",
                 "position": {
                   "latitude": 38.776734,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 218,
               "stop": {
-                "id": 12306,
-                "publicId": "12306",
+                "id": "12306",
+                "internalId": 12306,
                 "name": "Rua Barrilaro Ruas",
                 "position": {
                   "latitude": 38.77707,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 346,
               "stop": {
-                "id": 12308,
-                "publicId": "12308",
+                "id": "12308",
+                "internalId": 12308,
                 "name": "Rua Oliveira Carmo",
                 "position": {
                   "latitude": 38.776092,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 194,
               "stop": {
-                "id": 12301,
-                "publicId": "12301",
+                "id": "12301",
+                "internalId": 12301,
                 "name": "Olivais Norte",
                 "position": {
                   "latitude": 38.775372,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 321,
               "stop": {
-                "id": 12622,
-                "publicId": "12622",
+                "id": "12622",
+                "internalId": 12622,
                 "name": "Estrada Nova Circunvalação",
                 "position": {
                   "latitude": 38.776889,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 247,
               "stop": {
-                "id": 12624,
-                "publicId": "12624",
+                "id": "12624",
+                "internalId": 12624,
                 "name": "Largo Dos Bombeiros",
                 "position": {
                   "latitude": 38.779421,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 305,
               "stop": {
-                "id": 12625,
-                "publicId": "12625",
+                "id": "12625",
+                "internalId": 12625,
                 "name": "Centro Comercial Da Portela",
                 "position": {
                   "latitude": 38.781083,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 12617,
-                "publicId": "12617",
+                "id": "12617",
+                "internalId": 12617,
                 "name": "Portela - Rua Dos Escritores",
                 "position": {
                   "latitude": 38.78244,
@@ -412,8 +412,8 @@
               "order": 1,
               "distance": 275,
               "stop": {
-                "id": 12617,
-                "publicId": "12617",
+                "id": "12617",
+                "internalId": 12617,
                 "name": "Portela - Rua Dos Escritores",
                 "position": {
                   "latitude": 38.78244,
@@ -428,8 +428,8 @@
               "order": 2,
               "distance": 241,
               "stop": {
-                "id": 12627,
-                "publicId": "12627",
+                "id": "12627",
+                "internalId": 12627,
                 "name": "Portela - Avenida Da República",
                 "position": {
                   "latitude": 38.783939,
@@ -444,8 +444,8 @@
               "order": 3,
               "distance": 327,
               "stop": {
-                "id": 12610,
-                "publicId": "12610",
+                "id": "12610",
+                "internalId": 12610,
                 "name": "Centro Comercial Da Portela",
                 "position": {
                   "latitude": 38.783803,
@@ -460,8 +460,8 @@
               "order": 4,
               "distance": 264,
               "stop": {
-                "id": 12613,
-                "publicId": "12613",
+                "id": "12613",
+                "internalId": 12613,
                 "name": "Avenida Dos Descobrimentos",
                 "position": {
                   "latitude": 38.781942,
@@ -476,8 +476,8 @@
               "order": 5,
               "distance": 289,
               "stop": {
-                "id": 12615,
-                "publicId": "12615",
+                "id": "12615",
+                "internalId": 12615,
                 "name": "Centro Comercial Da Portela",
                 "position": {
                   "latitude": 38.781007,
@@ -492,8 +492,8 @@
               "order": 6,
               "distance": 286,
               "stop": {
-                "id": 12623,
-                "publicId": "12623",
+                "id": "12623",
+                "internalId": 12623,
                 "name": "Largo Dos Bombeiros",
                 "position": {
                   "latitude": 38.779076,
@@ -508,8 +508,8 @@
               "order": 7,
               "distance": 253,
               "stop": {
-                "id": 12621,
-                "publicId": "12621",
+                "id": "12621",
+                "internalId": 12621,
                 "name": "Estrada Nova Circunvalação",
                 "position": {
                   "latitude": 38.776781,
@@ -524,8 +524,8 @@
               "order": 8,
               "distance": 262,
               "stop": {
-                "id": 12302,
-                "publicId": "12302",
+                "id": "12302",
+                "internalId": 12302,
                 "name": "Olivais Norte",
                 "position": {
                   "latitude": 38.775077,
@@ -540,8 +540,8 @@
               "order": 9,
               "distance": 262,
               "stop": {
-                "id": 12307,
-                "publicId": "12307",
+                "id": "12307",
+                "internalId": 12307,
                 "name": "Rua Oliveira Carmo",
                 "position": {
                   "latitude": 38.776049,
@@ -556,8 +556,8 @@
               "order": 10,
               "distance": 259,
               "stop": {
-                "id": 12305,
-                "publicId": "12305",
+                "id": "12305",
+                "internalId": 12305,
                 "name": "Rua Barrilaro Ruas",
                 "position": {
                   "latitude": 38.777166,
@@ -572,8 +572,8 @@
               "order": 11,
               "distance": 377,
               "stop": {
-                "id": 12312,
-                "publicId": "12312",
+                "id": "12312",
+                "internalId": 12312,
                 "name": "Praça Do Norte - Mercado",
                 "position": {
                   "latitude": 38.7763,
@@ -588,8 +588,8 @@
               "order": 12,
               "distance": 413,
               "stop": {
-                "id": 12206,
-                "publicId": "12206",
+                "id": "12206",
+                "internalId": 12206,
                 "name": "Igreja Da Encarnação",
                 "position": {
                   "latitude": 38.773574,
@@ -604,8 +604,8 @@
               "order": 13,
               "distance": 291,
               "stop": {
-                "id": 12204,
-                "publicId": "12204",
+                "id": "12204",
+                "internalId": 12204,
                 "name": "Encarnação",
                 "position": {
                   "latitude": 38.771084,
@@ -620,8 +620,8 @@
               "order": 14,
               "distance": 378,
               "stop": {
-                "id": 12202,
-                "publicId": "12202",
+                "id": "12202",
+                "internalId": 12202,
                 "name": "Encarnação - Bombeiros",
                 "position": {
                   "latitude": 38.769616,
@@ -636,8 +636,8 @@
               "order": 15,
               "distance": 318,
               "stop": {
-                "id": 7604,
-                "publicId": "7604",
+                "id": "7604",
+                "internalId": 7604,
                 "name": "Av. De Berlim - Aeroporto",
                 "position": {
                   "latitude": 38.770196,
@@ -652,8 +652,8 @@
               "order": 16,
               "distance": 896,
               "stop": {
-                "id": 7602,
-                "publicId": "7602",
+                "id": "7602",
+                "internalId": 7602,
                 "name": "Aeroporto",
                 "position": {
                   "latitude": 38.768962,
@@ -668,8 +668,8 @@
               "order": 17,
               "distance": 429,
               "stop": {
-                "id": 7514,
-                "publicId": "7514",
+                "id": "7514",
+                "internalId": 7514,
                 "name": "Pç. Aeroporto",
                 "position": {
                   "latitude": 38.762109,
@@ -684,8 +684,8 @@
               "order": 18,
               "distance": 496,
               "stop": {
-                "id": 7512,
-                "publicId": "7512",
+                "id": "7512",
+                "internalId": 7512,
                 "name": "Qta Do Narigão",
                 "position": {
                   "latitude": 38.758253,
@@ -700,8 +700,8 @@
               "order": 19,
               "distance": 212,
               "stop": {
-                "id": 7413,
-                "publicId": "7413",
+                "id": "7413",
+                "internalId": 7413,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.753794,
@@ -716,8 +716,8 @@
               "order": 20,
               "distance": 434,
               "stop": {
-                "id": 7304,
-                "publicId": "7304",
+                "id": "7304",
+                "internalId": 7304,
                 "name": "Qta De Santo António",
                 "position": {
                   "latitude": 38.7519,
@@ -732,8 +732,8 @@
               "order": 21,
               "distance": 310,
               "stop": {
-                "id": 7308,
-                "publicId": "7308",
+                "id": "7308",
+                "internalId": 7308,
                 "name": "Av. Alm. Gago Coutinho / Av. E",
                 "position": {
                   "latitude": 38.747998,
@@ -748,8 +748,8 @@
               "order": 22,
               "distance": 250,
               "stop": {
-                "id": 310,
-                "publicId": "310",
+                "id": "310",
+                "internalId": 310,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.745198,
@@ -764,8 +764,8 @@
               "order": 23,
               "distance": 210,
               "stop": {
-                "id": 308,
-                "publicId": "308",
+                "id": "308",
+                "internalId": 308,
                 "name": "Areeiro - Av. Alm. Gago Coutin",
                 "position": {
                   "latitude": 38.74329,
@@ -780,8 +780,8 @@
               "order": 24,
               "distance": 159,
               "stop": {
-                "id": 50458,
-                "publicId": "309",
+                "id": "309",
+                "internalId": 50458,
                 "name": "Areeiro",
                 "position": {
                   "latitude": 38.742371,
@@ -796,8 +796,8 @@
               "order": 25,
               "distance": 401,
               "stop": {
-                "id": 305,
-                "publicId": "305",
+                "id": "305",
+                "internalId": 305,
                 "name": "Av. João Xxi / Pç. Londres",
                 "position": {
                   "latitude": 38.742512,
@@ -812,8 +812,8 @@
               "order": 26,
               "distance": 0,
               "stop": {
-                "id": 6403,
-                "publicId": "6403",
+                "id": "6403",
+                "internalId": 6403,
                 "name": "Praça De Londres",
                 "position": {
                   "latitude": 38.740594,

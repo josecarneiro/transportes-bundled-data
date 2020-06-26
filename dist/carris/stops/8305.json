@@ -1,11 +1,16 @@
 {
-  "id": 8305,
-  "publicId": "8305",
+  "id": "8305",
+  "internalId": 8305,
   "name": "Cç. Do Grilo",
   "position": {
     "latitude": 38.730248,
     "longitude": -9.107894
   },
   "visible": true,
-  "updateDate": "2008-12-11T12:54:39.000Z"
+  "updateDate": "2008-12-11T12:54:39.000Z",
+  "routes": [
+    "210",
+    "718",
+    "728"
+  ]
 }

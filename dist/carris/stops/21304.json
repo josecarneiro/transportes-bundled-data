@@ -1,11 +1,16 @@
 {
-  "id": 21304,
-  "publicId": "21304",
+  "id": "21304",
+  "internalId": 21304,
   "name": "Montes Claros",
   "position": {
     "latitude": 38.717839,
     "longitude": -9.199307
   },
   "visible": true,
-  "updateDate": "2002-09-05T15:29:54.000Z"
+  "updateDate": "2002-09-05T15:29:54.000Z",
+  "routes": [
+    "723",
+    "729",
+    "9B"
+  ]
 }

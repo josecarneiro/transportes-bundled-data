@@ -1,11 +1,14 @@
 {
-  "id": 7706,
-  "publicId": "7706",
+  "id": "7706",
+  "internalId": 7706,
   "name": "Piscina Dos Olivais",
   "position": {
     "latitude": 38.769494,
     "longitude": -9.112985
   },
   "visible": true,
-  "updateDate": "2012-12-13T18:00:41.000Z"
+  "updateDate": "2012-12-13T18:00:41.000Z",
+  "routes": [
+    "731"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 8008,
-  "publicId": "8008",
+  "id": "8008",
+  "internalId": 8008,
   "name": "Rua Francisco Metrass",
   "position": {
     "latitude": 38.718395,
     "longitude": -9.166245
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:10:22.000Z"
+  "updateDate": "2008-12-05T17:10:22.000Z",
+  "routes": [
+    "714",
+    "774"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 14106,
-  "publicId": "14106",
+  "id": "14106",
+  "internalId": 14106,
   "name": "R. Rio Tejo",
   "position": {
     "latitude": 38.771073,
     "longitude": -9.189236
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:30:34.000Z"
+  "updateDate": "2019-02-18T12:30:34.000Z",
+  "routes": [
+    "202",
+    "726",
+    "729",
+    "747"
+  ]
 }

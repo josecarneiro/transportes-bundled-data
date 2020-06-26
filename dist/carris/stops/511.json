@@ -1,11 +1,14 @@
 {
-  "id": 511,
-  "publicId": "511",
+  "id": "511",
+  "internalId": 511,
   "name": "R. Pascoal Melo",
   "position": {
     "latitude": 38.731224,
     "longitude": -9.135711
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:37:30.000Z"
+  "updateDate": "2018-04-03T15:37:30.000Z",
+  "routes": [
+    "706"
+  ]
 }

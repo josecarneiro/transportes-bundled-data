@@ -1,11 +1,17 @@
 {
-  "id": 5807,
-  "publicId": "5807",
+  "id": "5807",
+  "internalId": 5807,
   "name": "Campo Grande (Metro)",
   "position": {
     "latitude": 38.761097,
     "longitude": -9.157179
   },
   "visible": true,
-  "updateDate": "2019-02-13T17:47:34.000Z"
+  "updateDate": "2019-02-13T17:47:34.000Z",
+  "routes": [
+    "207",
+    "717",
+    "747",
+    "796"
+  ]
 }

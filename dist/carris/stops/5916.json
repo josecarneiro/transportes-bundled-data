@@ -1,11 +1,14 @@
 {
-  "id": 5916,
-  "publicId": "5916",
+  "id": "5916",
+  "internalId": 5916,
   "name": "R. Rainha D. Luísa Gusmão",
   "position": {
     "latitude": 38.767459,
     "longitude": -9.159611
   },
   "visible": true,
-  "updateDate": "2019-03-11T10:45:11.000Z"
+  "updateDate": "2019-03-11T10:45:11.000Z",
+  "routes": [
+    "44B"
+  ]
 }

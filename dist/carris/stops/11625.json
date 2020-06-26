@@ -1,11 +1,12 @@
 {
-  "id": 50447,
-  "publicId": "11625",
+  "id": "11625",
+  "internalId": 50447,
   "name": "Galinheiras",
   "position": {
     "latitude": 38.792627,
     "longitude": -9.150367
   },
   "visible": true,
-  "updateDate": "2019-10-30T16:52:37.000Z"
+  "updateDate": "2019-10-30T16:52:37.000Z",
+  "routes": []
 }

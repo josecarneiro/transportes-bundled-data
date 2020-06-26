@@ -1,11 +1,15 @@
 {
-  "id": 50430,
-  "publicId": "80009",
+  "id": "80009",
+  "internalId": 50430,
   "name": "Avenida Do Pacífico",
   "position": {
     "latitude": 38.766711,
     "longitude": -9.097088
   },
   "visible": true,
-  "updateDate": "2019-11-03T17:09:12.000Z"
+  "updateDate": "2019-11-03T17:09:12.000Z",
+  "routes": [
+    "88A",
+    "88B"
+  ]
 }

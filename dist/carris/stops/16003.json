@@ -1,11 +1,15 @@
 {
-  "id": 16003,
-  "publicId": "16003",
+  "id": "16003",
+  "internalId": 16003,
   "name": "Az. Fetais",
   "position": {
     "latitude": 38.798697,
     "longitude": -9.147646
   },
   "visible": true,
-  "updateDate": "2018-11-06T15:44:04.000Z"
+  "updateDate": "2018-11-06T15:44:04.000Z",
+  "routes": [
+    "207",
+    "717"
+  ]
 }

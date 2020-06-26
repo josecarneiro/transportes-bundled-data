@@ -1,11 +1,20 @@
 {
-  "id": 8019,
-  "publicId": "8019",
+  "id": "8019",
+  "internalId": 8019,
   "name": "Igreja Sto. Condestável",
   "position": {
     "latitude": 38.714841,
     "longitude": -9.166506
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:37:15.000Z"
+  "updateDate": "2019-09-02T14:37:15.000Z",
+  "routes": [
+    "709",
+    "712",
+    "714",
+    "742",
+    "774",
+    "25E",
+    "28E"
+  ]
 }

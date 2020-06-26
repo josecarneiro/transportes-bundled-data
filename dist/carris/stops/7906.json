@@ -1,11 +1,16 @@
 {
-  "id": 7906,
-  "publicId": "7906",
+  "id": "7906",
+  "internalId": 7906,
   "name": "Rua Laureano Oliveira",
   "position": {
     "latitude": 38.776416,
     "longitude": -9.10278
   },
   "visible": true,
-  "updateDate": "2014-03-03T12:48:19.000Z"
+  "updateDate": "2014-03-03T12:48:19.000Z",
+  "routes": [
+    "210",
+    "728",
+    "731"
+  ]
 }

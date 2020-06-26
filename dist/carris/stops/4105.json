@@ -1,11 +1,14 @@
 {
-  "id": 4105,
-  "publicId": "4105",
+  "id": "4105",
+  "internalId": 4105,
   "name": "Museu Do Ultramar",
   "position": {
     "latitude": 38.700673,
     "longitude": -9.199793
   },
   "visible": true,
-  "updateDate": "2015-11-16T11:10:36.000Z"
+  "updateDate": "2015-11-16T11:10:36.000Z",
+  "routes": [
+    "729"
+  ]
 }

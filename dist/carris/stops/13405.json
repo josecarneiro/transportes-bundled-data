@@ -1,11 +1,17 @@
 {
-  "id": 13405,
-  "publicId": "13405",
+  "id": "13405",
+  "internalId": 13405,
   "name": "Rio Seco",
   "position": {
     "latitude": 38.703409,
     "longitude": -9.191608
   },
   "visible": true,
-  "updateDate": "2019-01-03T17:13:03.000Z"
+  "updateDate": "2019-01-03T17:13:03.000Z",
+  "routes": [
+    "742",
+    "760",
+    "18E",
+    "76B"
+  ]
 }

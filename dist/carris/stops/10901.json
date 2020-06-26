@@ -1,11 +1,15 @@
 {
-  "id": 10901,
-  "publicId": "10901",
+  "id": "10901",
+  "internalId": 10901,
   "name": "Estrada De Benfica - Mercado",
   "position": {
     "latitude": 38.752021,
     "longitude": -9.205515
   },
   "visible": true,
-  "updateDate": "2016-04-27T15:05:32.000Z"
+  "updateDate": "2016-04-27T15:05:32.000Z",
+  "routes": [
+    "746",
+    "758"
+  ]
 }

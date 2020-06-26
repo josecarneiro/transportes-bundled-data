@@ -1,11 +1,14 @@
 {
-  "id": 50397,
-  "publicId": "9123",
+  "id": "9123",
+  "internalId": 50397,
   "name": "R. Gen. Themudo Barata",
   "position": {
     "latitude": 38.726935,
     "longitude": -9.124214
   },
   "visible": true,
-  "updateDate": "2019-04-08T11:36:54.000Z"
+  "updateDate": "2019-04-08T11:36:54.000Z",
+  "routes": [
+    "37B"
+  ]
 }

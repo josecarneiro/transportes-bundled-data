@@ -1,11 +1,16 @@
 {
-  "id": 12833,
-  "publicId": "12833",
+  "id": "12833",
+  "internalId": 12833,
   "name": "R. Virgilio Martinho",
   "position": {
     "latitude": 38.765164,
     "longitude": -9.178527
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:24:44.000Z"
+  "updateDate": "2019-02-18T12:24:44.000Z",
+  "routes": [
+    "703",
+    "747",
+    "778"
+  ]
 }

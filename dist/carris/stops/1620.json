@@ -1,11 +1,17 @@
 {
-  "id": 1620,
-  "publicId": "1620",
+  "id": "1620",
+  "internalId": 1620,
   "name": "Estação De Sete Rios",
   "position": {
     "latitude": 38.739162,
     "longitude": -9.167512
   },
   "visible": true,
-  "updateDate": "2014-10-15T16:32:54.000Z"
+  "updateDate": "2014-10-15T16:32:54.000Z",
+  "routes": [
+    "716",
+    "726",
+    "731",
+    "746"
+  ]
 }

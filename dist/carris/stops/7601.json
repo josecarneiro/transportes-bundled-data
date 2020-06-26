@@ -1,11 +1,18 @@
 {
-  "id": 7601,
-  "publicId": "7601",
+  "id": "7601",
+  "internalId": 7601,
   "name": "Aeroporto",
   "position": {
     "latitude": 38.767825,
     "longitude": -9.128712
   },
   "visible": true,
-  "updateDate": "2016-10-12T09:25:46.000Z"
+  "updateDate": "2016-10-12T09:25:46.000Z",
+  "routes": [
+    "208",
+    "705",
+    "722",
+    "744",
+    "783"
+  ]
 }

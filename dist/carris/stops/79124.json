@@ -1,11 +1,14 @@
 {
-  "id": 50448,
-  "publicId": "79124",
+  "id": "79124",
+  "internalId": 50448,
   "name": "Estação Sacavém",
   "position": {
     "latitude": 38.795695,
     "longitude": -9.100193
   },
   "visible": true,
-  "updateDate": "2019-10-30T18:05:51.000Z"
+  "updateDate": "2019-10-30T18:05:51.000Z",
+  "routes": [
+    "708"
+  ]
 }

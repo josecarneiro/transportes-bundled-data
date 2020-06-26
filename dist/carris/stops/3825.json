@@ -1,11 +1,16 @@
 {
-  "id": 3825,
-  "publicId": "3825",
+  "id": "3825",
+  "internalId": 3825,
   "name": "Rua Do Alecrim",
   "position": {
     "latitude": 38.707592,
     "longitude": -9.143346
   },
   "visible": true,
-  "updateDate": "2015-08-11T15:45:07.000Z"
+  "updateDate": "2015-08-11T15:45:07.000Z",
+  "routes": [
+    "202",
+    "758",
+    "22B"
+  ]
 }

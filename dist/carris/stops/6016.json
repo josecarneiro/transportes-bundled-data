@@ -1,11 +1,17 @@
 {
-  "id": 6016,
-  "publicId": "6016",
+  "id": "6016",
+  "internalId": 6016,
   "name": "R. Melo Antunes",
   "position": {
     "latitude": 38.779042,
     "longitude": -9.144786
   },
   "visible": true,
-  "updateDate": "2019-03-21T12:08:04.000Z"
+  "updateDate": "2019-03-21T12:08:04.000Z",
+  "routes": [
+    "207",
+    "717",
+    "798",
+    "40B"
+  ]
 }

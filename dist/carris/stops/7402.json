@@ -1,11 +1,14 @@
 {
-  "id": 7402,
-  "publicId": "7402",
+  "id": "7402",
+  "internalId": 7402,
   "name": "Rua Eduardo Noronha",
   "position": {
     "latitude": 38.754581,
     "longitude": -9.13162
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:52:02.000Z"
+  "updateDate": "2008-12-05T17:52:02.000Z",
+  "routes": [
+    "755"
+  ]
 }

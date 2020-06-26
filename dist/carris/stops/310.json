@@ -1,11 +1,17 @@
 {
-  "id": 310,
-  "publicId": "310",
+  "id": "310",
+  "internalId": 310,
   "name": "Av. Alm. Gago Coutinho",
   "position": {
     "latitude": 38.745198,
     "longitude": -9.131547
   },
   "visible": true,
-  "updateDate": "2019-03-20T17:43:54.000Z"
+  "updateDate": "2019-03-20T17:43:54.000Z",
+  "routes": [
+    "705",
+    "708",
+    "717",
+    "722"
+  ]
 }

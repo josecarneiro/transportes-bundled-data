@@ -1,11 +1,12 @@
 {
-  "id": 10310,
-  "publicId": "10310",
+  "id": "10310",
+  "internalId": 10310,
   "name": "Cç. Ajuda (Palácio)",
   "position": {
     "latitude": 38.707463,
     "longitude": -9.198982
   },
   "visible": true,
-  "updateDate": "2018-06-01T09:23:25.000Z"
+  "updateDate": "2018-06-01T09:23:25.000Z",
+  "routes": []
 }

@@ -1,11 +1,16 @@
 {
-  "id": 12810,
-  "publicId": "12810",
+  "id": "12810",
+  "internalId": 12810,
   "name": "B.º Horta Nova",
   "position": {
     "latitude": 38.767048,
     "longitude": -9.181703
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:21:16.000Z"
+  "updateDate": "2019-01-16T08:21:16.000Z",
+  "routes": [
+    "703",
+    "747",
+    "778"
+  ]
 }

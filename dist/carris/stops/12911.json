@@ -1,11 +1,15 @@
 {
-  "id": 12911,
-  "publicId": "12911",
+  "id": "12911",
+  "internalId": 12911,
   "name": "Av. Doutor Mário Moutinho",
   "position": {
     "latitude": 38.711398,
     "longitude": -9.208537
   },
   "visible": true,
-  "updateDate": "2011-09-14T15:07:51.000Z"
+  "updateDate": "2011-09-14T15:07:51.000Z",
+  "routes": [
+    "727",
+    "760"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 8910,
-  "publicId": "8910",
+  "id": "8910",
+  "internalId": 8910,
   "name": "Rotunda Das Olaias",
   "position": {
     "latitude": 38.739238,
     "longitude": -9.126246
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "208",
+    "720",
+    "756",
+    "793"
+  ]
 }

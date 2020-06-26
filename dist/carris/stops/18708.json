@@ -1,11 +1,14 @@
 {
-  "id": 18708,
-  "publicId": "18708",
+  "id": "18708",
+  "internalId": 18708,
   "name": "Rua Do Proletariado",
   "position": {
     "latitude": 38.722274,
     "longitude": -9.217804
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:43:13.000Z"
+  "updateDate": "2008-12-05T16:43:13.000Z",
+  "routes": [
+    "714"
+  ]
 }

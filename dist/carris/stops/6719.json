@@ -1,11 +1,14 @@
 {
-  "id": 6719,
-  "publicId": "6719",
+  "id": "6719",
+  "internalId": 6719,
   "name": "Cç. Estrela / R. Borges Carnei",
   "position": {
     "latitude": 38.712568,
     "longitude": -9.156345
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:33:00.000Z"
+  "updateDate": "2019-09-02T14:33:00.000Z",
+  "routes": [
+    "28E"
+  ]
 }

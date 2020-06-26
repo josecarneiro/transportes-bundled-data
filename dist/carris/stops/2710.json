@@ -1,11 +1,16 @@
 {
-  "id": 2710,
-  "publicId": "2710",
+  "id": "2710",
+  "internalId": 2710,
   "name": "Tarujo",
   "position": {
     "latitude": 38.735177,
     "longitude": -9.165441
   },
   "visible": true,
-  "updateDate": "2002-09-05T15:36:51.000Z"
+  "updateDate": "2002-09-05T15:36:51.000Z",
+  "routes": [
+    "202",
+    "701",
+    "758"
+  ]
 }

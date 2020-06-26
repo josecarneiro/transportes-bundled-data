@@ -1,11 +1,14 @@
 {
-  "id": 5815,
-  "publicId": "5815",
+  "id": "5815",
+  "internalId": 5815,
   "name": "Inst. Ricardo Jorge",
   "position": {
     "latitude": 38.767055,
     "longitude": -9.16408
   },
   "visible": true,
-  "updateDate": "2019-02-13T17:54:23.000Z"
+  "updateDate": "2019-02-13T17:54:23.000Z",
+  "routes": [
+    "747"
+  ]
 }

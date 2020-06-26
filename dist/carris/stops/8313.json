@@ -1,11 +1,14 @@
 {
-  "id": 8313,
-  "publicId": "8313",
+  "id": "8313",
+  "internalId": 8313,
   "name": "Manutenção Militar",
   "position": {
     "latitude": 38.733009,
     "longitude": -9.104307
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:46:20.000Z"
+  "updateDate": "2012-12-13T17:46:20.000Z",
+  "routes": [
+    "728"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 11303,
-  "publicId": "11303",
+  "id": "11303",
+  "internalId": 11303,
   "name": "Lnec",
   "position": {
     "latitude": 38.758309,
     "longitude": -9.140353
   },
   "visible": true,
-  "updateDate": "2019-08-16T16:16:16.000Z"
+  "updateDate": "2019-08-16T16:16:16.000Z",
+  "routes": [
+    "731",
+    "750",
+    "783",
+    "9E"
+  ]
 }

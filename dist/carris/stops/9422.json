@@ -1,11 +1,14 @@
 {
-  "id": 9422,
-  "publicId": "9422",
+  "id": "9422",
+  "internalId": 9422,
   "name": "Rua Possidónio Da Silva",
   "position": {
     "latitude": 38.710493,
     "longitude": -9.171064
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:38:02.000Z"
+  "updateDate": "2008-12-05T16:38:02.000Z",
+  "routes": [
+    "773"
+  ]
 }

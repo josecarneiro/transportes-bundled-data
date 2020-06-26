@@ -1,11 +1,14 @@
 {
-  "id": 2706,
-  "publicId": "2706",
+  "id": "2706",
+  "internalId": 2706,
   "name": "Bº Da Liberdade",
   "position": {
     "latitude": 38.733084,
     "longitude": -9.169057
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:11:18.000Z"
+  "updateDate": "2008-12-05T17:11:18.000Z",
+  "routes": [
+    "702"
+  ]
 }

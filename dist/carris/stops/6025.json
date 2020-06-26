@@ -1,11 +1,15 @@
 {
-  "id": 50045,
-  "publicId": "6025",
+  "id": "6025",
+  "internalId": 50045,
   "name": "R. Tito Morais",
   "position": {
     "latitude": 38.783065,
     "longitude": -9.147607
   },
   "visible": true,
-  "updateDate": "2019-10-30T16:09:33.000Z"
+  "updateDate": "2019-10-30T16:09:33.000Z",
+  "routes": [
+    "703",
+    "41B"
+  ]
 }

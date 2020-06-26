@@ -1,11 +1,14 @@
 {
-  "id": 18124,
-  "publicId": "18124",
+  "id": "18124",
+  "internalId": 18124,
   "name": "Av. Das Laranjeiras",
   "position": {
     "latitude": 38.737458,
     "longitude": -9.223688
   },
   "visible": true,
-  "updateDate": "2014-10-15T16:39:28.000Z"
+  "updateDate": "2014-10-15T16:39:28.000Z",
+  "routes": [
+    "799"
+  ]
 }

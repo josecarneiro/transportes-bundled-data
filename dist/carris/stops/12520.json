@@ -1,11 +1,14 @@
 {
-  "id": 12520,
-  "publicId": "12520",
+  "id": "12520",
+  "internalId": 12520,
   "name": "Rua De Marvila",
   "position": {
     "latitude": 38.739311,
     "longitude": -9.106658
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:52:49.000Z"
+  "updateDate": "2008-12-05T16:52:49.000Z",
+  "routes": [
+    "793"
+  ]
 }

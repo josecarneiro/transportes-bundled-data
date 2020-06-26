@@ -1,11 +1,20 @@
 {
-  "id": 7821,
-  "publicId": "7821",
+  "id": "7821",
+  "internalId": 7821,
   "name": "Av. Dom João Ii",
   "position": {
     "latitude": 38.771557,
     "longitude": -9.097346
   },
   "visible": true,
-  "updateDate": "2008-12-05T14:46:56.000Z"
+  "updateDate": "2008-12-05T14:46:56.000Z",
+  "routes": [
+    "208",
+    "705",
+    "708",
+    "725",
+    "744",
+    "759",
+    "782"
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "id": 208,
-  "number": "26B",
+  "id": "26B",
+  "internalId": 208,
   "name": "Parque Nações Norte - Parque Nações Sul",
   "visible": true,
   "creationDate": "2017-06-21T17:17:23.000Z",
@@ -2126,8 +2126,8 @@
               "order": 1,
               "distance": 286,
               "stop": {
-                "id": 13573,
-                "publicId": "79109",
+                "id": "79109",
+                "internalId": 13573,
                 "name": "Parque Nações Norte",
                 "position": {
                   "latitude": 38.793478,
@@ -2142,8 +2142,8 @@
               "order": 2,
               "distance": 516,
               "stop": {
-                "id": 50304,
-                "publicId": "79120",
+                "id": "79120",
+                "internalId": 50304,
                 "name": "Via Oriente",
                 "position": {
                   "latitude": 38.792078,
@@ -2158,8 +2158,8 @@
               "order": 3,
               "distance": 381,
               "stop": {
-                "id": 50305,
-                "publicId": "79118",
+                "id": "79118",
+                "internalId": 50305,
                 "name": "R. Chen He",
                 "position": {
                   "latitude": 38.78877,
@@ -2174,8 +2174,8 @@
               "order": 4,
               "distance": 462,
               "stop": {
-                "id": 50306,
-                "publicId": "79116",
+                "id": "79116",
+                "internalId": 50306,
                 "name": "Passeio Tejo",
                 "position": {
                   "latitude": 38.78585,
@@ -2190,8 +2190,8 @@
               "order": 5,
               "distance": 159,
               "stop": {
-                "id": 50131,
-                "publicId": "79108",
+                "id": "79108",
+                "internalId": 50131,
                 "name": "Rossio De Levante",
                 "position": {
                   "latitude": 38.783211,
@@ -2206,8 +2206,8 @@
               "order": 6,
               "distance": 314,
               "stop": {
-                "id": 50129,
-                "publicId": "79106",
+                "id": "79106",
+                "internalId": 50129,
                 "name": "Av. Da Peregrinação",
                 "position": {
                   "latitude": 38.782218,
@@ -2222,8 +2222,8 @@
               "order": 7,
               "distance": 232,
               "stop": {
-                "id": 50127,
-                "publicId": "79104",
+                "id": "79104",
+                "internalId": 50127,
                 "name": "Rotunda Das Oliveiras",
                 "position": {
                   "latitude": 38.7806,
@@ -2238,8 +2238,8 @@
               "order": 8,
               "distance": 307,
               "stop": {
-                "id": 50125,
-                "publicId": "79102",
+                "id": "79102",
+                "internalId": 50125,
                 "name": "Jardim Jacarandás",
                 "position": {
                   "latitude": 38.77871,
@@ -2254,8 +2254,8 @@
               "order": 9,
               "distance": 761,
               "stop": {
-                "id": 50123,
-                "publicId": "78102",
+                "id": "78102",
+                "internalId": 50123,
                 "name": "Cais Do Olival",
                 "position": {
                   "latitude": 38.776025,
@@ -2270,8 +2270,8 @@
               "order": 10,
               "distance": 1213,
               "stop": {
-                "id": 7908,
-                "publicId": "7908",
+                "id": "7908",
+                "internalId": 7908,
                 "name": "Moscavide",
                 "position": {
                   "latitude": 38.775044,
@@ -2286,8 +2286,8 @@
               "order": 11,
               "distance": 254,
               "stop": {
-                "id": 7714,
-                "publicId": "7714",
+                "id": "7714",
+                "internalId": 7714,
                 "name": "Piscina Dos Olivais",
                 "position": {
                   "latitude": 38.769143,
@@ -2302,8 +2302,8 @@
               "order": 12,
               "distance": 230,
               "stop": {
-                "id": 7719,
-                "publicId": "7719",
+                "id": "7719",
+                "internalId": 7719,
                 "name": "Av. De Berlim",
                 "position": {
                   "latitude": 38.766947,
@@ -2318,8 +2318,8 @@
               "order": 13,
               "distance": 302,
               "stop": {
-                "id": 7718,
-                "publicId": "7718",
+                "id": "7718",
+                "internalId": 7718,
                 "name": "Escola Secundária Dos Olivais",
                 "position": {
                   "latitude": 38.764899,
@@ -2334,8 +2334,8 @@
               "order": 14,
               "distance": 499,
               "stop": {
-                "id": 50353,
-                "publicId": "8422",
+                "id": "8422",
+                "internalId": 50353,
                 "name": "Av. Pádua",
                 "position": {
                   "latitude": 38.762875,
@@ -2350,8 +2350,8 @@
               "order": 15,
               "distance": 352,
               "stop": {
-                "id": 2313,
-                "publicId": "2313",
+                "id": "2313",
+                "internalId": 2313,
                 "name": "Av. Inf. D. Henrique / Av. Pád",
                 "position": {
                   "latitude": 38.763672,
@@ -2366,8 +2366,8 @@
               "order": 16,
               "distance": 674,
               "stop": {
-                "id": 2315,
-                "publicId": "2315",
+                "id": "2315",
+                "internalId": 2315,
                 "name": "Av. Inf. D. Henrique / Av. Ber",
                 "position": {
                   "latitude": 38.766833,
@@ -2382,8 +2382,8 @@
               "order": 17,
               "distance": 380,
               "stop": {
-                "id": 7805,
-                "publicId": "7805",
+                "id": "7805",
+                "internalId": 7805,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.768475,
@@ -2398,8 +2398,8 @@
               "order": 18,
               "distance": 397,
               "stop": {
-                "id": 2511,
-                "publicId": "2511",
+                "id": "2511",
+                "internalId": 2511,
                 "name": "Rua Do Caribe",
                 "position": {
                   "latitude": 38.765975,
@@ -2414,8 +2414,8 @@
               "order": 19,
               "distance": 363,
               "stop": {
-                "id": 2401,
-                "publicId": "2401",
+                "id": "2401",
+                "internalId": 2401,
                 "name": "Av. Do Mediterrâneo",
                 "position": {
                   "latitude": 38.762409,
@@ -2430,8 +2430,8 @@
               "order": 20,
               "distance": 307,
               "stop": {
-                "id": 2403,
-                "publicId": "2403",
+                "id": "2403",
+                "internalId": 2403,
                 "name": "Oceanário De Lisboa",
                 "position": {
                   "latitude": 38.761089,
@@ -2446,8 +2446,8 @@
               "order": 21,
               "distance": 147,
               "stop": {
-                "id": 50290,
-                "publicId": "2405",
+                "id": "2405",
+                "internalId": 50290,
                 "name": "Av. Fernando Pessoa",
                 "position": {
                   "latitude": 38.758548,
@@ -2462,8 +2462,8 @@
               "order": 22,
               "distance": 331,
               "stop": {
-                "id": 50291,
-                "publicId": "2406",
+                "id": "2406",
+                "internalId": 50291,
                 "name": "Hospital Descobertas",
                 "position": {
                   "latitude": 38.757411,
@@ -2478,8 +2478,8 @@
               "order": 23,
               "distance": 346,
               "stop": {
-                "id": 2409,
-                "publicId": "2409",
+                "id": "2409",
+                "internalId": 2409,
                 "name": "Parque Das Nações Sul",
                 "position": {
                   "latitude": 38.755317,
@@ -2494,8 +2494,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 2410,
-                "publicId": "2410",
+                "id": "2410",
+                "internalId": 2410,
                 "name": "Parque Das Nações Sul",
                 "position": {
                   "latitude": 38.755026,
@@ -4568,8 +4568,8 @@
               "order": 1,
               "distance": 347,
               "stop": {
-                "id": 2410,
-                "publicId": "2410",
+                "id": "2410",
+                "internalId": 2410,
                 "name": "Parque Das Nações Sul",
                 "position": {
                   "latitude": 38.755026,
@@ -4584,8 +4584,8 @@
               "order": 2,
               "distance": 169,
               "stop": {
-                "id": 50292,
-                "publicId": "2407",
+                "id": "2407",
+                "internalId": 50292,
                 "name": "Hospital Das Descobertas",
                 "position": {
                   "latitude": 38.757181,
@@ -4600,8 +4600,8 @@
               "order": 3,
               "distance": 328,
               "stop": {
-                "id": 50294,
-                "publicId": "2408",
+                "id": "2408",
+                "internalId": 50294,
                 "name": "Av. Fernando Pessoa",
                 "position": {
                   "latitude": 38.758483,
@@ -4616,8 +4616,8 @@
               "order": 4,
               "distance": 344,
               "stop": {
-                "id": 2404,
-                "publicId": "2404",
+                "id": "2404",
+                "internalId": 2404,
                 "name": "Oceanário De Lisboa",
                 "position": {
                   "latitude": 38.761271,
@@ -4632,8 +4632,8 @@
               "order": 5,
               "distance": 414,
               "stop": {
-                "id": 2402,
-                "publicId": "2402",
+                "id": "2402",
+                "internalId": 2402,
                 "name": "Av. Do Mediterrâneo",
                 "position": {
                   "latitude": 38.762504,
@@ -4648,8 +4648,8 @@
               "order": 6,
               "distance": 226,
               "stop": {
-                "id": 2512,
-                "publicId": "2512",
+                "id": "2512",
+                "internalId": 2512,
                 "name": "Rua Do Caribe",
                 "position": {
                   "latitude": 38.766221,
@@ -4664,8 +4664,8 @@
               "order": 7,
               "distance": 749,
               "stop": {
-                "id": 7825,
-                "publicId": "7825",
+                "id": "7825",
+                "internalId": 7825,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.767173,
@@ -4680,8 +4680,8 @@
               "order": 8,
               "distance": 348,
               "stop": {
-                "id": 2324,
-                "publicId": "2324",
+                "id": "2324",
+                "internalId": 2324,
                 "name": "Av. Inf. D. Henrique / Av. Ber",
                 "position": {
                   "latitude": 38.766571,
@@ -4696,8 +4696,8 @@
               "order": 9,
               "distance": 402,
               "stop": {
-                "id": 2322,
-                "publicId": "2322",
+                "id": "2322",
+                "internalId": 2322,
                 "name": "Av. Inf. D. Henrique / Av. Pád",
                 "position": {
                   "latitude": 38.763442,
@@ -4712,8 +4712,8 @@
               "order": 10,
               "distance": 390,
               "stop": {
-                "id": 8420,
-                "publicId": "8420",
+                "id": "8420",
+                "internalId": 8420,
                 "name": "Av. Pádua",
                 "position": {
                   "latitude": 38.762979,
@@ -4728,8 +4728,8 @@
               "order": 11,
               "distance": 243,
               "stop": {
-                "id": 7717,
-                "publicId": "7717",
+                "id": "7717",
+                "internalId": 7717,
                 "name": "Escola Secundária Dos Olivais",
                 "position": {
                   "latitude": 38.765286,
@@ -4744,8 +4744,8 @@
               "order": 12,
               "distance": 386,
               "stop": {
-                "id": 7715,
-                "publicId": "7715",
+                "id": "7715",
+                "internalId": 7715,
                 "name": "Av. De Berlim",
                 "position": {
                   "latitude": 38.767445,
@@ -4760,8 +4760,8 @@
               "order": 13,
               "distance": 520,
               "stop": {
-                "id": 7809,
-                "publicId": "7809",
+                "id": "7809",
+                "internalId": 7809,
                 "name": "Qta Conde Dos Arcos",
                 "position": {
                   "latitude": 38.770538,
@@ -4776,8 +4776,8 @@
               "order": 14,
               "distance": 374,
               "stop": {
-                "id": 7812,
-                "publicId": "7812",
+                "id": "7812",
+                "internalId": 7812,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.773794,
@@ -4792,8 +4792,8 @@
               "order": 15,
               "distance": 781,
               "stop": {
-                "id": 7910,
-                "publicId": "7910",
+                "id": "7910",
+                "internalId": 7910,
                 "name": "Rua João Pinto Ribeiro",
                 "position": {
                   "latitude": 38.77478,
@@ -4808,8 +4808,8 @@
               "order": 16,
               "distance": 198,
               "stop": {
-                "id": 50354,
-                "publicId": "78104",
+                "id": "78104",
+                "internalId": 50354,
                 "name": "Cais Olival - Al.Oceanos",
                 "position": {
                   "latitude": 38.775918,
@@ -4824,8 +4824,8 @@
               "order": 17,
               "distance": 186,
               "stop": {
-                "id": 50287,
-                "publicId": "78103",
+                "id": "78103",
+                "internalId": 50287,
                 "name": "Cais Do Olival",
                 "position": {
                   "latitude": 38.777196,
@@ -4840,8 +4840,8 @@
               "order": 18,
               "distance": 327,
               "stop": {
-                "id": 50293,
-                "publicId": "79113",
+                "id": "79113",
+                "internalId": 50293,
                 "name": "Esc. Vasco Gama",
                 "position": {
                   "latitude": 38.777849,
@@ -4856,8 +4856,8 @@
               "order": 19,
               "distance": 153,
               "stop": {
-                "id": 50288,
-                "publicId": "79114",
+                "id": "79114",
+                "internalId": 50288,
                 "name": "R. Ilha Amores",
                 "position": {
                   "latitude": 38.780644,
@@ -4872,8 +4872,8 @@
               "order": 20,
               "distance": 253,
               "stop": {
-                "id": 50289,
-                "publicId": "79115",
+                "id": "79115",
+                "internalId": 50289,
                 "name": "Passeio Garças",
                 "position": {
                   "latitude": 38.781903,
@@ -4888,8 +4888,8 @@
               "order": 21,
               "distance": 455,
               "stop": {
-                "id": 50130,
-                "publicId": "79107",
+                "id": "79107",
+                "internalId": 50130,
                 "name": "Rossio De Levante",
                 "position": {
                   "latitude": 38.783179,
@@ -4904,8 +4904,8 @@
               "order": 22,
               "distance": 298,
               "stop": {
-                "id": 50300,
-                "publicId": "79117",
+                "id": "79117",
+                "internalId": 50300,
                 "name": "Passeio Tejo",
                 "position": {
                   "latitude": 38.78597,
@@ -4920,8 +4920,8 @@
               "order": 23,
               "distance": 188,
               "stop": {
-                "id": 50301,
-                "publicId": "79119",
+                "id": "79119",
+                "internalId": 50301,
                 "name": "Passeio Heróis Mar",
                 "position": {
                   "latitude": 38.78825,
@@ -4936,8 +4936,8 @@
               "order": 24,
               "distance": 365,
               "stop": {
-                "id": 50340,
-                "publicId": "79123",
+                "id": "79123",
+                "internalId": 50340,
                 "name": "Rua Chen He",
                 "position": {
                   "latitude": 38.788756,
@@ -4952,8 +4952,8 @@
               "order": 25,
               "distance": 354,
               "stop": {
-                "id": 50302,
-                "publicId": "79121",
+                "id": "79121",
+                "internalId": 50302,
                 "name": "Via Oriente",
                 "position": {
                   "latitude": 38.791645,
@@ -4968,8 +4968,8 @@
               "order": 26,
               "distance": 0,
               "stop": {
-                "id": 50303,
-                "publicId": "79122",
+                "id": "79122",
+                "internalId": 50303,
                 "name": "Parque Nações Norte",
                 "position": {
                   "latitude": 38.793771,

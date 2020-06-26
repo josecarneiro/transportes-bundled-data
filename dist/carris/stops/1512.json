@@ -1,11 +1,14 @@
 {
-  "id": 1512,
-  "publicId": "1512",
+  "id": "1512",
+  "internalId": 1512,
   "name": "Rua Filipe Da Mata",
   "position": {
     "latitude": 38.741315,
     "longitude": -9.160291
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:06:00.000Z"
+  "updateDate": "2008-12-05T18:06:00.000Z",
+  "routes": [
+    "731"
+  ]
 }

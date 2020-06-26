@@ -1,6 +1,6 @@
 {
-  "id": 198,
-  "number": "730",
+  "id": "730",
+  "internalId": 198,
   "name": "Picheleira - Picoas",
   "visible": true,
   "creationDate": "2020-05-20T09:22:13.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 685,
               "stop": {
-                "id": 8901,
-                "publicId": "8901",
+                "id": "8901",
+                "internalId": 8901,
                 "name": "Picheleira (Qta. Lavrado)",
                 "position": {
                   "latitude": 38.732656,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 575,
               "stop": {
-                "id": 50050,
-                "publicId": "8918",
+                "id": "8918",
+                "internalId": 50050,
                 "name": "Cç. Carrascal",
                 "position": {
                   "latitude": 38.734379,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 168,
               "stop": {
-                "id": 8917,
-                "publicId": "8917",
+                "id": "8917",
+                "internalId": 8917,
                 "name": "Esc. Nº 28",
                 "position": {
                   "latitude": 38.735295,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 256,
               "stop": {
-                "id": 8915,
-                "publicId": "8915",
+                "id": "8915",
+                "internalId": 8915,
                 "name": "R. Frederico Perry Vidal",
                 "position": {
                   "latitude": 38.735993,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 267,
               "stop": {
-                "id": 8906,
-                "publicId": "8906",
+                "id": "8906",
+                "internalId": 8906,
                 "name": "R. Capitão Roby",
                 "position": {
                   "latitude": 38.737969,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 350,
               "stop": {
-                "id": 8907,
-                "publicId": "8907",
+                "id": "8907",
+                "internalId": 8907,
                 "name": "Picheleira - R. Dr. Faria Vasc",
                 "position": {
                   "latitude": 38.73885,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 171,
               "stop": {
-                "id": 8903,
-                "publicId": "8903",
+                "id": "8903",
+                "internalId": 8903,
                 "name": "R. Prof. Mira Fernandes",
                 "position": {
                   "latitude": 38.738069,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 380,
               "stop": {
-                "id": 8905,
-                "publicId": "8905",
+                "id": "8905",
+                "internalId": 8905,
                 "name": "R. Aquiles Machado",
                 "position": {
                   "latitude": 38.738278,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 407,
               "stop": {
-                "id": 9001,
-                "publicId": "9001",
+                "id": "9001",
+                "internalId": 9001,
                 "name": "Alto Pina",
                 "position": {
                   "latitude": 38.737559,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 419,
               "stop": {
-                "id": 7001,
-                "publicId": "7001",
+                "id": "7001",
+                "internalId": 7001,
                 "name": "R. Barão Sabrosa",
                 "position": {
                   "latitude": 38.734576,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 452,
               "stop": {
-                "id": 7004,
-                "publicId": "7004",
+                "id": "7004",
+                "internalId": 7004,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.731203,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 322,
               "stop": {
-                "id": 7006,
-                "publicId": "7006",
+                "id": "7006",
+                "internalId": 7006,
                 "name": "Esc. Nuno Gonçalves",
                 "position": {
                   "latitude": 38.727193,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 174,
               "stop": {
-                "id": 9101,
-                "publicId": "9101",
+                "id": "9101",
+                "internalId": 9101,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725891,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 334,
               "stop": {
-                "id": 9103,
-                "publicId": "9103",
+                "id": "9103",
+                "internalId": 9103,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.724368,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 371,
               "stop": {
-                "id": 9105,
-                "publicId": "9105",
+                "id": "9105",
+                "internalId": 9105,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721553,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 323,
               "stop": {
-                "id": 601,
-                "publicId": "601",
+                "id": "601",
+                "internalId": 601,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723908,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 264,
               "stop": {
-                "id": 603,
-                "publicId": "603",
+                "id": "603",
+                "internalId": 603,
                 "name": "Pç. Novas Nações",
                 "position": {
                   "latitude": 38.726348,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 437,
               "stop": {
-                "id": 605,
-                "publicId": "605",
+                "id": "605",
+                "internalId": 605,
                 "name": "Av. Almirante Reis / R. Febo M",
                 "position": {
                   "latitude": 38.726429,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 254,
               "stop": {
-                "id": 9201,
-                "publicId": "9201",
+                "id": "9201",
+                "internalId": 9201,
                 "name": "Paço Rainha",
                 "position": {
                   "latitude": 38.723625,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 197,
               "stop": {
-                "id": 9203,
-                "publicId": "9203",
+                "id": "9203",
+                "internalId": 9203,
                 "name": "Campo Mártires Pátria",
                 "position": {
                   "latitude": 38.722417,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 302,
               "stop": {
-                "id": 9205,
-                "publicId": "9205",
+                "id": "9205",
+                "internalId": 9205,
                 "name": "Hosp. Sto. António Capuchos",
                 "position": {
                   "latitude": 38.722951,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 252,
               "stop": {
-                "id": 6603,
-                "publicId": "6603",
+                "id": "6603",
+                "internalId": 6603,
                 "name": "R. Bernardim Ribeiro",
                 "position": {
                   "latitude": 38.725027,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 428,
               "stop": {
-                "id": 6605,
-                "publicId": "6605",
+                "id": "6605",
+                "internalId": 6605,
                 "name": "R. Luciano Cordeiro",
                 "position": {
                   "latitude": 38.726885,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 1707,
-                "publicId": "1707",
+                "id": "1707",
+                "internalId": 1707,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.730124,
@@ -412,8 +412,8 @@
               "order": 1,
               "distance": 321,
               "stop": {
-                "id": 1707,
-                "publicId": "1707",
+                "id": "1707",
+                "internalId": 1707,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.730124,
@@ -428,8 +428,8 @@
               "order": 2,
               "distance": 292,
               "stop": {
-                "id": 50299,
-                "publicId": "6612",
+                "id": "6612",
+                "internalId": 50299,
                 "name": "Pç. José Fontana",
                 "position": {
                   "latitude": 38.728749,
@@ -444,8 +444,8 @@
               "order": 3,
               "distance": 238,
               "stop": {
-                "id": 6606,
-                "publicId": "6606",
+                "id": "6606",
+                "internalId": 6606,
                 "name": "R. Luciano Cordeiro",
                 "position": {
                   "latitude": 38.726737,
@@ -460,8 +460,8 @@
               "order": 4,
               "distance": 354,
               "stop": {
-                "id": 6604,
-                "publicId": "6604",
+                "id": "6604",
+                "internalId": 6604,
                 "name": "R. Bernardim Ribeiro",
                 "position": {
                   "latitude": 38.72499,
@@ -476,8 +476,8 @@
               "order": 5,
               "distance": 161,
               "stop": {
-                "id": 9206,
-                "publicId": "9206",
+                "id": "9206",
+                "internalId": 9206,
                 "name": "Hosp. Sto. António Capuchos",
                 "position": {
                   "latitude": 38.722571,
@@ -492,8 +492,8 @@
               "order": 6,
               "distance": 225,
               "stop": {
-                "id": 9204,
-                "publicId": "9204",
+                "id": "9204",
+                "internalId": 9204,
                 "name": "Campo Mártires Pátria",
                 "position": {
                   "latitude": 38.722234,
@@ -508,8 +508,8 @@
               "order": 7,
               "distance": 458,
               "stop": {
-                "id": 9202,
-                "publicId": "9202",
+                "id": "9202",
+                "internalId": 9202,
                 "name": "Paço Rainha",
                 "position": {
                   "latitude": 38.723392,
@@ -524,8 +524,8 @@
               "order": 8,
               "distance": 401,
               "stop": {
-                "id": 606,
-                "publicId": "606",
+                "id": "606",
+                "internalId": 606,
                 "name": "R. José Estêvão",
                 "position": {
                   "latitude": 38.727273,
@@ -540,8 +540,8 @@
               "order": 9,
               "distance": 366,
               "stop": {
-                "id": 604,
-                "publicId": "604",
+                "id": "604",
+                "internalId": 604,
                 "name": "Av. Almirante Reis / R. Angola",
                 "position": {
                   "latitude": 38.726012,
@@ -556,8 +556,8 @@
               "order": 10,
               "distance": 413,
               "stop": {
-                "id": 602,
-                "publicId": "602",
+                "id": "602",
+                "internalId": 602,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723421,
@@ -572,8 +572,8 @@
               "order": 11,
               "distance": 176,
               "stop": {
-                "id": 9106,
-                "publicId": "9106",
+                "id": "9106",
+                "internalId": 9106,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.722299,
@@ -588,8 +588,8 @@
               "order": 12,
               "distance": 237,
               "stop": {
-                "id": 9104,
-                "publicId": "9104",
+                "id": "9104",
+                "internalId": 9104,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.723879,
@@ -604,8 +604,8 @@
               "order": 13,
               "distance": 364,
               "stop": {
-                "id": 9102,
-                "publicId": "9102",
+                "id": "9102",
+                "internalId": 9102,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725973,
@@ -620,8 +620,8 @@
               "order": 14,
               "distance": 316,
               "stop": {
-                "id": 7009,
-                "publicId": "7009",
+                "id": "7009",
+                "internalId": 7009,
                 "name": "Esc. Nuno Gonçalves",
                 "position": {
                   "latitude": 38.727613,
@@ -636,8 +636,8 @@
               "order": 15,
               "distance": 644,
               "stop": {
-                "id": 7003,
-                "publicId": "7003",
+                "id": "7003",
+                "internalId": 7003,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730414,
@@ -652,8 +652,8 @@
               "order": 16,
               "distance": 365,
               "stop": {
-                "id": 7002,
-                "publicId": "7002",
+                "id": "7002",
+                "internalId": 7002,
                 "name": "R. Barão Sabrosa",
                 "position": {
                   "latitude": 38.734983,
@@ -668,8 +668,8 @@
               "order": 17,
               "distance": 323,
               "stop": {
-                "id": 9002,
-                "publicId": "9002",
+                "id": "9002",
+                "internalId": 9002,
                 "name": "Alto Pina",
                 "position": {
                   "latitude": 38.737503,
@@ -684,8 +684,8 @@
               "order": 18,
               "distance": 194,
               "stop": {
-                "id": 8904,
-                "publicId": "8904",
+                "id": "8904",
+                "internalId": 8904,
                 "name": "Cç. Picheleira",
                 "position": {
                   "latitude": 38.737405,
@@ -700,8 +700,8 @@
               "order": 19,
               "distance": 153,
               "stop": {
-                "id": 8902,
-                "publicId": "8902",
+                "id": "8902",
+                "internalId": 8902,
                 "name": "R. Frei Fortunato S. Boaventur",
                 "position": {
                   "latitude": 38.736015,
@@ -716,8 +716,8 @@
               "order": 20,
               "distance": 137,
               "stop": {
-                "id": 8914,
-                "publicId": "8914",
+                "id": "8914",
+                "internalId": 8914,
                 "name": "Pç. Sócrates Costa",
                 "position": {
                   "latitude": 38.735043,
@@ -732,8 +732,8 @@
               "order": 21,
               "distance": 282,
               "stop": {
-                "id": 8916,
-                "publicId": "8916",
+                "id": "8916",
+                "internalId": 8916,
                 "name": "R. João Nascimento Costa",
                 "position": {
                   "latitude": 38.734156,
@@ -748,8 +748,8 @@
               "order": 22,
               "distance": 64,
               "stop": {
-                "id": 50051,
-                "publicId": "8919",
+                "id": "8919",
+                "internalId": 50051,
                 "name": "Picheleira (Qta. Lavrado)",
                 "position": {
                   "latitude": 38.732702,
@@ -764,8 +764,8 @@
               "order": 23,
               "distance": 0,
               "stop": {
-                "id": 8901,
-                "publicId": "8901",
+                "id": "8901",
+                "internalId": 8901,
                 "name": "Picheleira (Qta. Lavrado)",
                 "position": {
                   "latitude": 38.732656,
@@ -2229,8 +2229,8 @@
               "order": 1,
               "distance": 747,
               "stop": {
-                "id": 8901,
-                "publicId": "8901",
+                "id": "8901",
+                "internalId": 8901,
                 "name": "Picheleira (Qta. Lavrado)",
                 "position": {
                   "latitude": 38.732656,
@@ -2245,8 +2245,8 @@
               "order": 2,
               "distance": 512,
               "stop": {
-                "id": 50050,
-                "publicId": "8918",
+                "id": "8918",
+                "internalId": 50050,
                 "name": "Cç. Carrascal",
                 "position": {
                   "latitude": 38.734379,
@@ -2261,8 +2261,8 @@
               "order": 3,
               "distance": 168,
               "stop": {
-                "id": 8917,
-                "publicId": "8917",
+                "id": "8917",
+                "internalId": 8917,
                 "name": "Esc. Nº 28",
                 "position": {
                   "latitude": 38.735295,
@@ -2277,8 +2277,8 @@
               "order": 4,
               "distance": 256,
               "stop": {
-                "id": 8915,
-                "publicId": "8915",
+                "id": "8915",
+                "internalId": 8915,
                 "name": "R. Frederico Perry Vidal",
                 "position": {
                   "latitude": 38.735993,
@@ -2293,8 +2293,8 @@
               "order": 5,
               "distance": 267,
               "stop": {
-                "id": 8906,
-                "publicId": "8906",
+                "id": "8906",
+                "internalId": 8906,
                 "name": "R. Capitão Roby",
                 "position": {
                   "latitude": 38.737969,
@@ -2309,8 +2309,8 @@
               "order": 6,
               "distance": 350,
               "stop": {
-                "id": 8907,
-                "publicId": "8907",
+                "id": "8907",
+                "internalId": 8907,
                 "name": "Picheleira - R. Dr. Faria Vasc",
                 "position": {
                   "latitude": 38.73885,
@@ -2325,8 +2325,8 @@
               "order": 7,
               "distance": 171,
               "stop": {
-                "id": 8903,
-                "publicId": "8903",
+                "id": "8903",
+                "internalId": 8903,
                 "name": "R. Prof. Mira Fernandes",
                 "position": {
                   "latitude": 38.738069,
@@ -2341,8 +2341,8 @@
               "order": 8,
               "distance": 379,
               "stop": {
-                "id": 8905,
-                "publicId": "8905",
+                "id": "8905",
+                "internalId": 8905,
                 "name": "R. Aquiles Machado",
                 "position": {
                   "latitude": 38.738278,
@@ -2357,8 +2357,8 @@
               "order": 9,
               "distance": 407,
               "stop": {
-                "id": 9001,
-                "publicId": "9001",
+                "id": "9001",
+                "internalId": 9001,
                 "name": "Alto Pina",
                 "position": {
                   "latitude": 38.737559,
@@ -2373,8 +2373,8 @@
               "order": 10,
               "distance": 419,
               "stop": {
-                "id": 7001,
-                "publicId": "7001",
+                "id": "7001",
+                "internalId": 7001,
                 "name": "R. Barão Sabrosa",
                 "position": {
                   "latitude": 38.734576,
@@ -2389,8 +2389,8 @@
               "order": 11,
               "distance": 385,
               "stop": {
-                "id": 7004,
-                "publicId": "7004",
+                "id": "7004",
+                "internalId": 7004,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.731203,
@@ -2405,8 +2405,8 @@
               "order": 12,
               "distance": 232,
               "stop": {
-                "id": 7016,
-                "publicId": "7016",
+                "id": "7016",
+                "internalId": 7016,
                 "name": "Rua Cesário Verde",
                 "position": {
                   "latitude": 38.730042,
@@ -2421,8 +2421,8 @@
               "order": 13,
               "distance": 305,
               "stop": {
-                "id": 7008,
-                "publicId": "7008",
+                "id": "7008",
+                "internalId": 7008,
                 "name": "Penha De França",
                 "position": {
                   "latitude": 38.728521,
@@ -2437,8 +2437,8 @@
               "order": 14,
               "distance": 174,
               "stop": {
-                "id": 9101,
-                "publicId": "9101",
+                "id": "9101",
+                "internalId": 9101,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725891,
@@ -2453,8 +2453,8 @@
               "order": 15,
               "distance": 334,
               "stop": {
-                "id": 9103,
-                "publicId": "9103",
+                "id": "9103",
+                "internalId": 9103,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.724368,
@@ -2469,8 +2469,8 @@
               "order": 16,
               "distance": 371,
               "stop": {
-                "id": 9105,
-                "publicId": "9105",
+                "id": "9105",
+                "internalId": 9105,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721553,
@@ -2485,8 +2485,8 @@
               "order": 17,
               "distance": 323,
               "stop": {
-                "id": 601,
-                "publicId": "601",
+                "id": "601",
+                "internalId": 601,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723908,
@@ -2501,8 +2501,8 @@
               "order": 18,
               "distance": 264,
               "stop": {
-                "id": 603,
-                "publicId": "603",
+                "id": "603",
+                "internalId": 603,
                 "name": "Pç. Novas Nações",
                 "position": {
                   "latitude": 38.726348,
@@ -2517,8 +2517,8 @@
               "order": 19,
               "distance": 437,
               "stop": {
-                "id": 605,
-                "publicId": "605",
+                "id": "605",
+                "internalId": 605,
                 "name": "Av. Almirante Reis / R. Febo M",
                 "position": {
                   "latitude": 38.726429,
@@ -2533,8 +2533,8 @@
               "order": 20,
               "distance": 254,
               "stop": {
-                "id": 9201,
-                "publicId": "9201",
+                "id": "9201",
+                "internalId": 9201,
                 "name": "Paço Rainha",
                 "position": {
                   "latitude": 38.723625,
@@ -2549,8 +2549,8 @@
               "order": 21,
               "distance": 197,
               "stop": {
-                "id": 9203,
-                "publicId": "9203",
+                "id": "9203",
+                "internalId": 9203,
                 "name": "Campo Mártires Pátria",
                 "position": {
                   "latitude": 38.722417,
@@ -2565,8 +2565,8 @@
               "order": 22,
               "distance": 302,
               "stop": {
-                "id": 9205,
-                "publicId": "9205",
+                "id": "9205",
+                "internalId": 9205,
                 "name": "Hosp. Sto. António Capuchos",
                 "position": {
                   "latitude": 38.722951,
@@ -2581,8 +2581,8 @@
               "order": 23,
               "distance": 252,
               "stop": {
-                "id": 6603,
-                "publicId": "6603",
+                "id": "6603",
+                "internalId": 6603,
                 "name": "R. Bernardim Ribeiro",
                 "position": {
                   "latitude": 38.725027,
@@ -2597,8 +2597,8 @@
               "order": 24,
               "distance": 428,
               "stop": {
-                "id": 6605,
-                "publicId": "6605",
+                "id": "6605",
+                "internalId": 6605,
                 "name": "R. Luciano Cordeiro",
                 "position": {
                   "latitude": 38.726885,
@@ -2613,8 +2613,8 @@
               "order": 25,
               "distance": 0,
               "stop": {
-                "id": 1707,
-                "publicId": "1707",
+                "id": "1707",
+                "internalId": 1707,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.730124,
@@ -3799,8 +3799,8 @@
               "order": 1,
               "distance": 321,
               "stop": {
-                "id": 1707,
-                "publicId": "1707",
+                "id": "1707",
+                "internalId": 1707,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.730124,
@@ -3815,8 +3815,8 @@
               "order": 2,
               "distance": 292,
               "stop": {
-                "id": 50299,
-                "publicId": "6612",
+                "id": "6612",
+                "internalId": 50299,
                 "name": "Pç. José Fontana",
                 "position": {
                   "latitude": 38.728749,
@@ -3831,8 +3831,8 @@
               "order": 3,
               "distance": 238,
               "stop": {
-                "id": 6606,
-                "publicId": "6606",
+                "id": "6606",
+                "internalId": 6606,
                 "name": "R. Luciano Cordeiro",
                 "position": {
                   "latitude": 38.726737,
@@ -3847,8 +3847,8 @@
               "order": 4,
               "distance": 354,
               "stop": {
-                "id": 6604,
-                "publicId": "6604",
+                "id": "6604",
+                "internalId": 6604,
                 "name": "R. Bernardim Ribeiro",
                 "position": {
                   "latitude": 38.72499,
@@ -3863,8 +3863,8 @@
               "order": 5,
               "distance": 161,
               "stop": {
-                "id": 9206,
-                "publicId": "9206",
+                "id": "9206",
+                "internalId": 9206,
                 "name": "Hosp. Sto. António Capuchos",
                 "position": {
                   "latitude": 38.722571,
@@ -3879,8 +3879,8 @@
               "order": 6,
               "distance": 225,
               "stop": {
-                "id": 9204,
-                "publicId": "9204",
+                "id": "9204",
+                "internalId": 9204,
                 "name": "Campo Mártires Pátria",
                 "position": {
                   "latitude": 38.722234,
@@ -3895,8 +3895,8 @@
               "order": 7,
               "distance": 458,
               "stop": {
-                "id": 9202,
-                "publicId": "9202",
+                "id": "9202",
+                "internalId": 9202,
                 "name": "Paço Rainha",
                 "position": {
                   "latitude": 38.723392,
@@ -3911,8 +3911,8 @@
               "order": 8,
               "distance": 401,
               "stop": {
-                "id": 606,
-                "publicId": "606",
+                "id": "606",
+                "internalId": 606,
                 "name": "R. José Estêvão",
                 "position": {
                   "latitude": 38.727273,
@@ -3927,8 +3927,8 @@
               "order": 9,
               "distance": 366,
               "stop": {
-                "id": 604,
-                "publicId": "604",
+                "id": "604",
+                "internalId": 604,
                 "name": "Av. Almirante Reis / R. Angola",
                 "position": {
                   "latitude": 38.726012,
@@ -3943,8 +3943,8 @@
               "order": 10,
               "distance": 413,
               "stop": {
-                "id": 602,
-                "publicId": "602",
+                "id": "602",
+                "internalId": 602,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723421,
@@ -3959,8 +3959,8 @@
               "order": 11,
               "distance": 176,
               "stop": {
-                "id": 9106,
-                "publicId": "9106",
+                "id": "9106",
+                "internalId": 9106,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.722299,
@@ -3975,8 +3975,8 @@
               "order": 12,
               "distance": 237,
               "stop": {
-                "id": 9104,
-                "publicId": "9104",
+                "id": "9104",
+                "internalId": 9104,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.723879,
@@ -3991,8 +3991,8 @@
               "order": 13,
               "distance": 294,
               "stop": {
-                "id": 9102,
-                "publicId": "9102",
+                "id": "9102",
+                "internalId": 9102,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725973,
@@ -4007,8 +4007,8 @@
               "order": 14,
               "distance": 317,
               "stop": {
-                "id": 7005,
-                "publicId": "7005",
+                "id": "7005",
+                "internalId": 7005,
                 "name": "Penha França",
                 "position": {
                   "latitude": 38.728516,
@@ -4023,8 +4023,8 @@
               "order": 15,
               "distance": 349,
               "stop": {
-                "id": 7007,
-                "publicId": "7007",
+                "id": "7007",
+                "internalId": 7007,
                 "name": "Rua Cesário Verde",
                 "position": {
                   "latitude": 38.729168,
@@ -4039,8 +4039,8 @@
               "order": 16,
               "distance": 644,
               "stop": {
-                "id": 7003,
-                "publicId": "7003",
+                "id": "7003",
+                "internalId": 7003,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730414,
@@ -4055,8 +4055,8 @@
               "order": 17,
               "distance": 365,
               "stop": {
-                "id": 7002,
-                "publicId": "7002",
+                "id": "7002",
+                "internalId": 7002,
                 "name": "R. Barão Sabrosa",
                 "position": {
                   "latitude": 38.734983,
@@ -4071,8 +4071,8 @@
               "order": 18,
               "distance": 323,
               "stop": {
-                "id": 9002,
-                "publicId": "9002",
+                "id": "9002",
+                "internalId": 9002,
                 "name": "Alto Pina",
                 "position": {
                   "latitude": 38.737503,
@@ -4087,8 +4087,8 @@
               "order": 19,
               "distance": 194,
               "stop": {
-                "id": 8904,
-                "publicId": "8904",
+                "id": "8904",
+                "internalId": 8904,
                 "name": "Cç. Picheleira",
                 "position": {
                   "latitude": 38.737405,
@@ -4103,8 +4103,8 @@
               "order": 20,
               "distance": 153,
               "stop": {
-                "id": 8902,
-                "publicId": "8902",
+                "id": "8902",
+                "internalId": 8902,
                 "name": "R. Frei Fortunato S. Boaventur",
                 "position": {
                   "latitude": 38.736015,
@@ -4119,8 +4119,8 @@
               "order": 21,
               "distance": 137,
               "stop": {
-                "id": 8914,
-                "publicId": "8914",
+                "id": "8914",
+                "internalId": 8914,
                 "name": "Pç. Sócrates Costa",
                 "position": {
                   "latitude": 38.735043,
@@ -4135,8 +4135,8 @@
               "order": 22,
               "distance": 872,
               "stop": {
-                "id": 8916,
-                "publicId": "8916",
+                "id": "8916",
+                "internalId": 8916,
                 "name": "R. João Nascimento Costa",
                 "position": {
                   "latitude": 38.734156,
@@ -4151,8 +4151,8 @@
               "order": 23,
               "distance": 64,
               "stop": {
-                "id": 50051,
-                "publicId": "8919",
+                "id": "8919",
+                "internalId": 50051,
                 "name": "Picheleira (Qta. Lavrado)",
                 "position": {
                   "latitude": 38.732702,
@@ -4167,8 +4167,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 8901,
-                "publicId": "8901",
+                "id": "8901",
+                "internalId": 8901,
                 "name": "Picheleira (Qta. Lavrado)",
                 "position": {
                   "latitude": 38.732656,

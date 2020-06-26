@@ -1,11 +1,14 @@
 {
-  "id": 50354,
-  "publicId": "78104",
+  "id": "78104",
+  "internalId": 50354,
   "name": "Cais Olival - Al.Oceanos",
   "position": {
     "latitude": 38.775918,
     "longitude": -9.094758
   },
   "visible": true,
-  "updateDate": "2018-03-15T10:14:16.000Z"
+  "updateDate": "2018-03-15T10:14:16.000Z",
+  "routes": [
+    "26B"
+  ]
 }

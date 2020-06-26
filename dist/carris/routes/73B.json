@@ -1,6 +1,6 @@
 {
-  "id": 220,
-  "number": "73B",
+  "id": "73B",
+  "internalId": 220,
   "name": "C.Congressos (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -21,8 +21,8 @@
               "order": 36,
               "distance": 0,
               "stop": {
-                "id": 50210,
-                "publicId": "9513",
+                "id": "9513",
+                "internalId": 50210,
                 "name": "Centro Congressos",
                 "position": {
                   "latitude": 38.699664,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 383,
               "stop": {
-                "id": 9504,
-                "publicId": "9504",
+                "id": "9504",
+                "internalId": 9504,
                 "name": "R. Junqueira (Centro Congresso",
                 "position": {
                   "latitude": 38.699786,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 289,
               "stop": {
-                "id": 9506,
-                "publicId": "9506",
+                "id": "9506",
+                "internalId": 9506,
                 "name": "Hosp. Egas Moniz",
                 "position": {
                   "latitude": 38.698464,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 278,
               "stop": {
-                "id": 9512,
-                "publicId": "9512",
+                "id": "9512",
+                "internalId": 9512,
                 "name": "R. Pinto Ferreira",
                 "position": {
                   "latitude": 38.698225,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 344,
               "stop": {
-                "id": 9510,
-                "publicId": "9510",
+                "id": "9510",
+                "internalId": 9510,
                 "name": "Tv. Artur Lamas",
                 "position": {
                   "latitude": 38.70012,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 395,
               "stop": {
-                "id": 50379,
-                "publicId": "13415",
+                "id": "13415",
+                "internalId": 50379,
                 "name": "R. Giestal",
                 "position": {
                   "latitude": 38.700685,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 256,
               "stop": {
-                "id": 50377,
-                "publicId": "13413",
+                "id": "13413",
+                "internalId": 50377,
                 "name": "Tv. Giestal",
                 "position": {
                   "latitude": 38.701719,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 248,
               "stop": {
-                "id": 50371,
-                "publicId": "13411",
+                "id": "13411",
+                "internalId": 50371,
                 "name": "R. D. João Castro",
                 "position": {
                   "latitude": 38.705045,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 240,
               "stop": {
-                "id": 50369,
-                "publicId": "12015",
+                "id": "12015",
+                "internalId": 50369,
                 "name": "Tv. Fornos / R. Cruzeiro",
                 "position": {
                   "latitude": 38.706247,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 285,
               "stop": {
-                "id": 50392,
-                "publicId": "12017",
+                "id": "12017",
+                "internalId": 50392,
                 "name": "R. Cruzeiro / R. Eng. António",
                 "position": {
                   "latitude": 38.70588,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 278,
               "stop": {
-                "id": 50376,
-                "publicId": "12016",
+                "id": "12016",
+                "internalId": 50376,
                 "name": "R. João Barros",
                 "position": {
                   "latitude": 38.705686,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 273,
               "stop": {
-                "id": 12005,
-                "publicId": "12005",
+                "id": "12005",
+                "internalId": 12005,
                 "name": "R. Luis Camões",
                 "position": {
                   "latitude": 38.704103,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 157,
               "stop": {
-                "id": 12113,
-                "publicId": "12113",
+                "id": "12113",
+                "internalId": 12113,
                 "name": "R. Lusíadas",
                 "position": {
                   "latitude": 38.705329,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 288,
               "stop": {
-                "id": 12104,
-                "publicId": "12104",
+                "id": "12104",
+                "internalId": 12104,
                 "name": "R. Leão Oliveira",
                 "position": {
                   "latitude": 38.705204,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 480,
               "stop": {
-                "id": 12105,
-                "publicId": "12105",
+                "id": "12105",
+                "internalId": 12105,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.705392,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 526,
               "stop": {
-                "id": 9415,
-                "publicId": "9415",
+                "id": "9415",
+                "internalId": 9415,
                 "name": "Alcântara - Av. De Ceuta",
                 "position": {
                   "latitude": 38.707253,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 375,
               "stop": {
-                "id": 9416,
-                "publicId": "9416",
+                "id": "9416",
+                "internalId": 9416,
                 "name": "Qta. Jacinto",
                 "position": {
                   "latitude": 38.708097,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 205,
               "stop": {
-                "id": 50387,
-                "publicId": "9429",
+                "id": "9429",
+                "internalId": 50387,
                 "name": "Av. Ceuta",
                 "position": {
                   "latitude": 38.707251,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 115,
               "stop": {
-                "id": 50373,
-                "publicId": "9423",
+                "id": "9423",
+                "internalId": 50373,
                 "name": "R. Cruz Alcântara",
                 "position": {
                   "latitude": 38.709052,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 109,
               "stop": {
-                "id": 50388,
-                "publicId": "9430",
+                "id": "9430",
+                "internalId": 50388,
                 "name": "R. Feliciano Sousa",
                 "position": {
                   "latitude": 38.709182,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 131,
               "stop": {
-                "id": 9424,
-                "publicId": "9424",
+                "id": "9424",
+                "internalId": 9424,
                 "name": "Tv. Sebeiro",
                 "position": {
                   "latitude": 38.708501,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 164,
               "stop": {
-                "id": 50374,
-                "publicId": "9427",
+                "id": "9427",
+                "internalId": 50374,
                 "name": "R. Alvito",
                 "position": {
                   "latitude": 38.707499,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 381,
               "stop": {
-                "id": 50375,
-                "publicId": "9428",
+                "id": "9428",
+                "internalId": 50375,
                 "name": "Av. Ceuta",
                 "position": {
                   "latitude": 38.707227,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 126,
               "stop": {
-                "id": 12110,
-                "publicId": "12110",
+                "id": "12110",
+                "internalId": 12110,
                 "name": "R. Alcântara",
                 "position": {
                   "latitude": 38.706207,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 240,
               "stop": {
-                "id": 12122,
-                "publicId": "12122",
+                "id": "12122",
+                "internalId": 12122,
                 "name": "Calvario",
                 "position": {
                   "latitude": 38.705378,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 245,
               "stop": {
-                "id": 12103,
-                "publicId": "12103",
+                "id": "12103",
+                "internalId": 12103,
                 "name": "R. Lusíadas / R. Leão Oliveira",
                 "position": {
                   "latitude": 38.705743,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 267,
               "stop": {
-                "id": 12114,
-                "publicId": "12114",
+                "id": "12114",
+                "internalId": 12114,
                 "name": "R. Lusíadas",
                 "position": {
                   "latitude": 38.705178,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 269,
               "stop": {
-                "id": 12004,
-                "publicId": "12004",
+                "id": "12004",
+                "internalId": 12004,
                 "name": "R. Luis Camões",
                 "position": {
                   "latitude": 38.704527,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 249,
               "stop": {
-                "id": 12012,
-                "publicId": "12012",
+                "id": "12012",
+                "internalId": 12012,
                 "name": "R. João Barros",
                 "position": {
                   "latitude": 38.705487,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 186,
               "stop": {
-                "id": 12006,
-                "publicId": "12006",
+                "id": "12006",
+                "internalId": 12006,
                 "name": "Alto Sto. Amaro",
                 "position": {
                   "latitude": 38.705118,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 136,
               "stop": {
-                "id": 12008,
-                "publicId": "12008",
+                "id": "12008",
+                "internalId": 12008,
                 "name": "R. Aliança Operária",
                 "position": {
                   "latitude": 38.704407,
@@ -517,8 +517,8 @@
               "order": 32,
               "distance": 231,
               "stop": {
-                "id": 13406,
-                "publicId": "13406",
+                "id": "13406",
+                "internalId": 13406,
                 "name": "Rio Seco",
                 "position": {
                   "latitude": 38.703703,
@@ -533,8 +533,8 @@
               "order": 33,
               "distance": 240,
               "stop": {
-                "id": 50378,
-                "publicId": "13414",
+                "id": "13414",
+                "internalId": 50378,
                 "name": "Tv. Giestal",
                 "position": {
                   "latitude": 38.703104,
@@ -549,8 +549,8 @@
               "order": 34,
               "distance": 370,
               "stop": {
-                "id": 50380,
-                "publicId": "13416",
+                "id": "13416",
+                "internalId": 50380,
                 "name": "Cç. Boa-Hora",
                 "position": {
                   "latitude": 38.699981,
@@ -565,8 +565,8 @@
               "order": 35,
               "distance": 372,
               "stop": {
-                "id": 9505,
-                "publicId": "9505",
+                "id": "9505",
+                "internalId": 9505,
                 "name": "Hosp. Egas Moniz",
                 "position": {
                   "latitude": 38.698591,
@@ -581,8 +581,8 @@
               "order": 1,
               "distance": 535,
               "stop": {
-                "id": 50210,
-                "publicId": "9513",
+                "id": "9513",
+                "internalId": 50210,
                 "name": "Centro Congressos",
                 "position": {
                   "latitude": 38.699664,

@@ -1,11 +1,14 @@
 {
-  "id": 8808,
-  "publicId": "8808",
+  "id": "8808",
+  "internalId": 8808,
   "name": "Bº Da Boavista",
   "position": {
     "latitude": 38.736466,
     "longitude": -9.205918
   },
   "visible": true,
-  "updateDate": "2014-10-16T14:17:10.000Z"
+  "updateDate": "2014-10-16T14:17:10.000Z",
+  "routes": [
+    "750"
+  ]
 }

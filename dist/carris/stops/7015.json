@@ -1,11 +1,14 @@
 {
-  "id": 7015,
-  "publicId": "7015",
+  "id": "7015",
+  "internalId": 7015,
   "name": "Pç. Paiva Couceiro",
   "position": {
     "latitude": 38.730557,
     "longitude": -9.127104
   },
   "visible": true,
-  "updateDate": "2018-02-21T11:45:21.000Z"
+  "updateDate": "2018-02-21T11:45:21.000Z",
+  "routes": [
+    "706"
+  ]
 }

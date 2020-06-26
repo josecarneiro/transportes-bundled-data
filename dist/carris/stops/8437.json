@@ -1,11 +1,14 @@
 {
-  "id": 8437,
-  "publicId": "8437",
+  "id": "8437",
+  "internalId": 8437,
   "name": "Olivais Centro Cívico",
   "position": {
     "latitude": 38.76325,
     "longitude": -9.117361
   },
   "visible": true,
-  "updateDate": "2006-02-09T15:50:46.000Z"
+  "updateDate": "2006-02-09T15:50:46.000Z",
+  "routes": [
+    "759"
+  ]
 }

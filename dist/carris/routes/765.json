@@ -1,6 +1,6 @@
 {
-  "id": 110,
-  "number": "765",
+  "id": "765",
+  "internalId": 110,
   "name": "Col. Militar - Metro - Portas Benfica",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 459,
               "stop": {
-                "id": 10833,
-                "publicId": "10833",
+                "id": "10833",
+                "internalId": 10833,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752794,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 417,
               "stop": {
-                "id": 50242,
-                "publicId": "30001",
+                "id": "30001",
+                "internalId": 50242,
                 "name": "Hosp. Luz",
                 "position": {
                   "latitude": 38.755426,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 201,
               "stop": {
-                "id": 10916,
-                "publicId": "10916",
+                "id": "10916",
+                "internalId": 10916,
                 "name": "Qta Da Granja",
                 "position": {
                   "latitude": 38.754607,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 196,
               "stop": {
-                "id": 10910,
-                "publicId": "10910",
+                "id": "10910",
+                "internalId": 10910,
                 "name": "Estr. Arneiros",
                 "position": {
                   "latitude": 38.754479,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 214,
               "stop": {
-                "id": 13706,
-                "publicId": "13706",
+                "id": "13706",
+                "internalId": 13706,
                 "name": "Charquinho",
                 "position": {
                   "latitude": 38.75571,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 237,
               "stop": {
-                "id": 13704,
-                "publicId": "13704",
+                "id": "13704",
+                "internalId": 13704,
                 "name": "Cemitério Benfica",
                 "position": {
                   "latitude": 38.756868,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 353,
               "stop": {
-                "id": 13702,
-                "publicId": "13702",
+                "id": "13702",
+                "internalId": 13702,
                 "name": "R. João Ortigão Ramos",
                 "position": {
                   "latitude": 38.756419,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 183,
               "stop": {
-                "id": 10927,
-                "publicId": "10927",
+                "id": "10927",
+                "internalId": 10927,
                 "name": "R. Pedralvas",
                 "position": {
                   "latitude": 38.753949,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 262,
               "stop": {
-                "id": 50386,
-                "publicId": "11010",
+                "id": "11010",
+                "internalId": 50386,
                 "name": "Estr. Benfica (Mercado)",
                 "position": {
                   "latitude": 38.752523,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 161,
               "stop": {
-                "id": 11006,
-                "publicId": "11006",
+                "id": "11006",
+                "internalId": 11006,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.753411,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 0,
               "stop": {
-                "id": 11007,
-                "publicId": "11007",
+                "id": "11007",
+                "internalId": 11007,
                 "name": "Portas De Benfica",
                 "position": {
                   "latitude": 38.752628,
@@ -204,8 +204,8 @@
               "order": 5,
               "distance": 235,
               "stop": {
-                "id": 13701,
-                "publicId": "13701",
+                "id": "13701",
+                "internalId": 13701,
                 "name": "R. João Ortigão Ramos",
                 "position": {
                   "latitude": 38.756312,
@@ -220,8 +220,8 @@
               "order": 6,
               "distance": 161,
               "stop": {
-                "id": 13703,
-                "publicId": "13703",
+                "id": "13703",
+                "internalId": 13703,
                 "name": "Cemitério Benfica",
                 "position": {
                   "latitude": 38.756734,
@@ -236,8 +236,8 @@
               "order": 7,
               "distance": 250,
               "stop": {
-                "id": 13705,
-                "publicId": "13705",
+                "id": "13705",
+                "internalId": 13705,
                 "name": "Charquinho",
                 "position": {
                   "latitude": 38.755785,
@@ -252,8 +252,8 @@
               "order": 8,
               "distance": 261,
               "stop": {
-                "id": 10909,
-                "publicId": "10909",
+                "id": "10909",
+                "internalId": 10909,
                 "name": "Estr. Arneiros",
                 "position": {
                   "latitude": 38.754202,
@@ -268,8 +268,8 @@
               "order": 9,
               "distance": 815,
               "stop": {
-                "id": 10917,
-                "publicId": "10917",
+                "id": "10917",
+                "internalId": 10917,
                 "name": "Qta. Granja",
                 "position": {
                   "latitude": 38.754302,
@@ -284,8 +284,8 @@
               "order": 10,
               "distance": 0,
               "stop": {
-                "id": 10833,
-                "publicId": "10833",
+                "id": "10833",
+                "internalId": 10833,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752794,
@@ -300,8 +300,8 @@
               "order": 1,
               "distance": 62,
               "stop": {
-                "id": 11007,
-                "publicId": "11007",
+                "id": "11007",
+                "internalId": 11007,
                 "name": "Portas De Benfica",
                 "position": {
                   "latitude": 38.752628,
@@ -316,8 +316,8 @@
               "order": 2,
               "distance": 289,
               "stop": {
-                "id": 11001,
-                "publicId": "11001",
+                "id": "11001",
+                "internalId": 11001,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.752705,
@@ -332,8 +332,8 @@
               "order": 3,
               "distance": 139,
               "stop": {
-                "id": 50171,
-                "publicId": "11008",
+                "id": "11008",
+                "internalId": 50171,
                 "name": "Estr. Benfica (Mercado)",
                 "position": {
                   "latitude": 38.752874,
@@ -348,8 +348,8 @@
               "order": 4,
               "distance": 377,
               "stop": {
-                "id": 10926,
-                "publicId": "10926",
+                "id": "10926",
+                "internalId": 10926,
                 "name": "R. Pedralvas",
                 "position": {
                   "latitude": 38.753869,

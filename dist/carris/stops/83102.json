@@ -1,11 +1,15 @@
 {
-  "id": 17566,
-  "publicId": "83102",
+  "id": "83102",
+  "internalId": 17566,
   "name": "Rua Nicolau Tolentino",
   "position": {
     "latitude": 38.731019,
     "longitude": -9.109655
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:54:13.000Z"
+  "updateDate": "2008-12-05T16:54:13.000Z",
+  "routes": [
+    "742",
+    "759"
+  ]
 }

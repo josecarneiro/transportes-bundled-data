@@ -1,11 +1,14 @@
 {
-  "id": 7710,
-  "publicId": "7710",
+  "id": "7710",
+  "internalId": 7710,
   "name": "Av. De Berlim",
   "position": {
     "latitude": 38.768384,
     "longitude": -9.111612
   },
   "visible": true,
-  "updateDate": "2014-10-16T11:34:44.000Z"
+  "updateDate": "2014-10-16T11:34:44.000Z",
+  "routes": [
+    "744"
+  ]
 }

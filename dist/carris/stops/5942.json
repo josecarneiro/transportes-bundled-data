@@ -1,11 +1,16 @@
 {
-  "id": 50095,
-  "publicId": "5942",
+  "id": "5942",
+  "internalId": 50095,
   "name": "R. Prof. Fernando Mello Moser",
   "position": {
     "latitude": 38.770945,
     "longitude": -9.168719
   },
   "visible": true,
-  "updateDate": "2019-01-10T17:13:49.000Z"
+  "updateDate": "2019-01-10T17:13:49.000Z",
+  "routes": [
+    "703",
+    "778",
+    "43B"
+  ]
 }

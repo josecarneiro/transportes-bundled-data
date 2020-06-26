@@ -1,11 +1,15 @@
 {
-  "id": 9802,
-  "publicId": "9802",
+  "id": "9802",
+  "internalId": 9802,
   "name": "Cç. Das Lajes",
   "position": {
     "latitude": 38.725556,
     "longitude": -9.118724
   },
   "visible": true,
-  "updateDate": "2018-01-11T07:13:01.000Z"
+  "updateDate": "2018-01-11T07:13:01.000Z",
+  "routes": [
+    "718",
+    "742"
+  ]
 }

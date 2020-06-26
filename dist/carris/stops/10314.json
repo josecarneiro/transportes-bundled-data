@@ -1,11 +1,15 @@
 {
-  "id": 10314,
-  "publicId": "10314",
+  "id": "10314",
+  "internalId": 10314,
   "name": "Rua Do Cruzeiro",
   "position": {
     "latitude": 38.710062,
     "longitude": -9.194963
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:10:41.000Z"
+  "updateDate": "2008-12-05T18:10:41.000Z",
+  "routes": [
+    "742",
+    "760"
+  ]
 }

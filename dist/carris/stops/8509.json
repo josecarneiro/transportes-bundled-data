@@ -1,11 +1,17 @@
 {
-  "id": 8509,
-  "publicId": "8509",
+  "id": "8509",
+  "internalId": 8509,
   "name": "Rua Conselheiro Fernando Sousa",
   "position": {
     "latitude": 38.725223,
     "longitude": -9.159972
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:40:50.000Z"
+  "updateDate": "2008-12-05T17:40:50.000Z",
+  "routes": [
+    "202",
+    "713",
+    "758",
+    "24E"
+  ]
 }

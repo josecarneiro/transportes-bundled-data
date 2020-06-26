@@ -1,11 +1,16 @@
 {
-  "id": 9130,
-  "publicId": "9130",
+  "id": "9130",
+  "internalId": 9130,
   "name": "R. Graça",
   "position": {
     "latitude": 38.719031,
     "longitude": -9.129837
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:39:55.000Z"
+  "updateDate": "2019-09-02T14:39:55.000Z",
+  "routes": [
+    "734",
+    "797",
+    "28E"
+  ]
 }

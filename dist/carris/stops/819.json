@@ -1,11 +1,15 @@
 {
-  "id": 819,
-  "publicId": "819",
+  "id": "819",
+  "internalId": 819,
   "name": "Martim Moniz",
   "position": {
     "latitude": 38.715498,
     "longitude": -9.13604
   },
   "visible": true,
-  "updateDate": "2018-01-29T12:20:15.000Z"
+  "updateDate": "2018-01-29T12:20:15.000Z",
+  "routes": [
+    "208",
+    "28E"
+  ]
 }

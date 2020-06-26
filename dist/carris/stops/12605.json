@@ -1,11 +1,15 @@
 {
-  "id": 12605,
-  "publicId": "12605",
+  "id": "12605",
+  "internalId": 12605,
   "name": "Ralis",
   "position": {
     "latitude": 38.78238,
     "longitude": -9.118146
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:27:37.000Z"
+  "updateDate": "2014-10-15T11:27:37.000Z",
+  "routes": [
+    "210",
+    "783"
+  ]
 }

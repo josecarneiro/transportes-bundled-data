@@ -1,11 +1,15 @@
 {
-  "id": 9512,
-  "publicId": "9512",
+  "id": "9512",
+  "internalId": 9512,
   "name": "R. Pinto Ferreira",
   "position": {
     "latitude": 38.698225,
     "longitude": -9.191353
   },
   "visible": true,
-  "updateDate": "2019-01-16T09:02:40.000Z"
+  "updateDate": "2019-01-16T09:02:40.000Z",
+  "routes": [
+    "732",
+    "73B"
+  ]
 }

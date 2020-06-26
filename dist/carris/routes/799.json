@@ -1,6 +1,6 @@
 {
-  "id": 120,
-  "number": "799",
+  "id": "799",
+  "internalId": 120,
   "name": "Col. Militar-Metro - Alfragide Norte",
   "visible": true,
   "creationDate": "2020-05-21T11:02:00.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 482,
               "stop": {
-                "id": 10819,
-                "publicId": "10819",
+                "id": "10819",
+                "internalId": 10819,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752667,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 581,
               "stop": {
-                "id": 50242,
-                "publicId": "30001",
+                "id": "30001",
+                "internalId": 50242,
                 "name": "Hosp. Luz",
                 "position": {
                   "latitude": 38.755426,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 169,
               "stop": {
-                "id": 10911,
-                "publicId": "10911",
+                "id": "10911",
+                "internalId": 10911,
                 "name": "Qta. Granja - Av. Uruguai",
                 "position": {
                   "latitude": 38.752869,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 239,
               "stop": {
-                "id": 10913,
-                "publicId": "10913",
+                "id": "10913",
+                "internalId": 10913,
                 "name": "Av. Uruguai",
                 "position": {
                   "latitude": 38.751438,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 646,
               "stop": {
-                "id": 10908,
-                "publicId": "10908",
+                "id": "10908",
+                "internalId": 10908,
                 "name": "Estr. Benfica / Av. Gomes Pere",
                 "position": {
                   "latitude": 38.749296,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 278,
               "stop": {
-                "id": 2806,
-                "publicId": "2806",
+                "id": "2806",
+                "internalId": 2806,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.745077,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 353,
               "stop": {
-                "id": 8816,
-                "publicId": "8816",
+                "id": "8816",
+                "internalId": 8816,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745257,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 206,
               "stop": {
-                "id": 8814,
-                "publicId": "8814",
+                "id": "8814",
+                "internalId": 8814,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743823,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 302,
               "stop": {
-                "id": 50239,
-                "publicId": "8822",
+                "id": "8822",
+                "internalId": 50239,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.742394,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 391,
               "stop": {
-                "id": 8818,
-                "publicId": "8818",
+                "id": "8818",
+                "internalId": 8818,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.740835,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 640,
               "stop": {
-                "id": 8820,
-                "publicId": "8820",
+                "id": "8820",
+                "internalId": 8820,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.742358,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 396,
               "stop": {
-                "id": 18112,
-                "publicId": "18112",
+                "id": "18112",
+                "internalId": 18112,
                 "name": "Alfragide - Fap",
                 "position": {
                   "latitude": 38.738705,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 248,
               "stop": {
-                "id": 50052,
-                "publicId": "18134",
+                "id": "18134",
+                "internalId": 50052,
                 "name": "Alfragide - Nato",
                 "position": {
                   "latitude": 38.737204,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 362,
               "stop": {
-                "id": 50053,
-                "publicId": "18132",
+                "id": "18132",
+                "internalId": 50053,
                 "name": "Av. Almeida Garret",
                 "position": {
                   "latitude": 38.738366,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 316,
               "stop": {
-                "id": 18129,
-                "publicId": "18129",
+                "id": "18129",
+                "internalId": 18129,
                 "name": "Qta Grande (Alfragide)",
                 "position": {
                   "latitude": 38.735834,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 202,
               "stop": {
-                "id": 50057,
-                "publicId": "18115",
+                "id": "18115",
+                "internalId": 50057,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.734876,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 312,
               "stop": {
-                "id": 18118,
-                "publicId": "18118",
+                "id": "18118",
+                "internalId": 18118,
                 "name": "Av. Qta Grande/Rua Da Encosta",
                 "position": {
                   "latitude": 38.735657,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 132,
               "stop": {
-                "id": 18120,
-                "publicId": "18120",
+                "id": "18120",
+                "internalId": 18120,
                 "name": "Av. Das Laranjeiras",
                 "position": {
                   "latitude": 38.737322,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 131,
               "stop": {
-                "id": 18122,
-                "publicId": "18122",
+                "id": "18122",
+                "internalId": 18122,
                 "name": "Av. Dos Moínhos",
                 "position": {
                   "latitude": 38.736945,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 307,
               "stop": {
-                "id": 18124,
-                "publicId": "18124",
+                "id": "18124",
+                "internalId": 18124,
                 "name": "Av. Das Laranjeiras",
                 "position": {
                   "latitude": 38.737458,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 228,
               "stop": {
-                "id": 18126,
-                "publicId": "18126",
+                "id": "18126",
+                "internalId": 18126,
                 "name": "Av. Quinta Grande",
                 "position": {
                   "latitude": 38.739514,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 0,
               "stop": {
-                "id": 18128,
-                "publicId": "18128",
+                "id": "18128",
+                "internalId": 18128,
                 "name": "Alfragide Norte",
                 "position": {
                   "latitude": 38.73946,
@@ -380,8 +380,8 @@
               "order": 1,
               "distance": 261,
               "stop": {
-                "id": 18128,
-                "publicId": "18128",
+                "id": "18128",
+                "internalId": 18128,
                 "name": "Alfragide Norte",
                 "position": {
                   "latitude": 38.73946,
@@ -396,8 +396,8 @@
               "order": 2,
               "distance": 315,
               "stop": {
-                "id": 18127,
-                "publicId": "18127",
+                "id": "18127",
+                "internalId": 18127,
                 "name": "Av. Quinta Grande",
                 "position": {
                   "latitude": 38.739631,
@@ -412,8 +412,8 @@
               "order": 3,
               "distance": 125,
               "stop": {
-                "id": 18125,
-                "publicId": "18125",
+                "id": "18125",
+                "internalId": 18125,
                 "name": "Av. Das Laranjeiras",
                 "position": {
                   "latitude": 38.73743,
@@ -428,8 +428,8 @@
               "order": 4,
               "distance": 123,
               "stop": {
-                "id": 18123,
-                "publicId": "18123",
+                "id": "18123",
+                "internalId": 18123,
                 "name": "Av. Dos Moínhos",
                 "position": {
                   "latitude": 38.736805,
@@ -444,8 +444,8 @@
               "order": 5,
               "distance": 332,
               "stop": {
-                "id": 18121,
-                "publicId": "18121",
+                "id": "18121",
+                "internalId": 18121,
                 "name": "Av. Das Laranjeiras",
                 "position": {
                   "latitude": 38.737179,
@@ -460,8 +460,8 @@
               "order": 6,
               "distance": 210,
               "stop": {
-                "id": 18119,
-                "publicId": "18119",
+                "id": "18119",
+                "internalId": 18119,
                 "name": "Av. Qta Grande/Rua Da Encosta",
                 "position": {
                   "latitude": 38.735767,
@@ -476,8 +476,8 @@
               "order": 7,
               "distance": 308,
               "stop": {
-                "id": 50055,
-                "publicId": "18130",
+                "id": "18130",
+                "internalId": 50055,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.734753,
@@ -492,8 +492,8 @@
               "order": 8,
               "distance": 363,
               "stop": {
-                "id": 50058,
-                "publicId": "18131",
+                "id": "18131",
+                "internalId": 50058,
                 "name": "Qta Grande",
                 "position": {
                   "latitude": 38.735665,
@@ -508,8 +508,8 @@
               "order": 9,
               "distance": 340,
               "stop": {
-                "id": 50054,
-                "publicId": "18133",
+                "id": "18133",
+                "internalId": 50054,
                 "name": "Av. Almeida Garret",
                 "position": {
                   "latitude": 38.738262,
@@ -524,8 +524,8 @@
               "order": 10,
               "distance": 304,
               "stop": {
-                "id": 18107,
-                "publicId": "18107",
+                "id": "18107",
+                "internalId": 18107,
                 "name": "Alfragide - Nato",
                 "position": {
                   "latitude": 38.736649,
@@ -540,8 +540,8 @@
               "order": 11,
               "distance": 683,
               "stop": {
-                "id": 18109,
-                "publicId": "18109",
+                "id": "18109",
+                "internalId": 18109,
                 "name": "Alfragide - Fap",
                 "position": {
                   "latitude": 38.738514,
@@ -556,8 +556,8 @@
               "order": 12,
               "distance": 331,
               "stop": {
-                "id": 8819,
-                "publicId": "8819",
+                "id": "8819",
+                "internalId": 8819,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.741798,
@@ -572,8 +572,8 @@
               "order": 13,
               "distance": 241,
               "stop": {
-                "id": 8815,
-                "publicId": "8815",
+                "id": "8815",
+                "internalId": 8815,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.74075,
@@ -588,8 +588,8 @@
               "order": 14,
               "distance": 345,
               "stop": {
-                "id": 50240,
-                "publicId": "8821",
+                "id": "8821",
+                "internalId": 50240,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.741726,
@@ -604,8 +604,8 @@
               "order": 15,
               "distance": 357,
               "stop": {
-                "id": 8811,
-                "publicId": "8811",
+                "id": "8811",
+                "internalId": 8811,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743861,
@@ -620,8 +620,8 @@
               "order": 16,
               "distance": 256,
               "stop": {
-                "id": 8813,
-                "publicId": "8813",
+                "id": "8813",
+                "internalId": 8813,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745108,
@@ -636,8 +636,8 @@
               "order": 17,
               "distance": 1196,
               "stop": {
-                "id": 2812,
-                "publicId": "2812",
+                "id": "2812",
+                "internalId": 2812,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.744882,
@@ -652,8 +652,8 @@
               "order": 18,
               "distance": 192,
               "stop": {
-                "id": 10907,
-                "publicId": "10907",
+                "id": "10907",
+                "internalId": 10907,
                 "name": "Estr. Benfica / Av. Gomes Pere",
                 "position": {
                   "latitude": 38.749776,
@@ -668,8 +668,8 @@
               "order": 19,
               "distance": 216,
               "stop": {
-                "id": 10914,
-                "publicId": "10914",
+                "id": "10914",
+                "internalId": 10914,
                 "name": "Av. Uruguai",
                 "position": {
                   "latitude": 38.7515,
@@ -684,8 +684,8 @@
               "order": 20,
               "distance": 137,
               "stop": {
-                "id": 10912,
-                "publicId": "10912",
+                "id": "10912",
+                "internalId": 10912,
                 "name": "Qta. Granja - Av. Uruguai",
                 "position": {
                   "latitude": 38.753221,
@@ -700,8 +700,8 @@
               "order": 21,
               "distance": 792,
               "stop": {
-                "id": 10917,
-                "publicId": "10917",
+                "id": "10917",
+                "internalId": 10917,
                 "name": "Qta. Granja",
                 "position": {
                   "latitude": 38.754302,
@@ -716,8 +716,8 @@
               "order": 22,
               "distance": 0,
               "stop": {
-                "id": 10819,
-                "publicId": "10819",
+                "id": "10819",
+                "internalId": 10819,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752667,

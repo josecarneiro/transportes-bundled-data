@@ -1,11 +1,18 @@
 {
-  "id": 3713,
-  "publicId": "3713",
+  "id": "3713",
+  "internalId": 3713,
   "name": "Rua Salgueiro Maia",
   "position": {
     "latitude": 38.748168,
     "longitude": -9.112946
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:06:07.000Z"
+  "updateDate": "2008-12-05T18:06:07.000Z",
+  "routes": [
+    "749",
+    "755",
+    "759",
+    "793",
+    "31B"
+  ]
 }

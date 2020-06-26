@@ -1,11 +1,15 @@
 {
-  "id": 7104,
-  "publicId": "7104",
+  "id": "7104",
+  "internalId": 7104,
   "name": "Conde Barão - Av. D. Carlos I",
   "position": {
     "latitude": 38.7086,
     "longitude": -9.153095
   },
   "visible": true,
-  "updateDate": "2018-04-06T16:58:32.000Z"
+  "updateDate": "2018-04-06T16:58:32.000Z",
+  "routes": [
+    "706",
+    "727"
+  ]
 }

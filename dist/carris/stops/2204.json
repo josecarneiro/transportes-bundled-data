@@ -1,11 +1,16 @@
 {
-  "id": 2204,
-  "publicId": "2204",
+  "id": "2204",
+  "internalId": 2204,
   "name": "Matinha",
   "position": {
     "latitude": 38.747799,
     "longitude": -9.096845
   },
   "visible": true,
-  "updateDate": "2018-07-31T11:08:21.000Z"
+  "updateDate": "2018-07-31T11:08:21.000Z",
+  "routes": [
+    "210",
+    "728",
+    "781"
+  ]
 }

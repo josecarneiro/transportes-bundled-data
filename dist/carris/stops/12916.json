@@ -1,11 +1,14 @@
 {
-  "id": 12916,
-  "publicId": "12916",
+  "id": "12916",
+  "internalId": 12916,
   "name": "Cemitério Da Ajuda",
   "position": {
     "latitude": 38.70961,
     "longitude": -9.203333
   },
   "visible": true,
-  "updateDate": "2011-09-14T15:08:06.000Z"
+  "updateDate": "2011-09-14T15:08:06.000Z",
+  "routes": [
+    "727"
+  ]
 }

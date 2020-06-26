@@ -1,11 +1,14 @@
 {
-  "id": 50414,
-  "publicId": "13208",
+  "id": "13208",
+  "internalId": 50414,
   "name": "Centro Cultural Belém",
   "position": {
     "latitude": 38.696152,
     "longitude": -9.207364
   },
   "visible": true,
-  "updateDate": "2019-08-01T14:46:10.000Z"
+  "updateDate": "2019-08-01T14:46:10.000Z",
+  "routes": [
+    "15E"
+  ]
 }

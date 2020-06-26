@@ -1,11 +1,14 @@
 {
-  "id": 18128,
-  "publicId": "18128",
+  "id": "18128",
+  "internalId": 18128,
   "name": "Alfragide Norte",
   "position": {
     "latitude": 38.73946,
     "longitude": -9.22151
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:12:45.000Z"
+  "updateDate": "2018-02-20T10:12:45.000Z",
+  "routes": [
+    "799"
+  ]
 }

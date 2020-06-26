@@ -1,6 +1,6 @@
 {
-  "id": 161,
-  "number": "54E",
+  "id": "54E",
+  "internalId": 161,
   "name": "R. Ouro - Lg. Carmo",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -54,8 +54,8 @@
               "order": 1,
               "distance": 32,
               "stop": {
-                "id": 50220,
-                "publicId": "903",
+                "id": "903",
+                "internalId": 50220,
                 "name": "Rua Do Ouro",
                 "position": {
                   "latitude": 38.712136,
@@ -70,8 +70,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 50219,
-                "publicId": "904",
+                "id": "904",
+                "internalId": 50219,
                 "name": "Rua Da Prata",
                 "position": {
                   "latitude": 38.712053,
@@ -126,8 +126,8 @@
               "order": 1,
               "distance": 32,
               "stop": {
-                "id": 50219,
-                "publicId": "904",
+                "id": "904",
+                "internalId": 50219,
                 "name": "Rua Da Prata",
                 "position": {
                   "latitude": 38.712053,
@@ -142,8 +142,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 50220,
-                "publicId": "903",
+                "id": "903",
+                "internalId": 50220,
                 "name": "Rua Do Ouro",
                 "position": {
                   "latitude": 38.712136,

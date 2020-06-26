@@ -1,11 +1,15 @@
 {
-  "id": 50075,
-  "publicId": "10610",
+  "id": "10610",
+  "internalId": 50075,
   "name": "Rua Dom Pedro V",
   "position": {
     "latitude": 38.715387,
     "longitude": -9.146117
   },
   "visible": true,
-  "updateDate": "2020-03-06T10:57:31.140Z"
+  "updateDate": "2020-03-06T10:57:31.140Z",
+  "routes": [
+    "773",
+    "22B"
+  ]
 }

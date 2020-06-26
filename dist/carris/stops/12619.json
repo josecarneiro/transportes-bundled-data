@@ -1,11 +1,15 @@
 {
-  "id": 12619,
-  "publicId": "12619",
+  "id": "12619",
+  "internalId": 12619,
   "name": "Portela - Seminário",
   "position": {
     "latitude": 38.781221,
     "longitude": -9.107489
   },
   "visible": true,
-  "updateDate": "2006-01-26T17:27:19.000Z"
+  "updateDate": "2006-01-26T17:27:19.000Z",
+  "routes": [
+    "210",
+    "728"
+  ]
 }

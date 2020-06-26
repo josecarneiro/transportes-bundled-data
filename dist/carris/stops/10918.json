@@ -1,11 +1,14 @@
 {
-  "id": 10918,
-  "publicId": "10918",
+  "id": "10918",
+  "internalId": 10918,
   "name": "Rua Das Garridas",
   "position": {
     "latitude": 38.748896,
     "longitude": -9.201249
   },
   "visible": true,
-  "updateDate": "2015-06-29T11:20:40.000Z"
+  "updateDate": "2015-06-29T11:20:40.000Z",
+  "routes": [
+    "729"
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "id": 77,
-  "number": "12E",
+  "id": "12E",
+  "internalId": 77,
   "name": "Martim Moniz (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -74,8 +74,8 @@
               "order": 12,
               "distance": 0,
               "stop": {
-                "id": 801,
-                "publicId": "801",
+                "id": "801",
+                "internalId": 801,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715277,
@@ -90,8 +90,8 @@
               "order": 2,
               "distance": 196,
               "stop": {
-                "id": 817,
-                "publicId": "817",
+                "id": "817",
+                "internalId": 817,
                 "name": "Socorro",
                 "position": {
                   "latitude": 38.71671,
@@ -106,8 +106,8 @@
               "order": 3,
               "distance": 113,
               "stop": {
-                "id": 13824,
-                "publicId": "13824",
+                "id": "13824",
+                "internalId": 13824,
                 "name": "Largo Do Terreirinho",
                 "position": {
                   "latitude": 38.716115,
@@ -122,8 +122,8 @@
               "order": 4,
               "distance": 271,
               "stop": {
-                "id": 13822,
-                "publicId": "13822",
+                "id": "13822",
+                "internalId": 13822,
                 "name": "Rua Dos Lagares",
                 "position": {
                   "latitude": 38.715464,
@@ -138,8 +138,8 @@
               "order": 5,
               "distance": 148,
               "stop": {
-                "id": 13809,
-                "publicId": "13809",
+                "id": "13809",
+                "internalId": 13809,
                 "name": "São Tomé",
                 "position": {
                   "latitude": 38.713425,
@@ -154,8 +154,8 @@
               "order": 6,
               "distance": 108,
               "stop": {
-                "id": 13812,
-                "publicId": "13812",
+                "id": "13812",
+                "internalId": 13812,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.712182,
@@ -170,8 +170,8 @@
               "order": 7,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -186,8 +186,8 @@
               "order": 8,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -202,8 +202,8 @@
               "order": 9,
               "distance": 162,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -218,8 +218,8 @@
               "order": 10,
               "distance": 517,
               "stop": {
-                "id": 5602,
-                "publicId": "5602",
+                "id": "5602",
+                "internalId": 5602,
                 "name": "Rua Da Conceição",
                 "position": {
                   "latitude": 38.709944,
@@ -234,8 +234,8 @@
               "order": 11,
               "distance": 260,
               "stop": {
-                "id": 917,
-                "publicId": "917",
+                "id": "917",
+                "internalId": 917,
                 "name": "Praça Da Figueira",
                 "position": {
                   "latitude": 38.713393,
@@ -250,8 +250,8 @@
               "order": 1,
               "distance": 222,
               "stop": {
-                "id": 801,
-                "publicId": "801",
+                "id": "801",
+                "internalId": 801,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715277,

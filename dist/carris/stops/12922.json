@@ -1,11 +1,16 @@
 {
-  "id": 12922,
-  "publicId": "12922",
+  "id": "12922",
+  "internalId": 12922,
   "name": "Cif",
   "position": {
     "latitude": 38.71355,
     "longitude": -9.210067
   },
   "visible": true,
-  "updateDate": "2019-01-17T11:30:27.000Z"
+  "updateDate": "2019-01-17T11:30:27.000Z",
+  "routes": [
+    "723",
+    "760",
+    "79B"
+  ]
 }

@@ -1,11 +1,19 @@
 {
-  "id": 10702,
-  "publicId": "10702",
+  "id": "10702",
+  "internalId": 10702,
   "name": "S. Domingos De Benfica",
   "position": {
     "latitude": 38.745703,
     "longitude": -9.181725
   },
   "visible": true,
-  "updateDate": "2017-12-07T12:44:23.000Z"
+  "updateDate": "2017-12-07T12:44:23.000Z",
+  "routes": [
+    "202",
+    "716",
+    "746",
+    "754",
+    "758",
+    "768"
+  ]
 }

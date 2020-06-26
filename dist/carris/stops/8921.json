@@ -1,11 +1,14 @@
 {
-  "id": 50408,
-  "publicId": "8921",
+  "id": "8921",
+  "internalId": 50408,
   "name": "Olaias",
   "position": {
     "latitude": 38.738993,
     "longitude": -9.123268
   },
   "visible": true,
-  "updateDate": "2019-07-19T15:53:30.000Z"
+  "updateDate": "2019-07-19T15:53:30.000Z",
+  "routes": [
+    "34B"
+  ]
 }

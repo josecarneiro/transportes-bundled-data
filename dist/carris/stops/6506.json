@@ -1,11 +1,14 @@
 {
-  "id": 6506,
-  "publicId": "6506",
+  "id": "6506",
+  "internalId": 6506,
   "name": "Estefânia - Av. Casal Ribeiro",
   "position": {
     "latitude": 38.731906,
     "longitude": -9.142006
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "720"
+  ]
 }

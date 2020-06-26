@@ -1,11 +1,17 @@
 {
-  "id": 8103,
-  "publicId": "8103",
+  "id": "8103",
+  "internalId": 8103,
   "name": "Jardim Da Estrela",
   "position": {
     "latitude": 38.715563,
     "longitude": -9.160011
   },
   "visible": true,
-  "updateDate": "2011-09-14T11:15:04.000Z"
+  "updateDate": "2011-09-14T11:15:04.000Z",
+  "routes": [
+    "709",
+    "713",
+    "720",
+    "738"
+  ]
 }

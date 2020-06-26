@@ -1,11 +1,16 @@
 {
-  "id": 12007,
-  "publicId": "12007",
+  "id": "12007",
+  "internalId": 12007,
   "name": "Alto De Santo Amaro",
   "position": {
     "latitude": 38.704933,
     "longitude": -9.187422
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:18:31.000Z"
+  "updateDate": "2014-10-15T11:18:31.000Z",
+  "routes": [
+    "742",
+    "760",
+    "18E"
+  ]
 }

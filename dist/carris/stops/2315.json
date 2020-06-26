@@ -1,11 +1,18 @@
 {
-  "id": 2315,
-  "publicId": "2315",
+  "id": "2315",
+  "internalId": 2315,
   "name": "Av. Inf. D. Henrique / Av. Ber",
   "position": {
     "latitude": 38.766833,
     "longitude": -9.103999
   },
   "visible": true,
-  "updateDate": "2019-02-12T12:13:28.000Z"
+  "updateDate": "2019-02-12T12:13:28.000Z",
+  "routes": [
+    "750",
+    "782",
+    "794",
+    "26B",
+    "9E"
+  ]
 }

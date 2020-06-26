@@ -1,11 +1,15 @@
 {
-  "id": 8514,
-  "publicId": "8514",
+  "id": "8514",
+  "internalId": 8514,
   "name": "R. D. João V",
   "position": {
     "latitude": 38.720711,
     "longitude": -9.160725
   },
   "visible": true,
-  "updateDate": "2017-12-07T13:00:38.000Z"
+  "updateDate": "2017-12-07T13:00:38.000Z",
+  "routes": [
+    "202",
+    "758"
+  ]
 }

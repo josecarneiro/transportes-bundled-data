@@ -1,11 +1,14 @@
 {
-  "id": 7902,
-  "publicId": "7902",
+  "id": "7902",
+  "internalId": 7902,
   "name": "Moscavide Centro",
   "position": {
     "latitude": 38.779906,
     "longitude": -9.102483
   },
   "visible": true,
-  "updateDate": "2017-08-09T16:44:42.000Z"
+  "updateDate": "2017-08-09T16:44:42.000Z",
+  "routes": [
+    "731"
+  ]
 }

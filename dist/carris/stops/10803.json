@@ -1,11 +1,21 @@
 {
-  "id": 10803,
-  "publicId": "10803",
+  "id": "10803",
+  "internalId": 10803,
   "name": "Calhariz (Escola)",
   "position": {
     "latitude": 38.748208,
     "longitude": -9.192569
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:09:26.000Z"
+  "updateDate": "2019-02-18T12:09:26.000Z",
+  "routes": [
+    "202",
+    "703",
+    "716",
+    "746",
+    "750",
+    "758",
+    "764",
+    "9E"
+  ]
 }

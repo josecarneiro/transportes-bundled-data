@@ -1,11 +1,16 @@
 {
-  "id": 12910,
-  "publicId": "12910",
+  "id": "12910",
+  "internalId": 12910,
   "name": "Bº Da Ajuda - Escola",
   "position": {
     "latitude": 38.712098,
     "longitude": -9.201783
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:07:03.000Z"
+  "updateDate": "2008-12-05T17:07:03.000Z",
+  "routes": [
+    "723",
+    "760",
+    "9B"
+  ]
 }

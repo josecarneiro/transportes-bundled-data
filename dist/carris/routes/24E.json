@@ -1,6 +1,6 @@
 {
-  "id": 213,
-  "number": "24E",
+  "id": "24E",
+  "internalId": 213,
   "name": "Pç. Luis Camões - Campolide",
   "visible": true,
   "creationDate": "2018-04-19T16:14:47.000Z",
@@ -766,8 +766,8 @@
               "order": 1,
               "distance": 137,
               "stop": {
-                "id": 10513,
-                "publicId": "10513",
+                "id": "10513",
+                "internalId": 10513,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710486,
@@ -782,8 +782,8 @@
               "order": 2,
               "distance": 249,
               "stop": {
-                "id": 10501,
-                "publicId": "10501",
+                "id": "10501",
+                "internalId": 10501,
                 "name": "Praça Luís De Camões",
                 "position": {
                   "latitude": 38.710957,
@@ -798,8 +798,8 @@
               "order": 3,
               "distance": 217,
               "stop": {
-                "id": 10503,
-                "publicId": "10503",
+                "id": "10503",
+                "internalId": 10503,
                 "name": "Largo Trindade Coelho",
                 "position": {
                   "latitude": 38.713181,
@@ -814,8 +814,8 @@
               "order": 4,
               "distance": 382,
               "stop": {
-                "id": 10601,
-                "publicId": "10601",
+                "id": "10601",
+                "internalId": 10601,
                 "name": "Elevador Da Glória",
                 "position": {
                   "latitude": 38.714911,
@@ -830,8 +830,8 @@
               "order": 5,
               "distance": 377,
               "stop": {
-                "id": 10605,
-                "publicId": "10605",
+                "id": "10605",
+                "internalId": 10605,
                 "name": "Príncipe Real",
                 "position": {
                   "latitude": 38.71657,
@@ -846,8 +846,8 @@
               "order": 6,
               "distance": 440,
               "stop": {
-                "id": 10607,
-                "publicId": "10607",
+                "id": "10607",
+                "internalId": 10607,
                 "name": "R. Escola Politécnica",
                 "position": {
                   "latitude": 38.71807,
@@ -862,8 +862,8 @@
               "order": 7,
               "distance": 141,
               "stop": {
-                "id": 50361,
-                "publicId": "6819",
+                "id": "6819",
+                "internalId": 50361,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.720451,
@@ -878,8 +878,8 @@
               "order": 8,
               "distance": 401,
               "stop": {
-                "id": 6824,
-                "publicId": "6824",
+                "id": "6824",
+                "internalId": 6824,
                 "name": "Jardim Das Amoreiras",
                 "position": {
                   "latitude": 38.721471,
@@ -894,8 +894,8 @@
               "order": 9,
               "distance": 154,
               "stop": {
-                "id": 50362,
-                "publicId": "8515",
+                "id": "8515",
+                "internalId": 50362,
                 "name": "R. Amoreiras",
                 "position": {
                   "latitude": 38.723869,
@@ -910,8 +910,8 @@
               "order": 10,
               "distance": 298,
               "stop": {
-                "id": 8509,
-                "publicId": "8509",
+                "id": "8509",
+                "internalId": 8509,
                 "name": "Rua Conselheiro Fernando Sousa",
                 "position": {
                   "latitude": 38.725223,
@@ -926,8 +926,8 @@
               "order": 11,
               "distance": 196,
               "stop": {
-                "id": 6129,
-                "publicId": "6129",
+                "id": "6129",
+                "internalId": 6129,
                 "name": "Campolide (Av. Cons. Fernando",
                 "position": {
                   "latitude": 38.727393,
@@ -942,8 +942,8 @@
               "order": 12,
               "distance": 0,
               "stop": {
-                "id": 6130,
-                "publicId": "6130",
+                "id": "6130",
+                "internalId": 6130,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.726763,
@@ -1598,8 +1598,8 @@
               "order": 1,
               "distance": 387,
               "stop": {
-                "id": 6130,
-                "publicId": "6130",
+                "id": "6130",
+                "internalId": 6130,
                 "name": "Campolide",
                 "position": {
                   "latitude": 38.726763,
@@ -1614,8 +1614,8 @@
               "order": 2,
               "distance": 81,
               "stop": {
-                "id": 8510,
-                "publicId": "8510",
+                "id": "8510",
+                "internalId": 8510,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.723993,
@@ -1630,8 +1630,8 @@
               "order": 3,
               "distance": 329,
               "stop": {
-                "id": 8516,
-                "publicId": "8516",
+                "id": "8516",
+                "internalId": 8516,
                 "name": "R. Amoreiras",
                 "position": {
                   "latitude": 38.723347,
@@ -1646,8 +1646,8 @@
               "order": 4,
               "distance": 350,
               "stop": {
-                "id": 6823,
-                "publicId": "6823",
+                "id": "6823",
+                "internalId": 6823,
                 "name": "Jardim Amoreiras",
                 "position": {
                   "latitude": 38.721516,
@@ -1662,8 +1662,8 @@
               "order": 5,
               "distance": 369,
               "stop": {
-                "id": 6808,
-                "publicId": "6808",
+                "id": "6808",
+                "internalId": 6808,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.719893,
@@ -1678,8 +1678,8 @@
               "order": 6,
               "distance": 277,
               "stop": {
-                "id": 10608,
-                "publicId": "10608",
+                "id": "10608",
+                "internalId": 10608,
                 "name": "Rua Da Escola Politécnica",
                 "position": {
                   "latitude": 38.717537,
@@ -1694,8 +1694,8 @@
               "order": 7,
               "distance": 298,
               "stop": {
-                "id": 10609,
-                "publicId": "10609",
+                "id": "10609",
+                "internalId": 10609,
                 "name": "Príncipe Real",
                 "position": {
                   "latitude": 38.716526,
@@ -1710,8 +1710,8 @@
               "order": 8,
               "distance": 131,
               "stop": {
-                "id": 10604,
-                "publicId": "10604",
+                "id": "10604",
+                "internalId": 10604,
                 "name": "São Pedro De Alcântara",
                 "position": {
                   "latitude": 38.715457,
@@ -1726,8 +1726,8 @@
               "order": 9,
               "distance": 240,
               "stop": {
-                "id": 10602,
-                "publicId": "10602",
+                "id": "10602",
+                "internalId": 10602,
                 "name": "Elevador Da Glória",
                 "position": {
                   "latitude": 38.714502,
@@ -1742,8 +1742,8 @@
               "order": 10,
               "distance": 248,
               "stop": {
-                "id": 10504,
-                "publicId": "10504",
+                "id": "10504",
+                "internalId": 10504,
                 "name": "Largo Trindade Coelho",
                 "position": {
                   "latitude": 38.71255,
@@ -1758,8 +1758,8 @@
               "order": 11,
               "distance": 0,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,

@@ -1,11 +1,14 @@
 {
-  "id": 19001,
-  "publicId": "19001",
+  "id": "19001",
+  "internalId": 19001,
   "name": "Centro Sul",
   "position": {
     "latitude": 38.667593,
     "longitude": -9.163809
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:25:45.000Z"
+  "updateDate": "2018-02-20T10:25:45.000Z",
+  "routes": [
+    "753"
+  ]
 }

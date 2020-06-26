@@ -1,11 +1,14 @@
 {
-  "id": 2133,
-  "publicId": "2133",
+  "id": "2133",
+  "internalId": 2133,
   "name": "Estação De Santa Apolónia",
   "position": {
     "latitude": 38.713735,
     "longitude": -9.122519
   },
   "visible": true,
-  "updateDate": "2015-01-30T17:59:51.000Z"
+  "updateDate": "2015-01-30T17:59:51.000Z",
+  "routes": [
+    "706"
+  ]
 }

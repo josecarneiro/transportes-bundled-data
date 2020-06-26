@@ -1,11 +1,14 @@
 {
-  "id": 50252,
-  "publicId": "88102",
+  "id": "88102",
+  "internalId": 50252,
   "name": "Alfragide - Dga",
   "position": {
     "latitude": 38.737675,
     "longitude": -9.208033
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:12:17.000Z"
+  "updateDate": "2018-02-20T10:12:17.000Z",
+  "routes": [
+    "754"
+  ]
 }

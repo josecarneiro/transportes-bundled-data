@@ -1,11 +1,14 @@
 {
-  "id": 11804,
-  "publicId": "11804",
+  "id": "11804",
+  "internalId": 11804,
   "name": "Bº Do Alvito",
   "position": {
     "latitude": 38.713796,
     "longitude": -9.181599
   },
   "visible": true,
-  "updateDate": "2014-03-03T15:13:58.000Z"
+  "updateDate": "2014-03-03T15:13:58.000Z",
+  "routes": [
+    "724"
+  ]
 }

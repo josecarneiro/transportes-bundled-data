@@ -1,11 +1,14 @@
 {
-  "id": 6909,
-  "publicId": "6909",
+  "id": "6909",
+  "internalId": 6909,
   "name": "Gomes Freire",
   "position": {
     "latitude": 38.726206,
     "longitude": -9.140727
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:50:49.000Z"
+  "updateDate": "2018-04-03T15:50:49.000Z",
+  "routes": [
+    "760"
+  ]
 }

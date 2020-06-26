@@ -1,11 +1,14 @@
 {
-  "id": 7405,
-  "publicId": "7405",
+  "id": "7405",
+  "internalId": 7405,
   "name": "Av. Rodrigo Da Cunha",
   "position": {
     "latitude": 38.754709,
     "longitude": -9.134115
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:57:13.000Z"
+  "updateDate": "2008-12-05T16:57:13.000Z",
+  "routes": [
+    "755"
+  ]
 }

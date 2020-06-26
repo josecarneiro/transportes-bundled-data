@@ -1,6 +1,6 @@
 {
-  "id": 179,
-  "number": "778",
+  "id": "778",
+  "internalId": 179,
   "name": "C. Grande-Metro - Col. Militar-Metro",
   "visible": true,
   "creationDate": "2020-05-21T11:02:00.000Z",
@@ -1270,8 +1270,8 @@
               "order": 1,
               "distance": 670,
               "stop": {
-                "id": 5809,
-                "publicId": "5809",
+                "id": "5809",
+                "internalId": 5809,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.76078,
@@ -1286,8 +1286,8 @@
               "order": 2,
               "distance": 480,
               "stop": {
-                "id": 5823,
-                "publicId": "5823",
+                "id": "5823",
+                "internalId": 5823,
                 "name": "Inst. Ricardo Jorge",
                 "position": {
                   "latitude": 38.762558,
@@ -1302,8 +1302,8 @@
               "order": 3,
               "distance": 203,
               "stop": {
-                "id": 50013,
-                "publicId": "50013",
+                "id": "50013",
+                "internalId": 50013,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761716,
@@ -1318,8 +1318,8 @@
               "order": 4,
               "distance": 302,
               "stop": {
-                "id": 50005,
-                "publicId": "50005",
+                "id": "50005",
+                "internalId": 50005,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.761099,
@@ -1334,8 +1334,8 @@
               "order": 5,
               "distance": 306,
               "stop": {
-                "id": 50011,
-                "publicId": "50011",
+                "id": "50011",
+                "internalId": 50011,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760578,
@@ -1350,8 +1350,8 @@
               "order": 6,
               "distance": 173,
               "stop": {
-                "id": 50007,
-                "publicId": "50007",
+                "id": "50007",
+                "internalId": 50007,
                 "name": "R. Prof. João Barreira",
                 "position": {
                   "latitude": 38.762457,
@@ -1366,8 +1366,8 @@
               "order": 7,
               "distance": 175,
               "stop": {
-                "id": 50098,
-                "publicId": "50004",
+                "id": "50004",
+                "internalId": 50098,
                 "name": "R. Prof. Queirós Veloso",
                 "position": {
                   "latitude": 38.764083,
@@ -1382,8 +1382,8 @@
               "order": 8,
               "distance": 229,
               "stop": {
-                "id": 50023,
-                "publicId": "50023",
+                "id": "50023",
+                "internalId": 50023,
                 "name": "Alto Faia Sul",
                 "position": {
                   "latitude": 38.765219,
@@ -1398,8 +1398,8 @@
               "order": 9,
               "distance": 144,
               "stop": {
-                "id": 50025,
-                "publicId": "50025",
+                "id": "50025",
+                "internalId": 50025,
                 "name": "R. Prof. Prado Coelho",
                 "position": {
                   "latitude": 38.767005,
@@ -1414,8 +1414,8 @@
               "order": 10,
               "distance": 296,
               "stop": {
-                "id": 50027,
-                "publicId": "50027",
+                "id": "50027",
+                "internalId": 50027,
                 "name": "R. Frederico George",
                 "position": {
                   "latitude": 38.767992,
@@ -1430,8 +1430,8 @@
               "order": 11,
               "distance": 461,
               "stop": {
-                "id": 50280,
-                "publicId": "50031",
+                "id": "50031",
+                "internalId": 50280,
                 "name": "R. Armindo Rodrigues",
                 "position": {
                   "latitude": 38.768106,
@@ -1446,8 +1446,8 @@
               "order": 12,
               "distance": 119,
               "stop": {
-                "id": 5952,
-                "publicId": "5952",
+                "id": "5952",
+                "internalId": 5952,
                 "name": "R. Fernando Lopes Graça",
                 "position": {
                   "latitude": 38.77015,
@@ -1462,8 +1462,8 @@
               "order": 13,
               "distance": 190,
               "stop": {
-                "id": 50095,
-                "publicId": "5942",
+                "id": "5942",
+                "internalId": 50095,
                 "name": "R. Prof. Fernando Mello Moser",
                 "position": {
                   "latitude": 38.770945,
@@ -1478,8 +1478,8 @@
               "order": 14,
               "distance": 261,
               "stop": {
-                "id": 50096,
-                "publicId": "5944",
+                "id": "5944",
+                "internalId": 50096,
                 "name": "R. Prof. Orlando Ribeiro",
                 "position": {
                   "latitude": 38.77055,
@@ -1494,8 +1494,8 @@
               "order": 15,
               "distance": 310,
               "stop": {
-                "id": 50097,
-                "publicId": "5948",
+                "id": "5948",
+                "internalId": 50097,
                 "name": "R. Teófilo Carvalho Santos",
                 "position": {
                   "latitude": 38.770413,
@@ -1510,8 +1510,8 @@
               "order": 16,
               "distance": 403,
               "stop": {
-                "id": 50391,
-                "publicId": "50102",
+                "id": "50102",
+                "internalId": 50391,
                 "name": "Hosp. Forças Armadas",
                 "position": {
                   "latitude": 38.769001,
@@ -1526,8 +1526,8 @@
               "order": 17,
               "distance": 176,
               "stop": {
-                "id": 5934,
-                "publicId": "5934",
+                "id": "5934",
+                "internalId": 5934,
                 "name": "Az. Torre Fato",
                 "position": {
                   "latitude": 38.770104,
@@ -1542,8 +1542,8 @@
               "order": 18,
               "distance": 319,
               "stop": {
-                "id": 5932,
-                "publicId": "5932",
+                "id": "5932",
+                "internalId": 5932,
                 "name": "Ineti",
                 "position": {
                   "latitude": 38.769173,
@@ -1558,8 +1558,8 @@
               "order": 19,
               "distance": 224,
               "stop": {
-                "id": 12810,
-                "publicId": "12810",
+                "id": "12810",
+                "internalId": 12810,
                 "name": "B.º Horta Nova",
                 "position": {
                   "latitude": 38.767048,
@@ -1574,8 +1574,8 @@
               "order": 20,
               "distance": 652,
               "stop": {
-                "id": 50360,
-                "publicId": "12815",
+                "id": "12815",
+                "internalId": 50360,
                 "name": "Av. Cidade Praga (Lispolis)",
                 "position": {
                   "latitude": 38.766387,
@@ -1590,8 +1590,8 @@
               "order": 21,
               "distance": 626,
               "stop": {
-                "id": 12825,
-                "publicId": "12825",
+                "id": "12825",
+                "internalId": 12825,
                 "name": "Av. Cidade Praga",
                 "position": {
                   "latitude": 38.764653,
@@ -1606,8 +1606,8 @@
               "order": 22,
               "distance": 1087,
               "stop": {
-                "id": 12821,
-                "publicId": "12821",
+                "id": "12821",
+                "internalId": 12821,
                 "name": "Carnide (Metro)",
                 "position": {
                   "latitude": 38.759488,
@@ -1622,8 +1622,8 @@
               "order": 23,
               "distance": 332,
               "stop": {
-                "id": 50241,
-                "publicId": "10823",
+                "id": "10823",
+                "internalId": 50241,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752723,
@@ -1638,8 +1638,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 10832,
-                "publicId": "10832",
+                "id": "10832",
+                "internalId": 10832,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752604,
@@ -2674,8 +2674,8 @@
               "order": 1,
               "distance": 586,
               "stop": {
-                "id": 10832,
-                "publicId": "10832",
+                "id": "10832",
+                "internalId": 10832,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752604,
@@ -2690,8 +2690,8 @@
               "order": 2,
               "distance": 606,
               "stop": {
-                "id": 50242,
-                "publicId": "30001",
+                "id": "30001",
+                "internalId": 50242,
                 "name": "Hosp. Luz",
                 "position": {
                   "latitude": 38.755426,
@@ -2706,8 +2706,8 @@
               "order": 3,
               "distance": 589,
               "stop": {
-                "id": 12822,
-                "publicId": "12822",
+                "id": "12822",
+                "internalId": 12822,
                 "name": "Carnide (Metro)",
                 "position": {
                   "latitude": 38.759041,
@@ -2722,8 +2722,8 @@
               "order": 4,
               "distance": 632,
               "stop": {
-                "id": 12826,
-                "publicId": "12826",
+                "id": "12826",
+                "internalId": 12826,
                 "name": "Av. Cidade Praga",
                 "position": {
                   "latitude": 38.763898,
@@ -2738,8 +2738,8 @@
               "order": 5,
               "distance": 353,
               "stop": {
-                "id": 50365,
-                "publicId": "12818",
+                "id": "12818",
+                "internalId": 50365,
                 "name": "Av. Cidade Praga (Lispolis)",
                 "position": {
                   "latitude": 38.766468,
@@ -2754,8 +2754,8 @@
               "order": 6,
               "distance": 268,
               "stop": {
-                "id": 12811,
-                "publicId": "12811",
+                "id": "12811",
+                "internalId": 12811,
                 "name": "B.º Horta Nova",
                 "position": {
                   "latitude": 38.767279,
@@ -2770,8 +2770,8 @@
               "order": 7,
               "distance": 228,
               "stop": {
-                "id": 5935,
-                "publicId": "5935",
+                "id": "5935",
+                "internalId": 5935,
                 "name": "Ineti",
                 "position": {
                   "latitude": 38.769042,
@@ -2786,8 +2786,8 @@
               "order": 8,
               "distance": 351,
               "stop": {
-                "id": 5937,
-                "publicId": "5937",
+                "id": "5937",
+                "internalId": 5937,
                 "name": "Az. Torre Fato",
                 "position": {
                   "latitude": 38.770265,
@@ -2802,8 +2802,8 @@
               "order": 9,
               "distance": 181,
               "stop": {
-                "id": 50161,
-                "publicId": "5945",
+                "id": "5945",
+                "internalId": 50161,
                 "name": "Hosp. Forças Armadas",
                 "position": {
                   "latitude": 38.76891,
@@ -2818,8 +2818,8 @@
               "order": 10,
               "distance": 322,
               "stop": {
-                "id": 5953,
-                "publicId": "5953",
+                "id": "5953",
+                "internalId": 5953,
                 "name": "Paço Lumiar",
                 "position": {
                   "latitude": 38.768973,
@@ -2834,8 +2834,8 @@
               "order": 11,
               "distance": 221,
               "stop": {
-                "id": 50093,
-                "publicId": "5943",
+                "id": "5943",
+                "internalId": 50093,
                 "name": "R. Prof. Orlando Ribeiro",
                 "position": {
                   "latitude": 38.77032,
@@ -2850,8 +2850,8 @@
               "order": 12,
               "distance": 118,
               "stop": {
-                "id": 50094,
-                "publicId": "5941",
+                "id": "5941",
+                "internalId": 50094,
                 "name": "R. Prof. Fernando Mello Moser",
                 "position": {
                   "latitude": 38.770895,
@@ -2866,8 +2866,8 @@
               "order": 13,
               "distance": 340,
               "stop": {
-                "id": 5951,
-                "publicId": "5951",
+                "id": "5951",
+                "internalId": 5951,
                 "name": "R. Fernando Lopes Graça",
                 "position": {
                   "latitude": 38.770263,
@@ -2882,8 +2882,8 @@
               "order": 14,
               "distance": 238,
               "stop": {
-                "id": 50281,
-                "publicId": "50032",
+                "id": "50032",
+                "internalId": 50281,
                 "name": "R. Armindo Rodrigues",
                 "position": {
                   "latitude": 38.768799,
@@ -2898,8 +2898,8 @@
               "order": 15,
               "distance": 128,
               "stop": {
-                "id": 50029,
-                "publicId": "50029",
+                "id": "50029",
+                "internalId": 50029,
                 "name": "Alto Faia",
                 "position": {
                   "latitude": 38.767648,
@@ -2914,8 +2914,8 @@
               "order": 16,
               "distance": 208,
               "stop": {
-                "id": 50028,
-                "publicId": "50028",
+                "id": "50028",
+                "internalId": 50028,
                 "name": "R. Frederico George",
                 "position": {
                   "latitude": 38.768095,
@@ -2930,8 +2930,8 @@
               "order": 17,
               "distance": 204,
               "stop": {
-                "id": 50026,
-                "publicId": "50026",
+                "id": "50026",
+                "internalId": 50026,
                 "name": "R. Prof. Prado Coelho",
                 "position": {
                   "latitude": 38.766944,
@@ -2946,8 +2946,8 @@
               "order": 18,
               "distance": 366,
               "stop": {
-                "id": 50024,
-                "publicId": "50024",
+                "id": "50024",
+                "internalId": 50024,
                 "name": "Alto Faia Sul",
                 "position": {
                   "latitude": 38.765239,
@@ -2962,8 +2962,8 @@
               "order": 19,
               "distance": 359,
               "stop": {
-                "id": 50010,
-                "publicId": "50010",
+                "id": "50010",
+                "internalId": 50010,
                 "name": "R. Prof. João Barreira",
                 "position": {
                   "latitude": 38.76254,
@@ -2978,8 +2978,8 @@
               "order": 20,
               "distance": 170,
               "stop": {
-                "id": 50012,
-                "publicId": "50012",
+                "id": "50012",
+                "internalId": 50012,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760467,
@@ -2994,8 +2994,8 @@
               "order": 21,
               "distance": 301,
               "stop": {
-                "id": 50006,
-                "publicId": "50006",
+                "id": "50006",
+                "internalId": 50006,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.760516,
@@ -3010,8 +3010,8 @@
               "order": 22,
               "distance": 916,
               "stop": {
-                "id": 50014,
-                "publicId": "50014",
+                "id": "50014",
+                "internalId": 50014,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761573,
@@ -3026,8 +3026,8 @@
               "order": 23,
               "distance": 92,
               "stop": {
-                "id": 5828,
-                "publicId": "5828",
+                "id": "5828",
+                "internalId": 5828,
                 "name": "Campo Grande (Metro) - Só Desc",
                 "position": {
                   "latitude": 38.760369,
@@ -3042,8 +3042,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 5809,
-                "publicId": "5809",
+                "id": "5809",
+                "internalId": 5809,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.76078,
@@ -3072,8 +3072,8 @@
               "order": 1,
               "distance": 670,
               "stop": {
-                "id": 5809,
-                "publicId": "5809",
+                "id": "5809",
+                "internalId": 5809,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.76078,
@@ -3088,8 +3088,8 @@
               "order": 2,
               "distance": 480,
               "stop": {
-                "id": 5823,
-                "publicId": "5823",
+                "id": "5823",
+                "internalId": 5823,
                 "name": "Inst. Ricardo Jorge",
                 "position": {
                   "latitude": 38.762558,
@@ -3104,8 +3104,8 @@
               "order": 3,
               "distance": 203,
               "stop": {
-                "id": 50013,
-                "publicId": "50013",
+                "id": "50013",
+                "internalId": 50013,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761716,
@@ -3120,8 +3120,8 @@
               "order": 4,
               "distance": 302,
               "stop": {
-                "id": 50005,
-                "publicId": "50005",
+                "id": "50005",
+                "internalId": 50005,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.761099,
@@ -3136,8 +3136,8 @@
               "order": 5,
               "distance": 306,
               "stop": {
-                "id": 50011,
-                "publicId": "50011",
+                "id": "50011",
+                "internalId": 50011,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760578,
@@ -3152,8 +3152,8 @@
               "order": 6,
               "distance": 173,
               "stop": {
-                "id": 50007,
-                "publicId": "50007",
+                "id": "50007",
+                "internalId": 50007,
                 "name": "R. Prof. João Barreira",
                 "position": {
                   "latitude": 38.762457,
@@ -3168,8 +3168,8 @@
               "order": 7,
               "distance": 175,
               "stop": {
-                "id": 50098,
-                "publicId": "50004",
+                "id": "50004",
+                "internalId": 50098,
                 "name": "R. Prof. Queirós Veloso",
                 "position": {
                   "latitude": 38.764083,
@@ -3184,8 +3184,8 @@
               "order": 8,
               "distance": 229,
               "stop": {
-                "id": 50023,
-                "publicId": "50023",
+                "id": "50023",
+                "internalId": 50023,
                 "name": "Alto Faia Sul",
                 "position": {
                   "latitude": 38.765219,
@@ -3200,8 +3200,8 @@
               "order": 9,
               "distance": 144,
               "stop": {
-                "id": 50025,
-                "publicId": "50025",
+                "id": "50025",
+                "internalId": 50025,
                 "name": "R. Prof. Prado Coelho",
                 "position": {
                   "latitude": 38.767005,
@@ -3216,8 +3216,8 @@
               "order": 10,
               "distance": 296,
               "stop": {
-                "id": 50027,
-                "publicId": "50027",
+                "id": "50027",
+                "internalId": 50027,
                 "name": "R. Frederico George",
                 "position": {
                   "latitude": 38.767992,
@@ -3232,8 +3232,8 @@
               "order": 11,
               "distance": 461,
               "stop": {
-                "id": 50280,
-                "publicId": "50031",
+                "id": "50031",
+                "internalId": 50280,
                 "name": "R. Armindo Rodrigues",
                 "position": {
                   "latitude": 38.768106,
@@ -3248,8 +3248,8 @@
               "order": 12,
               "distance": 119,
               "stop": {
-                "id": 5952,
-                "publicId": "5952",
+                "id": "5952",
+                "internalId": 5952,
                 "name": "R. Fernando Lopes Graça",
                 "position": {
                   "latitude": 38.77015,
@@ -3264,8 +3264,8 @@
               "order": 13,
               "distance": 190,
               "stop": {
-                "id": 50095,
-                "publicId": "5942",
+                "id": "5942",
+                "internalId": 50095,
                 "name": "R. Prof. Fernando Mello Moser",
                 "position": {
                   "latitude": 38.770945,
@@ -3280,8 +3280,8 @@
               "order": 14,
               "distance": 261,
               "stop": {
-                "id": 50096,
-                "publicId": "5944",
+                "id": "5944",
+                "internalId": 50096,
                 "name": "R. Prof. Orlando Ribeiro",
                 "position": {
                   "latitude": 38.77055,
@@ -3296,8 +3296,8 @@
               "order": 15,
               "distance": 310,
               "stop": {
-                "id": 50097,
-                "publicId": "5948",
+                "id": "5948",
+                "internalId": 50097,
                 "name": "R. Teófilo Carvalho Santos",
                 "position": {
                   "latitude": 38.770413,
@@ -3312,8 +3312,8 @@
               "order": 16,
               "distance": 403,
               "stop": {
-                "id": 50391,
-                "publicId": "50102",
+                "id": "50102",
+                "internalId": 50391,
                 "name": "Hosp. Forças Armadas",
                 "position": {
                   "latitude": 38.769001,
@@ -3328,8 +3328,8 @@
               "order": 17,
               "distance": 176,
               "stop": {
-                "id": 5934,
-                "publicId": "5934",
+                "id": "5934",
+                "internalId": 5934,
                 "name": "Az. Torre Fato",
                 "position": {
                   "latitude": 38.770104,
@@ -3344,8 +3344,8 @@
               "order": 18,
               "distance": 319,
               "stop": {
-                "id": 5932,
-                "publicId": "5932",
+                "id": "5932",
+                "internalId": 5932,
                 "name": "Ineti",
                 "position": {
                   "latitude": 38.769173,
@@ -3360,8 +3360,8 @@
               "order": 19,
               "distance": 224,
               "stop": {
-                "id": 12810,
-                "publicId": "12810",
+                "id": "12810",
+                "internalId": 12810,
                 "name": "B.º Horta Nova",
                 "position": {
                   "latitude": 38.767048,
@@ -3376,8 +3376,8 @@
               "order": 20,
               "distance": 652,
               "stop": {
-                "id": 50360,
-                "publicId": "12815",
+                "id": "12815",
+                "internalId": 50360,
                 "name": "Av. Cidade Praga (Lispolis)",
                 "position": {
                   "latitude": 38.766387,
@@ -3392,8 +3392,8 @@
               "order": 21,
               "distance": 626,
               "stop": {
-                "id": 12825,
-                "publicId": "12825",
+                "id": "12825",
+                "internalId": 12825,
                 "name": "Av. Cidade Praga",
                 "position": {
                   "latitude": 38.764653,
@@ -3408,8 +3408,8 @@
               "order": 22,
               "distance": 1087,
               "stop": {
-                "id": 12821,
-                "publicId": "12821",
+                "id": "12821",
+                "internalId": 12821,
                 "name": "Carnide (Metro)",
                 "position": {
                   "latitude": 38.759488,
@@ -3424,8 +3424,8 @@
               "order": 23,
               "distance": 332,
               "stop": {
-                "id": 50241,
-                "publicId": "10823",
+                "id": "10823",
+                "internalId": 50241,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752723,
@@ -3440,8 +3440,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 10832,
-                "publicId": "10832",
+                "id": "10832",
+                "internalId": 10832,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752604,
@@ -3463,8 +3463,8 @@
               "order": 1,
               "distance": 586,
               "stop": {
-                "id": 10832,
-                "publicId": "10832",
+                "id": "10832",
+                "internalId": 10832,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752604,
@@ -3479,8 +3479,8 @@
               "order": 2,
               "distance": 606,
               "stop": {
-                "id": 50242,
-                "publicId": "30001",
+                "id": "30001",
+                "internalId": 50242,
                 "name": "Hosp. Luz",
                 "position": {
                   "latitude": 38.755426,
@@ -3495,8 +3495,8 @@
               "order": 3,
               "distance": 589,
               "stop": {
-                "id": 12822,
-                "publicId": "12822",
+                "id": "12822",
+                "internalId": 12822,
                 "name": "Carnide (Metro)",
                 "position": {
                   "latitude": 38.759041,
@@ -3511,8 +3511,8 @@
               "order": 4,
               "distance": 632,
               "stop": {
-                "id": 12826,
-                "publicId": "12826",
+                "id": "12826",
+                "internalId": 12826,
                 "name": "Av. Cidade Praga",
                 "position": {
                   "latitude": 38.763898,
@@ -3527,8 +3527,8 @@
               "order": 5,
               "distance": 353,
               "stop": {
-                "id": 50365,
-                "publicId": "12818",
+                "id": "12818",
+                "internalId": 50365,
                 "name": "Av. Cidade Praga (Lispolis)",
                 "position": {
                   "latitude": 38.766468,
@@ -3543,8 +3543,8 @@
               "order": 6,
               "distance": 150,
               "stop": {
-                "id": 12811,
-                "publicId": "12811",
+                "id": "12811",
+                "internalId": 12811,
                 "name": "B.º Horta Nova",
                 "position": {
                   "latitude": 38.767279,
@@ -3559,8 +3559,8 @@
               "order": 7,
               "distance": 346,
               "stop": {
-                "id": 12830,
-                "publicId": "12830",
+                "id": "12830",
+                "internalId": 12830,
                 "name": "R. Eugénio Salvador",
                 "position": {
                   "latitude": 38.767707,
@@ -3575,8 +3575,8 @@
               "order": 8,
               "distance": 1173,
               "stop": {
-                "id": 12833,
-                "publicId": "12833",
+                "id": "12833",
+                "internalId": 12833,
                 "name": "R. Virgilio Martinho",
                 "position": {
                   "latitude": 38.765164,
@@ -3591,8 +3591,8 @@
               "order": 9,
               "distance": 221,
               "stop": {
-                "id": 50093,
-                "publicId": "5943",
+                "id": "5943",
+                "internalId": 50093,
                 "name": "R. Prof. Orlando Ribeiro",
                 "position": {
                   "latitude": 38.77032,
@@ -3607,8 +3607,8 @@
               "order": 10,
               "distance": 118,
               "stop": {
-                "id": 50094,
-                "publicId": "5941",
+                "id": "5941",
+                "internalId": 50094,
                 "name": "R. Prof. Fernando Mello Moser",
                 "position": {
                   "latitude": 38.770895,
@@ -3623,8 +3623,8 @@
               "order": 11,
               "distance": 340,
               "stop": {
-                "id": 5951,
-                "publicId": "5951",
+                "id": "5951",
+                "internalId": 5951,
                 "name": "R. Fernando Lopes Graça",
                 "position": {
                   "latitude": 38.770263,
@@ -3639,8 +3639,8 @@
               "order": 12,
               "distance": 238,
               "stop": {
-                "id": 50281,
-                "publicId": "50032",
+                "id": "50032",
+                "internalId": 50281,
                 "name": "R. Armindo Rodrigues",
                 "position": {
                   "latitude": 38.768799,
@@ -3655,8 +3655,8 @@
               "order": 13,
               "distance": 128,
               "stop": {
-                "id": 50029,
-                "publicId": "50029",
+                "id": "50029",
+                "internalId": 50029,
                 "name": "Alto Faia",
                 "position": {
                   "latitude": 38.767648,
@@ -3671,8 +3671,8 @@
               "order": 14,
               "distance": 208,
               "stop": {
-                "id": 50028,
-                "publicId": "50028",
+                "id": "50028",
+                "internalId": 50028,
                 "name": "R. Frederico George",
                 "position": {
                   "latitude": 38.768095,
@@ -3687,8 +3687,8 @@
               "order": 15,
               "distance": 204,
               "stop": {
-                "id": 50026,
-                "publicId": "50026",
+                "id": "50026",
+                "internalId": 50026,
                 "name": "R. Prof. Prado Coelho",
                 "position": {
                   "latitude": 38.766944,
@@ -3703,8 +3703,8 @@
               "order": 16,
               "distance": 366,
               "stop": {
-                "id": 50024,
-                "publicId": "50024",
+                "id": "50024",
+                "internalId": 50024,
                 "name": "Alto Faia Sul",
                 "position": {
                   "latitude": 38.765239,
@@ -3719,8 +3719,8 @@
               "order": 17,
               "distance": 359,
               "stop": {
-                "id": 50010,
-                "publicId": "50010",
+                "id": "50010",
+                "internalId": 50010,
                 "name": "R. Prof. João Barreira",
                 "position": {
                   "latitude": 38.76254,
@@ -3735,8 +3735,8 @@
               "order": 18,
               "distance": 171,
               "stop": {
-                "id": 50012,
-                "publicId": "50012",
+                "id": "50012",
+                "internalId": 50012,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760467,
@@ -3751,8 +3751,8 @@
               "order": 19,
               "distance": 302,
               "stop": {
-                "id": 50006,
-                "publicId": "50006",
+                "id": "50006",
+                "internalId": 50006,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.760516,
@@ -3767,8 +3767,8 @@
               "order": 20,
               "distance": 922,
               "stop": {
-                "id": 50014,
-                "publicId": "50014",
+                "id": "50014",
+                "internalId": 50014,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761573,
@@ -3783,8 +3783,8 @@
               "order": 21,
               "distance": 91,
               "stop": {
-                "id": 5828,
-                "publicId": "5828",
+                "id": "5828",
+                "internalId": 5828,
                 "name": "Campo Grande (Metro) - Só Desc",
                 "position": {
                   "latitude": 38.760369,
@@ -3799,8 +3799,8 @@
               "order": 22,
               "distance": 0,
               "stop": {
-                "id": 5809,
-                "publicId": "5809",
+                "id": "5809",
+                "internalId": 5809,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.76078,

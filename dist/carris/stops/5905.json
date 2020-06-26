@@ -1,11 +1,19 @@
 {
-  "id": 5905,
-  "publicId": "5905",
+  "id": "5905",
+  "internalId": 5905,
   "name": "Lumiar (Estr. Torre)",
   "position": {
     "latitude": 38.77379,
     "longitude": -9.161392
   },
   "visible": true,
-  "updateDate": "2019-02-14T12:54:53.000Z"
+  "updateDate": "2019-02-14T12:54:53.000Z",
+  "routes": [
+    "206",
+    "207",
+    "703",
+    "717",
+    "40B",
+    "41B"
+  ]
 }

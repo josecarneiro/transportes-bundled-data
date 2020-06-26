@@ -1,6 +1,6 @@
 {
-  "id": 111,
-  "number": "768",
+  "id": "768",
+  "internalId": 111,
   "name": "Cidade Universitária - Qta. Alcoutins",
   "visible": true,
   "creationDate": "2020-05-20T09:47:16.000Z",
@@ -2286,8 +2286,8 @@
               "order": 1,
               "distance": 309,
               "stop": {
-                "id": 13511,
-                "publicId": "13511",
+                "id": "13511",
+                "internalId": 13511,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.750592,
@@ -2302,8 +2302,8 @@
               "order": 2,
               "distance": 627,
               "stop": {
-                "id": 13508,
-                "publicId": "13508",
+                "id": "13508",
+                "internalId": 13508,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.75019,
@@ -2318,8 +2318,8 @@
               "order": 3,
               "distance": 267,
               "stop": {
-                "id": 12706,
-                "publicId": "12706",
+                "id": "12706",
+                "internalId": 12706,
                 "name": "Universidade Católica",
                 "position": {
                   "latitude": 38.748206,
@@ -2334,8 +2334,8 @@
               "order": 4,
               "distance": 215,
               "stop": {
-                "id": 12704,
-                "publicId": "12704",
+                "id": "12704",
+                "internalId": 12704,
                 "name": "Cç. Palma Baixo",
                 "position": {
                   "latitude": 38.746888,
@@ -2350,8 +2350,8 @@
               "order": 5,
               "distance": 520,
               "stop": {
-                "id": 12702,
-                "publicId": "12702",
+                "id": "12702",
+                "internalId": 12702,
                 "name": "Cç. Palma Baixo / Estr. Laranj",
                 "position": {
                   "latitude": 38.745074,
@@ -2366,8 +2366,8 @@
               "order": 6,
               "distance": 307,
               "stop": {
-                "id": 1609,
-                "publicId": "1609",
+                "id": "1609",
+                "internalId": 1609,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742087,
@@ -2382,8 +2382,8 @@
               "order": 7,
               "distance": 273,
               "stop": {
-                "id": 1616,
-                "publicId": "1616",
+                "id": "1616",
+                "internalId": 1616,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742583,
@@ -2398,8 +2398,8 @@
               "order": 8,
               "distance": 332,
               "stop": {
-                "id": 10706,
-                "publicId": "10706",
+                "id": "10706",
+                "internalId": 10706,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743614,
@@ -2414,8 +2414,8 @@
               "order": 9,
               "distance": 261,
               "stop": {
-                "id": 10704,
-                "publicId": "10704",
+                "id": "10704",
+                "internalId": 10704,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744557,
@@ -2430,8 +2430,8 @@
               "order": 10,
               "distance": 454,
               "stop": {
-                "id": 10702,
-                "publicId": "10702",
+                "id": "10702",
+                "internalId": 10702,
                 "name": "S. Domingos De Benfica",
                 "position": {
                   "latitude": 38.745703,
@@ -2446,8 +2446,8 @@
               "order": 11,
               "distance": 342,
               "stop": {
-                "id": 10710,
-                "publicId": "10710",
+                "id": "10710",
+                "internalId": 10710,
                 "name": "Alto Dos Moínhos Metro",
                 "position": {
                   "latitude": 38.749255,
@@ -2462,8 +2462,8 @@
               "order": 12,
               "distance": 320,
               "stop": {
-                "id": 13614,
-                "publicId": "13614",
+                "id": "13614",
+                "internalId": 13614,
                 "name": "Rua João Freitas Branco",
                 "position": {
                   "latitude": 38.75234,
@@ -2478,8 +2478,8 @@
               "order": 13,
               "distance": 334,
               "stop": {
-                "id": 13612,
-                "publicId": "13612",
+                "id": "13612",
+                "internalId": 13612,
                 "name": "Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.754728,
@@ -2494,8 +2494,8 @@
               "order": 14,
               "distance": 385,
               "stop": {
-                "id": 13606,
-                "publicId": "13606",
+                "id": "13606",
+                "internalId": 13606,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756594,
@@ -2510,8 +2510,8 @@
               "order": 15,
               "distance": 241,
               "stop": {
-                "id": 13608,
-                "publicId": "13608",
+                "id": "13608",
+                "internalId": 13608,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75889,
@@ -2526,8 +2526,8 @@
               "order": 16,
               "distance": 430,
               "stop": {
-                "id": 12804,
-                "publicId": "12804",
+                "id": "12804",
+                "internalId": 12804,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760243,
@@ -2542,8 +2542,8 @@
               "order": 17,
               "distance": 332,
               "stop": {
-                "id": 12816,
-                "publicId": "12816",
+                "id": "12816",
+                "internalId": 12816,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.7593,
@@ -2558,8 +2558,8 @@
               "order": 18,
               "distance": 365,
               "stop": {
-                "id": 12814,
-                "publicId": "12814",
+                "id": "12814",
+                "internalId": 12814,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759741,
@@ -2574,8 +2574,8 @@
               "order": 19,
               "distance": 268,
               "stop": {
-                "id": 12812,
-                "publicId": "12812",
+                "id": "12812",
+                "internalId": 12812,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760675,
@@ -2590,8 +2590,8 @@
               "order": 20,
               "distance": 561,
               "stop": {
-                "id": 13904,
-                "publicId": "13904",
+                "id": "13904",
+                "internalId": 13904,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761819,
@@ -2606,8 +2606,8 @@
               "order": 21,
               "distance": 401,
               "stop": {
-                "id": 13906,
-                "publicId": "13906",
+                "id": "13906",
+                "internalId": 13906,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.766045,
@@ -2622,8 +2622,8 @@
               "order": 22,
               "distance": 294,
               "stop": {
-                "id": 14110,
-                "publicId": "14110",
+                "id": "14110",
+                "internalId": 14110,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768933,
@@ -2638,8 +2638,8 @@
               "order": 23,
               "distance": 328,
               "stop": {
-                "id": 14102,
-                "publicId": "14102",
+                "id": "14102",
+                "internalId": 14102,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770954,
@@ -2654,8 +2654,8 @@
               "order": 24,
               "distance": 483,
               "stop": {
-                "id": 50110,
-                "publicId": "14113",
+                "id": "14113",
+                "internalId": 50110,
                 "name": "Serra Da Luz",
                 "position": {
                   "latitude": 38.772438,
@@ -2670,8 +2670,8 @@
               "order": 25,
               "distance": 421,
               "stop": {
-                "id": 14114,
-                "publicId": "14114",
+                "id": "14114",
+                "internalId": 14114,
                 "name": "Rua Rio Minho",
                 "position": {
                   "latitude": 38.771417,
@@ -2686,8 +2686,8 @@
               "order": 26,
               "distance": 563,
               "stop": {
-                "id": 50111,
-                "publicId": "14115",
+                "id": "14115",
+                "internalId": 50111,
                 "name": "Cemitério De Carnide",
                 "position": {
                   "latitude": 38.773257,
@@ -2702,8 +2702,8 @@
               "order": 27,
               "distance": 333,
               "stop": {
-                "id": 50313,
-                "publicId": "14119",
+                "id": "14119",
+                "internalId": 50313,
                 "name": "Vale Forno",
                 "position": {
                   "latitude": 38.775693,
@@ -2718,8 +2718,8 @@
               "order": 28,
               "distance": 491,
               "stop": {
-                "id": 50314,
-                "publicId": "14117",
+                "id": "14117",
+                "internalId": 50314,
                 "name": "Qta. Olival (C. Triagem)",
                 "position": {
                   "latitude": 38.776942,
@@ -2734,8 +2734,8 @@
               "order": 29,
               "distance": 264,
               "stop": {
-                "id": 50358,
-                "publicId": "7210",
+                "id": "7210",
+                "internalId": 50358,
                 "name": "R. Formosinho Sanchez",
                 "position": {
                   "latitude": 38.78025,
@@ -2750,8 +2750,8 @@
               "order": 30,
               "distance": 0,
               "stop": {
-                "id": 7201,
-                "publicId": "7201",
+                "id": "7201",
+                "internalId": 7201,
                 "name": "Qta. Alcoutins",
                 "position": {
                   "latitude": 38.779569,
@@ -5014,8 +5014,8 @@
               "order": 1,
               "distance": 574,
               "stop": {
-                "id": 7201,
-                "publicId": "7201",
+                "id": "7201",
+                "internalId": 7201,
                 "name": "Qta. Alcoutins",
                 "position": {
                   "latitude": 38.779569,
@@ -5030,8 +5030,8 @@
               "order": 2,
               "distance": 382,
               "stop": {
-                "id": 14109,
-                "publicId": "14109",
+                "id": "14109",
+                "internalId": 14109,
                 "name": "Qta. Olival (C. Triagem)",
                 "position": {
                   "latitude": 38.777041,
@@ -5046,8 +5046,8 @@
               "order": 3,
               "distance": 604,
               "stop": {
-                "id": 14118,
-                "publicId": "14118",
+                "id": "14118",
+                "internalId": 14118,
                 "name": "Vale Forno",
                 "position": {
                   "latitude": 38.775684,
@@ -5062,8 +5062,8 @@
               "order": 4,
               "distance": 609,
               "stop": {
-                "id": 14116,
-                "publicId": "14116",
+                "id": "14116",
+                "internalId": 14116,
                 "name": "Cemitério De Carnide",
                 "position": {
                   "latitude": 38.773048,
@@ -5078,8 +5078,8 @@
               "order": 5,
               "distance": 220,
               "stop": {
-                "id": 14105,
-                "publicId": "14105",
+                "id": "14105",
+                "internalId": 14105,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.770974,
@@ -5094,8 +5094,8 @@
               "order": 6,
               "distance": 283,
               "stop": {
-                "id": 14103,
-                "publicId": "14103",
+                "id": "14103",
+                "internalId": 14103,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.772223,
@@ -5110,8 +5110,8 @@
               "order": 7,
               "distance": 312,
               "stop": {
-                "id": 14101,
-                "publicId": "14101",
+                "id": "14101",
+                "internalId": 14101,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770995,
@@ -5126,8 +5126,8 @@
               "order": 8,
               "distance": 514,
               "stop": {
-                "id": 14111,
-                "publicId": "14111",
+                "id": "14111",
+                "internalId": 14111,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768798,
@@ -5142,8 +5142,8 @@
               "order": 9,
               "distance": 581,
               "stop": {
-                "id": 13909,
-                "publicId": "13909",
+                "id": "13909",
+                "internalId": 13909,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.765117,
@@ -5158,8 +5158,8 @@
               "order": 10,
               "distance": 366,
               "stop": {
-                "id": 13907,
-                "publicId": "13907",
+                "id": "13907",
+                "internalId": 13907,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761686,
@@ -5174,8 +5174,8 @@
               "order": 11,
               "distance": 362,
               "stop": {
-                "id": 12813,
-                "publicId": "12813",
+                "id": "12813",
+                "internalId": 12813,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760328,
@@ -5190,8 +5190,8 @@
               "order": 12,
               "distance": 307,
               "stop": {
-                "id": 12817,
-                "publicId": "12817",
+                "id": "12817",
+                "internalId": 12817,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759443,
@@ -5206,8 +5206,8 @@
               "order": 13,
               "distance": 401,
               "stop": {
-                "id": 12819,
-                "publicId": "12819",
+                "id": "12819",
+                "internalId": 12819,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.759429,
@@ -5222,8 +5222,8 @@
               "order": 14,
               "distance": 310,
               "stop": {
-                "id": 12803,
-                "publicId": "12803",
+                "id": "12803",
+                "internalId": 12803,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760017,
@@ -5238,8 +5238,8 @@
               "order": 15,
               "distance": 262,
               "stop": {
-                "id": 13607,
-                "publicId": "13607",
+                "id": "13607",
+                "internalId": 13607,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75826,
@@ -5254,8 +5254,8 @@
               "order": 16,
               "distance": 406,
               "stop": {
-                "id": 13605,
-                "publicId": "13605",
+                "id": "13605",
+                "internalId": 13605,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756639,
@@ -5270,8 +5270,8 @@
               "order": 17,
               "distance": 276,
               "stop": {
-                "id": 13611,
-                "publicId": "13611",
+                "id": "13611",
+                "internalId": 13611,
                 "name": "Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.754619,
@@ -5286,8 +5286,8 @@
               "order": 18,
               "distance": 335,
               "stop": {
-                "id": 13613,
-                "publicId": "13613",
+                "id": "13613",
+                "internalId": 13613,
                 "name": "Rua João Freitas Branco",
                 "position": {
                   "latitude": 38.752338,
@@ -5302,8 +5302,8 @@
               "order": 19,
               "distance": 470,
               "stop": {
-                "id": 10709,
-                "publicId": "10709",
+                "id": "10709",
+                "internalId": 10709,
                 "name": "Alto Moinhos (Metro)",
                 "position": {
                   "latitude": 38.749352,
@@ -5318,8 +5318,8 @@
               "order": 20,
               "distance": 295,
               "stop": {
-                "id": 10701,
-                "publicId": "10701",
+                "id": "10701",
+                "internalId": 10701,
                 "name": "S. Domingos Benfica",
                 "position": {
                   "latitude": 38.745556,
@@ -5334,8 +5334,8 @@
               "order": 21,
               "distance": 241,
               "stop": {
-                "id": 10703,
-                "publicId": "10703",
+                "id": "10703",
+                "internalId": 10703,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744338,
@@ -5350,8 +5350,8 @@
               "order": 22,
               "distance": 351,
               "stop": {
-                "id": 10705,
-                "publicId": "10705",
+                "id": "10705",
+                "internalId": 10705,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743595,
@@ -5366,8 +5366,8 @@
               "order": 23,
               "distance": 403,
               "stop": {
-                "id": 1615,
-                "publicId": "1615",
+                "id": "1615",
+                "internalId": 1615,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742416,
@@ -5382,8 +5382,8 @@
               "order": 24,
               "distance": 546,
               "stop": {
-                "id": 1603,
-                "publicId": "1603",
+                "id": "1603",
+                "internalId": 1603,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742577,
@@ -5398,8 +5398,8 @@
               "order": 25,
               "distance": 331,
               "stop": {
-                "id": 12703,
-                "publicId": "12703",
+                "id": "12703",
+                "internalId": 12703,
                 "name": "Cç. Palma Baixo",
                 "position": {
                   "latitude": 38.74629,
@@ -5414,8 +5414,8 @@
               "order": 26,
               "distance": 835,
               "stop": {
-                "id": 12705,
-                "publicId": "12705",
+                "id": "12705",
+                "internalId": 12705,
                 "name": "Universidade Católica",
                 "position": {
                   "latitude": 38.748018,
@@ -5430,8 +5430,8 @@
               "order": 27,
               "distance": 239,
               "stop": {
-                "id": 13506,
-                "publicId": "13506",
+                "id": "13506",
+                "internalId": 13506,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.749996,
@@ -5446,8 +5446,8 @@
               "order": 28,
               "distance": 149,
               "stop": {
-                "id": 13510,
-                "publicId": "13510",
+                "id": "13510",
+                "internalId": 13510,
                 "name": "Cantina Da Universidade",
                 "position": {
                   "latitude": 38.751401,
@@ -5462,8 +5462,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 13504,
-                "publicId": "13504",
+                "id": "13504",
+                "internalId": 13504,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.752644,

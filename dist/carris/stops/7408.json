@@ -1,11 +1,14 @@
 {
-  "id": 7408,
-  "publicId": "7408",
+  "id": "7408",
+  "internalId": 7408,
   "name": "Largo Frei Heitor Pinto",
   "position": {
     "latitude": 38.755077,
     "longitude": -9.138838
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "755"
+  ]
 }

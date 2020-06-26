@@ -1,11 +1,19 @@
 {
-  "id": 5705,
-  "publicId": "5705",
+  "id": "5705",
+  "internalId": 5705,
   "name": "Campo Grande - Av. Brasil",
   "position": {
     "latitude": 38.755629,
     "longitude": -9.151437
   },
   "visible": true,
-  "updateDate": "2019-03-20T17:47:40.000Z"
+  "updateDate": "2019-03-20T17:47:40.000Z",
+  "routes": [
+    "206",
+    "207",
+    "701",
+    "717",
+    "736",
+    "798"
+  ]
 }

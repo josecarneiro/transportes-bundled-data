@@ -1,11 +1,14 @@
 {
-  "id": 13810,
-  "publicId": "13810",
+  "id": "13810",
+  "internalId": 13810,
   "name": "Castelo",
   "position": {
     "latitude": 38.71229,
     "longitude": -9.13249
   },
   "visible": true,
-  "updateDate": "2015-06-23T11:05:21.000Z"
+  "updateDate": "2015-06-23T11:05:21.000Z",
+  "routes": [
+    "737"
+  ]
 }

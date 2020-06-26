@@ -1,11 +1,14 @@
 {
-  "id": 11517,
-  "publicId": "11517",
+  "id": "11517",
+  "internalId": 11517,
   "name": "Av. David Mourão Ferreira",
   "position": {
     "latitude": 38.777468,
     "longitude": -9.15202
   },
   "visible": true,
-  "updateDate": "2020-02-07T11:36:53.217Z"
+  "updateDate": "2020-02-07T11:36:53.217Z",
+  "routes": [
+    "41B"
+  ]
 }

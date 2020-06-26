@@ -1,11 +1,17 @@
 {
-  "id": 12202,
-  "publicId": "12202",
+  "id": "12202",
+  "internalId": 12202,
   "name": "Encarnação - Bombeiros",
   "position": {
     "latitude": 38.769616,
     "longitude": -9.123139
   },
   "visible": true,
-  "updateDate": "2006-01-26T17:41:35.000Z"
+  "updateDate": "2006-01-26T17:41:35.000Z",
+  "routes": [
+    "208",
+    "722",
+    "744",
+    "783"
+  ]
 }

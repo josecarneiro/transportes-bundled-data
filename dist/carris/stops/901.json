@@ -1,11 +1,18 @@
 {
-  "id": 901,
-  "publicId": "901",
+  "id": "901",
+  "internalId": 901,
   "name": "Rossio",
   "position": {
     "latitude": 38.714269,
     "longitude": -9.139119
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "207",
+    "732",
+    "736",
+    "746",
+    "783"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 8427,
-  "publicId": "8427",
+  "id": "8427",
+  "internalId": 8427,
   "name": "Rua Conselheiro Emídio Navarro",
   "position": {
     "latitude": 38.757101,
     "longitude": -9.116609
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:27:38.000Z"
+  "updateDate": "2008-12-05T17:27:38.000Z",
+  "routes": [
+    "755"
+  ]
 }

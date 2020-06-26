@@ -1,11 +1,18 @@
 {
-  "id": 12307,
-  "publicId": "12307",
+  "id": "12307",
+  "internalId": 12307,
   "name": "Rua Oliveira Carmo",
   "position": {
     "latitude": 38.776049,
     "longitude": -9.113543
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:51:03.000Z"
+  "updateDate": "2008-12-05T16:51:03.000Z",
+  "routes": [
+    "208",
+    "705",
+    "722",
+    "725",
+    "781"
+  ]
 }

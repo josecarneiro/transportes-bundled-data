@@ -1,11 +1,15 @@
 {
-  "id": 11612,
-  "publicId": "11612",
+  "id": "11612",
+  "internalId": 11612,
   "name": "Grafanil",
   "position": {
     "latitude": 38.793117,
     "longitude": -9.155239
   },
   "visible": true,
-  "updateDate": "2009-07-29T11:20:54.000Z"
+  "updateDate": "2009-07-29T11:20:54.000Z",
+  "routes": [
+    "796",
+    "40B"
+  ]
 }

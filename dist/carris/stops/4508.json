@@ -1,11 +1,12 @@
 {
-  "id": 50223,
-  "publicId": "4508",
+  "id": "4508",
+  "internalId": 50223,
   "name": "Terreiro Do Paço",
   "position": {
     "latitude": 38.707271,
     "longitude": -9.133914
   },
   "visible": true,
-  "updateDate": "2017-04-28T09:52:58.000Z"
+  "updateDate": "2017-04-28T09:52:58.000Z",
+  "routes": []
 }

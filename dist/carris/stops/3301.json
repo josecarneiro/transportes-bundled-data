@@ -1,11 +1,14 @@
 {
-  "id": 3301,
-  "publicId": "3301",
+  "id": "3301",
+  "internalId": 3301,
   "name": "Estação Do Rego",
   "position": {
     "latitude": 38.741685,
     "longitude": -9.15617
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:41:13.000Z"
+  "updateDate": "2008-12-05T18:41:13.000Z",
+  "routes": [
+    "731"
+  ]
 }

@@ -1,11 +1,18 @@
 {
-  "id": 50162,
-  "publicId": "5958",
+  "id": "5958",
+  "internalId": 50162,
   "name": "Estr. Torre",
   "position": {
     "latitude": 38.774162,
     "longitude": -9.15975
   },
   "visible": true,
-  "updateDate": "2019-03-20T17:57:23.000Z"
+  "updateDate": "2019-03-20T17:57:23.000Z",
+  "routes": [
+    "206",
+    "207",
+    "717",
+    "40B",
+    "41B"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 1502,
-  "publicId": "1502",
+  "id": "1502",
+  "internalId": 1502,
   "name": "Bº Azul - Gulbenkian",
   "position": {
     "latitude": 38.736531,
     "longitude": -9.155936
   },
   "visible": true,
-  "updateDate": "2008-12-11T10:12:25.000Z"
+  "updateDate": "2008-12-11T10:12:25.000Z",
+  "routes": [
+    "726",
+    "746"
+  ]
 }

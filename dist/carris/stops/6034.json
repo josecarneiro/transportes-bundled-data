@@ -1,11 +1,14 @@
 {
-  "id": 50435,
-  "publicId": "6034",
+  "id": "6034",
+  "internalId": 50435,
   "name": "R. Raul Rego",
   "position": {
     "latitude": 38.784138,
     "longitude": -9.151314
   },
   "visible": true,
-  "updateDate": "2019-10-30T16:11:42.000Z"
+  "updateDate": "2019-10-30T16:11:42.000Z",
+  "routes": [
+    "41B"
+  ]
 }

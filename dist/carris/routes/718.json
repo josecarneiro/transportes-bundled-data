@@ -1,6 +1,6 @@
 {
-  "id": 105,
-  "number": "718",
+  "id": "718",
+  "internalId": 105,
   "name": "ISEL - Alameda",
   "visible": true,
   "creationDate": "2020-05-20T09:15:18.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 319,
               "stop": {
-                "id": 24383,
-                "publicId": "89919",
+                "id": "89919",
+                "internalId": 24383,
                 "name": "Isel",
                 "position": {
                   "latitude": 38.756508,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 319,
               "stop": {
-                "id": 50070,
-                "publicId": "89905",
+                "id": "89905",
+                "internalId": 50070,
                 "name": "Av. Dr. Augusto Castro",
                 "position": {
                   "latitude": 38.753725,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 237,
               "stop": {
-                "id": 24377,
-                "publicId": "89913",
+                "id": "89913",
+                "internalId": 24377,
                 "name": "Esc. D. Dinis",
                 "position": {
                   "latitude": 38.752045,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 288,
               "stop": {
-                "id": 24390,
-                "publicId": "89926",
+                "id": "89926",
+                "internalId": 24390,
                 "name": "R. Manuel Teixeira Gomes (Esc.",
                 "position": {
                   "latitude": 38.751702,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 178,
               "stop": {
-                "id": 24388,
-                "publicId": "89924",
+                "id": "89924",
+                "internalId": 24388,
                 "name": "R. Manuel Teixeira Gomes",
                 "position": {
                   "latitude": 38.751645,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 383,
               "stop": {
-                "id": 24386,
-                "publicId": "89922",
+                "id": "89922",
+                "internalId": 24386,
                 "name": "R. Tomás Alcaide",
                 "position": {
                   "latitude": 38.753003,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 361,
               "stop": {
-                "id": 24365,
-                "publicId": "89901",
+                "id": "89901",
+                "internalId": 24365,
                 "name": "R. Capitão-Mor Lopes Sequeira",
                 "position": {
                   "latitude": 38.754426,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 293,
               "stop": {
-                "id": 24371,
-                "publicId": "89907",
+                "id": "89907",
+                "internalId": 24371,
                 "name": "R. Dr. José Espirito Santo",
                 "position": {
                   "latitude": 38.75299,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 490,
               "stop": {
-                "id": 2205,
-                "publicId": "2205",
+                "id": "2205",
+                "internalId": 2205,
                 "name": "Vale Formoso De Cima",
                 "position": {
                   "latitude": 38.750878,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 398,
               "stop": {
-                "id": 2207,
-                "publicId": "2207",
+                "id": "2207",
+                "internalId": 2207,
                 "name": "Estação Braço Prata",
                 "position": {
                   "latitude": 38.747094,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 326,
               "stop": {
-                "id": 12524,
-                "publicId": "12524",
+                "id": "12524",
+                "internalId": 12524,
                 "name": "Fábrica Braço De Prata",
                 "position": {
                   "latitude": 38.744361,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 369,
               "stop": {
-                "id": 12512,
-                "publicId": "12512",
+                "id": "12512",
+                "internalId": 12512,
                 "name": "Poço Do Bispo",
                 "position": {
                   "latitude": 38.742455,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 260,
               "stop": {
-                "id": 12510,
-                "publicId": "12510",
+                "id": "12510",
+                "internalId": 12510,
                 "name": "Palácio Da Mitra",
                 "position": {
                   "latitude": 38.739182,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 277,
               "stop": {
-                "id": 12508,
-                "publicId": "12508",
+                "id": "12508",
+                "internalId": 12508,
                 "name": "Rua Do Açúcar",
                 "position": {
                   "latitude": 38.736915,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 225,
               "stop": {
-                "id": 12506,
-                "publicId": "12506",
+                "id": "12506",
+                "internalId": 12506,
                 "name": "Beato",
                 "position": {
                   "latitude": 38.734683,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 341,
               "stop": {
-                "id": 8308,
-                "publicId": "8308",
+                "id": "8308",
+                "internalId": 8308,
                 "name": "Al. Beato",
                 "position": {
                   "latitude": 38.732755,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 258,
               "stop": {
-                "id": 8306,
-                "publicId": "8306",
+                "id": "8306",
+                "internalId": 8306,
                 "name": "Cç. Grilo",
                 "position": {
                   "latitude": 38.730176,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 336,
               "stop": {
-                "id": 8304,
-                "publicId": "8304",
+                "id": "8304",
+                "internalId": 8304,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.728254,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 224,
               "stop": {
-                "id": 8302,
-                "publicId": "8302",
+                "id": "8302",
+                "internalId": 8302,
                 "name": "Ponte Xabregas",
                 "position": {
                   "latitude": 38.726096,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 290,
               "stop": {
-                "id": 9808,
-                "publicId": "9808",
+                "id": "9808",
+                "internalId": 9808,
                 "name": "Igreja Madre Deus",
                 "position": {
                   "latitude": 38.724477,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 208,
               "stop": {
-                "id": 9806,
-                "publicId": "9806",
+                "id": "9806",
+                "internalId": 9806,
                 "name": "Rua Da Madre Deus",
                 "position": {
                   "latitude": 38.723419,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 284,
               "stop": {
-                "id": 9804,
-                "publicId": "9804",
+                "id": "9804",
+                "internalId": 9804,
                 "name": "Rua Dom Fuas Roupinho",
                 "position": {
                   "latitude": 38.724615,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 255,
               "stop": {
-                "id": 9802,
-                "publicId": "9802",
+                "id": "9802",
+                "internalId": 9802,
                 "name": "Cç. Das Lajes",
                 "position": {
                   "latitude": 38.725556,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 287,
               "stop": {
-                "id": 11703,
-                "publicId": "11703",
+                "id": "11703",
+                "internalId": 11703,
                 "name": "Av. Afonso Iii",
                 "position": {
                   "latitude": 38.727703,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 304,
               "stop": {
-                "id": 11701,
-                "publicId": "11701",
+                "id": "11701",
+                "internalId": 11701,
                 "name": "Cemitério Alto De São João",
                 "position": {
                   "latitude": 38.729127,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 306,
               "stop": {
-                "id": 7013,
-                "publicId": "7013",
+                "id": "7013",
+                "internalId": 7013,
                 "name": "R. Morais Soares (Cemitério)",
                 "position": {
                   "latitude": 38.730618,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 195,
               "stop": {
-                "id": 7011,
-                "publicId": "7011",
+                "id": "7011",
+                "internalId": 7011,
                 "name": "Pç. Paiva Couceiro / R. Morais",
                 "position": {
                   "latitude": 38.732115,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 218,
               "stop": {
-                "id": 501,
-                "publicId": "501",
+                "id": "501",
+                "internalId": 501,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732735,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 385,
               "stop": {
-                "id": 509,
-                "publicId": "509",
+                "id": "509",
+                "internalId": 509,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733344,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 502,
               "stop": {
-                "id": 409,
-                "publicId": "409",
+                "id": "409",
+                "internalId": 409,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736101,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 0,
               "stop": {
-                "id": 410,
-                "publicId": "410",
+                "id": "410",
+                "internalId": 410,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.737184,
@@ -524,8 +524,8 @@
               "order": 1,
               "distance": 599,
               "stop": {
-                "id": 410,
-                "publicId": "410",
+                "id": "410",
+                "internalId": 410,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.737184,
@@ -540,8 +540,8 @@
               "order": 2,
               "distance": 177,
               "stop": {
-                "id": 522,
-                "publicId": "522",
+                "id": "522",
+                "internalId": 522,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733148,
@@ -556,8 +556,8 @@
               "order": 3,
               "distance": 338,
               "stop": {
-                "id": 502,
-                "publicId": "502",
+                "id": "502",
+                "internalId": 502,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732653,
@@ -572,8 +572,8 @@
               "order": 4,
               "distance": 224,
               "stop": {
-                "id": 7010,
-                "publicId": "7010",
+                "id": "7010",
+                "internalId": 7010,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.731363,
@@ -588,8 +588,8 @@
               "order": 5,
               "distance": 285,
               "stop": {
-                "id": 7012,
-                "publicId": "7012",
+                "id": "7012",
+                "internalId": 7012,
                 "name": "R. Morais Soares (Cemitério)",
                 "position": {
                   "latitude": 38.730261,
@@ -604,8 +604,8 @@
               "order": 6,
               "distance": 274,
               "stop": {
-                "id": 11702,
-                "publicId": "11702",
+                "id": "11702",
+                "internalId": 11702,
                 "name": "Cemitério Alto S. João",
                 "position": {
                   "latitude": 38.728859,
@@ -620,8 +620,8 @@
               "order": 7,
               "distance": 223,
               "stop": {
-                "id": 11704,
-                "publicId": "11704",
+                "id": "11704",
+                "internalId": 11704,
                 "name": "Av. Afonso Iii",
                 "position": {
                   "latitude": 38.727483,
@@ -636,8 +636,8 @@
               "order": 8,
               "distance": 209,
               "stop": {
-                "id": 9801,
-                "publicId": "9801",
+                "id": "9801",
+                "internalId": 9801,
                 "name": "Cç. Lajes",
                 "position": {
                   "latitude": 38.725662,
@@ -652,8 +652,8 @@
               "order": 9,
               "distance": 379,
               "stop": {
-                "id": 9803,
-                "publicId": "9803",
+                "id": "9803",
+                "internalId": 9803,
                 "name": "R. D. Fuas Roupinho",
                 "position": {
                   "latitude": 38.724404,
@@ -668,8 +668,8 @@
               "order": 10,
               "distance": 249,
               "stop": {
-                "id": 9805,
-                "publicId": "9805",
+                "id": "9805",
+                "internalId": 9805,
                 "name": "Rua Da Madre Deus",
                 "position": {
                   "latitude": 38.722855,
@@ -684,8 +684,8 @@
               "order": 11,
               "distance": 226,
               "stop": {
-                "id": 9807,
-                "publicId": "9807",
+                "id": "9807",
+                "internalId": 9807,
                 "name": "Igreja Madre Deus",
                 "position": {
                   "latitude": 38.724688,
@@ -700,8 +700,8 @@
               "order": 12,
               "distance": 188,
               "stop": {
-                "id": 8301,
-                "publicId": "8301",
+                "id": "8301",
+                "internalId": 8301,
                 "name": "Ponte Xabregas",
                 "position": {
                   "latitude": 38.726269,
@@ -716,8 +716,8 @@
               "order": 13,
               "distance": 377,
               "stop": {
-                "id": 8303,
-                "publicId": "8303",
+                "id": "8303",
+                "internalId": 8303,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.727437,
@@ -732,8 +732,8 @@
               "order": 14,
               "distance": 378,
               "stop": {
-                "id": 8305,
-                "publicId": "8305",
+                "id": "8305",
+                "internalId": 8305,
                 "name": "Cç. Do Grilo",
                 "position": {
                   "latitude": 38.730248,
@@ -748,8 +748,8 @@
               "order": 15,
               "distance": 216,
               "stop": {
-                "id": 8307,
-                "publicId": "8307",
+                "id": "8307",
+                "internalId": 8307,
                 "name": "Alameda Do Beato",
                 "position": {
                   "latitude": 38.733098,
@@ -764,8 +764,8 @@
               "order": 16,
               "distance": 279,
               "stop": {
-                "id": 12505,
-                "publicId": "12505",
+                "id": "12505",
+                "internalId": 12505,
                 "name": "Beato",
                 "position": {
                   "latitude": 38.734908,
@@ -780,8 +780,8 @@
               "order": 17,
               "distance": 276,
               "stop": {
-                "id": 12507,
-                "publicId": "12507",
+                "id": "12507",
+                "internalId": 12507,
                 "name": "Rua Do Açúcar",
                 "position": {
                   "latitude": 38.737261,
@@ -796,8 +796,8 @@
               "order": 18,
               "distance": 368,
               "stop": {
-                "id": 12509,
-                "publicId": "12509",
+                "id": "12509",
+                "internalId": 12509,
                 "name": "Palácio Da Mitra",
                 "position": {
                   "latitude": 38.73968,
@@ -812,8 +812,8 @@
               "order": 19,
               "distance": 243,
               "stop": {
-                "id": 12511,
-                "publicId": "12511",
+                "id": "12511",
+                "internalId": 12511,
                 "name": "Poço Bispo",
                 "position": {
                   "latitude": 38.742867,
@@ -828,8 +828,8 @@
               "order": 20,
               "distance": 399,
               "stop": {
-                "id": 12523,
-                "publicId": "12523",
+                "id": "12523",
+                "internalId": 12523,
                 "name": "Fábrica Braço De Prata",
                 "position": {
                   "latitude": 38.744609,
@@ -844,8 +844,8 @@
               "order": 21,
               "distance": 262,
               "stop": {
-                "id": 2208,
-                "publicId": "2208",
+                "id": "2208",
+                "internalId": 2208,
                 "name": "Estação Braço Prata",
                 "position": {
                   "latitude": 38.747181,
@@ -860,8 +860,8 @@
               "order": 22,
               "distance": 471,
               "stop": {
-                "id": 2206,
-                "publicId": "2206",
+                "id": "2206",
+                "internalId": 2206,
                 "name": "Vale Formoso De Cima",
                 "position": {
                   "latitude": 38.749441,
@@ -876,8 +876,8 @@
               "order": 23,
               "distance": 319,
               "stop": {
-                "id": 24372,
-                "publicId": "89908",
+                "id": "89908",
+                "internalId": 24372,
                 "name": "R. Dr. José Espirito Santo",
                 "position": {
                   "latitude": 38.753028,
@@ -892,8 +892,8 @@
               "order": 24,
               "distance": 446,
               "stop": {
-                "id": 24366,
-                "publicId": "89902",
+                "id": "89902",
+                "internalId": 24366,
                 "name": "R. Capitão-Mor Lopes Sequeira",
                 "position": {
                   "latitude": 38.75439,
@@ -908,8 +908,8 @@
               "order": 25,
               "distance": 161,
               "stop": {
-                "id": 24385,
-                "publicId": "89921",
+                "id": "89921",
+                "internalId": 24385,
                 "name": "R. Tomás Alcaide",
                 "position": {
                   "latitude": 38.752813,
@@ -924,8 +924,8 @@
               "order": 26,
               "distance": 328,
               "stop": {
-                "id": 24387,
-                "publicId": "89923",
+                "id": "89923",
+                "internalId": 24387,
                 "name": "R. Manuel Teixeira Gomes",
                 "position": {
                   "latitude": 38.751748,
@@ -940,8 +940,8 @@
               "order": 27,
               "distance": 435,
               "stop": {
-                "id": 24389,
-                "publicId": "89925",
+                "id": "89925",
+                "internalId": 24389,
                 "name": "R. Manuel Teixeira Gomes (Esc.",
                 "position": {
                   "latitude": 38.752062,
@@ -956,8 +956,8 @@
               "order": 28,
               "distance": 251,
               "stop": {
-                "id": 24370,
-                "publicId": "89906",
+                "id": "89906",
+                "internalId": 24370,
                 "name": "Isel",
                 "position": {
                   "latitude": 38.755092,
@@ -972,8 +972,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 24383,
-                "publicId": "89919",
+                "id": "89919",
+                "internalId": 24383,
                 "name": "Isel",
                 "position": {
                   "latitude": 38.756508,

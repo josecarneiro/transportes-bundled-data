@@ -1,11 +1,17 @@
 {
-  "id": 10012,
-  "publicId": "10012",
+  "id": "10012",
+  "internalId": 10012,
   "name": "Rua Buenos Aires",
   "position": {
     "latitude": 38.71212,
     "longitude": -9.160362
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:26:11.000Z"
+  "updateDate": "2008-12-05T17:26:11.000Z",
+  "routes": [
+    "714",
+    "773",
+    "774",
+    "25E"
+  ]
 }

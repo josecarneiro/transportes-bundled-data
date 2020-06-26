@@ -1,11 +1,19 @@
 {
-  "id": 3906,
-  "publicId": "3906",
+  "id": "3906",
+  "internalId": 3906,
   "name": "Cais Da Rocha",
   "position": {
     "latitude": 38.70367,
     "longitude": -9.162505
   },
   "visible": true,
-  "updateDate": "2014-03-03T12:13:27.000Z"
+  "updateDate": "2014-03-03T12:13:27.000Z",
+  "routes": [
+    "201",
+    "728",
+    "732",
+    "760",
+    "15E",
+    "18E"
+  ]
 }

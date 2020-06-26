@@ -1,11 +1,15 @@
 {
-  "id": 17577,
-  "publicId": "83113",
+  "id": "83113",
+  "internalId": 17577,
   "name": "R. Gualdim Pais",
   "position": {
     "latitude": 38.731252,
     "longitude": -9.116804
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:42:19.000Z"
+  "updateDate": "2019-02-18T12:42:19.000Z",
+  "routes": [
+    "794",
+    "34B"
+  ]
 }

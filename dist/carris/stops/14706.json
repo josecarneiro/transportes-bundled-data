@@ -1,11 +1,16 @@
 {
-  "id": 14706,
-  "publicId": "14706",
+  "id": "14706",
+  "internalId": 14706,
   "name": "B.º Loios",
   "position": {
     "latitude": 38.75912,
     "longitude": -9.124798
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:33:35.000Z"
+  "updateDate": "2019-02-18T12:33:35.000Z",
+  "routes": [
+    "208",
+    "755",
+    "794"
+  ]
 }

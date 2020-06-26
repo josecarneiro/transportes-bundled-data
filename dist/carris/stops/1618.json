@@ -1,11 +1,14 @@
 {
-  "id": 1618,
-  "publicId": "1618",
+  "id": "1618",
+  "internalId": 1618,
   "name": "Centro De Saúde De Sete Rios",
   "position": {
     "latitude": 38.739868,
     "longitude": -9.16894
   },
   "visible": true,
-  "updateDate": "2008-12-11T10:15:09.000Z"
+  "updateDate": "2008-12-11T10:15:09.000Z",
+  "routes": [
+    "770"
+  ]
 }

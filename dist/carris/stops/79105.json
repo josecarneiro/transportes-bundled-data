@@ -1,11 +1,14 @@
 {
-  "id": 50128,
-  "publicId": "79105",
+  "id": "79105",
+  "internalId": 50128,
   "name": "Av. Da Peregrinação",
   "position": {
     "latitude": 38.78218,
     "longitude": -9.095391
   },
   "visible": true,
-  "updateDate": "2014-10-16T11:38:11.000Z"
+  "updateDate": "2014-10-16T11:38:11.000Z",
+  "routes": [
+    "708"
+  ]
 }

@@ -1,11 +1,22 @@
 {
-  "id": 5501,
-  "publicId": "5501",
+  "id": "5501",
+  "internalId": 5501,
   "name": "Pç. Comércio",
   "position": {
     "latitude": 38.708331,
     "longitude": -9.136506
   },
   "visible": true,
-  "updateDate": "2019-02-13T17:43:15.000Z"
+  "updateDate": "2019-02-13T17:43:15.000Z",
+  "routes": [
+    "206",
+    "210",
+    "728",
+    "735",
+    "759",
+    "781",
+    "782",
+    "794",
+    "9A"
+  ]
 }

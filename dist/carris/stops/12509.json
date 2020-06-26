@@ -1,11 +1,16 @@
 {
-  "id": 12509,
-  "publicId": "12509",
+  "id": "12509",
+  "internalId": 12509,
   "name": "Palácio Da Mitra",
   "position": {
     "latitude": 38.73968,
     "longitude": -9.102869
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:51:41.000Z"
+  "updateDate": "2012-12-13T17:51:41.000Z",
+  "routes": [
+    "210",
+    "718",
+    "728"
+  ]
 }

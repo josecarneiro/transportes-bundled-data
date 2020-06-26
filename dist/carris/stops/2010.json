@@ -1,11 +1,15 @@
 {
-  "id": 2010,
-  "publicId": "2010",
+  "id": "2010",
+  "internalId": 2010,
   "name": "Av. Forças Armadas / R. Sanche",
   "position": {
     "latitude": 38.747648,
     "longitude": -9.15177
   },
   "visible": true,
-  "updateDate": "2018-11-02T11:41:43.000Z"
+  "updateDate": "2018-11-02T11:41:43.000Z",
+  "routes": [
+    "701",
+    "754"
+  ]
 }

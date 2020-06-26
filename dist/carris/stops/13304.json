@@ -1,11 +1,15 @@
 {
-  "id": 13304,
-  "publicId": "13304",
+  "id": "13304",
+  "internalId": 13304,
   "name": "R. Bica Marquês",
   "position": {
     "latitude": 38.704833,
     "longitude": -9.198251
   },
   "visible": true,
-  "updateDate": "2019-01-03T17:08:53.000Z"
+  "updateDate": "2019-01-03T17:08:53.000Z",
+  "routes": [
+    "732",
+    "18E"
+  ]
 }

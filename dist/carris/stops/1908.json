@@ -1,11 +1,14 @@
 {
-  "id": 1908,
-  "publicId": "1908",
+  "id": "1908",
+  "internalId": 1908,
   "name": "Campo Pequeno",
   "position": {
     "latitude": 38.741533,
     "longitude": -9.144214
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:24:56.000Z"
+  "updateDate": "2018-02-20T10:24:56.000Z",
+  "routes": [
+    "756"
+  ]
 }

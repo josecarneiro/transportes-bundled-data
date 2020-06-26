@@ -1,11 +1,14 @@
 {
-  "id": 11210,
-  "publicId": "11210",
+  "id": "11210",
+  "internalId": 11210,
   "name": "Av. Frei Miguel Contreiras",
   "position": {
     "latitude": 38.746143,
     "longitude": -9.136481
   },
   "visible": true,
-  "updateDate": "2014-03-03T14:54:48.000Z"
+  "updateDate": "2014-03-03T14:54:48.000Z",
+  "routes": [
+    "727"
+  ]
 }

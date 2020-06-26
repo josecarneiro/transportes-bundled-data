@@ -1,11 +1,17 @@
 {
-  "id": 7801,
-  "publicId": "7801",
+  "id": "7801",
+  "internalId": 7801,
   "name": "Rua Sargento Monteiro Ferreira",
   "position": {
     "latitude": 38.771901,
     "longitude": -9.10987
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:27:38.000Z"
+  "updateDate": "2008-12-05T16:27:38.000Z",
+  "routes": [
+    "731",
+    "759",
+    "781",
+    "29B"
+  ]
 }

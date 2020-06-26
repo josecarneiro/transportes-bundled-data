@@ -1,6 +1,6 @@
 {
-  "id": 107,
-  "number": "732",
+  "id": "732",
+  "internalId": 107,
   "name": "Marquês Pombal - Caselas",
   "visible": true,
   "creationDate": "2020-05-20T09:23:07.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 188,
               "stop": {
-                "id": 1220,
-                "publicId": "1220",
+                "id": "1220",
+                "internalId": 1220,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726155,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 715,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 595,
               "stop": {
-                "id": 1102,
-                "publicId": "1102",
+                "id": "1102",
+                "internalId": 1102,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.720248,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 285,
               "stop": {
-                "id": 1006,
-                "publicId": "1006",
+                "id": "1006",
+                "internalId": 1006,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715631,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 414,
               "stop": {
-                "id": 908,
-                "publicId": "908",
+                "id": "908",
+                "internalId": 908,
                 "name": "Rossio",
                 "position": {
                   "latitude": 38.714037,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 241,
               "stop": {
-                "id": 5510,
-                "publicId": "5510",
+                "id": "5510",
+                "internalId": 5510,
                 "name": "R. Ouro",
                 "position": {
                   "latitude": 38.710845,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 386,
               "stop": {
-                "id": 5508,
-                "publicId": "5508",
+                "id": "5508",
+                "internalId": 5508,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.708372,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 408,
               "stop": {
-                "id": 3820,
-                "publicId": "3820",
+                "id": "3820",
+                "internalId": 3820,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.707363,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 390,
               "stop": {
-                "id": 3802,
-                "publicId": "3802",
+                "id": "3802",
+                "internalId": 3802,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706332,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 547,
               "stop": {
-                "id": 7102,
-                "publicId": "7102",
+                "id": "7102",
+                "internalId": 7102,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706414,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 632,
               "stop": {
-                "id": 3902,
-                "publicId": "3902",
+                "id": "3902",
+                "internalId": 3902,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706142,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 458,
               "stop": {
-                "id": 3906,
-                "publicId": "3906",
+                "id": "3906",
+                "internalId": 3906,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.70367,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 563,
               "stop": {
-                "id": 10202,
-                "publicId": "10202",
+                "id": "10202",
+                "internalId": 10202,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703447,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 229,
               "stop": {
-                "id": 4004,
-                "publicId": "4004",
+                "id": "4004",
+                "internalId": 4004,
                 "name": "Alcântara - Av. 24 De Julho",
                 "position": {
                   "latitude": 38.704304,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 546,
               "stop": {
-                "id": 12102,
-                "publicId": "12102",
+                "id": "12102",
+                "internalId": 12102,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.70466,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 388,
               "stop": {
-                "id": 12108,
-                "publicId": "12108",
+                "id": "12108",
+                "internalId": 12108,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.701991,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 383,
               "stop": {
-                "id": 9504,
-                "publicId": "9504",
+                "id": "9504",
+                "internalId": 9504,
                 "name": "R. Junqueira (Centro Congresso",
                 "position": {
                   "latitude": 38.699786,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 289,
               "stop": {
-                "id": 9506,
-                "publicId": "9506",
+                "id": "9506",
+                "internalId": 9506,
                 "name": "Hosp. Egas Moniz",
                 "position": {
                   "latitude": 38.698464,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 278,
               "stop": {
-                "id": 9512,
-                "publicId": "9512",
+                "id": "9512",
+                "internalId": 9512,
                 "name": "R. Pinto Ferreira",
                 "position": {
                   "latitude": 38.698225,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 309,
               "stop": {
-                "id": 9510,
-                "publicId": "9510",
+                "id": "9510",
+                "internalId": 9510,
                 "name": "Tv. Artur Lamas",
                 "position": {
                   "latitude": 38.70012,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 309,
               "stop": {
-                "id": 13404,
-                "publicId": "13404",
+                "id": "13404",
+                "internalId": 13404,
                 "name": "Cç. Boa Hora",
                 "position": {
                   "latitude": 38.702159,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 250,
               "stop": {
-                "id": 13410,
-                "publicId": "13410",
+                "id": "13410",
+                "internalId": 13410,
                 "name": "Boa Hora",
                 "position": {
                   "latitude": 38.703711,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 134,
               "stop": {
-                "id": 13306,
-                "publicId": "13306",
+                "id": "13306",
+                "internalId": 13306,
                 "name": "R. D. Vasco",
                 "position": {
                   "latitude": 38.70493,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 255,
               "stop": {
-                "id": 13304,
-                "publicId": "13304",
+                "id": "13304",
+                "internalId": 13304,
                 "name": "R. Bica Marquês",
                 "position": {
                   "latitude": 38.704833,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 356,
               "stop": {
-                "id": 13302,
-                "publicId": "13302",
+                "id": "13302",
+                "internalId": 13302,
                 "name": "Rua Do Jardim Botânico",
                 "position": {
                   "latitude": 38.705761,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 314,
               "stop": {
-                "id": 13110,
-                "publicId": "13110",
+                "id": "13110",
+                "internalId": 13110,
                 "name": "Escola Paula Vicente",
                 "position": {
                   "latitude": 38.705588,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 285,
               "stop": {
-                "id": 13108,
-                "publicId": "13108",
+                "id": "13108",
+                "internalId": 13108,
                 "name": "Estádio Do Restelo",
                 "position": {
                   "latitude": 38.703877,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 213,
               "stop": {
-                "id": 13106,
-                "publicId": "13106",
+                "id": "13106",
+                "internalId": 13106,
                 "name": "Av. Ilha Da Madeira",
                 "position": {
                   "latitude": 38.705577,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 317,
               "stop": {
-                "id": 13104,
-                "publicId": "13104",
+                "id": "13104",
+                "internalId": 13104,
                 "name": "Rua Mem Rodrigues",
                 "position": {
                   "latitude": 38.707362,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 312,
               "stop": {
-                "id": 13102,
-                "publicId": "13102",
+                "id": "13102",
+                "internalId": 13102,
                 "name": "Restelo - Rua Tristão Vaz",
                 "position": {
                   "latitude": 38.709695,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 385,
               "stop": {
-                "id": 12406,
-                "publicId": "12406",
+                "id": "12406",
+                "internalId": 12406,
                 "name": "Restelo (Torres) - R. Antão Go",
                 "position": {
                   "latitude": 38.709346,
@@ -517,8 +517,8 @@
               "order": 32,
               "distance": 260,
               "stop": {
-                "id": 12404,
-                "publicId": "12404",
+                "id": "12404",
+                "internalId": 12404,
                 "name": "Restelo - Av. Descobertas",
                 "position": {
                   "latitude": 38.709819,
@@ -533,8 +533,8 @@
               "order": 33,
               "distance": 513,
               "stop": {
-                "id": 12402,
-                "publicId": "12402",
+                "id": "12402",
+                "internalId": 12402,
                 "name": "R. Gregório Lopes",
                 "position": {
                   "latitude": 38.711874,
@@ -549,8 +549,8 @@
               "order": 34,
               "distance": 312,
               "stop": {
-                "id": 10402,
-                "publicId": "10402",
+                "id": "10402",
+                "internalId": 10402,
                 "name": "Fonte Caselas",
                 "position": {
                   "latitude": 38.715795,
@@ -565,8 +565,8 @@
               "order": 35,
               "distance": 0,
               "stop": {
-                "id": 10401,
-                "publicId": "10401",
+                "id": "10401",
+                "internalId": 10401,
                 "name": "Caselas",
                 "position": {
                   "latitude": 38.716954,
@@ -588,8 +588,8 @@
               "order": 1,
               "distance": 268,
               "stop": {
-                "id": 10401,
-                "publicId": "10401",
+                "id": "10401",
+                "internalId": 10401,
                 "name": "Caselas",
                 "position": {
                   "latitude": 38.716954,
@@ -604,8 +604,8 @@
               "order": 2,
               "distance": 476,
               "stop": {
-                "id": 10403,
-                "publicId": "10403",
+                "id": "10403",
+                "internalId": 10403,
                 "name": "Fonte De Caselas",
                 "position": {
                   "latitude": 38.715715,
@@ -620,8 +620,8 @@
               "order": 3,
               "distance": 222,
               "stop": {
-                "id": 12401,
-                "publicId": "12401",
+                "id": "12401",
+                "internalId": 12401,
                 "name": "R. Gregório Lopes",
                 "position": {
                   "latitude": 38.711568,
@@ -636,8 +636,8 @@
               "order": 4,
               "distance": 150,
               "stop": {
-                "id": 12407,
-                "publicId": "12407",
+                "id": "12407",
+                "internalId": 12407,
                 "name": "Restelo - Av. Descobertas",
                 "position": {
                   "latitude": 38.709699,
@@ -652,8 +652,8 @@
               "order": 5,
               "distance": 254,
               "stop": {
-                "id": 12403,
-                "publicId": "12403",
+                "id": "12403",
+                "internalId": 12403,
                 "name": "Restelo - R. Antão Gonçalves",
                 "position": {
                   "latitude": 38.708928,
@@ -668,8 +668,8 @@
               "order": 6,
               "distance": 316,
               "stop": {
-                "id": 12405,
-                "publicId": "12405",
+                "id": "12405",
+                "internalId": 12405,
                 "name": "Restelo (Torres) - R. Antão Go",
                 "position": {
                   "latitude": 38.709195,
@@ -684,8 +684,8 @@
               "order": 7,
               "distance": 326,
               "stop": {
-                "id": 13101,
-                "publicId": "13101",
+                "id": "13101",
+                "internalId": 13101,
                 "name": "Restelo - Rua Tristão Vaz",
                 "position": {
                   "latitude": 38.709519,
@@ -700,8 +700,8 @@
               "order": 8,
               "distance": 224,
               "stop": {
-                "id": 13103,
-                "publicId": "13103",
+                "id": "13103",
+                "internalId": 13103,
                 "name": "Rua Mem Rodrigues",
                 "position": {
                   "latitude": 38.707093,
@@ -716,8 +716,8 @@
               "order": 9,
               "distance": 266,
               "stop": {
-                "id": 13105,
-                "publicId": "13105",
+                "id": "13105",
+                "internalId": 13105,
                 "name": "Av. Ilha Da Madeira",
                 "position": {
                   "latitude": 38.705217,
@@ -732,8 +732,8 @@
               "order": 10,
               "distance": 256,
               "stop": {
-                "id": 13107,
-                "publicId": "13107",
+                "id": "13107",
+                "internalId": 13107,
                 "name": "Estádio Do Restelo",
                 "position": {
                   "latitude": 38.704004,
@@ -748,8 +748,8 @@
               "order": 11,
               "distance": 390,
               "stop": {
-                "id": 13109,
-                "publicId": "13109",
+                "id": "13109",
+                "internalId": 13109,
                 "name": "Esc. Paula Vicente",
                 "position": {
                   "latitude": 38.705359,
@@ -764,8 +764,8 @@
               "order": 12,
               "distance": 225,
               "stop": {
-                "id": 13301,
-                "publicId": "13301",
+                "id": "13301",
+                "internalId": 13301,
                 "name": "R. Jardim Botânico",
                 "position": {
                   "latitude": 38.705617,
@@ -780,8 +780,8 @@
               "order": 13,
               "distance": 211,
               "stop": {
-                "id": 13303,
-                "publicId": "13303",
+                "id": "13303",
+                "internalId": 13303,
                 "name": "R. Bica Marquês",
                 "position": {
                   "latitude": 38.704697,
@@ -796,8 +796,8 @@
               "order": 14,
               "distance": 323,
               "stop": {
-                "id": 13305,
-                "publicId": "13305",
+                "id": "13305",
+                "internalId": 13305,
                 "name": "R. D. Vasco",
                 "position": {
                   "latitude": 38.704888,
@@ -812,8 +812,8 @@
               "order": 15,
               "distance": 388,
               "stop": {
-                "id": 13401,
-                "publicId": "13401",
+                "id": "13401",
+                "internalId": 13401,
                 "name": "Boa Hora",
                 "position": {
                   "latitude": 38.702931,
@@ -828,8 +828,8 @@
               "order": 16,
               "distance": 212,
               "stop": {
-                "id": 13403,
-                "publicId": "13403",
+                "id": "13403",
+                "internalId": 13403,
                 "name": "Rua Qta Do Almargem",
                 "position": {
                   "latitude": 38.701124,
@@ -844,8 +844,8 @@
               "order": 17,
               "distance": 296,
               "stop": {
-                "id": 9509,
-                "publicId": "9509",
+                "id": "9509",
+                "internalId": 9509,
                 "name": "Travessa Artur Lamas",
                 "position": {
                   "latitude": 38.69973,
@@ -860,8 +860,8 @@
               "order": 18,
               "distance": 282,
               "stop": {
-                "id": 9507,
-                "publicId": "9507",
+                "id": "9507",
+                "internalId": 9507,
                 "name": "Rua Pinto Ferreira",
                 "position": {
                   "latitude": 38.697994,
@@ -876,8 +876,8 @@
               "order": 19,
               "distance": 363,
               "stop": {
-                "id": 9505,
-                "publicId": "9505",
+                "id": "9505",
+                "internalId": 9505,
                 "name": "Hosp. Egas Moniz",
                 "position": {
                   "latitude": 38.698591,
@@ -892,8 +892,8 @@
               "order": 20,
               "distance": 360,
               "stop": {
-                "id": 9503,
-                "publicId": "9503",
+                "id": "9503",
+                "internalId": 9503,
                 "name": "Rua Da Junqueira",
                 "position": {
                   "latitude": 38.700037,
@@ -908,8 +908,8 @@
               "order": 21,
               "distance": 499,
               "stop": {
-                "id": 12111,
-                "publicId": "12111",
+                "id": "12111",
+                "internalId": 12111,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.702215,
@@ -924,8 +924,8 @@
               "order": 22,
               "distance": 240,
               "stop": {
-                "id": 12101,
-                "publicId": "12101",
+                "id": "12101",
+                "internalId": 12101,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.704501,
@@ -940,8 +940,8 @@
               "order": 23,
               "distance": 609,
               "stop": {
-                "id": 4001,
-                "publicId": "4001",
+                "id": "4001",
+                "internalId": 4001,
                 "name": "Alcântara - Av. 24 De Julho",
                 "position": {
                   "latitude": 38.704145,
@@ -956,8 +956,8 @@
               "order": 24,
               "distance": 373,
               "stop": {
-                "id": 10201,
-                "publicId": "10201",
+                "id": "10201",
+                "internalId": 10201,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703363,
@@ -972,8 +972,8 @@
               "order": 25,
               "distance": 679,
               "stop": {
-                "id": 3905,
-                "publicId": "3905",
+                "id": "3905",
+                "internalId": 3905,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.703508,
@@ -988,8 +988,8 @@
               "order": 26,
               "distance": 509,
               "stop": {
-                "id": 3901,
-                "publicId": "3901",
+                "id": "3901",
+                "internalId": 3901,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706171,
@@ -1004,8 +1004,8 @@
               "order": 27,
               "distance": 428,
               "stop": {
-                "id": 7101,
-                "publicId": "7101",
+                "id": "7101",
+                "internalId": 7101,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706331,
@@ -1020,8 +1020,8 @@
               "order": 28,
               "distance": 392,
               "stop": {
-                "id": 3803,
-                "publicId": "3803",
+                "id": "3803",
+                "internalId": 3803,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706244,
@@ -1036,8 +1036,8 @@
               "order": 29,
               "distance": 630,
               "stop": {
-                "id": 3824,
-                "publicId": "3824",
+                "id": "3824",
+                "internalId": 3824,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.70718,
@@ -1052,8 +1052,8 @@
               "order": 30,
               "distance": 629,
               "stop": {
-                "id": 5519,
-                "publicId": "5519",
+                "id": "5519",
+                "internalId": 5519,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.709676,
@@ -1068,8 +1068,8 @@
               "order": 31,
               "distance": 340,
               "stop": {
-                "id": 901,
-                "publicId": "901",
+                "id": "901",
+                "internalId": 901,
                 "name": "Rossio",
                 "position": {
                   "latitude": 38.714269,
@@ -1084,8 +1084,8 @@
               "order": 32,
               "distance": 494,
               "stop": {
-                "id": 1010,
-                "publicId": "1010",
+                "id": "1010",
+                "internalId": 1010,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.716116,
@@ -1100,8 +1100,8 @@
               "order": 33,
               "distance": 922,
               "stop": {
-                "id": 1103,
-                "publicId": "1103",
+                "id": "1103",
+                "internalId": 1103,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.719736,
@@ -1116,8 +1116,8 @@
               "order": 34,
               "distance": 0,
               "stop": {
-                "id": 1220,
-                "publicId": "1220",
+                "id": "1220",
+                "internalId": 1220,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726155,
@@ -1146,8 +1146,8 @@
               "order": 1,
               "distance": 190,
               "stop": {
-                "id": 1220,
-                "publicId": "1220",
+                "id": "1220",
+                "internalId": 1220,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726155,
@@ -1162,8 +1162,8 @@
               "order": 2,
               "distance": 708,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,
@@ -1178,8 +1178,8 @@
               "order": 3,
               "distance": 590,
               "stop": {
-                "id": 1102,
-                "publicId": "1102",
+                "id": "1102",
+                "internalId": 1102,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.720248,
@@ -1194,8 +1194,8 @@
               "order": 4,
               "distance": 287,
               "stop": {
-                "id": 1006,
-                "publicId": "1006",
+                "id": "1006",
+                "internalId": 1006,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715631,
@@ -1210,8 +1210,8 @@
               "order": 5,
               "distance": 412,
               "stop": {
-                "id": 908,
-                "publicId": "908",
+                "id": "908",
+                "internalId": 908,
                 "name": "Rossio",
                 "position": {
                   "latitude": 38.714037,
@@ -1226,8 +1226,8 @@
               "order": 6,
               "distance": 243,
               "stop": {
-                "id": 5510,
-                "publicId": "5510",
+                "id": "5510",
+                "internalId": 5510,
                 "name": "R. Ouro",
                 "position": {
                   "latitude": 38.710845,
@@ -1242,8 +1242,8 @@
               "order": 7,
               "distance": 392,
               "stop": {
-                "id": 5508,
-                "publicId": "5508",
+                "id": "5508",
+                "internalId": 5508,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.708372,
@@ -1258,8 +1258,8 @@
               "order": 8,
               "distance": 404,
               "stop": {
-                "id": 3820,
-                "publicId": "3820",
+                "id": "3820",
+                "internalId": 3820,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.707363,
@@ -1274,8 +1274,8 @@
               "order": 9,
               "distance": 392,
               "stop": {
-                "id": 3802,
-                "publicId": "3802",
+                "id": "3802",
+                "internalId": 3802,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706332,
@@ -1290,8 +1290,8 @@
               "order": 10,
               "distance": 549,
               "stop": {
-                "id": 7102,
-                "publicId": "7102",
+                "id": "7102",
+                "internalId": 7102,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706414,
@@ -1306,8 +1306,8 @@
               "order": 11,
               "distance": 631,
               "stop": {
-                "id": 3902,
-                "publicId": "3902",
+                "id": "3902",
+                "internalId": 3902,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706142,
@@ -1322,8 +1322,8 @@
               "order": 12,
               "distance": 456,
               "stop": {
-                "id": 3906,
-                "publicId": "3906",
+                "id": "3906",
+                "internalId": 3906,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.70367,
@@ -1338,8 +1338,8 @@
               "order": 13,
               "distance": 558,
               "stop": {
-                "id": 10202,
-                "publicId": "10202",
+                "id": "10202",
+                "internalId": 10202,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703447,
@@ -1354,8 +1354,8 @@
               "order": 14,
               "distance": 231,
               "stop": {
-                "id": 4004,
-                "publicId": "4004",
+                "id": "4004",
+                "internalId": 4004,
                 "name": "Alcântara - Av. 24 De Julho",
                 "position": {
                   "latitude": 38.704304,
@@ -1370,8 +1370,8 @@
               "order": 15,
               "distance": 528,
               "stop": {
-                "id": 12102,
-                "publicId": "12102",
+                "id": "12102",
+                "internalId": 12102,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.70466,
@@ -1386,8 +1386,8 @@
               "order": 16,
               "distance": 387,
               "stop": {
-                "id": 12108,
-                "publicId": "12108",
+                "id": "12108",
+                "internalId": 12108,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.701991,
@@ -1402,8 +1402,8 @@
               "order": 17,
               "distance": 382,
               "stop": {
-                "id": 9504,
-                "publicId": "9504",
+                "id": "9504",
+                "internalId": 9504,
                 "name": "R. Junqueira (Centro Congresso",
                 "position": {
                   "latitude": 38.699786,
@@ -1418,8 +1418,8 @@
               "order": 18,
               "distance": 289,
               "stop": {
-                "id": 9506,
-                "publicId": "9506",
+                "id": "9506",
+                "internalId": 9506,
                 "name": "Hosp. Egas Moniz",
                 "position": {
                   "latitude": 38.698464,
@@ -1434,8 +1434,8 @@
               "order": 19,
               "distance": 278,
               "stop": {
-                "id": 9512,
-                "publicId": "9512",
+                "id": "9512",
+                "internalId": 9512,
                 "name": "R. Pinto Ferreira",
                 "position": {
                   "latitude": 38.698225,
@@ -1450,8 +1450,8 @@
               "order": 20,
               "distance": 309,
               "stop": {
-                "id": 9510,
-                "publicId": "9510",
+                "id": "9510",
+                "internalId": 9510,
                 "name": "Tv. Artur Lamas",
                 "position": {
                   "latitude": 38.70012,
@@ -1466,8 +1466,8 @@
               "order": 21,
               "distance": 309,
               "stop": {
-                "id": 13404,
-                "publicId": "13404",
+                "id": "13404",
+                "internalId": 13404,
                 "name": "Cç. Boa Hora",
                 "position": {
                   "latitude": 38.702159,
@@ -1482,8 +1482,8 @@
               "order": 22,
               "distance": 250,
               "stop": {
-                "id": 13410,
-                "publicId": "13410",
+                "id": "13410",
+                "internalId": 13410,
                 "name": "Boa Hora",
                 "position": {
                   "latitude": 38.703711,
@@ -1498,8 +1498,8 @@
               "order": 23,
               "distance": 134,
               "stop": {
-                "id": 13306,
-                "publicId": "13306",
+                "id": "13306",
+                "internalId": 13306,
                 "name": "R. D. Vasco",
                 "position": {
                   "latitude": 38.70493,
@@ -1514,8 +1514,8 @@
               "order": 24,
               "distance": 255,
               "stop": {
-                "id": 13304,
-                "publicId": "13304",
+                "id": "13304",
+                "internalId": 13304,
                 "name": "R. Bica Marquês",
                 "position": {
                   "latitude": 38.704833,
@@ -1530,8 +1530,8 @@
               "order": 25,
               "distance": 355,
               "stop": {
-                "id": 13302,
-                "publicId": "13302",
+                "id": "13302",
+                "internalId": 13302,
                 "name": "Rua Do Jardim Botânico",
                 "position": {
                   "latitude": 38.705761,
@@ -1546,8 +1546,8 @@
               "order": 26,
               "distance": 316,
               "stop": {
-                "id": 13110,
-                "publicId": "13110",
+                "id": "13110",
+                "internalId": 13110,
                 "name": "Escola Paula Vicente",
                 "position": {
                   "latitude": 38.705588,
@@ -1562,8 +1562,8 @@
               "order": 27,
               "distance": 280,
               "stop": {
-                "id": 13108,
-                "publicId": "13108",
+                "id": "13108",
+                "internalId": 13108,
                 "name": "Estádio Do Restelo",
                 "position": {
                   "latitude": 38.703877,
@@ -1578,8 +1578,8 @@
               "order": 28,
               "distance": 217,
               "stop": {
-                "id": 13106,
-                "publicId": "13106",
+                "id": "13106",
+                "internalId": 13106,
                 "name": "Av. Ilha Da Madeira",
                 "position": {
                   "latitude": 38.705577,
@@ -1594,8 +1594,8 @@
               "order": 29,
               "distance": 301,
               "stop": {
-                "id": 13104,
-                "publicId": "13104",
+                "id": "13104",
+                "internalId": 13104,
                 "name": "Rua Mem Rodrigues",
                 "position": {
                   "latitude": 38.707362,
@@ -1610,8 +1610,8 @@
               "order": 30,
               "distance": 308,
               "stop": {
-                "id": 13102,
-                "publicId": "13102",
+                "id": "13102",
+                "internalId": 13102,
                 "name": "Restelo - Rua Tristão Vaz",
                 "position": {
                   "latitude": 38.709695,
@@ -1626,8 +1626,8 @@
               "order": 31,
               "distance": 383,
               "stop": {
-                "id": 12406,
-                "publicId": "12406",
+                "id": "12406",
+                "internalId": 12406,
                 "name": "Restelo (Torres) - R. Antão Go",
                 "position": {
                   "latitude": 38.709346,
@@ -1642,8 +1642,8 @@
               "order": 32,
               "distance": 252,
               "stop": {
-                "id": 12404,
-                "publicId": "12404",
+                "id": "12404",
+                "internalId": 12404,
                 "name": "Restelo - Av. Descobertas",
                 "position": {
                   "latitude": 38.709819,
@@ -1658,8 +1658,8 @@
               "order": 33,
               "distance": 504,
               "stop": {
-                "id": 12402,
-                "publicId": "12402",
+                "id": "12402",
+                "internalId": 12402,
                 "name": "R. Gregório Lopes",
                 "position": {
                   "latitude": 38.711874,
@@ -1674,8 +1674,8 @@
               "order": 34,
               "distance": 265,
               "stop": {
-                "id": 10402,
-                "publicId": "10402",
+                "id": "10402",
+                "internalId": 10402,
                 "name": "Fonte Caselas",
                 "position": {
                   "latitude": 38.715795,
@@ -1690,8 +1690,8 @@
               "order": 35,
               "distance": 0,
               "stop": {
-                "id": 10401,
-                "publicId": "10401",
+                "id": "10401",
+                "internalId": 10401,
                 "name": "Caselas",
                 "position": {
                   "latitude": 38.716954,
@@ -1713,8 +1713,8 @@
               "order": 1,
               "distance": 268,
               "stop": {
-                "id": 10401,
-                "publicId": "10401",
+                "id": "10401",
+                "internalId": 10401,
                 "name": "Caselas",
                 "position": {
                   "latitude": 38.716954,
@@ -1729,8 +1729,8 @@
               "order": 2,
               "distance": 476,
               "stop": {
-                "id": 10403,
-                "publicId": "10403",
+                "id": "10403",
+                "internalId": 10403,
                 "name": "Fonte De Caselas",
                 "position": {
                   "latitude": 38.715715,
@@ -1745,8 +1745,8 @@
               "order": 3,
               "distance": 222,
               "stop": {
-                "id": 12401,
-                "publicId": "12401",
+                "id": "12401",
+                "internalId": 12401,
                 "name": "R. Gregório Lopes",
                 "position": {
                   "latitude": 38.711568,
@@ -1761,8 +1761,8 @@
               "order": 4,
               "distance": 150,
               "stop": {
-                "id": 12407,
-                "publicId": "12407",
+                "id": "12407",
+                "internalId": 12407,
                 "name": "Restelo - Av. Descobertas",
                 "position": {
                   "latitude": 38.709699,
@@ -1777,8 +1777,8 @@
               "order": 5,
               "distance": 254,
               "stop": {
-                "id": 12403,
-                "publicId": "12403",
+                "id": "12403",
+                "internalId": 12403,
                 "name": "Restelo - R. Antão Gonçalves",
                 "position": {
                   "latitude": 38.708928,
@@ -1793,8 +1793,8 @@
               "order": 6,
               "distance": 316,
               "stop": {
-                "id": 12405,
-                "publicId": "12405",
+                "id": "12405",
+                "internalId": 12405,
                 "name": "Restelo (Torres) - R. Antão Go",
                 "position": {
                   "latitude": 38.709195,
@@ -1809,8 +1809,8 @@
               "order": 7,
               "distance": 326,
               "stop": {
-                "id": 13101,
-                "publicId": "13101",
+                "id": "13101",
+                "internalId": 13101,
                 "name": "Restelo - Rua Tristão Vaz",
                 "position": {
                   "latitude": 38.709519,
@@ -1825,8 +1825,8 @@
               "order": 8,
               "distance": 224,
               "stop": {
-                "id": 13103,
-                "publicId": "13103",
+                "id": "13103",
+                "internalId": 13103,
                 "name": "Rua Mem Rodrigues",
                 "position": {
                   "latitude": 38.707093,
@@ -1841,8 +1841,8 @@
               "order": 9,
               "distance": 266,
               "stop": {
-                "id": 13105,
-                "publicId": "13105",
+                "id": "13105",
+                "internalId": 13105,
                 "name": "Av. Ilha Da Madeira",
                 "position": {
                   "latitude": 38.705217,
@@ -1857,8 +1857,8 @@
               "order": 10,
               "distance": 256,
               "stop": {
-                "id": 13107,
-                "publicId": "13107",
+                "id": "13107",
+                "internalId": 13107,
                 "name": "Estádio Do Restelo",
                 "position": {
                   "latitude": 38.704004,
@@ -1873,8 +1873,8 @@
               "order": 11,
               "distance": 390,
               "stop": {
-                "id": 13109,
-                "publicId": "13109",
+                "id": "13109",
+                "internalId": 13109,
                 "name": "Esc. Paula Vicente",
                 "position": {
                   "latitude": 38.705359,
@@ -1889,8 +1889,8 @@
               "order": 12,
               "distance": 225,
               "stop": {
-                "id": 13301,
-                "publicId": "13301",
+                "id": "13301",
+                "internalId": 13301,
                 "name": "R. Jardim Botânico",
                 "position": {
                   "latitude": 38.705617,
@@ -1905,8 +1905,8 @@
               "order": 13,
               "distance": 211,
               "stop": {
-                "id": 13303,
-                "publicId": "13303",
+                "id": "13303",
+                "internalId": 13303,
                 "name": "R. Bica Marquês",
                 "position": {
                   "latitude": 38.704697,
@@ -1921,8 +1921,8 @@
               "order": 14,
               "distance": 323,
               "stop": {
-                "id": 13305,
-                "publicId": "13305",
+                "id": "13305",
+                "internalId": 13305,
                 "name": "R. D. Vasco",
                 "position": {
                   "latitude": 38.704888,
@@ -1937,8 +1937,8 @@
               "order": 15,
               "distance": 388,
               "stop": {
-                "id": 13401,
-                "publicId": "13401",
+                "id": "13401",
+                "internalId": 13401,
                 "name": "Boa Hora",
                 "position": {
                   "latitude": 38.702931,
@@ -1953,8 +1953,8 @@
               "order": 16,
               "distance": 212,
               "stop": {
-                "id": 13403,
-                "publicId": "13403",
+                "id": "13403",
+                "internalId": 13403,
                 "name": "Rua Qta Do Almargem",
                 "position": {
                   "latitude": 38.701124,
@@ -1969,8 +1969,8 @@
               "order": 17,
               "distance": 296,
               "stop": {
-                "id": 9509,
-                "publicId": "9509",
+                "id": "9509",
+                "internalId": 9509,
                 "name": "Travessa Artur Lamas",
                 "position": {
                   "latitude": 38.69973,
@@ -1985,8 +1985,8 @@
               "order": 18,
               "distance": 282,
               "stop": {
-                "id": 9507,
-                "publicId": "9507",
+                "id": "9507",
+                "internalId": 9507,
                 "name": "Rua Pinto Ferreira",
                 "position": {
                   "latitude": 38.697994,
@@ -2001,8 +2001,8 @@
               "order": 19,
               "distance": 363,
               "stop": {
-                "id": 9505,
-                "publicId": "9505",
+                "id": "9505",
+                "internalId": 9505,
                 "name": "Hosp. Egas Moniz",
                 "position": {
                   "latitude": 38.698591,
@@ -2017,8 +2017,8 @@
               "order": 20,
               "distance": 360,
               "stop": {
-                "id": 9503,
-                "publicId": "9503",
+                "id": "9503",
+                "internalId": 9503,
                 "name": "Rua Da Junqueira",
                 "position": {
                   "latitude": 38.700037,
@@ -2033,8 +2033,8 @@
               "order": 21,
               "distance": 499,
               "stop": {
-                "id": 12111,
-                "publicId": "12111",
+                "id": "12111",
+                "internalId": 12111,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.702215,
@@ -2049,8 +2049,8 @@
               "order": 22,
               "distance": 237,
               "stop": {
-                "id": 12101,
-                "publicId": "12101",
+                "id": "12101",
+                "internalId": 12101,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.704501,
@@ -2065,8 +2065,8 @@
               "order": 23,
               "distance": 605,
               "stop": {
-                "id": 4001,
-                "publicId": "4001",
+                "id": "4001",
+                "internalId": 4001,
                 "name": "Alcântara - Av. 24 De Julho",
                 "position": {
                   "latitude": 38.704145,
@@ -2081,8 +2081,8 @@
               "order": 24,
               "distance": 370,
               "stop": {
-                "id": 10201,
-                "publicId": "10201",
+                "id": "10201",
+                "internalId": 10201,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703363,
@@ -2097,8 +2097,8 @@
               "order": 25,
               "distance": 679,
               "stop": {
-                "id": 3905,
-                "publicId": "3905",
+                "id": "3905",
+                "internalId": 3905,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.703508,
@@ -2113,8 +2113,8 @@
               "order": 26,
               "distance": 511,
               "stop": {
-                "id": 3901,
-                "publicId": "3901",
+                "id": "3901",
+                "internalId": 3901,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706171,
@@ -2129,8 +2129,8 @@
               "order": 27,
               "distance": 427,
               "stop": {
-                "id": 7101,
-                "publicId": "7101",
+                "id": "7101",
+                "internalId": 7101,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706331,
@@ -2145,8 +2145,8 @@
               "order": 28,
               "distance": 388,
               "stop": {
-                "id": 3803,
-                "publicId": "3803",
+                "id": "3803",
+                "internalId": 3803,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706244,
@@ -2161,8 +2161,8 @@
               "order": 29,
               "distance": 631,
               "stop": {
-                "id": 3824,
-                "publicId": "3824",
+                "id": "3824",
+                "internalId": 3824,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.70718,
@@ -2177,8 +2177,8 @@
               "order": 30,
               "distance": 639,
               "stop": {
-                "id": 5519,
-                "publicId": "5519",
+                "id": "5519",
+                "internalId": 5519,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.709676,
@@ -2193,8 +2193,8 @@
               "order": 31,
               "distance": 345,
               "stop": {
-                "id": 901,
-                "publicId": "901",
+                "id": "901",
+                "internalId": 901,
                 "name": "Rossio",
                 "position": {
                   "latitude": 38.714269,
@@ -2209,8 +2209,8 @@
               "order": 32,
               "distance": 495,
               "stop": {
-                "id": 1010,
-                "publicId": "1010",
+                "id": "1010",
+                "internalId": 1010,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.716116,
@@ -2225,8 +2225,8 @@
               "order": 33,
               "distance": 922,
               "stop": {
-                "id": 1103,
-                "publicId": "1103",
+                "id": "1103",
+                "internalId": 1103,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.719736,
@@ -2241,8 +2241,8 @@
               "order": 34,
               "distance": 0,
               "stop": {
-                "id": 1220,
-                "publicId": "1220",
+                "id": "1220",
+                "internalId": 1220,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726155,

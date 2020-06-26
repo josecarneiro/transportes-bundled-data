@@ -1,11 +1,16 @@
 {
-  "id": 12712,
-  "publicId": "12712",
+  "id": "12712",
+  "internalId": 12712,
   "name": "Estr. Luz (Loja Cidadão)",
   "position": {
     "latitude": 38.749661,
     "longitude": -9.172599
   },
   "visible": true,
-  "updateDate": "2018-11-02T16:07:41.000Z"
+  "updateDate": "2018-11-02T16:07:41.000Z",
+  "routes": [
+    "701",
+    "726",
+    "764"
+  ]
 }

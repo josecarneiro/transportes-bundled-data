@@ -1,11 +1,14 @@
 {
-  "id": 13110,
-  "publicId": "13110",
+  "id": "13110",
+  "internalId": 13110,
   "name": "Escola Paula Vicente",
   "position": {
     "latitude": 38.705588,
     "longitude": -9.203854
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:31:41.000Z"
+  "updateDate": "2008-12-05T18:31:41.000Z",
+  "routes": [
+    "732"
+  ]
 }

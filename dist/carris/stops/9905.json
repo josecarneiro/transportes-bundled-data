@@ -1,11 +1,14 @@
 {
-  "id": 50248,
-  "publicId": "9905",
+  "id": "9905",
+  "internalId": 50248,
   "name": "Rua De São Paulo",
   "position": {
     "latitude": 38.708556,
     "longitude": -9.146768
   },
   "visible": true,
-  "updateDate": "2014-11-04T16:18:07.000Z"
+  "updateDate": "2014-11-04T16:18:07.000Z",
+  "routes": [
+    "53E"
+  ]
 }

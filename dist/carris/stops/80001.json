@@ -1,11 +1,14 @@
 {
-  "id": 50427,
-  "publicId": "80001",
+  "id": "80001",
+  "internalId": 50427,
   "name": "Rua Castilho 1",
   "position": {
     "latitude": 38.727589,
     "longitude": -9.155902
   },
   "visible": true,
-  "updateDate": "2019-10-28T21:48:25.000Z"
+  "updateDate": "2019-10-28T21:48:25.000Z",
+  "routes": [
+    "88A"
+  ]
 }

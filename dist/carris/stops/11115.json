@@ -1,11 +1,14 @@
 {
-  "id": 11115,
-  "publicId": "11115",
+  "id": "11115",
+  "internalId": 11115,
   "name": "Largo Do Leão",
   "position": {
     "latitude": 38.734571,
     "longitude": -9.13733
   },
   "visible": true,
-  "updateDate": "2017-08-09T16:50:07.000Z"
+  "updateDate": "2017-08-09T16:50:07.000Z",
+  "routes": [
+    "742"
+  ]
 }

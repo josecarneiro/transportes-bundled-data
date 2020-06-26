@@ -1,11 +1,17 @@
 {
-  "id": 8028,
-  "publicId": "8028",
+  "id": "8028",
+  "internalId": 8028,
   "name": "Campo De Ourique (Prazeres)",
   "position": {
     "latitude": 38.714256,
     "longitude": -9.169982
   },
   "visible": true,
-  "updateDate": "2018-04-02T15:54:11.000Z"
+  "updateDate": "2018-04-02T15:54:11.000Z",
+  "routes": [
+    "712",
+    "714",
+    "742",
+    "774"
+  ]
 }

@@ -1,11 +1,18 @@
 {
-  "id": 11601,
-  "publicId": "11601",
+  "id": "11601",
+  "internalId": 11601,
   "name": "Estr. Forte (Escola)",
   "position": {
     "latitude": 38.790751,
     "longitude": -9.150757
   },
   "visible": true,
-  "updateDate": "2019-03-26T17:43:49.000Z"
+  "updateDate": "2019-03-26T17:43:49.000Z",
+  "routes": [
+    "207",
+    "717",
+    "796",
+    "798",
+    "41B"
+  ]
 }

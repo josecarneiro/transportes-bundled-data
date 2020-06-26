@@ -1,11 +1,14 @@
 {
-  "id": 7609,
-  "publicId": "7609",
+  "id": "7609",
+  "internalId": 7609,
   "name": "Gasolineiras",
   "position": {
     "latitude": 38.78099,
     "longitude": -9.124841
   },
   "visible": true,
-  "updateDate": "2005-01-24T16:46:13.000Z"
+  "updateDate": "2005-01-24T16:46:13.000Z",
+  "routes": [
+    "705"
+  ]
 }

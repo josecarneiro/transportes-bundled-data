@@ -1,6 +1,6 @@
 {
-  "id": 195,
-  "number": "749",
+  "id": "749",
+  "internalId": 195,
   "name": "ISEL - Estação Entrecampos",
   "visible": true,
   "creationDate": "2020-05-20T09:29:42.000Z",
@@ -1448,8 +1448,8 @@
               "order": 1,
               "distance": 339,
               "stop": {
-                "id": 24384,
-                "publicId": "89920",
+                "id": "89920",
+                "internalId": 24384,
                 "name": "Isel",
                 "position": {
                   "latitude": 38.756674,
@@ -1464,8 +1464,8 @@
               "order": 2,
               "distance": 169,
               "stop": {
-                "id": 50070,
-                "publicId": "89905",
+                "id": "89905",
+                "internalId": 50070,
                 "name": "Av. Dr. Augusto Castro",
                 "position": {
                   "latitude": 38.753725,
@@ -1480,8 +1480,8 @@
               "order": 3,
               "distance": 542,
               "stop": {
-                "id": 24375,
-                "publicId": "89911",
+                "id": "89911",
+                "internalId": 24375,
                 "name": "Esc. D. Dinis",
                 "position": {
                   "latitude": 38.752138,
@@ -1496,8 +1496,8 @@
               "order": 4,
               "distance": 219,
               "stop": {
-                "id": 3714,
-                "publicId": "3714",
+                "id": "3714",
+                "internalId": 3714,
                 "name": "Rua Salgueiro Maia",
                 "position": {
                   "latitude": 38.747965,
@@ -1512,8 +1512,8 @@
               "order": 5,
               "distance": 264,
               "stop": {
-                "id": 3708,
-                "publicId": "3708",
+                "id": "3708",
+                "internalId": 3708,
                 "name": "Praça Doutor Fernando Amado",
                 "position": {
                   "latitude": 38.74634,
@@ -1528,8 +1528,8 @@
               "order": 6,
               "distance": 243,
               "stop": {
-                "id": 3706,
-                "publicId": "3706",
+                "id": "3706",
+                "internalId": 3706,
                 "name": "Praça Eduardo Mondlane",
                 "position": {
                   "latitude": 38.744135,
@@ -1544,8 +1544,8 @@
               "order": 7,
               "distance": 172,
               "stop": {
-                "id": 3717,
-                "publicId": "3717",
+                "id": "3717",
+                "internalId": 3717,
                 "name": "Av. Paulo Vi - Igreja",
                 "position": {
                   "latitude": 38.743073,
@@ -1560,8 +1560,8 @@
               "order": 8,
               "distance": 485,
               "stop": {
-                "id": 3719,
-                "publicId": "3719",
+                "id": "3719",
+                "internalId": 3719,
                 "name": "Av. Paulo Vi",
                 "position": {
                   "latitude": 38.74432,
@@ -1576,8 +1576,8 @@
               "order": 9,
               "distance": 870,
               "stop": {
-                "id": 2218,
-                "publicId": "2218",
+                "id": "2218",
+                "internalId": 2218,
                 "name": "Av. Paulo Vi",
                 "position": {
                   "latitude": 38.748252,
@@ -1592,8 +1592,8 @@
               "order": 10,
               "distance": 2734,
               "stop": {
-                "id": 50228,
-                "publicId": "2214",
+                "id": "2214",
+                "internalId": 50228,
                 "name": "Vale Formoso De Cima",
                 "position": {
                   "latitude": 38.749783,
@@ -1608,8 +1608,8 @@
               "order": 11,
               "distance": 300,
               "stop": {
-                "id": 7301,
-                "publicId": "7301",
+                "id": "7301",
+                "internalId": 7301,
                 "name": "Av. Estados Unidos América",
                 "position": {
                   "latitude": 38.748981,
@@ -1624,8 +1624,8 @@
               "order": 12,
               "distance": 171,
               "stop": {
-                "id": 11203,
-                "publicId": "11203",
+                "id": "11203",
+                "internalId": 11203,
                 "name": "Av. Eua / R. Moura Girão",
                 "position": {
                   "latitude": 38.749135,
@@ -1640,8 +1640,8 @@
               "order": 13,
               "distance": 732,
               "stop": {
-                "id": 11209,
-                "publicId": "11209",
+                "id": "11209",
+                "internalId": 11209,
                 "name": "Av. Do Rio De Janeiro",
                 "position": {
                   "latitude": 38.749242,
@@ -1656,8 +1656,8 @@
               "order": 14,
               "distance": 320,
               "stop": {
-                "id": 2016,
-                "publicId": "2016",
+                "id": "2016",
+                "internalId": 2016,
                 "name": "Entrecampos - Av. Eua",
                 "position": {
                   "latitude": 38.748714,
@@ -1672,8 +1672,8 @@
               "order": 15,
               "distance": 157,
               "stop": {
-                "id": 2002,
-                "publicId": "2002",
+                "id": "2002",
+                "internalId": 2002,
                 "name": "Entrecampos",
                 "position": {
                   "latitude": 38.747602,
@@ -1688,8 +1688,8 @@
               "order": 16,
               "distance": 0,
               "stop": {
-                "id": 2051,
-                "publicId": "2051",
+                "id": "2051",
+                "internalId": 2051,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.74536,
@@ -3040,8 +3040,8 @@
               "order": 1,
               "distance": 519,
               "stop": {
-                "id": 2051,
-                "publicId": "2051",
+                "id": "2051",
+                "internalId": 2051,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.74536,
@@ -3056,8 +3056,8 @@
               "order": 2,
               "distance": 381,
               "stop": {
-                "id": 1903,
-                "publicId": "1903",
+                "id": "1903",
+                "internalId": 1903,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.742781,
@@ -3072,8 +3072,8 @@
               "order": 3,
               "distance": 334,
               "stop": {
-                "id": 2022,
-                "publicId": "2022",
+                "id": "2022",
+                "internalId": 2022,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.745925,
@@ -3088,8 +3088,8 @@
               "order": 4,
               "distance": 906,
               "stop": {
-                "id": 2053,
-                "publicId": "2053",
+                "id": "2053",
+                "internalId": 2053,
                 "name": "Entrecampos - Av. Eua",
                 "position": {
                   "latitude": 38.748368,
@@ -3104,8 +3104,8 @@
               "order": 5,
               "distance": 409,
               "stop": {
-                "id": 11204,
-                "publicId": "11204",
+                "id": "11204",
+                "internalId": 11204,
                 "name": "Av. Rio Janeiro / Av. Eua",
                 "position": {
                   "latitude": 38.748898,
@@ -3120,8 +3120,8 @@
               "order": 6,
               "distance": 2294,
               "stop": {
-                "id": 7302,
-                "publicId": "7302",
+                "id": "7302",
+                "internalId": 7302,
                 "name": "Av. Estados Unidos América",
                 "position": {
                   "latitude": 38.748646,
@@ -3136,8 +3136,8 @@
               "order": 7,
               "distance": 445,
               "stop": {
-                "id": 2219,
-                "publicId": "2219",
+                "id": "2219",
+                "internalId": 2219,
                 "name": "Av. Paulo Vi",
                 "position": {
                   "latitude": 38.747899,
@@ -3152,8 +3152,8 @@
               "order": 8,
               "distance": 178,
               "stop": {
-                "id": 3720,
-                "publicId": "3720",
+                "id": "3720",
+                "internalId": 3720,
                 "name": "Av. Paulo Vi",
                 "position": {
                   "latitude": 38.744363,
@@ -3168,8 +3168,8 @@
               "order": 9,
               "distance": 254,
               "stop": {
-                "id": 3718,
-                "publicId": "3718",
+                "id": "3718",
+                "internalId": 3718,
                 "name": "Av. Paulo Vi - Igreja",
                 "position": {
                   "latitude": 38.743196,
@@ -3184,8 +3184,8 @@
               "order": 10,
               "distance": 295,
               "stop": {
-                "id": 3703,
-                "publicId": "3703",
+                "id": "3703",
+                "internalId": 3703,
                 "name": "Praça Eduardo Mondlane",
                 "position": {
                   "latitude": 38.74446,
@@ -3200,8 +3200,8 @@
               "order": 11,
               "distance": 207,
               "stop": {
-                "id": 3705,
-                "publicId": "3705",
+                "id": "3705",
+                "internalId": 3705,
                 "name": "Praça Doutor Fernando Amado",
                 "position": {
                   "latitude": 38.746554,
@@ -3216,8 +3216,8 @@
               "order": 12,
               "distance": 476,
               "stop": {
-                "id": 3713,
-                "publicId": "3713",
+                "id": "3713",
+                "internalId": 3713,
                 "name": "Rua Salgueiro Maia",
                 "position": {
                   "latitude": 38.748168,
@@ -3232,8 +3232,8 @@
               "order": 13,
               "distance": 345,
               "stop": {
-                "id": 24377,
-                "publicId": "89913",
+                "id": "89913",
+                "internalId": 24377,
                 "name": "Esc. D. Dinis",
                 "position": {
                   "latitude": 38.752045,
@@ -3248,8 +3248,8 @@
               "order": 14,
               "distance": 230,
               "stop": {
-                "id": 24370,
-                "publicId": "89906",
+                "id": "89906",
+                "internalId": 24370,
                 "name": "Isel",
                 "position": {
                   "latitude": 38.755092,
@@ -3264,8 +3264,8 @@
               "order": 15,
               "distance": 0,
               "stop": {
-                "id": 24384,
-                "publicId": "89920",
+                "id": "89920",
+                "internalId": 24384,
                 "name": "Isel",
                 "position": {
                   "latitude": 38.756674,

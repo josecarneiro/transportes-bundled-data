@@ -1,11 +1,14 @@
 {
-  "id": 4102,
-  "publicId": "4102",
+  "id": "4102",
+  "internalId": 4102,
   "name": "Estação Fluvial De Belém",
   "position": {
     "latitude": 38.696716,
     "longitude": -9.199135
   },
   "visible": true,
-  "updateDate": "2013-04-05T17:17:55.000Z"
+  "updateDate": "2013-04-05T17:17:55.000Z",
+  "routes": [
+    "728"
+  ]
 }

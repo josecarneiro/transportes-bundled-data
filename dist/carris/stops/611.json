@@ -1,11 +1,15 @@
 {
-  "id": 611,
-  "publicId": "611",
+  "id": "611",
+  "internalId": 611,
   "name": "R. Passos Manuel",
   "position": {
     "latitude": 38.728017,
     "longitude": -9.13678
   },
   "visible": true,
-  "updateDate": "2012-01-13T12:36:25.000Z"
+  "updateDate": "2012-01-13T12:36:25.000Z",
+  "routes": [
+    "706",
+    "726"
+  ]
 }

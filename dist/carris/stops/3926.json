@@ -1,11 +1,14 @@
 {
-  "id": 3926,
-  "publicId": "3926",
+  "id": "3926",
+  "internalId": 3926,
   "name": "Santos",
   "position": {
     "latitude": 38.706516,
     "longitude": -9.154488
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "706"
+  ]
 }

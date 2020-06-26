@@ -1,11 +1,16 @@
 {
-  "id": 50097,
-  "publicId": "5948",
+  "id": "5948",
+  "internalId": 50097,
   "name": "R. Teófilo Carvalho Santos",
   "position": {
     "latitude": 38.770413,
     "longitude": -9.173088
   },
   "visible": true,
-  "updateDate": "2019-01-10T17:16:26.000Z"
+  "updateDate": "2019-01-10T17:16:26.000Z",
+  "routes": [
+    "703",
+    "778",
+    "43B"
+  ]
 }

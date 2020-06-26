@@ -1,11 +1,19 @@
 {
-  "id": 501,
-  "publicId": "501",
+  "id": "501",
+  "internalId": 501,
   "name": "R. Morais Soares",
   "position": {
     "latitude": 38.732735,
     "longitude": -9.130411
   },
   "visible": true,
-  "updateDate": "2012-01-13T12:27:47.000Z"
+  "updateDate": "2012-01-13T12:27:47.000Z",
+  "routes": [
+    "206",
+    "706",
+    "718",
+    "735",
+    "742",
+    "797"
+  ]
 }

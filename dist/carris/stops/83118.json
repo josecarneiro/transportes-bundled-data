@@ -1,11 +1,14 @@
 {
-  "id": 50120,
-  "publicId": "83118",
+  "id": "83118",
+  "internalId": 50120,
   "name": "Qta. Ourives",
   "position": {
     "latitude": 38.735342,
     "longitude": -9.115444
   },
   "visible": true,
-  "updateDate": "2019-07-19T15:59:33.000Z"
+  "updateDate": "2019-07-19T15:59:33.000Z",
+  "routes": [
+    "34B"
+  ]
 }

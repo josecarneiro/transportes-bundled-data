@@ -1,11 +1,14 @@
 {
-  "id": 912,
-  "publicId": "912",
+  "id": "912",
+  "internalId": 912,
   "name": "Praça Da Figueira",
   "position": {
     "latitude": 38.713912,
     "longitude": -9.13802
   },
   "visible": true,
-  "updateDate": "2019-05-02T10:19:42.000Z"
+  "updateDate": "2019-05-02T10:19:42.000Z",
+  "routes": [
+    "737"
+  ]
 }

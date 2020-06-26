@@ -1,11 +1,14 @@
 {
-  "id": 50029,
-  "publicId": "50029",
+  "id": "50029",
+  "internalId": 50029,
   "name": "Alto Faia",
   "position": {
     "latitude": 38.767648,
     "longitude": -9.168577
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:37:38.000Z"
+  "updateDate": "2019-01-16T08:37:38.000Z",
+  "routes": [
+    "778"
+  ]
 }

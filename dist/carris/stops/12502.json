@@ -1,11 +1,14 @@
 {
-  "id": 12502,
-  "publicId": "12502",
+  "id": "12502",
+  "internalId": 12502,
   "name": "Poço Do Bispo",
   "position": {
     "latitude": 38.742155,
     "longitude": -9.102203
   },
   "visible": true,
-  "updateDate": "2017-05-05T14:33:03.000Z"
+  "updateDate": "2017-05-05T14:33:03.000Z",
+  "routes": [
+    "755"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 13503,
-  "publicId": "13503",
+  "id": "13503",
+  "internalId": 13503,
   "name": "Hospital De Santa Maria",
   "position": {
     "latitude": 38.748551,
     "longitude": -9.157394
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:33:42.000Z"
+  "updateDate": "2014-10-15T11:33:42.000Z",
+  "routes": [
+    "701",
+    "731"
+  ]
 }

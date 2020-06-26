@@ -1,11 +1,14 @@
 {
-  "id": 1214,
-  "publicId": "1214",
+  "id": "1214",
+  "internalId": 1214,
   "name": "Marquês De Pombal",
   "position": {
     "latitude": 38.724013,
     "longitude": -9.150899
   },
   "visible": true,
-  "updateDate": "2017-01-09T16:31:14.000Z"
+  "updateDate": "2017-01-09T16:31:14.000Z",
+  "routes": [
+    "727"
+  ]
 }

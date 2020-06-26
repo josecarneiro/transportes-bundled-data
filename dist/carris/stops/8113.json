@@ -1,11 +1,18 @@
 {
-  "id": 8113,
-  "publicId": "8113",
+  "id": "8113",
+  "internalId": 8113,
   "name": "Rua João De Deus",
   "position": {
     "latitude": 38.712681,
     "longitude": -9.160224
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:03:38.000Z"
+  "updateDate": "2008-12-05T17:03:38.000Z",
+  "routes": [
+    "713",
+    "714",
+    "773",
+    "774",
+    "25E"
+  ]
 }

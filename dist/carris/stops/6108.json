@@ -1,11 +1,14 @@
 {
-  "id": 6108,
-  "publicId": "6108",
+  "id": "6108",
+  "internalId": 6108,
   "name": "Cç. Mestres",
   "position": {
     "latitude": 38.726812,
     "longitude": -9.164981
   },
   "visible": true,
-  "updateDate": "2018-02-05T14:20:10.000Z"
+  "updateDate": "2018-02-05T14:20:10.000Z",
+  "routes": [
+    "702"
+  ]
 }

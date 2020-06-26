@@ -1,11 +1,16 @@
 {
-  "id": 3719,
-  "publicId": "3719",
+  "id": "3719",
+  "internalId": 3719,
   "name": "Av. Paulo Vi",
   "position": {
     "latitude": 38.74432,
     "longitude": -9.110745
   },
   "visible": true,
-  "updateDate": "2014-10-16T08:17:30.000Z"
+  "updateDate": "2014-10-16T08:17:30.000Z",
+  "routes": [
+    "749",
+    "755",
+    "793"
+  ]
 }

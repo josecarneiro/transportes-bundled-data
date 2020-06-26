@@ -1,11 +1,14 @@
 {
-  "id": 7306,
-  "publicId": "7306",
+  "id": "7306",
+  "internalId": 7306,
   "name": "Rua Guilhermina Suggia",
   "position": {
     "latitude": 38.747981,
     "longitude": -9.132473
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:13:07.000Z"
+  "updateDate": "2008-12-05T17:13:07.000Z",
+  "routes": [
+    "727"
+  ]
 }

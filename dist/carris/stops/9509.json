@@ -1,11 +1,14 @@
 {
-  "id": 9509,
-  "publicId": "9509",
+  "id": "9509",
+  "internalId": 9509,
   "name": "Travessa Artur Lamas",
   "position": {
     "latitude": 38.69973,
     "longitude": -9.192686
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:42:04.000Z"
+  "updateDate": "2008-12-05T18:42:04.000Z",
+  "routes": [
+    "732"
+  ]
 }

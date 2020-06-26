@@ -1,11 +1,17 @@
 {
-  "id": 10102,
-  "publicId": "10102",
+  "id": "10102",
+  "internalId": 10102,
   "name": "Av. Inf. Santo (Gasómetro)",
   "position": {
     "latitude": 38.709431,
     "longitude": -9.166677
   },
   "visible": true,
-  "updateDate": "2018-08-20T16:45:46.000Z"
+  "updateDate": "2018-08-20T16:45:46.000Z",
+  "routes": [
+    "712",
+    "720",
+    "738",
+    "742"
+  ]
 }

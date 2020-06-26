@@ -1,11 +1,15 @@
 {
-  "id": 2403,
-  "publicId": "2403",
+  "id": "2403",
+  "internalId": 2403,
   "name": "Oceanário De Lisboa",
   "position": {
     "latitude": 38.761089,
     "longitude": -9.096441
   },
   "visible": true,
-  "updateDate": "2012-06-15T12:57:29.000Z"
+  "updateDate": "2012-06-15T12:57:29.000Z",
+  "routes": [
+    "728",
+    "26B"
+  ]
 }

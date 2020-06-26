@@ -1,11 +1,16 @@
 {
-  "id": 24371,
-  "publicId": "89907",
+  "id": "89907",
+  "internalId": 24371,
   "name": "R. Dr. José Espirito Santo",
   "position": {
     "latitude": 38.75299,
     "longitude": -9.1057
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:44:15.000Z"
+  "updateDate": "2019-02-18T12:44:15.000Z",
+  "routes": [
+    "718",
+    "794",
+    "31B"
+  ]
 }

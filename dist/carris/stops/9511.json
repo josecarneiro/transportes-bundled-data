@@ -1,11 +1,15 @@
 {
-  "id": 9511,
-  "publicId": "9511",
+  "id": "9511",
+  "internalId": 9511,
   "name": "Rua Da Junqueira",
   "position": {
     "latitude": 38.700004,
     "longitude": -9.183431
   },
   "visible": true,
-  "updateDate": "2018-02-20T09:30:30.000Z"
+  "updateDate": "2018-02-20T09:30:30.000Z",
+  "routes": [
+    "720",
+    "756"
+  ]
 }

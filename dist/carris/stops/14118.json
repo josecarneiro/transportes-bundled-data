@@ -1,11 +1,14 @@
 {
-  "id": 14118,
-  "publicId": "14118",
+  "id": "14118",
+  "internalId": 14118,
   "name": "Vale Forno",
   "position": {
     "latitude": 38.775684,
     "longitude": -9.178349
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:00:28.000Z"
+  "updateDate": "2014-10-15T11:00:28.000Z",
+  "routes": [
+    "768"
+  ]
 }

@@ -1,11 +1,18 @@
 {
-  "id": 308,
-  "publicId": "308",
+  "id": "308",
+  "internalId": 308,
   "name": "Areeiro - Av. Alm. Gago Coutin",
   "position": {
     "latitude": 38.74329,
     "longitude": -9.132829
   },
   "visible": true,
-  "updateDate": "2019-03-20T17:43:33.000Z"
+  "updateDate": "2019-03-20T17:43:33.000Z",
+  "routes": [
+    "705",
+    "708",
+    "717",
+    "722",
+    "793"
+  ]
 }

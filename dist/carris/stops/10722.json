@@ -1,11 +1,14 @@
 {
-  "id": 10722,
-  "publicId": "10722",
+  "id": "10722",
+  "internalId": 10722,
   "name": "Palácio Marquês De Fronteira",
   "position": {
     "latitude": 38.740523,
     "longitude": -9.180104
   },
   "visible": true,
-  "updateDate": "2017-02-24T11:33:02.000Z"
+  "updateDate": "2017-02-24T11:33:02.000Z",
+  "routes": [
+    "770"
+  ]
 }

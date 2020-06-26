@@ -1,11 +1,14 @@
 {
-  "id": 12924,
-  "publicId": "12924",
+  "id": "12924",
+  "internalId": 12924,
   "name": "Bº Dois De Maio",
   "position": {
     "latitude": 38.712169,
     "longitude": -9.198799
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:25:04.000Z"
+  "updateDate": "2008-12-05T17:25:04.000Z",
+  "routes": [
+    "760"
+  ]
 }

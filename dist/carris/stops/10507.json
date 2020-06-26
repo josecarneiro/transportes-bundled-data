@@ -1,11 +1,14 @@
 {
-  "id": 50247,
-  "publicId": "10507",
+  "id": "10507",
+  "internalId": 50247,
   "name": "Largo Do Calhariz",
   "position": {
     "latitude": 38.710764,
     "longitude": -9.145802
   },
   "visible": true,
-  "updateDate": "2014-11-04T16:17:38.000Z"
+  "updateDate": "2014-11-04T16:17:38.000Z",
+  "routes": [
+    "53E"
+  ]
 }

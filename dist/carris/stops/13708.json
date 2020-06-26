@@ -1,11 +1,14 @@
 {
-  "id": 13708,
-  "publicId": "13708",
+  "id": "13708",
+  "internalId": 13708,
   "name": "Cç. Tojal (Cemitério Benfica)",
   "position": {
     "latitude": 38.75687,
     "longitude": -9.204731
   },
   "visible": true,
-  "updateDate": "2017-12-06T17:49:43.000Z"
+  "updateDate": "2017-12-06T17:49:43.000Z",
+  "routes": [
+    "202"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 13621,
-  "publicId": "13621",
+  "id": "13621",
+  "internalId": 13621,
   "name": "Rua António Albino Machado",
   "position": {
     "latitude": 38.754345,
     "longitude": -9.169218
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:25:36.000Z"
+  "updateDate": "2008-12-05T18:25:36.000Z",
+  "routes": [
+    "701",
+    "731",
+    "738"
+  ]
 }

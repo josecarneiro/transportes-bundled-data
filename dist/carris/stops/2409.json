@@ -1,11 +1,15 @@
 {
-  "id": 2409,
-  "publicId": "2409",
+  "id": "2409",
+  "internalId": 2409,
   "name": "Parque Das Nações Sul",
   "position": {
     "latitude": 38.755317,
     "longitude": -9.096797
   },
   "visible": true,
-  "updateDate": "2014-03-03T11:50:42.000Z"
+  "updateDate": "2014-03-03T11:50:42.000Z",
+  "routes": [
+    "728",
+    "26B"
+  ]
 }

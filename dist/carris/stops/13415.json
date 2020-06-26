@@ -1,11 +1,14 @@
 {
-  "id": 50379,
-  "publicId": "13415",
+  "id": "13415",
+  "internalId": 50379,
   "name": "R. Giestal",
   "position": {
     "latitude": 38.700685,
     "longitude": -9.190057
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "73B"
+  ]
 }

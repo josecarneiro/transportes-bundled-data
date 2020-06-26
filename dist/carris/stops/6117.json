@@ -1,11 +1,15 @@
 {
-  "id": 6117,
-  "publicId": "6117",
+  "id": "6117",
+  "internalId": 6117,
   "name": "Palácio Da Justiça",
   "position": {
     "latitude": 38.730648,
     "longitude": -9.157013
   },
   "visible": true,
-  "updateDate": "2008-12-05T15:41:22.000Z"
+  "updateDate": "2008-12-05T15:41:22.000Z",
+  "routes": [
+    "713",
+    "742"
+  ]
 }

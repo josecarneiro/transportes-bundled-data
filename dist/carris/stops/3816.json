@@ -1,11 +1,14 @@
 {
-  "id": 50460,
-  "publicId": "3816",
+  "id": "3816",
+  "internalId": 50460,
   "name": "Cais Sodré (Centro Saúde)",
   "position": {
     "latitude": 38.707239,
     "longitude": -9.145022
   },
   "visible": true,
-  "updateDate": "2019-12-09T15:14:01.000Z"
+  "updateDate": "2019-12-09T15:14:01.000Z",
+  "routes": [
+    "22B"
+  ]
 }

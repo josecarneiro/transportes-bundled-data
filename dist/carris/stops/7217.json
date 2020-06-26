@@ -1,11 +1,14 @@
 {
-  "id": 7217,
-  "publicId": "7217",
+  "id": "7217",
+  "internalId": 7217,
   "name": "Estr. Desvio / R. Prof. J. Pin",
   "position": {
     "latitude": 38.781982,
     "longitude": -9.162823
   },
   "visible": true,
-  "updateDate": "2018-04-06T17:05:58.000Z"
+  "updateDate": "2018-04-06T17:05:58.000Z",
+  "routes": [
+    "796"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 14727,
-  "publicId": "14727",
+  "id": "14727",
+  "internalId": 14727,
   "name": "B.º Flamenga",
   "position": {
     "latitude": 38.752276,
     "longitude": -9.123205
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:36:20.000Z"
+  "updateDate": "2019-02-18T12:36:20.000Z",
+  "routes": [
+    "794"
+  ]
 }

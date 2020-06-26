@@ -1,6 +1,6 @@
 {
-  "id": 204,
-  "number": "728",
+  "id": "728",
+  "internalId": 204,
   "name": "Restelo - Portela",
   "visible": true,
   "creationDate": "2020-05-20T09:20:07.000Z",
@@ -4266,8 +4266,8 @@
               "order": 1,
               "distance": 104,
               "stop": {
-                "id": 12409,
-                "publicId": "12409",
+                "id": "12409",
+                "internalId": 12409,
                 "name": "Restelo (Av. Das Descobertas)",
                 "position": {
                   "latitude": 38.70908,
@@ -4282,8 +4282,8 @@
               "order": 2,
               "distance": 254,
               "stop": {
-                "id": 12403,
-                "publicId": "12403",
+                "id": "12403",
+                "internalId": 12403,
                 "name": "Restelo - R. Antão Gonçalves",
                 "position": {
                   "latitude": 38.708928,
@@ -4298,8 +4298,8 @@
               "order": 3,
               "distance": 316,
               "stop": {
-                "id": 12405,
-                "publicId": "12405",
+                "id": "12405",
+                "internalId": 12405,
                 "name": "Restelo (Torres) - R. Antão Go",
                 "position": {
                   "latitude": 38.709195,
@@ -4314,8 +4314,8 @@
               "order": 4,
               "distance": 321,
               "stop": {
-                "id": 13101,
-                "publicId": "13101",
+                "id": "13101",
+                "internalId": 13101,
                 "name": "Restelo - Rua Tristão Vaz",
                 "position": {
                   "latitude": 38.709519,
@@ -4330,8 +4330,8 @@
               "order": 5,
               "distance": 225,
               "stop": {
-                "id": 13115,
-                "publicId": "13115",
+                "id": "13115",
+                "internalId": 13115,
                 "name": "R. Tristão Vaz",
                 "position": {
                   "latitude": 38.707576,
@@ -4346,8 +4346,8 @@
               "order": 6,
               "distance": 265,
               "stop": {
-                "id": 13117,
-                "publicId": "13117",
+                "id": "13117",
+                "internalId": 13117,
                 "name": "Rua Gonçalves Zarco",
                 "position": {
                   "latitude": 38.705647,
@@ -4362,8 +4362,8 @@
               "order": 7,
               "distance": 237,
               "stop": {
-                "id": 13108,
-                "publicId": "13108",
+                "id": "13108",
+                "internalId": 13108,
                 "name": "Estádio Do Restelo",
                 "position": {
                   "latitude": 38.703877,
@@ -4378,8 +4378,8 @@
               "order": 8,
               "distance": 245,
               "stop": {
-                "id": 9605,
-                "publicId": "9605",
+                "id": "9605",
+                "internalId": 9605,
                 "name": "Bº Terras Do Forno",
                 "position": {
                   "latitude": 38.701946,
@@ -4394,8 +4394,8 @@
               "order": 9,
               "distance": 365,
               "stop": {
-                "id": 9607,
-                "publicId": "9607",
+                "id": "9607",
+                "internalId": 9607,
                 "name": "Rua Dos Jerónimos",
                 "position": {
                   "latitude": 38.699795,
@@ -4410,8 +4410,8 @@
               "order": 10,
               "distance": 255,
               "stop": {
-                "id": 9603,
-                "publicId": "9603",
+                "id": "9603",
+                "internalId": 9603,
                 "name": "Mosteiro Dos Jerónimos",
                 "position": {
                   "latitude": 38.697258,
@@ -4426,8 +4426,8 @@
               "order": 11,
               "distance": 327,
               "stop": {
-                "id": 4109,
-                "publicId": "4109",
+                "id": "4109",
+                "internalId": 4109,
                 "name": "Belém",
                 "position": {
                   "latitude": 38.697127,
@@ -4442,8 +4442,8 @@
               "order": 12,
               "distance": 898,
               "stop": {
-                "id": 4101,
-                "publicId": "4101",
+                "id": "4101",
+                "internalId": 4101,
                 "name": "Estação Fluvial De Belém",
                 "position": {
                   "latitude": 38.696222,
@@ -4458,8 +4458,8 @@
               "order": 13,
               "distance": 1447,
               "stop": {
-                "id": 9501,
-                "publicId": "9501",
+                "id": "9501",
+                "internalId": 9501,
                 "name": "Hospital Egas Moniz",
                 "position": {
                   "latitude": 38.697425,
@@ -4474,8 +4474,8 @@
               "order": 14,
               "distance": 559,
               "stop": {
-                "id": 4003,
-                "publicId": "4003",
+                "id": "4003",
+                "internalId": 4003,
                 "name": "Alcântara Mar",
                 "position": {
                   "latitude": 38.702867,
@@ -4490,8 +4490,8 @@
               "order": 15,
               "distance": 373,
               "stop": {
-                "id": 10201,
-                "publicId": "10201",
+                "id": "10201",
+                "internalId": 10201,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703363,
@@ -4506,8 +4506,8 @@
               "order": 16,
               "distance": 679,
               "stop": {
-                "id": 3905,
-                "publicId": "3905",
+                "id": "3905",
+                "internalId": 3905,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.703508,
@@ -4522,8 +4522,8 @@
               "order": 17,
               "distance": 509,
               "stop": {
-                "id": 3901,
-                "publicId": "3901",
+                "id": "3901",
+                "internalId": 3901,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706171,
@@ -4538,8 +4538,8 @@
               "order": 18,
               "distance": 428,
               "stop": {
-                "id": 7101,
-                "publicId": "7101",
+                "id": "7101",
+                "internalId": 7101,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706331,
@@ -4554,8 +4554,8 @@
               "order": 19,
               "distance": 392,
               "stop": {
-                "id": 3803,
-                "publicId": "3803",
+                "id": "3803",
+                "internalId": 3803,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706244,
@@ -4570,8 +4570,8 @@
               "order": 20,
               "distance": 446,
               "stop": {
-                "id": 3824,
-                "publicId": "3824",
+                "id": "3824",
+                "internalId": 3824,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.70718,
@@ -4586,8 +4586,8 @@
               "order": 21,
               "distance": 313,
               "stop": {
-                "id": 5501,
-                "publicId": "5501",
+                "id": "5501",
+                "internalId": 5501,
                 "name": "Pç. Comércio",
                 "position": {
                   "latitude": 38.708331,
@@ -4602,8 +4602,8 @@
               "order": 22,
               "distance": 339,
               "stop": {
-                "id": 4505,
-                "publicId": "4505",
+                "id": "4505",
+                "internalId": 4505,
                 "name": "Sul E Sueste",
                 "position": {
                   "latitude": 38.708276,
@@ -4618,8 +4618,8 @@
               "order": 23,
               "distance": 331,
               "stop": {
-                "id": 4503,
-                "publicId": "4503",
+                "id": "4503",
+                "internalId": 4503,
                 "name": "Campo Cebolas",
                 "position": {
                   "latitude": 38.708686,
@@ -4634,8 +4634,8 @@
               "order": 24,
               "distance": 487,
               "stop": {
-                "id": 8201,
-                "publicId": "8201",
+                "id": "8201",
+                "internalId": 8201,
                 "name": "Alfândega (Terminal Cruzeiros)",
                 "position": {
                   "latitude": 38.710505,
@@ -4650,8 +4650,8 @@
               "order": 25,
               "distance": 538,
               "stop": {
-                "id": 2111,
-                "publicId": "2111",
+                "id": "2111",
+                "internalId": 2111,
                 "name": "Estação Sta. Apolónia",
                 "position": {
                   "latitude": 38.713031,
@@ -4666,8 +4666,8 @@
               "order": 26,
               "distance": 870,
               "stop": {
-                "id": 2127,
-                "publicId": "2127",
+                "id": "2127",
+                "internalId": 2127,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716716,
@@ -4682,8 +4682,8 @@
               "order": 27,
               "distance": 228,
               "stop": {
-                "id": 9811,
-                "publicId": "9811",
+                "id": "9811",
+                "internalId": 9811,
                 "name": "Av. Inf. D. Henrique (Tipograf",
                 "position": {
                   "latitude": 38.723053,
@@ -4698,8 +4698,8 @@
               "order": 28,
               "distance": 246,
               "stop": {
-                "id": 9809,
-                "publicId": "9809",
+                "id": "9809",
+                "internalId": 9809,
                 "name": "Ponte De Xabregas",
                 "position": {
                   "latitude": 38.724744,
@@ -4714,8 +4714,8 @@
               "order": 29,
               "distance": 370,
               "stop": {
-                "id": 8309,
-                "publicId": "8309",
+                "id": "8309",
+                "internalId": 8309,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.726565,
@@ -4730,8 +4730,8 @@
               "order": 30,
               "distance": 504,
               "stop": {
-                "id": 8311,
-                "publicId": "8311",
+                "id": "8311",
+                "internalId": 8311,
                 "name": "Doca De Xabregas",
                 "position": {
                   "latitude": 38.728984,
@@ -4746,8 +4746,8 @@
               "order": 31,
               "distance": 282,
               "stop": {
-                "id": 8313,
-                "publicId": "8313",
+                "id": "8313",
+                "internalId": 8313,
                 "name": "Manutenção Militar",
                 "position": {
                   "latitude": 38.733009,
@@ -4762,8 +4762,8 @@
               "order": 32,
               "distance": 509,
               "stop": {
-                "id": 12513,
-                "publicId": "12513",
+                "id": "12513",
+                "internalId": 12513,
                 "name": "Beato",
                 "position": {
                   "latitude": 38.735506,
@@ -4778,8 +4778,8 @@
               "order": 33,
               "distance": 368,
               "stop": {
-                "id": 12509,
-                "publicId": "12509",
+                "id": "12509",
+                "internalId": 12509,
                 "name": "Palácio Da Mitra",
                 "position": {
                   "latitude": 38.73968,
@@ -4794,8 +4794,8 @@
               "order": 34,
               "distance": 207,
               "stop": {
-                "id": 12511,
-                "publicId": "12511",
+                "id": "12511",
+                "internalId": 12511,
                 "name": "Poço Bispo",
                 "position": {
                   "latitude": 38.742867,
@@ -4810,8 +4810,8 @@
               "order": 35,
               "distance": 337,
               "stop": {
-                "id": 12501,
-                "publicId": "12501",
+                "id": "12501",
+                "internalId": 12501,
                 "name": "Fábrica Braço Prata",
                 "position": {
                   "latitude": 38.744621,
@@ -4826,8 +4826,8 @@
               "order": 36,
               "distance": 289,
               "stop": {
-                "id": 50338,
-                "publicId": "2216",
+                "id": "2216",
+                "internalId": 50338,
                 "name": "R. Fernando Palha",
                 "position": {
                   "latitude": 38.747212,
@@ -4842,8 +4842,8 @@
               "order": 37,
               "distance": 370,
               "stop": {
-                "id": 2204,
-                "publicId": "2204",
+                "id": "2204",
+                "internalId": 2204,
                 "name": "Matinha",
                 "position": {
                   "latitude": 38.747799,
@@ -4858,8 +4858,8 @@
               "order": 38,
               "distance": 480,
               "stop": {
-                "id": 2202,
-                "publicId": "2202",
+                "id": "2202",
+                "internalId": 2202,
                 "name": "Fábrica Do Gás",
                 "position": {
                   "latitude": 38.751008,
@@ -4874,8 +4874,8 @@
               "order": 39,
               "distance": 324,
               "stop": {
-                "id": 2410,
-                "publicId": "2410",
+                "id": "2410",
+                "internalId": 2410,
                 "name": "Parque Das Nações Sul",
                 "position": {
                   "latitude": 38.755026,
@@ -4890,8 +4890,8 @@
               "order": 40,
               "distance": 380,
               "stop": {
-                "id": 50315,
-                "publicId": "2411",
+                "id": "2411",
+                "internalId": 50315,
                 "name": "Passeio Adamastor",
                 "position": {
                   "latitude": 38.757937,
@@ -4906,8 +4906,8 @@
               "order": 41,
               "distance": 344,
               "stop": {
-                "id": 2404,
-                "publicId": "2404",
+                "id": "2404",
+                "internalId": 2404,
                 "name": "Oceanário De Lisboa",
                 "position": {
                   "latitude": 38.761271,
@@ -4922,8 +4922,8 @@
               "order": 42,
               "distance": 414,
               "stop": {
-                "id": 2402,
-                "publicId": "2402",
+                "id": "2402",
+                "internalId": 2402,
                 "name": "Av. Do Mediterrâneo",
                 "position": {
                   "latitude": 38.762504,
@@ -4938,8 +4938,8 @@
               "order": 43,
               "distance": 225,
               "stop": {
-                "id": 2512,
-                "publicId": "2512",
+                "id": "2512",
+                "internalId": 2512,
                 "name": "Rua Do Caribe",
                 "position": {
                   "latitude": 38.766221,
@@ -4954,8 +4954,8 @@
               "order": 44,
               "distance": 719,
               "stop": {
-                "id": 7825,
-                "publicId": "7825",
+                "id": "7825",
+                "internalId": 7825,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.767173,
@@ -4970,8 +4970,8 @@
               "order": 45,
               "distance": 439,
               "stop": {
-                "id": 7803,
-                "publicId": "7803",
+                "id": "7803",
+                "internalId": 7803,
                 "name": "Olivais Velho",
                 "position": {
                   "latitude": 38.770041,
@@ -4986,8 +4986,8 @@
               "order": 46,
               "distance": 355,
               "stop": {
-                "id": 7807,
-                "publicId": "7807",
+                "id": "7807",
+                "internalId": 7807,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.773965,
@@ -5002,8 +5002,8 @@
               "order": 47,
               "distance": 406,
               "stop": {
-                "id": 7909,
-                "publicId": "7909",
+                "id": "7909",
+                "internalId": 7909,
                 "name": "Rua João Pinto Ribeiro",
                 "position": {
                   "latitude": 38.774787,
@@ -5018,8 +5018,8 @@
               "order": 48,
               "distance": 235,
               "stop": {
-                "id": 7905,
-                "publicId": "7905",
+                "id": "7905",
+                "internalId": 7905,
                 "name": "Rua Laureano Oliveira",
                 "position": {
                   "latitude": 38.777627,
@@ -5034,8 +5034,8 @@
               "order": 49,
               "distance": 1055,
               "stop": {
-                "id": 7903,
-                "publicId": "7903",
+                "id": "7903",
+                "internalId": 7903,
                 "name": "Moscavide Centro",
                 "position": {
                   "latitude": 38.779635,
@@ -5050,8 +5050,8 @@
               "order": 50,
               "distance": 239,
               "stop": {
-                "id": 12618,
-                "publicId": "12618",
+                "id": "12618",
+                "internalId": 12618,
                 "name": "Portela - Seminário",
                 "position": {
                   "latitude": 38.781335,
@@ -5066,8 +5066,8 @@
               "order": 51,
               "distance": 275,
               "stop": {
-                "id": 12617,
-                "publicId": "12617",
+                "id": "12617",
+                "internalId": 12617,
                 "name": "Portela - Rua Dos Escritores",
                 "position": {
                   "latitude": 38.78244,
@@ -5082,8 +5082,8 @@
               "order": 52,
               "distance": 241,
               "stop": {
-                "id": 12627,
-                "publicId": "12627",
+                "id": "12627",
+                "internalId": 12627,
                 "name": "Portela - Avenida Da República",
                 "position": {
                   "latitude": 38.783939,
@@ -5098,8 +5098,8 @@
               "order": 53,
               "distance": 327,
               "stop": {
-                "id": 12610,
-                "publicId": "12610",
+                "id": "12610",
+                "internalId": 12610,
                 "name": "Centro Comercial Da Portela",
                 "position": {
                   "latitude": 38.783803,
@@ -5114,8 +5114,8 @@
               "order": 54,
               "distance": 0,
               "stop": {
-                "id": 12613,
-                "publicId": "12613",
+                "id": "12613",
+                "internalId": 12613,
                 "name": "Avenida Dos Descobrimentos",
                 "position": {
                   "latitude": 38.781942,
@@ -5137,8 +5137,8 @@
               "order": 1,
               "distance": 264,
               "stop": {
-                "id": 12613,
-                "publicId": "12613",
+                "id": "12613",
+                "internalId": 12613,
                 "name": "Avenida Dos Descobrimentos",
                 "position": {
                   "latitude": 38.781942,
@@ -5153,8 +5153,8 @@
               "order": 2,
               "distance": 387,
               "stop": {
-                "id": 12615,
-                "publicId": "12615",
+                "id": "12615",
+                "internalId": 12615,
                 "name": "Centro Comercial Da Portela",
                 "position": {
                   "latitude": 38.781007,
@@ -5169,8 +5169,8 @@
               "order": 3,
               "distance": 630,
               "stop": {
-                "id": 12619,
-                "publicId": "12619",
+                "id": "12619",
+                "internalId": 12619,
                 "name": "Portela - Seminário",
                 "position": {
                   "latitude": 38.781221,
@@ -5185,8 +5185,8 @@
               "order": 4,
               "distance": 387,
               "stop": {
-                "id": 7904,
-                "publicId": "7904",
+                "id": "7904",
+                "internalId": 7904,
                 "name": "Moscavide Centro",
                 "position": {
                   "latitude": 38.779637,
@@ -5201,8 +5201,8 @@
               "order": 5,
               "distance": 198,
               "stop": {
-                "id": 7906,
-                "publicId": "7906",
+                "id": "7906",
+                "internalId": 7906,
                 "name": "Rua Laureano Oliveira",
                 "position": {
                   "latitude": 38.776416,
@@ -5217,8 +5217,8 @@
               "order": 6,
               "distance": 521,
               "stop": {
-                "id": 7908,
-                "publicId": "7908",
+                "id": "7908",
+                "internalId": 7908,
                 "name": "Moscavide",
                 "position": {
                   "latitude": 38.775044,
@@ -5233,8 +5233,8 @@
               "order": 7,
               "distance": 300,
               "stop": {
-                "id": 7811,
-                "publicId": "7811",
+                "id": "7811",
+                "internalId": 7811,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.773017,
@@ -5249,8 +5249,8 @@
               "order": 8,
               "distance": 693,
               "stop": {
-                "id": 7806,
-                "publicId": "7806",
+                "id": "7806",
+                "internalId": 7806,
                 "name": "Olivais Velho",
                 "position": {
                   "latitude": 38.770364,
@@ -5265,8 +5265,8 @@
               "order": 9,
               "distance": 380,
               "stop": {
-                "id": 7805,
-                "publicId": "7805",
+                "id": "7805",
+                "internalId": 7805,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.768475,
@@ -5281,8 +5281,8 @@
               "order": 10,
               "distance": 397,
               "stop": {
-                "id": 2511,
-                "publicId": "2511",
+                "id": "2511",
+                "internalId": 2511,
                 "name": "Rua Do Caribe",
                 "position": {
                   "latitude": 38.765975,
@@ -5297,8 +5297,8 @@
               "order": 11,
               "distance": 363,
               "stop": {
-                "id": 2401,
-                "publicId": "2401",
+                "id": "2401",
+                "internalId": 2401,
                 "name": "Av. Do Mediterrâneo",
                 "position": {
                   "latitude": 38.762409,
@@ -5313,8 +5313,8 @@
               "order": 12,
               "distance": 379,
               "stop": {
-                "id": 2403,
-                "publicId": "2403",
+                "id": "2403",
+                "internalId": 2403,
                 "name": "Oceanário De Lisboa",
                 "position": {
                   "latitude": 38.761089,
@@ -5329,8 +5329,8 @@
               "order": 13,
               "distance": 269,
               "stop": {
-                "id": 50316,
-                "publicId": "2412",
+                "id": "2412",
+                "internalId": 50316,
                 "name": "Passeio Adamastor",
                 "position": {
                   "latitude": 38.757736,
@@ -5345,8 +5345,8 @@
               "order": 14,
               "distance": 271,
               "stop": {
-                "id": 2409,
-                "publicId": "2409",
+                "id": "2409",
+                "internalId": 2409,
                 "name": "Parque Das Nações Sul",
                 "position": {
                   "latitude": 38.755317,
@@ -5361,8 +5361,8 @@
               "order": 15,
               "distance": 371,
               "stop": {
-                "id": 2307,
-                "publicId": "2307",
+                "id": "2307",
+                "internalId": 2307,
                 "name": "Gás De Portugal",
                 "position": {
                   "latitude": 38.753497,
@@ -5377,8 +5377,8 @@
               "order": 16,
               "distance": 249,
               "stop": {
-                "id": 2201,
-                "publicId": "2201",
+                "id": "2201",
+                "internalId": 2201,
                 "name": "Fábrica Do Gás",
                 "position": {
                   "latitude": 38.750304,
@@ -5393,8 +5393,8 @@
               "order": 17,
               "distance": 371,
               "stop": {
-                "id": 2203,
-                "publicId": "2203",
+                "id": "2203",
+                "internalId": 2203,
                 "name": "Matinha",
                 "position": {
                   "latitude": 38.748127,
@@ -5409,8 +5409,8 @@
               "order": 18,
               "distance": 264,
               "stop": {
-                "id": 50337,
-                "publicId": "2215",
+                "id": "2215",
+                "internalId": 50337,
                 "name": "R. Fernando Palha",
                 "position": {
                   "latitude": 38.746933,
@@ -5425,8 +5425,8 @@
               "order": 19,
               "distance": 323,
               "stop": {
-                "id": 12504,
-                "publicId": "12504",
+                "id": "12504",
+                "internalId": 12504,
                 "name": "Fábrica Braço Prata",
                 "position": {
                   "latitude": 38.744944,
@@ -5441,8 +5441,8 @@
               "order": 20,
               "distance": 369,
               "stop": {
-                "id": 12512,
-                "publicId": "12512",
+                "id": "12512",
+                "internalId": 12512,
                 "name": "Poço Do Bispo",
                 "position": {
                   "latitude": 38.742455,
@@ -5457,8 +5457,8 @@
               "order": 21,
               "distance": 260,
               "stop": {
-                "id": 12510,
-                "publicId": "12510",
+                "id": "12510",
+                "internalId": 12510,
                 "name": "Palácio Da Mitra",
                 "position": {
                   "latitude": 38.739182,
@@ -5473,8 +5473,8 @@
               "order": 22,
               "distance": 223,
               "stop": {
-                "id": 12508,
-                "publicId": "12508",
+                "id": "12508",
+                "internalId": 12508,
                 "name": "Rua Do Açúcar",
                 "position": {
                   "latitude": 38.736915,
@@ -5489,8 +5489,8 @@
               "order": 23,
               "distance": 277,
               "stop": {
-                "id": 12514,
-                "publicId": "12514",
+                "id": "12514",
+                "internalId": 12514,
                 "name": "Beato",
                 "position": {
                   "latitude": 38.735276,
@@ -5505,8 +5505,8 @@
               "order": 24,
               "distance": 505,
               "stop": {
-                "id": 8314,
-                "publicId": "8314",
+                "id": "8314",
+                "internalId": 8314,
                 "name": "Manutenção Militar",
                 "position": {
                   "latitude": 38.732859,
@@ -5521,8 +5521,8 @@
               "order": 25,
               "distance": 394,
               "stop": {
-                "id": 8312,
-                "publicId": "8312",
+                "id": "8312",
+                "internalId": 8312,
                 "name": "Doca De Xabregas",
                 "position": {
                   "latitude": 38.72891,
@@ -5537,8 +5537,8 @@
               "order": 26,
               "distance": 257,
               "stop": {
-                "id": 8310,
-                "publicId": "8310",
+                "id": "8310",
+                "internalId": 8310,
                 "name": "Xabregas / Rua Da Manutenção",
                 "position": {
                   "latitude": 38.726303,
@@ -5553,8 +5553,8 @@
               "order": 27,
               "distance": 226,
               "stop": {
-                "id": 9810,
-                "publicId": "9810",
+                "id": "9810",
+                "internalId": 9810,
                 "name": "Av. Inf. D. Henrique (Ponte Xa",
                 "position": {
                   "latitude": 38.724351,
@@ -5569,8 +5569,8 @@
               "order": 28,
               "distance": 817,
               "stop": {
-                "id": 9812,
-                "publicId": "9812",
+                "id": "9812",
+                "internalId": 9812,
                 "name": "Av. Inf. D. Henrique (Tipograf",
                 "position": {
                   "latitude": 38.722659,
@@ -5585,8 +5585,8 @@
               "order": 29,
               "distance": 473,
               "stop": {
-                "id": 2128,
-                "publicId": "2128",
+                "id": "2128",
+                "internalId": 2128,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716784,
@@ -5601,8 +5601,8 @@
               "order": 30,
               "distance": 471,
               "stop": {
-                "id": 2114,
-                "publicId": "2114",
+                "id": "2114",
+                "internalId": 2114,
                 "name": "Estação Sta. Apolónia",
                 "position": {
                   "latitude": 38.713576,
@@ -5617,8 +5617,8 @@
               "order": 31,
               "distance": 248,
               "stop": {
-                "id": 8204,
-                "publicId": "8204",
+                "id": "8204",
+                "internalId": 8204,
                 "name": "Cais Lingueta",
                 "position": {
                   "latitude": 38.711013,
@@ -5633,8 +5633,8 @@
               "order": 32,
               "distance": 498,
               "stop": {
-                "id": 8202,
-                "publicId": "8202",
+                "id": "8202",
+                "internalId": 8202,
                 "name": "Alfândega (Terminal Cruzeiros)",
                 "position": {
                   "latitude": 38.709574,
@@ -5649,8 +5649,8 @@
               "order": 33,
               "distance": 500,
               "stop": {
-                "id": 4502,
-                "publicId": "4502",
+                "id": "4502",
+                "internalId": 4502,
                 "name": "Sul E Sueste",
                 "position": {
                   "latitude": 38.708298,
@@ -5665,8 +5665,8 @@
               "order": 34,
               "distance": 266,
               "stop": {
-                "id": 5504,
-                "publicId": "5504",
+                "id": "5504",
+                "internalId": 5504,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.707944,
@@ -5681,8 +5681,8 @@
               "order": 35,
               "distance": 408,
               "stop": {
-                "id": 3820,
-                "publicId": "3820",
+                "id": "3820",
+                "internalId": 3820,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.707363,
@@ -5697,8 +5697,8 @@
               "order": 36,
               "distance": 390,
               "stop": {
-                "id": 3802,
-                "publicId": "3802",
+                "id": "3802",
+                "internalId": 3802,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706332,
@@ -5713,8 +5713,8 @@
               "order": 37,
               "distance": 547,
               "stop": {
-                "id": 7102,
-                "publicId": "7102",
+                "id": "7102",
+                "internalId": 7102,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706414,
@@ -5729,8 +5729,8 @@
               "order": 38,
               "distance": 632,
               "stop": {
-                "id": 3902,
-                "publicId": "3902",
+                "id": "3902",
+                "internalId": 3902,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706142,
@@ -5745,8 +5745,8 @@
               "order": 39,
               "distance": 458,
               "stop": {
-                "id": 3906,
-                "publicId": "3906",
+                "id": "3906",
+                "internalId": 3906,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.70367,
@@ -5761,8 +5761,8 @@
               "order": 40,
               "distance": 508,
               "stop": {
-                "id": 10202,
-                "publicId": "10202",
+                "id": "10202",
+                "internalId": 10202,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703447,
@@ -5777,8 +5777,8 @@
               "order": 41,
               "distance": 1350,
               "stop": {
-                "id": 4002,
-                "publicId": "4002",
+                "id": "4002",
+                "internalId": 4002,
                 "name": "Alcântara Mar",
                 "position": {
                   "latitude": 38.702944,
@@ -5793,8 +5793,8 @@
               "order": 42,
               "distance": 1125,
               "stop": {
-                "id": 9502,
-                "publicId": "9502",
+                "id": "9502",
+                "internalId": 9502,
                 "name": "Hospital Egas Moniz",
                 "position": {
                   "latitude": 38.697763,
@@ -5809,8 +5809,8 @@
               "order": 43,
               "distance": 544,
               "stop": {
-                "id": 4102,
-                "publicId": "4102",
+                "id": "4102",
+                "internalId": 4102,
                 "name": "Estação Fluvial De Belém",
                 "position": {
                   "latitude": 38.696716,
@@ -5825,8 +5825,8 @@
               "order": 44,
               "distance": 265,
               "stop": {
-                "id": 9604,
-                "publicId": "9604",
+                "id": "9604",
+                "internalId": 9604,
                 "name": "Mosteiro Jerónimos",
                 "position": {
                   "latitude": 38.697725,
@@ -5841,8 +5841,8 @@
               "order": 45,
               "distance": 204,
               "stop": {
-                "id": 9608,
-                "publicId": "9608",
+                "id": "9608",
+                "internalId": 9608,
                 "name": "Rua Dos Jerónimos",
                 "position": {
                   "latitude": 38.699801,
@@ -5857,8 +5857,8 @@
               "order": 46,
               "distance": 287,
               "stop": {
-                "id": 9606,
-                "publicId": "9606",
+                "id": "9606",
+                "internalId": 9606,
                 "name": "Bº Terras Do Forno",
                 "position": {
                   "latitude": 38.701573,
@@ -5873,8 +5873,8 @@
               "order": 47,
               "distance": 275,
               "stop": {
-                "id": 13107,
-                "publicId": "13107",
+                "id": "13107",
+                "internalId": 13107,
                 "name": "Estádio Do Restelo",
                 "position": {
                   "latitude": 38.704004,
@@ -5889,8 +5889,8 @@
               "order": 48,
               "distance": 208,
               "stop": {
-                "id": 13118,
-                "publicId": "13118",
+                "id": "13118",
+                "internalId": 13118,
                 "name": "Rua Gonçalves Zarco",
                 "position": {
                   "latitude": 38.705935,
@@ -5905,8 +5905,8 @@
               "order": 49,
               "distance": 326,
               "stop": {
-                "id": 13116,
-                "publicId": "13116",
+                "id": "13116",
+                "internalId": 13116,
                 "name": "R. Tristão Vaz",
                 "position": {
                   "latitude": 38.707711,
@@ -5921,8 +5921,8 @@
               "order": 50,
               "distance": 312,
               "stop": {
-                "id": 13102,
-                "publicId": "13102",
+                "id": "13102",
+                "internalId": 13102,
                 "name": "Restelo - Rua Tristão Vaz",
                 "position": {
                   "latitude": 38.709695,
@@ -5937,8 +5937,8 @@
               "order": 51,
               "distance": 233,
               "stop": {
-                "id": 12406,
-                "publicId": "12406",
+                "id": "12406",
+                "internalId": 12406,
                 "name": "Restelo (Torres) - R. Antão Go",
                 "position": {
                   "latitude": 38.709346,
@@ -5953,8 +5953,8 @@
               "order": 52,
               "distance": 0,
               "stop": {
-                "id": 12409,
-                "publicId": "12409",
+                "id": "12409",
+                "internalId": 12409,
                 "name": "Restelo (Av. Das Descobertas)",
                 "position": {
                   "latitude": 38.70908,
@@ -5983,8 +5983,8 @@
               "order": 1,
               "distance": 455,
               "stop": {
-                "id": 3804,
-                "publicId": "3804",
+                "id": "3804",
+                "internalId": 3804,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.7059,
@@ -5999,8 +5999,8 @@
               "order": 2,
               "distance": 446,
               "stop": {
-                "id": 3824,
-                "publicId": "3824",
+                "id": "3824",
+                "internalId": 3824,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.70718,
@@ -6015,8 +6015,8 @@
               "order": 3,
               "distance": 313,
               "stop": {
-                "id": 5501,
-                "publicId": "5501",
+                "id": "5501",
+                "internalId": 5501,
                 "name": "Pç. Comércio",
                 "position": {
                   "latitude": 38.708331,
@@ -6031,8 +6031,8 @@
               "order": 4,
               "distance": 339,
               "stop": {
-                "id": 4505,
-                "publicId": "4505",
+                "id": "4505",
+                "internalId": 4505,
                 "name": "Sul E Sueste",
                 "position": {
                   "latitude": 38.708276,
@@ -6047,8 +6047,8 @@
               "order": 5,
               "distance": 331,
               "stop": {
-                "id": 4503,
-                "publicId": "4503",
+                "id": "4503",
+                "internalId": 4503,
                 "name": "Campo Cebolas",
                 "position": {
                   "latitude": 38.708686,
@@ -6063,8 +6063,8 @@
               "order": 6,
               "distance": 487,
               "stop": {
-                "id": 8201,
-                "publicId": "8201",
+                "id": "8201",
+                "internalId": 8201,
                 "name": "Alfândega (Terminal Cruzeiros)",
                 "position": {
                   "latitude": 38.710505,
@@ -6079,8 +6079,8 @@
               "order": 7,
               "distance": 538,
               "stop": {
-                "id": 2111,
-                "publicId": "2111",
+                "id": "2111",
+                "internalId": 2111,
                 "name": "Estação Sta. Apolónia",
                 "position": {
                   "latitude": 38.713031,
@@ -6095,8 +6095,8 @@
               "order": 8,
               "distance": 870,
               "stop": {
-                "id": 2127,
-                "publicId": "2127",
+                "id": "2127",
+                "internalId": 2127,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716716,
@@ -6111,8 +6111,8 @@
               "order": 9,
               "distance": 329,
               "stop": {
-                "id": 9811,
-                "publicId": "9811",
+                "id": "9811",
+                "internalId": 9811,
                 "name": "Av. Inf. D. Henrique (Tipograf",
                 "position": {
                   "latitude": 38.723053,
@@ -6127,8 +6127,8 @@
               "order": 10,
               "distance": 161,
               "stop": {
-                "id": 9822,
-                "publicId": "9822",
+                "id": "9822",
+                "internalId": 9822,
                 "name": "Av. Inf. D. Henrique (Ponte Xa",
                 "position": {
                   "latitude": 38.725425,
@@ -6143,8 +6143,8 @@
               "order": 11,
               "distance": 188,
               "stop": {
-                "id": 8301,
-                "publicId": "8301",
+                "id": "8301",
+                "internalId": 8301,
                 "name": "Ponte Xabregas",
                 "position": {
                   "latitude": 38.726269,
@@ -6159,8 +6159,8 @@
               "order": 12,
               "distance": 377,
               "stop": {
-                "id": 8303,
-                "publicId": "8303",
+                "id": "8303",
+                "internalId": 8303,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.727437,
@@ -6175,8 +6175,8 @@
               "order": 13,
               "distance": 378,
               "stop": {
-                "id": 8305,
-                "publicId": "8305",
+                "id": "8305",
+                "internalId": 8305,
                 "name": "Cç. Do Grilo",
                 "position": {
                   "latitude": 38.730248,
@@ -6191,8 +6191,8 @@
               "order": 14,
               "distance": 216,
               "stop": {
-                "id": 8307,
-                "publicId": "8307",
+                "id": "8307",
+                "internalId": 8307,
                 "name": "Alameda Do Beato",
                 "position": {
                   "latitude": 38.733098,
@@ -6207,8 +6207,8 @@
               "order": 15,
               "distance": 279,
               "stop": {
-                "id": 12505,
-                "publicId": "12505",
+                "id": "12505",
+                "internalId": 12505,
                 "name": "Beato",
                 "position": {
                   "latitude": 38.734908,
@@ -6223,8 +6223,8 @@
               "order": 16,
               "distance": 276,
               "stop": {
-                "id": 12507,
-                "publicId": "12507",
+                "id": "12507",
+                "internalId": 12507,
                 "name": "Rua Do Açúcar",
                 "position": {
                   "latitude": 38.737261,
@@ -6239,8 +6239,8 @@
               "order": 17,
               "distance": 368,
               "stop": {
-                "id": 12509,
-                "publicId": "12509",
+                "id": "12509",
+                "internalId": 12509,
                 "name": "Palácio Da Mitra",
                 "position": {
                   "latitude": 38.73968,
@@ -6255,8 +6255,8 @@
               "order": 18,
               "distance": 207,
               "stop": {
-                "id": 12511,
-                "publicId": "12511",
+                "id": "12511",
+                "internalId": 12511,
                 "name": "Poço Bispo",
                 "position": {
                   "latitude": 38.742867,
@@ -6271,8 +6271,8 @@
               "order": 19,
               "distance": 337,
               "stop": {
-                "id": 12501,
-                "publicId": "12501",
+                "id": "12501",
+                "internalId": 12501,
                 "name": "Fábrica Braço Prata",
                 "position": {
                   "latitude": 38.744621,
@@ -6287,8 +6287,8 @@
               "order": 20,
               "distance": 289,
               "stop": {
-                "id": 50338,
-                "publicId": "2216",
+                "id": "2216",
+                "internalId": 50338,
                 "name": "R. Fernando Palha",
                 "position": {
                   "latitude": 38.747212,
@@ -6303,8 +6303,8 @@
               "order": 21,
               "distance": 370,
               "stop": {
-                "id": 2204,
-                "publicId": "2204",
+                "id": "2204",
+                "internalId": 2204,
                 "name": "Matinha",
                 "position": {
                   "latitude": 38.747799,
@@ -6319,8 +6319,8 @@
               "order": 22,
               "distance": 480,
               "stop": {
-                "id": 2202,
-                "publicId": "2202",
+                "id": "2202",
+                "internalId": 2202,
                 "name": "Fábrica Do Gás",
                 "position": {
                   "latitude": 38.751008,
@@ -6335,8 +6335,8 @@
               "order": 23,
               "distance": 324,
               "stop": {
-                "id": 2410,
-                "publicId": "2410",
+                "id": "2410",
+                "internalId": 2410,
                 "name": "Parque Das Nações Sul",
                 "position": {
                   "latitude": 38.755026,
@@ -6351,8 +6351,8 @@
               "order": 24,
               "distance": 380,
               "stop": {
-                "id": 50315,
-                "publicId": "2411",
+                "id": "2411",
+                "internalId": 50315,
                 "name": "Passeio Adamastor",
                 "position": {
                   "latitude": 38.757937,
@@ -6367,8 +6367,8 @@
               "order": 25,
               "distance": 344,
               "stop": {
-                "id": 2404,
-                "publicId": "2404",
+                "id": "2404",
+                "internalId": 2404,
                 "name": "Oceanário De Lisboa",
                 "position": {
                   "latitude": 38.761271,
@@ -6383,8 +6383,8 @@
               "order": 26,
               "distance": 414,
               "stop": {
-                "id": 2402,
-                "publicId": "2402",
+                "id": "2402",
+                "internalId": 2402,
                 "name": "Av. Do Mediterrâneo",
                 "position": {
                   "latitude": 38.762504,
@@ -6399,8 +6399,8 @@
               "order": 27,
               "distance": 225,
               "stop": {
-                "id": 2512,
-                "publicId": "2512",
+                "id": "2512",
+                "internalId": 2512,
                 "name": "Rua Do Caribe",
                 "position": {
                   "latitude": 38.766221,
@@ -6415,8 +6415,8 @@
               "order": 28,
               "distance": 719,
               "stop": {
-                "id": 7825,
-                "publicId": "7825",
+                "id": "7825",
+                "internalId": 7825,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.767173,
@@ -6431,8 +6431,8 @@
               "order": 29,
               "distance": 439,
               "stop": {
-                "id": 7803,
-                "publicId": "7803",
+                "id": "7803",
+                "internalId": 7803,
                 "name": "Olivais Velho",
                 "position": {
                   "latitude": 38.770041,
@@ -6447,8 +6447,8 @@
               "order": 30,
               "distance": 355,
               "stop": {
-                "id": 7807,
-                "publicId": "7807",
+                "id": "7807",
+                "internalId": 7807,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.773965,
@@ -6463,8 +6463,8 @@
               "order": 31,
               "distance": 406,
               "stop": {
-                "id": 7909,
-                "publicId": "7909",
+                "id": "7909",
+                "internalId": 7909,
                 "name": "Rua João Pinto Ribeiro",
                 "position": {
                   "latitude": 38.774787,
@@ -6479,8 +6479,8 @@
               "order": 32,
               "distance": 235,
               "stop": {
-                "id": 7905,
-                "publicId": "7905",
+                "id": "7905",
+                "internalId": 7905,
                 "name": "Rua Laureano Oliveira",
                 "position": {
                   "latitude": 38.777627,
@@ -6495,8 +6495,8 @@
               "order": 33,
               "distance": 1055,
               "stop": {
-                "id": 7903,
-                "publicId": "7903",
+                "id": "7903",
+                "internalId": 7903,
                 "name": "Moscavide Centro",
                 "position": {
                   "latitude": 38.779635,
@@ -6511,8 +6511,8 @@
               "order": 34,
               "distance": 239,
               "stop": {
-                "id": 12618,
-                "publicId": "12618",
+                "id": "12618",
+                "internalId": 12618,
                 "name": "Portela - Seminário",
                 "position": {
                   "latitude": 38.781335,
@@ -6527,8 +6527,8 @@
               "order": 35,
               "distance": 275,
               "stop": {
-                "id": 12617,
-                "publicId": "12617",
+                "id": "12617",
+                "internalId": 12617,
                 "name": "Portela - Rua Dos Escritores",
                 "position": {
                   "latitude": 38.78244,
@@ -6543,8 +6543,8 @@
               "order": 36,
               "distance": 241,
               "stop": {
-                "id": 12627,
-                "publicId": "12627",
+                "id": "12627",
+                "internalId": 12627,
                 "name": "Portela - Avenida Da República",
                 "position": {
                   "latitude": 38.783939,
@@ -6559,8 +6559,8 @@
               "order": 37,
               "distance": 327,
               "stop": {
-                "id": 12610,
-                "publicId": "12610",
+                "id": "12610",
+                "internalId": 12610,
                 "name": "Centro Comercial Da Portela",
                 "position": {
                   "latitude": 38.783803,
@@ -6575,8 +6575,8 @@
               "order": 38,
               "distance": 0,
               "stop": {
-                "id": 12613,
-                "publicId": "12613",
+                "id": "12613",
+                "internalId": 12613,
                 "name": "Avenida Dos Descobrimentos",
                 "position": {
                   "latitude": 38.781942,
@@ -6598,8 +6598,8 @@
               "order": 1,
               "distance": 264,
               "stop": {
-                "id": 12613,
-                "publicId": "12613",
+                "id": "12613",
+                "internalId": 12613,
                 "name": "Avenida Dos Descobrimentos",
                 "position": {
                   "latitude": 38.781942,
@@ -6614,8 +6614,8 @@
               "order": 2,
               "distance": 387,
               "stop": {
-                "id": 12615,
-                "publicId": "12615",
+                "id": "12615",
+                "internalId": 12615,
                 "name": "Centro Comercial Da Portela",
                 "position": {
                   "latitude": 38.781007,
@@ -6630,8 +6630,8 @@
               "order": 3,
               "distance": 630,
               "stop": {
-                "id": 12619,
-                "publicId": "12619",
+                "id": "12619",
+                "internalId": 12619,
                 "name": "Portela - Seminário",
                 "position": {
                   "latitude": 38.781221,
@@ -6646,8 +6646,8 @@
               "order": 4,
               "distance": 387,
               "stop": {
-                "id": 7904,
-                "publicId": "7904",
+                "id": "7904",
+                "internalId": 7904,
                 "name": "Moscavide Centro",
                 "position": {
                   "latitude": 38.779637,
@@ -6662,8 +6662,8 @@
               "order": 5,
               "distance": 198,
               "stop": {
-                "id": 7906,
-                "publicId": "7906",
+                "id": "7906",
+                "internalId": 7906,
                 "name": "Rua Laureano Oliveira",
                 "position": {
                   "latitude": 38.776416,
@@ -6678,8 +6678,8 @@
               "order": 6,
               "distance": 521,
               "stop": {
-                "id": 7908,
-                "publicId": "7908",
+                "id": "7908",
+                "internalId": 7908,
                 "name": "Moscavide",
                 "position": {
                   "latitude": 38.775044,
@@ -6694,8 +6694,8 @@
               "order": 7,
               "distance": 300,
               "stop": {
-                "id": 7811,
-                "publicId": "7811",
+                "id": "7811",
+                "internalId": 7811,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.773017,
@@ -6710,8 +6710,8 @@
               "order": 8,
               "distance": 693,
               "stop": {
-                "id": 7806,
-                "publicId": "7806",
+                "id": "7806",
+                "internalId": 7806,
                 "name": "Olivais Velho",
                 "position": {
                   "latitude": 38.770364,
@@ -6726,8 +6726,8 @@
               "order": 9,
               "distance": 380,
               "stop": {
-                "id": 7805,
-                "publicId": "7805",
+                "id": "7805",
+                "internalId": 7805,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.768475,
@@ -6742,8 +6742,8 @@
               "order": 10,
               "distance": 397,
               "stop": {
-                "id": 2511,
-                "publicId": "2511",
+                "id": "2511",
+                "internalId": 2511,
                 "name": "Rua Do Caribe",
                 "position": {
                   "latitude": 38.765975,
@@ -6758,8 +6758,8 @@
               "order": 11,
               "distance": 363,
               "stop": {
-                "id": 2401,
-                "publicId": "2401",
+                "id": "2401",
+                "internalId": 2401,
                 "name": "Av. Do Mediterrâneo",
                 "position": {
                   "latitude": 38.762409,
@@ -6774,8 +6774,8 @@
               "order": 12,
               "distance": 379,
               "stop": {
-                "id": 2403,
-                "publicId": "2403",
+                "id": "2403",
+                "internalId": 2403,
                 "name": "Oceanário De Lisboa",
                 "position": {
                   "latitude": 38.761089,
@@ -6790,8 +6790,8 @@
               "order": 13,
               "distance": 269,
               "stop": {
-                "id": 50316,
-                "publicId": "2412",
+                "id": "2412",
+                "internalId": 50316,
                 "name": "Passeio Adamastor",
                 "position": {
                   "latitude": 38.757736,
@@ -6806,8 +6806,8 @@
               "order": 14,
               "distance": 271,
               "stop": {
-                "id": 2409,
-                "publicId": "2409",
+                "id": "2409",
+                "internalId": 2409,
                 "name": "Parque Das Nações Sul",
                 "position": {
                   "latitude": 38.755317,
@@ -6822,8 +6822,8 @@
               "order": 15,
               "distance": 371,
               "stop": {
-                "id": 2307,
-                "publicId": "2307",
+                "id": "2307",
+                "internalId": 2307,
                 "name": "Gás De Portugal",
                 "position": {
                   "latitude": 38.753497,
@@ -6838,8 +6838,8 @@
               "order": 16,
               "distance": 249,
               "stop": {
-                "id": 2201,
-                "publicId": "2201",
+                "id": "2201",
+                "internalId": 2201,
                 "name": "Fábrica Do Gás",
                 "position": {
                   "latitude": 38.750304,
@@ -6854,8 +6854,8 @@
               "order": 17,
               "distance": 371,
               "stop": {
-                "id": 2203,
-                "publicId": "2203",
+                "id": "2203",
+                "internalId": 2203,
                 "name": "Matinha",
                 "position": {
                   "latitude": 38.748127,
@@ -6870,8 +6870,8 @@
               "order": 18,
               "distance": 264,
               "stop": {
-                "id": 50337,
-                "publicId": "2215",
+                "id": "2215",
+                "internalId": 50337,
                 "name": "R. Fernando Palha",
                 "position": {
                   "latitude": 38.746933,
@@ -6886,8 +6886,8 @@
               "order": 19,
               "distance": 323,
               "stop": {
-                "id": 12504,
-                "publicId": "12504",
+                "id": "12504",
+                "internalId": 12504,
                 "name": "Fábrica Braço Prata",
                 "position": {
                   "latitude": 38.744944,
@@ -6902,8 +6902,8 @@
               "order": 20,
               "distance": 369,
               "stop": {
-                "id": 12512,
-                "publicId": "12512",
+                "id": "12512",
+                "internalId": 12512,
                 "name": "Poço Do Bispo",
                 "position": {
                   "latitude": 38.742455,
@@ -6918,8 +6918,8 @@
               "order": 21,
               "distance": 260,
               "stop": {
-                "id": 12510,
-                "publicId": "12510",
+                "id": "12510",
+                "internalId": 12510,
                 "name": "Palácio Da Mitra",
                 "position": {
                   "latitude": 38.739182,
@@ -6934,8 +6934,8 @@
               "order": 22,
               "distance": 277,
               "stop": {
-                "id": 12508,
-                "publicId": "12508",
+                "id": "12508",
+                "internalId": 12508,
                 "name": "Rua Do Açúcar",
                 "position": {
                   "latitude": 38.736915,
@@ -6950,8 +6950,8 @@
               "order": 23,
               "distance": 225,
               "stop": {
-                "id": 12506,
-                "publicId": "12506",
+                "id": "12506",
+                "internalId": 12506,
                 "name": "Beato",
                 "position": {
                   "latitude": 38.734683,
@@ -6966,8 +6966,8 @@
               "order": 24,
               "distance": 341,
               "stop": {
-                "id": 8308,
-                "publicId": "8308",
+                "id": "8308",
+                "internalId": 8308,
                 "name": "Al. Beato",
                 "position": {
                   "latitude": 38.732755,
@@ -6982,8 +6982,8 @@
               "order": 25,
               "distance": 258,
               "stop": {
-                "id": 8306,
-                "publicId": "8306",
+                "id": "8306",
+                "internalId": 8306,
                 "name": "Cç. Grilo",
                 "position": {
                   "latitude": 38.730176,
@@ -6998,8 +6998,8 @@
               "order": 26,
               "distance": 425,
               "stop": {
-                "id": 8304,
-                "publicId": "8304",
+                "id": "8304",
+                "internalId": 8304,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.728254,
@@ -7014,8 +7014,8 @@
               "order": 27,
               "distance": 257,
               "stop": {
-                "id": 8310,
-                "publicId": "8310",
+                "id": "8310",
+                "internalId": 8310,
                 "name": "Xabregas / Rua Da Manutenção",
                 "position": {
                   "latitude": 38.726303,
@@ -7030,8 +7030,8 @@
               "order": 28,
               "distance": 226,
               "stop": {
-                "id": 9810,
-                "publicId": "9810",
+                "id": "9810",
+                "internalId": 9810,
                 "name": "Av. Inf. D. Henrique (Ponte Xa",
                 "position": {
                   "latitude": 38.724351,
@@ -7046,8 +7046,8 @@
               "order": 29,
               "distance": 817,
               "stop": {
-                "id": 9812,
-                "publicId": "9812",
+                "id": "9812",
+                "internalId": 9812,
                 "name": "Av. Inf. D. Henrique (Tipograf",
                 "position": {
                   "latitude": 38.722659,
@@ -7062,8 +7062,8 @@
               "order": 30,
               "distance": 473,
               "stop": {
-                "id": 2128,
-                "publicId": "2128",
+                "id": "2128",
+                "internalId": 2128,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716784,
@@ -7078,8 +7078,8 @@
               "order": 31,
               "distance": 471,
               "stop": {
-                "id": 2114,
-                "publicId": "2114",
+                "id": "2114",
+                "internalId": 2114,
                 "name": "Estação Sta. Apolónia",
                 "position": {
                   "latitude": 38.713576,
@@ -7094,8 +7094,8 @@
               "order": 32,
               "distance": 248,
               "stop": {
-                "id": 8204,
-                "publicId": "8204",
+                "id": "8204",
+                "internalId": 8204,
                 "name": "Cais Lingueta",
                 "position": {
                   "latitude": 38.711013,
@@ -7110,8 +7110,8 @@
               "order": 33,
               "distance": 498,
               "stop": {
-                "id": 8202,
-                "publicId": "8202",
+                "id": "8202",
+                "internalId": 8202,
                 "name": "Alfândega (Terminal Cruzeiros)",
                 "position": {
                   "latitude": 38.709574,
@@ -7126,8 +7126,8 @@
               "order": 34,
               "distance": 500,
               "stop": {
-                "id": 4502,
-                "publicId": "4502",
+                "id": "4502",
+                "internalId": 4502,
                 "name": "Sul E Sueste",
                 "position": {
                   "latitude": 38.708298,
@@ -7142,8 +7142,8 @@
               "order": 35,
               "distance": 266,
               "stop": {
-                "id": 5504,
-                "publicId": "5504",
+                "id": "5504",
+                "internalId": 5504,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.707944,
@@ -7158,8 +7158,8 @@
               "order": 36,
               "distance": 318,
               "stop": {
-                "id": 3820,
-                "publicId": "3820",
+                "id": "3820",
+                "internalId": 3820,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.707363,
@@ -7174,8 +7174,8 @@
               "order": 37,
               "distance": 0,
               "stop": {
-                "id": 3804,
-                "publicId": "3804",
+                "id": "3804",
+                "internalId": 3804,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.7059,
@@ -8715,8 +8715,8 @@
               "order": 1,
               "distance": 255,
               "stop": {
-                "id": 9603,
-                "publicId": "9603",
+                "id": "9603",
+                "internalId": 9603,
                 "name": "Mosteiro Dos Jerónimos",
                 "position": {
                   "latitude": 38.697258,
@@ -8731,8 +8731,8 @@
               "order": 2,
               "distance": 327,
               "stop": {
-                "id": 4109,
-                "publicId": "4109",
+                "id": "4109",
+                "internalId": 4109,
                 "name": "Belém",
                 "position": {
                   "latitude": 38.697127,
@@ -8747,8 +8747,8 @@
               "order": 3,
               "distance": 898,
               "stop": {
-                "id": 4101,
-                "publicId": "4101",
+                "id": "4101",
+                "internalId": 4101,
                 "name": "Estação Fluvial De Belém",
                 "position": {
                   "latitude": 38.696222,
@@ -8763,8 +8763,8 @@
               "order": 4,
               "distance": 1447,
               "stop": {
-                "id": 9501,
-                "publicId": "9501",
+                "id": "9501",
+                "internalId": 9501,
                 "name": "Hospital Egas Moniz",
                 "position": {
                   "latitude": 38.697425,
@@ -8779,8 +8779,8 @@
               "order": 5,
               "distance": 559,
               "stop": {
-                "id": 4003,
-                "publicId": "4003",
+                "id": "4003",
+                "internalId": 4003,
                 "name": "Alcântara Mar",
                 "position": {
                   "latitude": 38.702867,
@@ -8795,8 +8795,8 @@
               "order": 6,
               "distance": 373,
               "stop": {
-                "id": 10201,
-                "publicId": "10201",
+                "id": "10201",
+                "internalId": 10201,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703363,
@@ -8811,8 +8811,8 @@
               "order": 7,
               "distance": 679,
               "stop": {
-                "id": 3905,
-                "publicId": "3905",
+                "id": "3905",
+                "internalId": 3905,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.703508,
@@ -8827,8 +8827,8 @@
               "order": 8,
               "distance": 509,
               "stop": {
-                "id": 3901,
-                "publicId": "3901",
+                "id": "3901",
+                "internalId": 3901,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706171,
@@ -8843,8 +8843,8 @@
               "order": 9,
               "distance": 428,
               "stop": {
-                "id": 7101,
-                "publicId": "7101",
+                "id": "7101",
+                "internalId": 7101,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706331,
@@ -8859,8 +8859,8 @@
               "order": 10,
               "distance": 392,
               "stop": {
-                "id": 3803,
-                "publicId": "3803",
+                "id": "3803",
+                "internalId": 3803,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706244,
@@ -8875,8 +8875,8 @@
               "order": 11,
               "distance": 446,
               "stop": {
-                "id": 3824,
-                "publicId": "3824",
+                "id": "3824",
+                "internalId": 3824,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.70718,
@@ -8891,8 +8891,8 @@
               "order": 12,
               "distance": 313,
               "stop": {
-                "id": 5501,
-                "publicId": "5501",
+                "id": "5501",
+                "internalId": 5501,
                 "name": "Pç. Comércio",
                 "position": {
                   "latitude": 38.708331,
@@ -8907,8 +8907,8 @@
               "order": 13,
               "distance": 339,
               "stop": {
-                "id": 4505,
-                "publicId": "4505",
+                "id": "4505",
+                "internalId": 4505,
                 "name": "Sul E Sueste",
                 "position": {
                   "latitude": 38.708276,
@@ -8923,8 +8923,8 @@
               "order": 14,
               "distance": 331,
               "stop": {
-                "id": 4503,
-                "publicId": "4503",
+                "id": "4503",
+                "internalId": 4503,
                 "name": "Campo Cebolas",
                 "position": {
                   "latitude": 38.708686,
@@ -8939,8 +8939,8 @@
               "order": 15,
               "distance": 487,
               "stop": {
-                "id": 8201,
-                "publicId": "8201",
+                "id": "8201",
+                "internalId": 8201,
                 "name": "Alfândega (Terminal Cruzeiros)",
                 "position": {
                   "latitude": 38.710505,
@@ -8955,8 +8955,8 @@
               "order": 16,
               "distance": 538,
               "stop": {
-                "id": 2111,
-                "publicId": "2111",
+                "id": "2111",
+                "internalId": 2111,
                 "name": "Estação Sta. Apolónia",
                 "position": {
                   "latitude": 38.713031,
@@ -8971,8 +8971,8 @@
               "order": 17,
               "distance": 0,
               "stop": {
-                "id": 2127,
-                "publicId": "2127",
+                "id": "2127",
+                "internalId": 2127,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716716,
@@ -10057,8 +10057,8 @@
               "order": 5,
               "distance": 500,
               "stop": {
-                "id": 4502,
-                "publicId": "4502",
+                "id": "4502",
+                "internalId": 4502,
                 "name": "Sul E Sueste",
                 "position": {
                   "latitude": 38.708298,
@@ -10073,8 +10073,8 @@
               "order": 6,
               "distance": 266,
               "stop": {
-                "id": 5504,
-                "publicId": "5504",
+                "id": "5504",
+                "internalId": 5504,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.707944,
@@ -10089,8 +10089,8 @@
               "order": 7,
               "distance": 408,
               "stop": {
-                "id": 3820,
-                "publicId": "3820",
+                "id": "3820",
+                "internalId": 3820,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.707363,
@@ -10105,8 +10105,8 @@
               "order": 8,
               "distance": 390,
               "stop": {
-                "id": 3802,
-                "publicId": "3802",
+                "id": "3802",
+                "internalId": 3802,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706332,
@@ -10121,8 +10121,8 @@
               "order": 9,
               "distance": 547,
               "stop": {
-                "id": 7102,
-                "publicId": "7102",
+                "id": "7102",
+                "internalId": 7102,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706414,
@@ -10137,8 +10137,8 @@
               "order": 10,
               "distance": 632,
               "stop": {
-                "id": 3902,
-                "publicId": "3902",
+                "id": "3902",
+                "internalId": 3902,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706142,
@@ -10153,8 +10153,8 @@
               "order": 11,
               "distance": 458,
               "stop": {
-                "id": 3906,
-                "publicId": "3906",
+                "id": "3906",
+                "internalId": 3906,
                 "name": "Cais Da Rocha",
                 "position": {
                   "latitude": 38.70367,
@@ -10169,8 +10169,8 @@
               "order": 12,
               "distance": 508,
               "stop": {
-                "id": 10202,
-                "publicId": "10202",
+                "id": "10202",
+                "internalId": 10202,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703447,
@@ -10185,8 +10185,8 @@
               "order": 13,
               "distance": 1350,
               "stop": {
-                "id": 4002,
-                "publicId": "4002",
+                "id": "4002",
+                "internalId": 4002,
                 "name": "Alcântara Mar",
                 "position": {
                   "latitude": 38.702944,
@@ -10201,8 +10201,8 @@
               "order": 14,
               "distance": 1125,
               "stop": {
-                "id": 9502,
-                "publicId": "9502",
+                "id": "9502",
+                "internalId": 9502,
                 "name": "Hospital Egas Moniz",
                 "position": {
                   "latitude": 38.697763,
@@ -10217,8 +10217,8 @@
               "order": 15,
               "distance": 574,
               "stop": {
-                "id": 4102,
-                "publicId": "4102",
+                "id": "4102",
+                "internalId": 4102,
                 "name": "Estação Fluvial De Belém",
                 "position": {
                   "latitude": 38.696716,
@@ -10233,8 +10233,8 @@
               "order": 16,
               "distance": 0,
               "stop": {
-                "id": 9610,
-                "publicId": "9610",
+                "id": "9610",
+                "internalId": 9610,
                 "name": "Mosteiro Jerónimos",
                 "position": {
                   "latitude": 38.697299,
@@ -10249,8 +10249,8 @@
               "order": 1,
               "distance": 473,
               "stop": {
-                "id": 2128,
-                "publicId": "2128",
+                "id": "2128",
+                "internalId": 2128,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716784,
@@ -10265,8 +10265,8 @@
               "order": 2,
               "distance": 471,
               "stop": {
-                "id": 2114,
-                "publicId": "2114",
+                "id": "2114",
+                "internalId": 2114,
                 "name": "Estação Sta. Apolónia",
                 "position": {
                   "latitude": 38.713576,
@@ -10281,8 +10281,8 @@
               "order": 3,
               "distance": 248,
               "stop": {
-                "id": 8204,
-                "publicId": "8204",
+                "id": "8204",
+                "internalId": 8204,
                 "name": "Cais Lingueta",
                 "position": {
                   "latitude": 38.711013,
@@ -10297,8 +10297,8 @@
               "order": 4,
               "distance": 498,
               "stop": {
-                "id": 8202,
-                "publicId": "8202",
+                "id": "8202",
+                "internalId": 8202,
                 "name": "Alfândega (Terminal Cruzeiros)",
                 "position": {
                   "latitude": 38.709574,

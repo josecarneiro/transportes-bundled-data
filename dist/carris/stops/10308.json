@@ -1,11 +1,14 @@
 {
-  "id": 10308,
-  "publicId": "10308",
+  "id": "10308",
+  "internalId": 10308,
   "name": "Rua Do Sítio",
   "position": {
     "latitude": 38.710557,
     "longitude": -9.193446
   },
   "visible": true,
-  "updateDate": "2014-03-03T14:28:17.000Z"
+  "updateDate": "2014-03-03T14:28:17.000Z",
+  "routes": [
+    "742"
+  ]
 }

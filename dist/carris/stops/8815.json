@@ -1,11 +1,16 @@
 {
-  "id": 8815,
-  "publicId": "8815",
+  "id": "8815",
+  "internalId": 8815,
   "name": "Estrada De Alfragide",
   "position": {
     "latitude": 38.74075,
     "longitude": -9.208896
   },
   "visible": true,
-  "updateDate": "2014-10-15T16:37:51.000Z"
+  "updateDate": "2014-10-15T16:37:51.000Z",
+  "routes": [
+    "754",
+    "764",
+    "799"
+  ]
 }

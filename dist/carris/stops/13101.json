@@ -1,11 +1,15 @@
 {
-  "id": 13101,
-  "publicId": "13101",
+  "id": "13101",
+  "internalId": 13101,
   "name": "Restelo - Rua Tristão Vaz",
   "position": {
     "latitude": 38.709519,
     "longitude": -9.208465
   },
   "visible": true,
-  "updateDate": "2009-02-23T16:44:42.000Z"
+  "updateDate": "2009-02-23T16:44:42.000Z",
+  "routes": [
+    "728",
+    "732"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 8913,
-  "publicId": "8913",
+  "id": "8913",
+  "internalId": 8913,
   "name": "Olaias (Piscina)",
   "position": {
     "latitude": 38.739886,
     "longitude": -9.123691
   },
   "visible": true,
-  "updateDate": "2019-07-19T15:51:00.000Z"
+  "updateDate": "2019-07-19T15:51:00.000Z",
+  "routes": [
+    "208",
+    "793",
+    "34B"
+  ]
 }

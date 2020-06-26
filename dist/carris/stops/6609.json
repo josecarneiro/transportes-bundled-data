@@ -1,11 +1,16 @@
 {
-  "id": 6609,
-  "publicId": "6609",
+  "id": "6609",
+  "internalId": 6609,
   "name": "R. Conde Redondo",
   "position": {
     "latitude": 38.726545,
     "longitude": -9.144979
   },
   "visible": true,
-  "updateDate": "2018-02-07T12:53:17.000Z"
+  "updateDate": "2018-02-07T12:53:17.000Z",
+  "routes": [
+    "706",
+    "714",
+    "774"
+  ]
 }

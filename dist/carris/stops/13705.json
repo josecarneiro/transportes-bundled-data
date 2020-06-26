@@ -1,11 +1,17 @@
 {
-  "id": 13705,
-  "publicId": "13705",
+  "id": "13705",
+  "internalId": 13705,
   "name": "Charquinho",
   "position": {
     "latitude": 38.755785,
     "longitude": -9.199816
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:27:18.000Z"
+  "updateDate": "2019-02-18T12:27:18.000Z",
+  "routes": [
+    "724",
+    "765",
+    "767",
+    "70B"
+  ]
 }

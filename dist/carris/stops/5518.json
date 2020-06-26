@@ -1,11 +1,17 @@
 {
-  "id": 5518,
-  "publicId": "5518",
+  "id": "5518",
+  "internalId": 5518,
   "name": "R. Prata",
   "position": {
     "latitude": 38.711025,
     "longitude": -9.136889
   },
   "visible": true,
-  "updateDate": "2019-02-13T17:45:16.000Z"
+  "updateDate": "2019-02-13T17:45:16.000Z",
+  "routes": [
+    "711",
+    "759",
+    "794",
+    "88C"
+  ]
 }

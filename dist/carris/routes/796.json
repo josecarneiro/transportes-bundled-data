@@ -1,6 +1,6 @@
 {
-  "id": 174,
-  "number": "796",
+  "id": "796",
+  "internalId": 174,
   "name": "C. Grande-Metro - Galinheiras",
   "visible": true,
   "creationDate": "2020-05-21T11:02:00.000Z",
@@ -998,8 +998,8 @@
               "order": 1,
               "distance": 52,
               "stop": {
-                "id": 5826,
-                "publicId": "5826",
+                "id": "5826",
+                "internalId": 5826,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.760812,
@@ -1014,8 +1014,8 @@
               "order": 2,
               "distance": 428,
               "stop": {
-                "id": 5807,
-                "publicId": "5807",
+                "id": "5807",
+                "internalId": 5807,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.761097,
@@ -1030,8 +1030,8 @@
               "order": 3,
               "distance": 302,
               "stop": {
-                "id": 5811,
-                "publicId": "5811",
+                "id": "5811",
+                "internalId": 5811,
                 "name": "Hosp. Pulido Valente",
                 "position": {
                   "latitude": 38.764564,
@@ -1046,8 +1046,8 @@
               "order": 4,
               "distance": 383,
               "stop": {
-                "id": 5901,
-                "publicId": "5901",
+                "id": "5901",
+                "internalId": 5901,
                 "name": "Av. Rainha D. Leonor",
                 "position": {
                   "latitude": 38.767186,
@@ -1062,8 +1062,8 @@
               "order": 5,
               "distance": 396,
               "stop": {
-                "id": 5903,
-                "publicId": "5903",
+                "id": "5903",
+                "internalId": 5903,
                 "name": "Qta. Conchas",
                 "position": {
                   "latitude": 38.770339,
@@ -1078,8 +1078,8 @@
               "order": 6,
               "distance": 240,
               "stop": {
-                "id": 5907,
-                "publicId": "5907",
+                "id": "5907",
+                "internalId": 5907,
                 "name": "Lumiar",
                 "position": {
                   "latitude": 38.773573,
@@ -1094,8 +1094,8 @@
               "order": 7,
               "distance": 410,
               "stop": {
-                "id": 5912,
-                "publicId": "5912",
+                "id": "5912",
+                "internalId": 5912,
                 "name": "Lumiar - Av. Padre Cruz",
                 "position": {
                   "latitude": 38.774712,
@@ -1110,8 +1110,8 @@
               "order": 8,
               "distance": 458,
               "stop": {
-                "id": 5923,
-                "publicId": "5923",
+                "id": "5923",
+                "internalId": 5923,
                 "name": "Cç. De Carriche",
                 "position": {
                   "latitude": 38.778097,
@@ -1126,8 +1126,8 @@
               "order": 9,
               "distance": 338,
               "stop": {
-                "id": 7217,
-                "publicId": "7217",
+                "id": "7217",
+                "internalId": 7217,
                 "name": "Estr. Desvio / R. Prof. J. Pin",
                 "position": {
                   "latitude": 38.781982,
@@ -1142,8 +1142,8 @@
               "order": 10,
               "distance": 445,
               "stop": {
-                "id": 7215,
-                "publicId": "7215",
+                "id": "7215",
+                "internalId": 7215,
                 "name": "Qta. Moleirinha",
                 "position": {
                   "latitude": 38.784416,
@@ -1158,8 +1158,8 @@
               "order": 11,
               "distance": 392,
               "stop": {
-                "id": 11618,
-                "publicId": "11618",
+                "id": "11618",
+                "internalId": 11618,
                 "name": "Torrinha",
                 "position": {
                   "latitude": 38.787775,
@@ -1174,8 +1174,8 @@
               "order": 12,
               "distance": 343,
               "stop": {
-                "id": 11614,
-                "publicId": "11614",
+                "id": "11614",
+                "internalId": 11614,
                 "name": "Qta Da Torrinha",
                 "position": {
                   "latitude": 38.790608,
@@ -1190,8 +1190,8 @@
               "order": 13,
               "distance": 244,
               "stop": {
-                "id": 11612,
-                "publicId": "11612",
+                "id": "11612",
+                "internalId": 11612,
                 "name": "Grafanil",
                 "position": {
                   "latitude": 38.793117,
@@ -1206,8 +1206,8 @@
               "order": 14,
               "distance": 479,
               "stop": {
-                "id": 50276,
-                "publicId": "11624",
+                "id": "11624",
+                "internalId": 50276,
                 "name": "Rua Maluda",
                 "position": {
                   "latitude": 38.792009,
@@ -1222,8 +1222,8 @@
               "order": 15,
               "distance": 0,
               "stop": {
-                "id": 11613,
-                "publicId": "11613",
+                "id": "11613",
+                "internalId": 11613,
                 "name": "Galinheiras",
                 "position": {
                   "latitude": 38.792083,
@@ -2140,8 +2140,8 @@
               "order": 1,
               "distance": 300,
               "stop": {
-                "id": 11613,
-                "publicId": "11613",
+                "id": "11613",
+                "internalId": 11613,
                 "name": "Galinheiras",
                 "position": {
                   "latitude": 38.792083,
@@ -2156,8 +2156,8 @@
               "order": 2,
               "distance": 345,
               "stop": {
-                "id": 11601,
-                "publicId": "11601",
+                "id": "11601",
+                "internalId": 11601,
                 "name": "Estr. Forte (Escola)",
                 "position": {
                   "latitude": 38.790751,
@@ -2172,8 +2172,8 @@
               "order": 3,
               "distance": 228,
               "stop": {
-                "id": 50275,
-                "publicId": "11623",
+                "id": "11623",
+                "internalId": 50275,
                 "name": "Rua Maluda",
                 "position": {
                   "latitude": 38.792255,
@@ -2188,8 +2188,8 @@
               "order": 4,
               "distance": 302,
               "stop": {
-                "id": 11607,
-                "publicId": "11607",
+                "id": "11607",
+                "internalId": 11607,
                 "name": "Grafanil",
                 "position": {
                   "latitude": 38.793154,
@@ -2204,8 +2204,8 @@
               "order": 5,
               "distance": 367,
               "stop": {
-                "id": 11609,
-                "publicId": "11609",
+                "id": "11609",
+                "internalId": 11609,
                 "name": "Qta Da Torrinha",
                 "position": {
                   "latitude": 38.790887,
@@ -2220,8 +2220,8 @@
               "order": 6,
               "distance": 277,
               "stop": {
-                "id": 11620,
-                "publicId": "11620",
+                "id": "11620",
+                "internalId": 11620,
                 "name": "Torrinha",
                 "position": {
                   "latitude": 38.78812,
@@ -2236,8 +2236,8 @@
               "order": 7,
               "distance": 244,
               "stop": {
-                "id": 50176,
-                "publicId": "11619",
+                "id": "11619",
+                "internalId": 50176,
                 "name": "Piscina Municipal Ameixoeira",
                 "position": {
                   "latitude": 38.785878,
@@ -2252,8 +2252,8 @@
               "order": 8,
               "distance": 317,
               "stop": {
-                "id": 7216,
-                "publicId": "7216",
+                "id": "7216",
+                "internalId": 7216,
                 "name": "Qta. Moleirinha",
                 "position": {
                   "latitude": 38.784325,
@@ -2268,8 +2268,8 @@
               "order": 9,
               "distance": 426,
               "stop": {
-                "id": 7214,
-                "publicId": "7214",
+                "id": "7214",
+                "internalId": 7214,
                 "name": "Estr. Desvio / R. Prof. J. Pin",
                 "position": {
                   "latitude": 38.782016,
@@ -2284,8 +2284,8 @@
               "order": 10,
               "distance": 285,
               "stop": {
-                "id": 5910,
-                "publicId": "5910",
+                "id": "5910",
+                "internalId": 5910,
                 "name": "Cç. Carriche / Estr. Militar",
                 "position": {
                   "latitude": 38.778364,
@@ -2300,8 +2300,8 @@
               "order": 11,
               "distance": 363,
               "stop": {
-                "id": 5908,
-                "publicId": "5908",
+                "id": "5908",
+                "internalId": 5908,
                 "name": "R. Lumiar",
                 "position": {
                   "latitude": 38.775957,
@@ -2316,8 +2316,8 @@
               "order": 12,
               "distance": 342,
               "stop": {
-                "id": 5940,
-                "publicId": "5940",
+                "id": "5940",
+                "internalId": 5940,
                 "name": "Lumiar",
                 "position": {
                   "latitude": 38.773077,
@@ -2332,8 +2332,8 @@
               "order": 13,
               "distance": 319,
               "stop": {
-                "id": 5904,
-                "publicId": "5904",
+                "id": "5904",
+                "internalId": 5904,
                 "name": "Qta. Conchas",
                 "position": {
                   "latitude": 38.770239,
@@ -2348,8 +2348,8 @@
               "order": 14,
               "distance": 250,
               "stop": {
-                "id": 5902,
-                "publicId": "5902",
+                "id": "5902",
+                "internalId": 5902,
                 "name": "Av. Rainha D. Leonor",
                 "position": {
                   "latitude": 38.767649,
@@ -2364,8 +2364,8 @@
               "order": 15,
               "distance": 595,
               "stop": {
-                "id": 5820,
-                "publicId": "5820",
+                "id": "5820",
+                "internalId": 5820,
                 "name": "Hospital Pulido Valente",
                 "position": {
                   "latitude": 38.765541,
@@ -2380,8 +2380,8 @@
               "order": 16,
               "distance": 0,
               "stop": {
-                "id": 5826,
-                "publicId": "5826",
+                "id": "5826",
+                "internalId": 5826,
                 "name": "Campo Grande-Metro",
                 "position": {
                   "latitude": 38.760812,

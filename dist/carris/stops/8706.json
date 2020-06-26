@@ -1,11 +1,15 @@
 {
-  "id": 8706,
-  "publicId": "8706",
+  "id": "8706",
+  "internalId": 8706,
   "name": "Monsanto",
   "position": {
     "latitude": 38.732565,
     "longitude": -9.189763
   },
   "visible": true,
-  "updateDate": "2002-09-05T15:29:53.000Z"
+  "updateDate": "2002-09-05T15:29:53.000Z",
+  "routes": [
+    "711",
+    "724"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 16005,
-  "publicId": "16005",
+  "id": "16005",
+  "internalId": 16005,
   "name": "Fonte Pipa",
   "position": {
     "latitude": 38.795947,
     "longitude": -9.149513
   },
   "visible": true,
-  "updateDate": "2019-03-26T17:46:17.000Z"
+  "updateDate": "2019-03-26T17:46:17.000Z",
+  "routes": [
+    "207",
+    "717"
+  ]
 }

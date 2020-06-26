@@ -1,11 +1,15 @@
 {
-  "id": 50342,
-  "publicId": "3723",
+  "id": "3723",
+  "internalId": 50342,
   "name": "Av. Dr. Augusto Castro / R. Sa",
   "position": {
     "latitude": 38.748782,
     "longitude": -9.113489
   },
   "visible": true,
-  "updateDate": "2018-06-01T09:29:31.000Z"
+  "updateDate": "2018-06-01T09:29:31.000Z",
+  "routes": [
+    "31B",
+    "32B"
+  ]
 }

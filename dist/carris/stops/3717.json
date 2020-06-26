@@ -1,11 +1,15 @@
 {
-  "id": 3717,
-  "publicId": "3717",
+  "id": "3717",
+  "internalId": 3717,
   "name": "Av. Paulo Vi - Igreja",
   "position": {
     "latitude": 38.743073,
     "longitude": -9.111799
   },
   "visible": true,
-  "updateDate": "2008-01-29T12:17:42.000Z"
+  "updateDate": "2008-01-29T12:17:42.000Z",
+  "routes": [
+    "749",
+    "755"
+  ]
 }

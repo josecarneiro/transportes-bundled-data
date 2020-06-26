@@ -1,11 +1,18 @@
 {
-  "id": 4501,
-  "publicId": "4501",
+  "id": "4501",
+  "internalId": 4501,
   "name": "Sul E Sueste",
   "position": {
     "latitude": 38.708517,
     "longitude": -9.133555
   },
   "visible": true,
-  "updateDate": "2019-02-13T17:41:10.000Z"
+  "updateDate": "2019-02-13T17:41:10.000Z",
+  "routes": [
+    "206",
+    "714",
+    "735",
+    "759",
+    "794"
+  ]
 }

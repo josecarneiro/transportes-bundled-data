@@ -1,11 +1,14 @@
 {
-  "id": 50100,
-  "publicId": "7611",
+  "id": "7611",
+  "internalId": 50100,
   "name": "Externato Champagnat",
   "position": {
     "latitude": 38.777854,
     "longitude": -9.126845
   },
   "visible": true,
-  "updateDate": "2005-01-24T16:44:36.000Z"
+  "updateDate": "2005-01-24T16:44:36.000Z",
+  "routes": [
+    "705"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 8715,
-  "publicId": "8715",
+  "id": "8715",
+  "internalId": 8715,
   "name": "Tribunal De Monsanto",
   "position": {
     "latitude": 38.732912,
     "longitude": -9.192232
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:44:56.000Z"
+  "updateDate": "2008-12-05T18:44:56.000Z",
+  "routes": [
+    "711",
+    "724"
+  ]
 }

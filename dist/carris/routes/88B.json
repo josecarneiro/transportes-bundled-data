@@ -1,6 +1,6 @@
 {
-  "id": 234,
-  "number": "88B",
+  "id": "88B",
+  "internalId": 234,
   "name": "Parque Nações - Restauradores",
   "visible": true,
   "creationDate": "2019-11-05T17:15:32.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 540,
               "stop": {
-                "id": 1001,
-                "publicId": "1001",
+                "id": "1001",
+                "internalId": 1001,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715772,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 920,
               "stop": {
-                "id": 1103,
-                "publicId": "1103",
+                "id": "1103",
+                "internalId": 1103,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.719736,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 273,
               "stop": {
-                "id": 1201,
-                "publicId": "1201",
+                "id": "1201",
+                "internalId": 1201,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726214,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 372,
               "stop": {
-                "id": 6601,
-                "publicId": "6601",
+                "id": "6601",
+                "internalId": 6601,
                 "name": "Av. Duque De Loulé",
                 "position": {
                   "latitude": 38.727926,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 387,
               "stop": {
-                "id": 1709,
-                "publicId": "1709",
+                "id": "1709",
+                "internalId": 1709,
                 "name": "Praça José Fontana",
                 "position": {
                   "latitude": 38.730743,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 8963,
               "stop": {
-                "id": 1801,
-                "publicId": "1801",
+                "id": "1801",
+                "internalId": 1801,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733676,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 0,
               "stop": {
-                "id": 50430,
-                "publicId": "80009",
+                "id": "80009",
+                "internalId": 50430,
                 "name": "Avenida Do Pacífico",
                 "position": {
                   "latitude": 38.766711,
@@ -140,8 +140,8 @@
               "order": 1,
               "distance": 8963,
               "stop": {
-                "id": 50430,
-                "publicId": "80009",
+                "id": "80009",
+                "internalId": 50430,
                 "name": "Avenida Do Pacífico",
                 "position": {
                   "latitude": 38.766711,
@@ -156,8 +156,8 @@
               "order": 2,
               "distance": 2492,
               "stop": {
-                "id": 1801,
-                "publicId": "1801",
+                "id": "1801",
+                "internalId": 1801,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733676,
@@ -172,8 +172,8 @@
               "order": 3,
               "distance": 0,
               "stop": {
-                "id": 1001,
-                "publicId": "1001",
+                "id": "1001",
+                "internalId": 1001,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715772,

@@ -1,11 +1,14 @@
 {
-  "id": 13910,
-  "publicId": "13910",
+  "id": "13910",
+  "internalId": 13910,
   "name": "Pontinha",
   "position": {
     "latitude": 38.765966,
     "longitude": -9.198883
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:55.000Z"
+  "updateDate": "2010-12-02T17:19:55.000Z",
+  "routes": [
+    "726"
+  ]
 }

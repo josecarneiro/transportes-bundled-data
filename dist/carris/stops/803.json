@@ -1,11 +1,18 @@
 {
-  "id": 803,
-  "publicId": "803",
+  "id": "803",
+  "internalId": 803,
   "name": "R. Palma",
   "position": {
     "latitude": 38.7192,
     "longitude": -9.135564
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:29:28.000Z"
+  "updateDate": "2019-09-02T14:29:28.000Z",
+  "routes": [
+    "208",
+    "708",
+    "734",
+    "736",
+    "28E"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 10106,
-  "publicId": "10106",
+  "id": "10106",
+  "internalId": 10106,
   "name": "Fonte Santa",
   "position": {
     "latitude": 38.711993,
     "longitude": -9.168629
   },
   "visible": true,
-  "updateDate": "2002-09-05T15:27:44.000Z"
+  "updateDate": "2002-09-05T15:27:44.000Z",
+  "routes": [
+    "773"
+  ]
 }

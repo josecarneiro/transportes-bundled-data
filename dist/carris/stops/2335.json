@@ -1,11 +1,14 @@
 {
-  "id": 2335,
-  "publicId": "2335",
+  "id": "2335",
+  "internalId": 2335,
   "name": "Rua Vila Fontes",
   "position": {
     "latitude": 38.758347,
     "longitude": -9.105644
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:39:38.000Z"
+  "updateDate": "2008-12-05T17:39:38.000Z",
+  "routes": [
+    "29B"
+  ]
 }

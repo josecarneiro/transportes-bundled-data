@@ -1,11 +1,12 @@
 {
-  "id": 5921,
-  "publicId": "5921",
+  "id": "5921",
+  "internalId": 5921,
   "name": "Lg. Paço",
   "position": {
     "latitude": 38.773415,
     "longitude": -9.171704
   },
   "visible": true,
-  "updateDate": "2019-02-14T12:57:43.000Z"
+  "updateDate": "2019-02-14T12:57:43.000Z",
+  "routes": []
 }

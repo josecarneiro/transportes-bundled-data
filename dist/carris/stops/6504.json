@@ -1,11 +1,15 @@
 {
-  "id": 6504,
-  "publicId": "6504",
+  "id": "6504",
+  "internalId": 6504,
   "name": "Jardim Constantino",
   "position": {
     "latitude": 38.730821,
     "longitude": -9.136858
   },
   "visible": true,
-  "updateDate": "2008-02-01T15:27:29.000Z"
+  "updateDate": "2008-02-01T15:27:29.000Z",
+  "routes": [
+    "706",
+    "726"
+  ]
 }

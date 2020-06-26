@@ -1,11 +1,14 @@
 {
-  "id": 18119,
-  "publicId": "18119",
+  "id": "18119",
+  "internalId": 18119,
   "name": "Av. Qta Grande/Rua Da Encosta",
   "position": {
     "latitude": 38.735767,
     "longitude": -9.221708
   },
   "visible": true,
-  "updateDate": "2009-02-25T15:01:16.000Z"
+  "updateDate": "2009-02-25T15:01:16.000Z",
+  "routes": [
+    "799"
+  ]
 }

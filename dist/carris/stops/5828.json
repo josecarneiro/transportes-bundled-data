@@ -1,11 +1,16 @@
 {
-  "id": 5828,
-  "publicId": "5828",
+  "id": "5828",
+  "internalId": 5828,
   "name": "Campo Grande (Metro) - Só Desc",
   "position": {
     "latitude": 38.760369,
     "longitude": -9.158239
   },
   "visible": true,
-  "updateDate": "2019-01-10T17:11:34.000Z"
+  "updateDate": "2019-01-10T17:11:34.000Z",
+  "routes": [
+    "767",
+    "778",
+    "43B"
+  ]
 }

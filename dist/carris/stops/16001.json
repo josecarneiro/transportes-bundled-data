@@ -1,11 +1,15 @@
 {
-  "id": 16001,
-  "publicId": "16001",
+  "id": "16001",
+  "internalId": 16001,
   "name": "Fetais",
   "position": {
     "latitude": 38.79804,
     "longitude": -9.145339
   },
   "visible": true,
-  "updateDate": "2018-11-06T15:43:43.000Z"
+  "updateDate": "2018-11-06T15:43:43.000Z",
+  "routes": [
+    "207",
+    "717"
+  ]
 }

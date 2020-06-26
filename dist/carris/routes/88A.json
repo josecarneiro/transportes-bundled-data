@@ -1,6 +1,6 @@
 {
-  "id": 233,
-  "number": "88A",
+  "id": "88A",
+  "internalId": 233,
   "name": "Parque Nações - R. Castilho",
   "visible": true,
   "creationDate": "2019-11-05T17:14:40.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 478,
               "stop": {
-                "id": 50427,
-                "publicId": "80001",
+                "id": "80001",
+                "internalId": 50427,
                 "name": "Rua Castilho 1",
                 "position": {
                   "latitude": 38.727589,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 420,
               "stop": {
-                "id": 50428,
-                "publicId": "80002",
+                "id": "80002",
+                "internalId": 50428,
                 "name": "Rua Castilho 2",
                 "position": {
                   "latitude": 38.72418,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 903,
               "stop": {
-                "id": 50429,
-                "publicId": "80003",
+                "id": "80003",
+                "internalId": 50429,
                 "name": "Rua Castilho 3",
                 "position": {
                   "latitude": 38.721079,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 306,
               "stop": {
-                "id": 1225,
-                "publicId": "1225",
+                "id": "1225",
+                "internalId": 1225,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726303,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 324,
               "stop": {
-                "id": 1701,
-                "publicId": "1701",
+                "id": "1701",
+                "internalId": 1701,
                 "name": "Av. Fontes Pereira De Melo",
                 "position": {
                   "latitude": 38.728781,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 284,
               "stop": {
-                "id": 1703,
-                "publicId": "1703",
+                "id": "1703",
+                "internalId": 1703,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.731398,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 8963,
               "stop": {
-                "id": 1801,
-                "publicId": "1801",
+                "id": "1801",
+                "internalId": 1801,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733676,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 0,
               "stop": {
-                "id": 50430,
-                "publicId": "80009",
+                "id": "80009",
+                "internalId": 50430,
                 "name": "Avenida Do Pacífico",
                 "position": {
                   "latitude": 38.766711,
@@ -156,8 +156,8 @@
               "order": 1,
               "distance": 8963,
               "stop": {
-                "id": 50430,
-                "publicId": "80009",
+                "id": "80009",
+                "internalId": 50430,
                 "name": "Avenida Do Pacífico",
                 "position": {
                   "latitude": 38.766711,
@@ -172,8 +172,8 @@
               "order": 2,
               "distance": 2715,
               "stop": {
-                "id": 1801,
-                "publicId": "1801",
+                "id": "1801",
+                "internalId": 1801,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733676,
@@ -188,8 +188,8 @@
               "order": 3,
               "distance": 0,
               "stop": {
-                "id": 50427,
-                "publicId": "80001",
+                "id": "80001",
+                "internalId": 50427,
                 "name": "Rua Castilho 1",
                 "position": {
                   "latitude": 38.727589,

@@ -1,11 +1,14 @@
 {
-  "id": 50053,
-  "publicId": "18132",
+  "id": "18132",
+  "internalId": 50053,
   "name": "Av. Almeida Garret",
   "position": {
     "latitude": 38.738366,
     "longitude": -9.217766
   },
   "visible": true,
-  "updateDate": "2012-12-13T16:08:37.000Z"
+  "updateDate": "2012-12-13T16:08:37.000Z",
+  "routes": [
+    "799"
+  ]
 }

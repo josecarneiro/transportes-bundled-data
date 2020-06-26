@@ -1,11 +1,15 @@
 {
-  "id": 18109,
-  "publicId": "18109",
+  "id": "18109",
+  "internalId": 18109,
   "name": "Alfragide - Fap",
   "position": {
     "latitude": 38.738514,
     "longitude": -9.213948
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:12:22.000Z"
+  "updateDate": "2018-02-20T10:12:22.000Z",
+  "routes": [
+    "754",
+    "799"
+  ]
 }

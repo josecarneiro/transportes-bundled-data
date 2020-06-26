@@ -1,11 +1,12 @@
 {
-  "id": 50068,
-  "publicId": "9410",
+  "id": "9410",
+  "internalId": 50068,
   "name": "R. Maria Pia / Estr. Loureiro",
   "position": {
     "latitude": 38.71108,
     "longitude": -9.172348
   },
   "visible": true,
-  "updateDate": "2018-02-07T11:51:25.000Z"
+  "updateDate": "2018-02-07T11:51:25.000Z",
+  "routes": []
 }

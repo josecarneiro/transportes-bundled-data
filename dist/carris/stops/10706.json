@@ -1,11 +1,19 @@
 {
-  "id": 10706,
-  "publicId": "10706",
+  "id": "10706",
+  "internalId": 10706,
   "name": "R. Duarte Galvão",
   "position": {
     "latitude": 38.743614,
     "longitude": -9.175524
   },
   "visible": true,
-  "updateDate": "2017-12-07T12:46:04.000Z"
+  "updateDate": "2017-12-07T12:46:04.000Z",
+  "routes": [
+    "202",
+    "716",
+    "746",
+    "754",
+    "758",
+    "768"
+  ]
 }

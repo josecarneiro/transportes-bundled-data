@@ -1,6 +1,6 @@
 {
-  "id": 167,
-  "number": "753",
+  "id": "753",
+  "internalId": 167,
   "name": "Pç. José Fontana - Centro Sul",
   "visible": true,
   "creationDate": "2020-05-20T09:38:53.000Z",
@@ -1500,8 +1500,8 @@
               "order": 1,
               "distance": 586,
               "stop": {
-                "id": 1712,
-                "publicId": "1712",
+                "id": "1712",
+                "internalId": 1712,
                 "name": "Praça José Fontana",
                 "position": {
                   "latitude": 38.729876,
@@ -1516,8 +1516,8 @@
               "order": 2,
               "distance": 350,
               "stop": {
-                "id": 6602,
-                "publicId": "6602",
+                "id": "6602",
+                "internalId": 6602,
                 "name": "Av. Duque De Loulé",
                 "position": {
                   "latitude": 38.727984,
@@ -1532,8 +1532,8 @@
               "order": 3,
               "distance": 388,
               "stop": {
-                "id": 1202,
-                "publicId": "1202",
+                "id": "1202",
+                "internalId": 1202,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725565,
@@ -1548,8 +1548,8 @@
               "order": 4,
               "distance": 299,
               "stop": {
-                "id": 1209,
-                "publicId": "1209",
+                "id": "1209",
+                "internalId": 1209,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725361,
@@ -1564,8 +1564,8 @@
               "order": 5,
               "distance": 494,
               "stop": {
-                "id": 1223,
-                "publicId": "1223",
+                "id": "1223",
+                "internalId": 1223,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.725106,
@@ -1580,8 +1580,8 @@
               "order": 6,
               "distance": 518,
               "stop": {
-                "id": 8501,
-                "publicId": "8501",
+                "id": "8501",
+                "internalId": 8501,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724375,
@@ -1596,8 +1596,8 @@
               "order": 7,
               "distance": 6292,
               "stop": {
-                "id": 8607,
-                "publicId": "8607",
+                "id": "8607",
+                "internalId": 8607,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723244,
@@ -1612,8 +1612,8 @@
               "order": 8,
               "distance": 2197,
               "stop": {
-                "id": 14601,
-                "publicId": "14601",
+                "id": "14601",
+                "internalId": 14601,
                 "name": "Portagem",
                 "position": {
                   "latitude": 38.673814,
@@ -1628,8 +1628,8 @@
               "order": 9,
               "distance": 0,
               "stop": {
-                "id": 19001,
-                "publicId": "19001",
+                "id": "19001",
+                "internalId": 19001,
                 "name": "Centro Sul",
                 "position": {
                   "latitude": 38.667593,
@@ -2996,8 +2996,8 @@
               "order": 1,
               "distance": 1682,
               "stop": {
-                "id": 19001,
-                "publicId": "19001",
+                "id": "19001",
+                "internalId": 19001,
                 "name": "Centro Sul",
                 "position": {
                   "latitude": 38.667593,
@@ -3012,8 +3012,8 @@
               "order": 2,
               "distance": 6096,
               "stop": {
-                "id": 14602,
-                "publicId": "14602",
+                "id": "14602",
+                "internalId": 14602,
                 "name": "Portagem",
                 "position": {
                   "latitude": 38.674281,
@@ -3028,8 +3028,8 @@
               "order": 3,
               "distance": 437,
               "stop": {
-                "id": 8608,
-                "publicId": "8608",
+                "id": "8608",
+                "internalId": 8608,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723303,
@@ -3044,8 +3044,8 @@
               "order": 4,
               "distance": 521,
               "stop": {
-                "id": 8502,
-                "publicId": "8502",
+                "id": "8502",
+                "internalId": 8502,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724091,
@@ -3060,8 +3060,8 @@
               "order": 5,
               "distance": 384,
               "stop": {
-                "id": 1224,
-                "publicId": "1224",
+                "id": "1224",
+                "internalId": 1224,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.724903,
@@ -3076,8 +3076,8 @@
               "order": 6,
               "distance": 394,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,
@@ -3092,8 +3092,8 @@
               "order": 7,
               "distance": 198,
               "stop": {
-                "id": 1201,
-                "publicId": "1201",
+                "id": "1201",
+                "internalId": 1201,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726214,
@@ -3108,8 +3108,8 @@
               "order": 8,
               "distance": 349,
               "stop": {
-                "id": 6601,
-                "publicId": "6601",
+                "id": "6601",
+                "internalId": 6601,
                 "name": "Av. Duque De Loulé",
                 "position": {
                   "latitude": 38.727926,
@@ -3124,8 +3124,8 @@
               "order": 9,
               "distance": 0,
               "stop": {
-                "id": 1712,
-                "publicId": "1712",
+                "id": "1712",
+                "internalId": 1712,
                 "name": "Praça José Fontana",
                 "position": {
                   "latitude": 38.729876,
@@ -4381,8 +4381,8 @@
               "order": 1,
               "distance": 299,
               "stop": {
-                "id": 1209,
-                "publicId": "1209",
+                "id": "1209",
+                "internalId": 1209,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725361,
@@ -4397,8 +4397,8 @@
               "order": 2,
               "distance": 494,
               "stop": {
-                "id": 1223,
-                "publicId": "1223",
+                "id": "1223",
+                "internalId": 1223,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.725106,
@@ -4413,8 +4413,8 @@
               "order": 3,
               "distance": 518,
               "stop": {
-                "id": 8501,
-                "publicId": "8501",
+                "id": "8501",
+                "internalId": 8501,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724375,
@@ -4429,8 +4429,8 @@
               "order": 4,
               "distance": 6292,
               "stop": {
-                "id": 8607,
-                "publicId": "8607",
+                "id": "8607",
+                "internalId": 8607,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723244,
@@ -4445,8 +4445,8 @@
               "order": 5,
               "distance": 2197,
               "stop": {
-                "id": 14601,
-                "publicId": "14601",
+                "id": "14601",
+                "internalId": 14601,
                 "name": "Portagem",
                 "position": {
                   "latitude": 38.673814,
@@ -4461,8 +4461,8 @@
               "order": 6,
               "distance": 0,
               "stop": {
-                "id": 19001,
-                "publicId": "19001",
+                "id": "19001",
+                "internalId": 19001,
                 "name": "Centro Sul",
                 "position": {
                   "latitude": 38.667593,
@@ -5613,8 +5613,8 @@
               "order": 1,
               "distance": 1682,
               "stop": {
-                "id": 19001,
-                "publicId": "19001",
+                "id": "19001",
+                "internalId": 19001,
                 "name": "Centro Sul",
                 "position": {
                   "latitude": 38.667593,
@@ -5629,8 +5629,8 @@
               "order": 2,
               "distance": 6096,
               "stop": {
-                "id": 14602,
-                "publicId": "14602",
+                "id": "14602",
+                "internalId": 14602,
                 "name": "Portagem",
                 "position": {
                   "latitude": 38.674281,
@@ -5645,8 +5645,8 @@
               "order": 3,
               "distance": 437,
               "stop": {
-                "id": 8608,
-                "publicId": "8608",
+                "id": "8608",
+                "internalId": 8608,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723303,
@@ -5661,8 +5661,8 @@
               "order": 4,
               "distance": 521,
               "stop": {
-                "id": 8502,
-                "publicId": "8502",
+                "id": "8502",
+                "internalId": 8502,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724091,
@@ -5677,8 +5677,8 @@
               "order": 5,
               "distance": 384,
               "stop": {
-                "id": 1224,
-                "publicId": "1224",
+                "id": "1224",
+                "internalId": 1224,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.724903,
@@ -5693,8 +5693,8 @@
               "order": 6,
               "distance": 0,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,

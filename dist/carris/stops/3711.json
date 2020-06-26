@@ -1,11 +1,15 @@
 {
-  "id": 3711,
-  "publicId": "3711",
+  "id": "3711",
+  "internalId": 3711,
   "name": "Bº Das Salgadas",
   "position": {
     "latitude": 38.738406,
     "longitude": -9.113157
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:12:51.000Z"
+  "updateDate": "2008-12-05T17:12:51.000Z",
+  "routes": [
+    "759",
+    "793"
+  ]
 }

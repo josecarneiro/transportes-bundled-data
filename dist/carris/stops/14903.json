@@ -1,11 +1,14 @@
 {
-  "id": 14903,
-  "publicId": "14903",
+  "id": "14903",
+  "internalId": 14903,
   "name": "Dafundo - R. 1º Maio",
   "position": {
     "latitude": 38.700623,
     "longitude": -9.244709
   },
   "visible": true,
-  "updateDate": "2019-07-23T10:14:16.000Z"
+  "updateDate": "2019-07-23T10:14:16.000Z",
+  "routes": [
+    "776"
+  ]
 }

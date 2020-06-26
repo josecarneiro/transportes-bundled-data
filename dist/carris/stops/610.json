@@ -1,11 +1,17 @@
 {
-  "id": 610,
-  "publicId": "610",
+  "id": "610",
+  "internalId": 610,
   "name": "Av. Almirante Reis / R. Marque",
   "position": {
     "latitude": 38.728781,
     "longitude": -9.134784
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:43:36.000Z"
+  "updateDate": "2018-04-03T15:43:36.000Z",
+  "routes": [
+    "208",
+    "708",
+    "736",
+    "88C"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 7607,
-  "publicId": "7607",
+  "id": "7607",
+  "internalId": 7607,
   "name": "Geofísica",
   "position": {
     "latitude": 38.775956,
     "longitude": -9.126369
   },
   "visible": true,
-  "updateDate": "2002-09-05T15:27:52.000Z"
+  "updateDate": "2002-09-05T15:27:52.000Z",
+  "routes": [
+    "705"
+  ]
 }

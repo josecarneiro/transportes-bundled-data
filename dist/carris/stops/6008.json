@@ -1,11 +1,18 @@
 {
-  "id": 6008,
-  "publicId": "6008",
+  "id": "6008",
+  "internalId": 6008,
   "name": "Charneca",
   "position": {
     "latitude": 38.78718,
     "longitude": -9.144596
   },
   "visible": true,
-  "updateDate": "2019-02-14T13:03:11.000Z"
+  "updateDate": "2019-02-14T13:03:11.000Z",
+  "routes": [
+    "207",
+    "703",
+    "717",
+    "798",
+    "40B"
+  ]
 }

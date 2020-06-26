@@ -1,11 +1,12 @@
 {
-  "id": 9401,
-  "publicId": "9401",
+  "id": "9401",
+  "internalId": 9401,
   "name": "Alcântara",
   "position": {
     "latitude": 38.706848,
     "longitude": -9.173611
   },
   "visible": true,
-  "updateDate": "2018-02-20T09:23:38.000Z"
+  "updateDate": "2018-02-20T09:23:38.000Z",
+  "routes": []
 }

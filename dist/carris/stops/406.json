@@ -1,11 +1,15 @@
 {
-  "id": 406,
-  "publicId": "406",
+  "id": "406",
+  "internalId": 406,
   "name": "Av. Manuel Maia",
   "position": {
     "latitude": 38.736442,
     "longitude": -9.135938
   },
   "visible": true,
-  "updateDate": "2018-02-08T11:27:12.000Z"
+  "updateDate": "2018-02-08T11:27:12.000Z",
+  "routes": [
+    "720",
+    "736"
+  ]
 }

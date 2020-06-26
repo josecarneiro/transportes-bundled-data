@@ -1,11 +1,14 @@
 {
-  "id": 50149,
-  "publicId": "5605",
+  "id": "5605",
+  "internalId": 50149,
   "name": "R. Conceição",
   "position": {
     "latitude": 38.709316,
     "longitude": -9.13818
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:31:12.000Z"
+  "updateDate": "2019-09-02T14:31:12.000Z",
+  "routes": [
+    "28E"
+  ]
 }

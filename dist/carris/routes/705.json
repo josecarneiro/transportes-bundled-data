@@ -1,6 +1,6 @@
 {
-  "id": 176,
-  "number": "705",
+  "id": "705",
+  "internalId": 176,
   "name": "Estação Oriente - Estação Roma-Areeiro",
   "visible": true,
   "creationDate": "2020-05-20T09:07:56.000Z",
@@ -2422,8 +2422,8 @@
               "order": 1,
               "distance": 190,
               "stop": {
-                "id": 7816,
-                "publicId": "7816",
+                "id": "7816",
+                "internalId": 7816,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.767759,
@@ -2438,8 +2438,8 @@
               "order": 2,
               "distance": 465,
               "stop": {
-                "id": 7805,
-                "publicId": "7805",
+                "id": "7805",
+                "internalId": 7805,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.768475,
@@ -2454,8 +2454,8 @@
               "order": 3,
               "distance": 328,
               "stop": {
-                "id": 7821,
-                "publicId": "7821",
+                "id": "7821",
+                "internalId": 7821,
                 "name": "Av. Dom João Ii",
                 "position": {
                   "latitude": 38.771557,
@@ -2470,8 +2470,8 @@
               "order": 4,
               "distance": 558,
               "stop": {
-                "id": 7823,
-                "publicId": "7823",
+                "id": "7823",
+                "internalId": 7823,
                 "name": "Av. Da Boa Esperança",
                 "position": {
                   "latitude": 38.7745,
@@ -2486,8 +2486,8 @@
               "order": 5,
               "distance": 382,
               "stop": {
-                "id": 7908,
-                "publicId": "7908",
+                "id": "7908",
+                "internalId": 7908,
                 "name": "Moscavide",
                 "position": {
                   "latitude": 38.775044,
@@ -2502,8 +2502,8 @@
               "order": 6,
               "distance": 589,
               "stop": {
-                "id": 7804,
-                "publicId": "7804",
+                "id": "7804",
+                "internalId": 7804,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.77424,
@@ -2518,8 +2518,8 @@
               "order": 7,
               "distance": 262,
               "stop": {
-                "id": 12302,
-                "publicId": "12302",
+                "id": "12302",
+                "internalId": 12302,
                 "name": "Olivais Norte",
                 "position": {
                   "latitude": 38.775077,
@@ -2534,8 +2534,8 @@
               "order": 8,
               "distance": 262,
               "stop": {
-                "id": 12307,
-                "publicId": "12307",
+                "id": "12307",
+                "internalId": 12307,
                 "name": "Rua Oliveira Carmo",
                 "position": {
                   "latitude": 38.776049,
@@ -2550,8 +2550,8 @@
               "order": 9,
               "distance": 576,
               "stop": {
-                "id": 12305,
-                "publicId": "12305",
+                "id": "12305",
+                "internalId": 12305,
                 "name": "Rua Barrilaro Ruas",
                 "position": {
                   "latitude": 38.777166,
@@ -2566,8 +2566,8 @@
               "order": 10,
               "distance": 413,
               "stop": {
-                "id": 12603,
-                "publicId": "12603",
+                "id": "12603",
+                "internalId": 12603,
                 "name": "Qta Do Morgado",
                 "position": {
                   "latitude": 38.779376,
@@ -2582,8 +2582,8 @@
               "order": 11,
               "distance": 687,
               "stop": {
-                "id": 12601,
-                "publicId": "12601",
+                "id": "12601",
+                "internalId": 12601,
                 "name": "Ralis",
                 "position": {
                   "latitude": 38.781644,
@@ -2598,8 +2598,8 @@
               "order": 12,
               "distance": 274,
               "stop": {
-                "id": 16301,
-                "publicId": "16301",
+                "id": "16301",
+                "internalId": 16301,
                 "name": "Rotunda Da Encarnação",
                 "position": {
                   "latitude": 38.782368,
@@ -2614,8 +2614,8 @@
               "order": 13,
               "distance": 341,
               "stop": {
-                "id": 7610,
-                "publicId": "7610",
+                "id": "7610",
+                "internalId": 7610,
                 "name": "Gasolineiras",
                 "position": {
                   "latitude": 38.780466,
@@ -2630,8 +2630,8 @@
               "order": 14,
               "distance": 223,
               "stop": {
-                "id": 50101,
-                "publicId": "7612",
+                "id": "7612",
+                "internalId": 50101,
                 "name": "Externato Champagnat",
                 "position": {
                   "latitude": 38.777801,
@@ -2646,8 +2646,8 @@
               "order": 15,
               "distance": 150,
               "stop": {
-                "id": 7608,
-                "publicId": "7608",
+                "id": "7608",
+                "internalId": 7608,
                 "name": "Geofísica",
                 "position": {
                   "latitude": 38.775838,
@@ -2662,8 +2662,8 @@
               "order": 16,
               "distance": 648,
               "stop": {
-                "id": 7606,
-                "publicId": "7606",
+                "id": "7606",
+                "internalId": 7606,
                 "name": "Av. C Do Aeroporto",
                 "position": {
                   "latitude": 38.774514,
@@ -2678,8 +2678,8 @@
               "order": 17,
               "distance": 318,
               "stop": {
-                "id": 7604,
-                "publicId": "7604",
+                "id": "7604",
+                "internalId": 7604,
                 "name": "Av. De Berlim - Aeroporto",
                 "position": {
                   "latitude": 38.770196,
@@ -2694,8 +2694,8 @@
               "order": 18,
               "distance": 896,
               "stop": {
-                "id": 7602,
-                "publicId": "7602",
+                "id": "7602",
+                "internalId": 7602,
                 "name": "Aeroporto",
                 "position": {
                   "latitude": 38.768962,
@@ -2710,8 +2710,8 @@
               "order": 19,
               "distance": 429,
               "stop": {
-                "id": 7514,
-                "publicId": "7514",
+                "id": "7514",
+                "internalId": 7514,
                 "name": "Pç. Aeroporto",
                 "position": {
                   "latitude": 38.762109,
@@ -2726,8 +2726,8 @@
               "order": 20,
               "distance": 496,
               "stop": {
-                "id": 7512,
-                "publicId": "7512",
+                "id": "7512",
+                "internalId": 7512,
                 "name": "Qta Do Narigão",
                 "position": {
                   "latitude": 38.758253,
@@ -2742,8 +2742,8 @@
               "order": 21,
               "distance": 212,
               "stop": {
-                "id": 7413,
-                "publicId": "7413",
+                "id": "7413",
+                "internalId": 7413,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.753794,
@@ -2758,8 +2758,8 @@
               "order": 22,
               "distance": 434,
               "stop": {
-                "id": 7304,
-                "publicId": "7304",
+                "id": "7304",
+                "internalId": 7304,
                 "name": "Qta De Santo António",
                 "position": {
                   "latitude": 38.7519,
@@ -2774,8 +2774,8 @@
               "order": 23,
               "distance": 310,
               "stop": {
-                "id": 7308,
-                "publicId": "7308",
+                "id": "7308",
+                "internalId": 7308,
                 "name": "Av. Alm. Gago Coutinho / Av. E",
                 "position": {
                   "latitude": 38.747998,
@@ -2790,8 +2790,8 @@
               "order": 24,
               "distance": 250,
               "stop": {
-                "id": 310,
-                "publicId": "310",
+                "id": "310",
+                "internalId": 310,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.745198,
@@ -2806,8 +2806,8 @@
               "order": 25,
               "distance": 461,
               "stop": {
-                "id": 308,
-                "publicId": "308",
+                "id": "308",
+                "internalId": 308,
                 "name": "Areeiro - Av. Alm. Gago Coutin",
                 "position": {
                   "latitude": 38.74329,
@@ -2822,8 +2822,8 @@
               "order": 26,
               "distance": 0,
               "stop": {
-                "id": 50099,
-                "publicId": "320",
+                "id": "320",
+                "internalId": 50099,
                 "name": "Estação Roma-Areeiro",
                 "position": {
                   "latitude": 38.745576,
@@ -5030,8 +5030,8 @@
               "order": 1,
               "distance": 1022,
               "stop": {
-                "id": 50099,
-                "publicId": "320",
+                "id": "320",
+                "internalId": 50099,
                 "name": "Estação Roma-Areeiro",
                 "position": {
                   "latitude": 38.745576,
@@ -5046,8 +5046,8 @@
               "order": 2,
               "distance": 278,
               "stop": {
-                "id": 317,
-                "publicId": "317",
+                "id": "317",
+                "internalId": 317,
                 "name": "Areeiro - Av. Alm. Gago Coutin",
                 "position": {
                   "latitude": 38.743412,
@@ -5062,8 +5062,8 @@
               "order": 3,
               "distance": 434,
               "stop": {
-                "id": 313,
-                "publicId": "313",
+                "id": "313",
+                "internalId": 313,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.745698,
@@ -5078,8 +5078,8 @@
               "order": 4,
               "distance": 334,
               "stop": {
-                "id": 7305,
-                "publicId": "7305",
+                "id": "7305",
+                "internalId": 7305,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.7496,
@@ -5094,8 +5094,8 @@
               "order": 5,
               "distance": 278,
               "stop": {
-                "id": 7307,
-                "publicId": "7307",
+                "id": "7307",
+                "internalId": 7307,
                 "name": "Qta De Santo António",
                 "position": {
                   "latitude": 38.7526,
@@ -5110,8 +5110,8 @@
               "order": 6,
               "distance": 314,
               "stop": {
-                "id": 7401,
-                "publicId": "7401",
+                "id": "7401",
+                "internalId": 7401,
                 "name": "Av. Alm. Gago Coutinho",
                 "position": {
                   "latitude": 38.755087,
@@ -5126,8 +5126,8 @@
               "order": 7,
               "distance": 474,
               "stop": {
-                "id": 7507,
-                "publicId": "7507",
+                "id": "7507",
+                "internalId": 7507,
                 "name": "Qta Do Narigão",
                 "position": {
                   "latitude": 38.757914,
@@ -5142,8 +5142,8 @@
               "order": 8,
               "distance": 675,
               "stop": {
-                "id": 7511,
-                "publicId": "7511",
+                "id": "7511",
+                "internalId": 7511,
                 "name": "Pç. Aeroporto",
                 "position": {
                   "latitude": 38.762168,
@@ -5158,8 +5158,8 @@
               "order": 9,
               "distance": 399,
               "stop": {
-                "id": 7601,
-                "publicId": "7601",
+                "id": "7601",
+                "internalId": 7601,
                 "name": "Aeroporto",
                 "position": {
                   "latitude": 38.767825,
@@ -5174,8 +5174,8 @@
               "order": 10,
               "distance": 596,
               "stop": {
-                "id": 7603,
-                "publicId": "7603",
+                "id": "7603",
+                "internalId": 7603,
                 "name": "Av. De Berlim - Aeroporto",
                 "position": {
                   "latitude": 38.769828,
@@ -5190,8 +5190,8 @@
               "order": 11,
               "distance": 208,
               "stop": {
-                "id": 7605,
-                "publicId": "7605",
+                "id": "7605",
+                "internalId": 7605,
                 "name": "Av. C Do Aeroporto",
                 "position": {
                   "latitude": 38.774126,
@@ -5206,8 +5206,8 @@
               "order": 12,
               "distance": 215,
               "stop": {
-                "id": 7607,
-                "publicId": "7607",
+                "id": "7607",
+                "internalId": 7607,
                 "name": "Geofísica",
                 "position": {
                   "latitude": 38.775956,
@@ -5222,8 +5222,8 @@
               "order": 13,
               "distance": 458,
               "stop": {
-                "id": 50100,
-                "publicId": "7611",
+                "id": "7611",
+                "internalId": 50100,
                 "name": "Externato Champagnat",
                 "position": {
                   "latitude": 38.777854,
@@ -5238,8 +5238,8 @@
               "order": 14,
               "distance": 305,
               "stop": {
-                "id": 7609,
-                "publicId": "7609",
+                "id": "7609",
+                "internalId": 7609,
                 "name": "Gasolineiras",
                 "position": {
                   "latitude": 38.78099,
@@ -5254,8 +5254,8 @@
               "order": 15,
               "distance": 501,
               "stop": {
-                "id": 16302,
-                "publicId": "16302",
+                "id": "16302",
+                "internalId": 16302,
                 "name": "Rotunda Da Encarnação",
                 "position": {
                   "latitude": 38.78265,
@@ -5270,8 +5270,8 @@
               "order": 16,
               "distance": 287,
               "stop": {
-                "id": 12620,
-                "publicId": "12620",
+                "id": "12620",
+                "internalId": 12620,
                 "name": "Ralis",
                 "position": {
                   "latitude": 38.781403,
@@ -5286,8 +5286,8 @@
               "order": 17,
               "distance": 576,
               "stop": {
-                "id": 12604,
-                "publicId": "12604",
+                "id": "12604",
+                "internalId": 12604,
                 "name": "Qta Do Morgado",
                 "position": {
                   "latitude": 38.779131,
@@ -5302,8 +5302,8 @@
               "order": 18,
               "distance": 218,
               "stop": {
-                "id": 12306,
-                "publicId": "12306",
+                "id": "12306",
+                "internalId": 12306,
                 "name": "Rua Barrilaro Ruas",
                 "position": {
                   "latitude": 38.77707,
@@ -5318,8 +5318,8 @@
               "order": 19,
               "distance": 346,
               "stop": {
-                "id": 12308,
-                "publicId": "12308",
+                "id": "12308",
+                "internalId": 12308,
                 "name": "Rua Oliveira Carmo",
                 "position": {
                   "latitude": 38.776092,
@@ -5334,8 +5334,8 @@
               "order": 20,
               "distance": 678,
               "stop": {
-                "id": 12301,
-                "publicId": "12301",
+                "id": "12301",
+                "internalId": 12301,
                 "name": "Olivais Norte",
                 "position": {
                   "latitude": 38.775372,
@@ -5350,8 +5350,8 @@
               "order": 21,
               "distance": 371,
               "stop": {
-                "id": 7812,
-                "publicId": "7812",
+                "id": "7812",
+                "internalId": 7812,
                 "name": "Praça José Queirós",
                 "position": {
                   "latitude": 38.773794,
@@ -5366,8 +5366,8 @@
               "order": 22,
               "distance": 451,
               "stop": {
-                "id": 7910,
-                "publicId": "7910",
+                "id": "7910",
+                "internalId": 7910,
                 "name": "Rua João Pinto Ribeiro",
                 "position": {
                   "latitude": 38.77478,
@@ -5382,8 +5382,8 @@
               "order": 23,
               "distance": 339,
               "stop": {
-                "id": 7824,
-                "publicId": "7824",
+                "id": "7824",
+                "internalId": 7824,
                 "name": "Av. Da Boa Esperança",
                 "position": {
                   "latitude": 38.774377,
@@ -5398,8 +5398,8 @@
               "order": 24,
               "distance": 599,
               "stop": {
-                "id": 7822,
-                "publicId": "7822",
+                "id": "7822",
+                "internalId": 7822,
                 "name": "Av. Dom João Ii",
                 "position": {
                   "latitude": 38.771328,
@@ -5414,8 +5414,8 @@
               "order": 25,
               "distance": 156,
               "stop": {
-                "id": 7825,
-                "publicId": "7825",
+                "id": "7825",
+                "internalId": 7825,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.767173,
@@ -5430,8 +5430,8 @@
               "order": 26,
               "distance": 0,
               "stop": {
-                "id": 7816,
-                "publicId": "7816",
+                "id": "7816",
+                "internalId": 7816,
                 "name": "Estação Oriente",
                 "position": {
                   "latitude": 38.767759,

@@ -1,11 +1,15 @@
 {
-  "id": 2319,
-  "publicId": "2319",
+  "id": "2319",
+  "internalId": 2319,
   "name": "Az. Baptista",
   "position": {
     "latitude": 38.75347,
     "longitude": -9.103105
   },
   "visible": true,
-  "updateDate": "2019-02-12T12:13:45.000Z"
+  "updateDate": "2019-02-12T12:13:45.000Z",
+  "routes": [
+    "782",
+    "794"
+  ]
 }

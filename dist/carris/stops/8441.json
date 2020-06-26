@@ -1,11 +1,14 @@
 {
-  "id": 8441,
-  "publicId": "8441",
+  "id": "8441",
+  "internalId": 8441,
   "name": "Sport Lisboa E Olivais",
   "position": {
     "latitude": 38.761519,
     "longitude": -9.108292
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:38:14.000Z"
+  "updateDate": "2008-12-05T18:38:14.000Z",
+  "routes": [
+    "29B"
+  ]
 }

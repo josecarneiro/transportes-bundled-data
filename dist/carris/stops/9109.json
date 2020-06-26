@@ -1,11 +1,15 @@
 {
-  "id": 9109,
-  "publicId": "9109",
+  "id": "9109",
+  "internalId": 9109,
   "name": "Sapadores",
   "position": {
     "latitude": 38.722194,
     "longitude": -9.128725
   },
   "visible": true,
-  "updateDate": "2018-02-20T09:26:29.000Z"
+  "updateDate": "2018-02-20T09:26:29.000Z",
+  "routes": [
+    "206",
+    "735"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 10915,
-  "publicId": "10915",
+  "id": "10915",
+  "internalId": 10915,
   "name": "Benfica",
   "position": {
     "latitude": 38.749252,
     "longitude": -9.202727
   },
   "visible": true,
-  "updateDate": "2018-06-29T15:28:58.000Z"
+  "updateDate": "2018-06-29T15:28:58.000Z",
+  "routes": [
+    "716"
+  ]
 }

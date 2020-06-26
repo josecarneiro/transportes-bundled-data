@@ -1,11 +1,15 @@
 {
-  "id": 13312,
-  "publicId": "13312",
+  "id": "13312",
+  "internalId": 13312,
   "name": "Rua Dom Vasco",
   "position": {
     "latitude": 38.704882,
     "longitude": -9.19581
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:38:03.000Z"
+  "updateDate": "2008-12-05T17:38:03.000Z",
+  "routes": [
+    "742",
+    "760"
+  ]
 }

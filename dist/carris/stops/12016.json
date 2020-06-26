@@ -1,11 +1,14 @@
 {
-  "id": 50376,
-  "publicId": "12016",
+  "id": "12016",
+  "internalId": 50376,
   "name": "R. João Barros",
   "position": {
     "latitude": 38.705686,
     "longitude": -9.184897
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "73B"
+  ]
 }

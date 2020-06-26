@@ -1,6 +1,6 @@
 {
-  "id": 108,
-  "number": "746",
+  "id": "746",
+  "internalId": 108,
   "name": "Marquês Pombal - Estação Damaia",
   "visible": true,
   "creationDate": "2020-05-20T09:27:21.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 434,
               "stop": {
-                "id": 1203,
-                "publicId": "1203",
+                "id": "1203",
+                "internalId": 1203,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725872,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 358,
               "stop": {
-                "id": 1301,
-                "publicId": "1301",
+                "id": "1301",
+                "internalId": 1301,
                 "name": "Av. António Augusto Aguiar",
                 "position": {
                   "latitude": 38.729131,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 373,
               "stop": {
-                "id": 1401,
-                "publicId": "1401",
+                "id": "1401",
+                "internalId": 1401,
                 "name": "Igreja De São Sebastião",
                 "position": {
                   "latitude": 38.731809,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 282,
               "stop": {
-                "id": 1403,
-                "publicId": "1403",
+                "id": "1403",
+                "internalId": 1403,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.734589,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 698,
               "stop": {
-                "id": 1501,
-                "publicId": "1501",
+                "id": "1501",
+                "internalId": 1501,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.73671,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 237,
               "stop": {
-                "id": 1507,
-                "publicId": "1507",
+                "id": "1507",
+                "internalId": 1507,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738336,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 338,
               "stop": {
-                "id": 1601,
-                "publicId": "1601",
+                "id": "1601",
+                "internalId": 1601,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.738837,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 310,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 287,
               "stop": {
-                "id": 1607,
-                "publicId": "1607",
+                "id": "1607",
+                "internalId": 1607,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.741989,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 273,
               "stop": {
-                "id": 1616,
-                "publicId": "1616",
+                "id": "1616",
+                "internalId": 1616,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742583,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 332,
               "stop": {
-                "id": 10706,
-                "publicId": "10706",
+                "id": "10706",
+                "internalId": 10706,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743614,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 261,
               "stop": {
-                "id": 10704,
-                "publicId": "10704",
+                "id": "10704",
+                "internalId": 10704,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744557,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 280,
               "stop": {
-                "id": 10702,
-                "publicId": "10702",
+                "id": "10702",
+                "internalId": 10702,
                 "name": "S. Domingos De Benfica",
                 "position": {
                   "latitude": 38.745703,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 365,
               "stop": {
-                "id": 10830,
-                "publicId": "10830",
+                "id": "10830",
+                "internalId": 10830,
                 "name": "Pupilos Do Exército",
                 "position": {
                   "latitude": 38.746809,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 349,
               "stop": {
-                "id": 10826,
-                "publicId": "10826",
+                "id": "10826",
+                "internalId": 10826,
                 "name": "Rua Reinaldo Dos Santos",
                 "position": {
                   "latitude": 38.747272,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 422,
               "stop": {
-                "id": 10814,
-                "publicId": "10814",
+                "id": "10814",
+                "internalId": 10814,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.748946,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 272,
               "stop": {
-                "id": 10802,
-                "publicId": "10802",
+                "id": "10802",
+                "internalId": 10802,
                 "name": "Esc. Pedro Santarém",
                 "position": {
                   "latitude": 38.750137,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 275,
               "stop": {
-                "id": 10906,
-                "publicId": "10906",
+                "id": "10906",
+                "internalId": 10906,
                 "name": "Estr. Benfica / Av. Gomes Pere",
                 "position": {
                   "latitude": 38.750692,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 333,
               "stop": {
-                "id": 10904,
-                "publicId": "10904",
+                "id": "10904",
+                "internalId": 10904,
                 "name": "Igreja De Benfica",
                 "position": {
                   "latitude": 38.750776,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 354,
               "stop": {
-                "id": 10902,
-                "publicId": "10902",
+                "id": "10902",
+                "internalId": 10902,
                 "name": "Estrada De Benfica - Mercado",
                 "position": {
                   "latitude": 38.75199,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 569,
               "stop": {
-                "id": 11006,
-                "publicId": "11006",
+                "id": "11006",
+                "internalId": 11006,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.753411,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 387,
               "stop": {
-                "id": 50234,
-                "publicId": "3101",
+                "id": "3101",
+                "internalId": 50234,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.750506,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 203,
               "stop": {
-                "id": 50326,
-                "publicId": "3102",
+                "id": "3102",
+                "internalId": 50326,
                 "name": "Est. Damaia",
                 "position": {
                   "latitude": 38.748632,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 3022,
-                "publicId": "3022",
+                "id": "3022",
+                "internalId": 3022,
                 "name": "Damaia Estação",
                 "position": {
                   "latitude": 38.747644,
@@ -412,8 +412,8 @@
               "order": 1,
               "distance": 433,
               "stop": {
-                "id": 3005,
-                "publicId": "3005",
+                "id": "3005",
+                "internalId": 3005,
                 "name": "Damaia Estação",
                 "position": {
                   "latitude": 38.748111,
@@ -428,8 +428,8 @@
               "order": 2,
               "distance": 600,
               "stop": {
-                "id": 3003,
-                "publicId": "3003",
+                "id": "3003",
+                "internalId": 3003,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.749623,
@@ -444,8 +444,8 @@
               "order": 3,
               "distance": 314,
               "stop": {
-                "id": 11001,
-                "publicId": "11001",
+                "id": "11001",
+                "internalId": 11001,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.752705,
@@ -460,8 +460,8 @@
               "order": 4,
               "distance": 386,
               "stop": {
-                "id": 10901,
-                "publicId": "10901",
+                "id": "10901",
+                "internalId": 10901,
                 "name": "Estrada De Benfica - Mercado",
                 "position": {
                   "latitude": 38.752021,
@@ -476,8 +476,8 @@
               "order": 5,
               "distance": 251,
               "stop": {
-                "id": 10903,
-                "publicId": "10903",
+                "id": "10903",
+                "internalId": 10903,
                 "name": "Igreja De Benfica",
                 "position": {
                   "latitude": 38.750615,
@@ -492,8 +492,8 @@
               "order": 6,
               "distance": 378,
               "stop": {
-                "id": 10905,
-                "publicId": "10905",
+                "id": "10905",
+                "internalId": 10905,
                 "name": "Estr. Benfica / Av. Gomes Pere",
                 "position": {
                   "latitude": 38.750593,
@@ -508,8 +508,8 @@
               "order": 7,
               "distance": 302,
               "stop": {
-                "id": 10801,
-                "publicId": "10801",
+                "id": "10801",
+                "internalId": 10801,
                 "name": "Escola Pedro Santarém",
                 "position": {
                   "latitude": 38.749762,
@@ -524,8 +524,8 @@
               "order": 8,
               "distance": 357,
               "stop": {
-                "id": 10803,
-                "publicId": "10803",
+                "id": "10803",
+                "internalId": 10803,
                 "name": "Calhariz (Escola)",
                 "position": {
                   "latitude": 38.748208,
@@ -540,8 +540,8 @@
               "order": 9,
               "distance": 361,
               "stop": {
-                "id": 10821,
-                "publicId": "10821",
+                "id": "10821",
+                "internalId": 10821,
                 "name": "R. Prof. Reinaldo Santos",
                 "position": {
                   "latitude": 38.747029,
@@ -556,8 +556,8 @@
               "order": 10,
               "distance": 282,
               "stop": {
-                "id": 10829,
-                "publicId": "10829",
+                "id": "10829",
+                "internalId": 10829,
                 "name": "Pupilos Exército",
                 "position": {
                   "latitude": 38.746693,
@@ -572,8 +572,8 @@
               "order": 11,
               "distance": 295,
               "stop": {
-                "id": 10701,
-                "publicId": "10701",
+                "id": "10701",
+                "internalId": 10701,
                 "name": "S. Domingos Benfica",
                 "position": {
                   "latitude": 38.745556,
@@ -588,8 +588,8 @@
               "order": 12,
               "distance": 241,
               "stop": {
-                "id": 10703,
-                "publicId": "10703",
+                "id": "10703",
+                "internalId": 10703,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744338,
@@ -604,8 +604,8 @@
               "order": 13,
               "distance": 351,
               "stop": {
-                "id": 10705,
-                "publicId": "10705",
+                "id": "10705",
+                "internalId": 10705,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743595,
@@ -620,8 +620,8 @@
               "order": 14,
               "distance": 279,
               "stop": {
-                "id": 1615,
-                "publicId": "1615",
+                "id": "1615",
+                "internalId": 1615,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742416,
@@ -636,8 +636,8 @@
               "order": 15,
               "distance": 375,
               "stop": {
-                "id": 1610,
-                "publicId": "1610",
+                "id": "1610",
+                "internalId": 1610,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742006,
@@ -652,8 +652,8 @@
               "order": 16,
               "distance": 274,
               "stop": {
-                "id": 1620,
-                "publicId": "1620",
+                "id": "1620",
+                "internalId": 1620,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.739162,
@@ -668,8 +668,8 @@
               "order": 17,
               "distance": 246,
               "stop": {
-                "id": 1602,
-                "publicId": "1602",
+                "id": "1602",
+                "internalId": 1602,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.73864,
@@ -684,8 +684,8 @@
               "order": 18,
               "distance": 274,
               "stop": {
-                "id": 1510,
-                "publicId": "1510",
+                "id": "1510",
+                "internalId": 1510,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738157,
@@ -700,8 +700,8 @@
               "order": 19,
               "distance": 426,
               "stop": {
-                "id": 1506,
-                "publicId": "1506",
+                "id": "1506",
+                "internalId": 1506,
                 "name": "Praça De Espanha",
                 "position": {
                   "latitude": 38.737895,
@@ -716,8 +716,8 @@
               "order": 20,
               "distance": 403,
               "stop": {
-                "id": 1502,
-                "publicId": "1502",
+                "id": "1502",
+                "internalId": 1502,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.736531,
@@ -732,8 +732,8 @@
               "order": 21,
               "distance": 254,
               "stop": {
-                "id": 1404,
-                "publicId": "1404",
+                "id": "1404",
+                "internalId": 1404,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.733517,
@@ -748,8 +748,8 @@
               "order": 22,
               "distance": 348,
               "stop": {
-                "id": 1402,
-                "publicId": "1402",
+                "id": "1402",
+                "internalId": 1402,
                 "name": "Igreja De São Sebastião",
                 "position": {
                   "latitude": 38.731597,
@@ -764,8 +764,8 @@
               "order": 23,
               "distance": 364,
               "stop": {
-                "id": 1302,
-                "publicId": "1302",
+                "id": "1302",
+                "internalId": 1302,
                 "name": "Av. António Augusto Aguiar",
                 "position": {
                   "latitude": 38.728985,
@@ -780,8 +780,8 @@
               "order": 24,
               "distance": 252,
               "stop": {
-                "id": 1206,
-                "publicId": "1206",
+                "id": "1206",
+                "internalId": 1206,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726233,
@@ -796,8 +796,8 @@
               "order": 25,
               "distance": 288,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,
@@ -812,8 +812,8 @@
               "order": 26,
               "distance": 0,
               "stop": {
-                "id": 1203,
-                "publicId": "1203",
+                "id": "1203",
+                "internalId": 1203,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725872,
@@ -842,8 +842,8 @@
               "order": 1,
               "distance": 152,
               "stop": {
-                "id": 50221,
-                "publicId": "4509",
+                "id": "4509",
+                "internalId": 50221,
                 "name": "Terreiro Do Paço",
                 "position": {
                   "latitude": 38.708385,
@@ -858,8 +858,8 @@
               "order": 2,
               "distance": 629,
               "stop": {
-                "id": 5519,
-                "publicId": "5519",
+                "id": "5519",
+                "internalId": 5519,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.709676,
@@ -874,8 +874,8 @@
               "order": 3,
               "distance": 340,
               "stop": {
-                "id": 901,
-                "publicId": "901",
+                "id": "901",
+                "internalId": 901,
                 "name": "Rossio",
                 "position": {
                   "latitude": 38.714269,
@@ -890,8 +890,8 @@
               "order": 4,
               "distance": 494,
               "stop": {
-                "id": 1010,
-                "publicId": "1010",
+                "id": "1010",
+                "internalId": 1010,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.716116,
@@ -906,8 +906,8 @@
               "order": 5,
               "distance": 832,
               "stop": {
-                "id": 1103,
-                "publicId": "1103",
+                "id": "1103",
+                "internalId": 1103,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.719736,
@@ -922,8 +922,8 @@
               "order": 6,
               "distance": 434,
               "stop": {
-                "id": 1203,
-                "publicId": "1203",
+                "id": "1203",
+                "internalId": 1203,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725872,
@@ -938,8 +938,8 @@
               "order": 7,
               "distance": 358,
               "stop": {
-                "id": 1301,
-                "publicId": "1301",
+                "id": "1301",
+                "internalId": 1301,
                 "name": "Av. António Augusto Aguiar",
                 "position": {
                   "latitude": 38.729131,
@@ -954,8 +954,8 @@
               "order": 8,
               "distance": 373,
               "stop": {
-                "id": 1401,
-                "publicId": "1401",
+                "id": "1401",
+                "internalId": 1401,
                 "name": "Igreja De São Sebastião",
                 "position": {
                   "latitude": 38.731809,
@@ -970,8 +970,8 @@
               "order": 9,
               "distance": 282,
               "stop": {
-                "id": 1403,
-                "publicId": "1403",
+                "id": "1403",
+                "internalId": 1403,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.734589,
@@ -986,8 +986,8 @@
               "order": 10,
               "distance": 698,
               "stop": {
-                "id": 1501,
-                "publicId": "1501",
+                "id": "1501",
+                "internalId": 1501,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.73671,
@@ -1002,8 +1002,8 @@
               "order": 11,
               "distance": 237,
               "stop": {
-                "id": 1507,
-                "publicId": "1507",
+                "id": "1507",
+                "internalId": 1507,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738336,
@@ -1018,8 +1018,8 @@
               "order": 12,
               "distance": 338,
               "stop": {
-                "id": 1601,
-                "publicId": "1601",
+                "id": "1601",
+                "internalId": 1601,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.738837,
@@ -1034,8 +1034,8 @@
               "order": 13,
               "distance": 310,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -1050,8 +1050,8 @@
               "order": 14,
               "distance": 287,
               "stop": {
-                "id": 1607,
-                "publicId": "1607",
+                "id": "1607",
+                "internalId": 1607,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.741989,
@@ -1066,8 +1066,8 @@
               "order": 15,
               "distance": 273,
               "stop": {
-                "id": 1616,
-                "publicId": "1616",
+                "id": "1616",
+                "internalId": 1616,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742583,
@@ -1082,8 +1082,8 @@
               "order": 16,
               "distance": 332,
               "stop": {
-                "id": 10706,
-                "publicId": "10706",
+                "id": "10706",
+                "internalId": 10706,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743614,
@@ -1098,8 +1098,8 @@
               "order": 17,
               "distance": 261,
               "stop": {
-                "id": 10704,
-                "publicId": "10704",
+                "id": "10704",
+                "internalId": 10704,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744557,
@@ -1114,8 +1114,8 @@
               "order": 18,
               "distance": 280,
               "stop": {
-                "id": 10702,
-                "publicId": "10702",
+                "id": "10702",
+                "internalId": 10702,
                 "name": "S. Domingos De Benfica",
                 "position": {
                   "latitude": 38.745703,
@@ -1130,8 +1130,8 @@
               "order": 19,
               "distance": 365,
               "stop": {
-                "id": 10830,
-                "publicId": "10830",
+                "id": "10830",
+                "internalId": 10830,
                 "name": "Pupilos Do Exército",
                 "position": {
                   "latitude": 38.746809,
@@ -1146,8 +1146,8 @@
               "order": 20,
               "distance": 349,
               "stop": {
-                "id": 10826,
-                "publicId": "10826",
+                "id": "10826",
+                "internalId": 10826,
                 "name": "Rua Reinaldo Dos Santos",
                 "position": {
                   "latitude": 38.747272,
@@ -1162,8 +1162,8 @@
               "order": 21,
               "distance": 422,
               "stop": {
-                "id": 10814,
-                "publicId": "10814",
+                "id": "10814",
+                "internalId": 10814,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.748946,
@@ -1178,8 +1178,8 @@
               "order": 22,
               "distance": 272,
               "stop": {
-                "id": 10802,
-                "publicId": "10802",
+                "id": "10802",
+                "internalId": 10802,
                 "name": "Esc. Pedro Santarém",
                 "position": {
                   "latitude": 38.750137,
@@ -1194,8 +1194,8 @@
               "order": 23,
               "distance": 275,
               "stop": {
-                "id": 10906,
-                "publicId": "10906",
+                "id": "10906",
+                "internalId": 10906,
                 "name": "Estr. Benfica / Av. Gomes Pere",
                 "position": {
                   "latitude": 38.750692,
@@ -1210,8 +1210,8 @@
               "order": 24,
               "distance": 333,
               "stop": {
-                "id": 10904,
-                "publicId": "10904",
+                "id": "10904",
+                "internalId": 10904,
                 "name": "Igreja De Benfica",
                 "position": {
                   "latitude": 38.750776,
@@ -1226,8 +1226,8 @@
               "order": 25,
               "distance": 354,
               "stop": {
-                "id": 10902,
-                "publicId": "10902",
+                "id": "10902",
+                "internalId": 10902,
                 "name": "Estrada De Benfica - Mercado",
                 "position": {
                   "latitude": 38.75199,
@@ -1242,8 +1242,8 @@
               "order": 26,
               "distance": 569,
               "stop": {
-                "id": 11006,
-                "publicId": "11006",
+                "id": "11006",
+                "internalId": 11006,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.753411,
@@ -1258,8 +1258,8 @@
               "order": 27,
               "distance": 387,
               "stop": {
-                "id": 50234,
-                "publicId": "3101",
+                "id": "3101",
+                "internalId": 50234,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.750506,
@@ -1274,8 +1274,8 @@
               "order": 28,
               "distance": 203,
               "stop": {
-                "id": 50326,
-                "publicId": "3102",
+                "id": "3102",
+                "internalId": 50326,
                 "name": "Est. Damaia",
                 "position": {
                   "latitude": 38.748632,
@@ -1290,8 +1290,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 3022,
-                "publicId": "3022",
+                "id": "3022",
+                "internalId": 3022,
                 "name": "Damaia Estação",
                 "position": {
                   "latitude": 38.747644,
@@ -1313,8 +1313,8 @@
               "order": 1,
               "distance": 433,
               "stop": {
-                "id": 3005,
-                "publicId": "3005",
+                "id": "3005",
+                "internalId": 3005,
                 "name": "Damaia Estação",
                 "position": {
                   "latitude": 38.748111,
@@ -1329,8 +1329,8 @@
               "order": 2,
               "distance": 600,
               "stop": {
-                "id": 3003,
-                "publicId": "3003",
+                "id": "3003",
+                "internalId": 3003,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.749623,
@@ -1345,8 +1345,8 @@
               "order": 3,
               "distance": 314,
               "stop": {
-                "id": 11001,
-                "publicId": "11001",
+                "id": "11001",
+                "internalId": 11001,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.752705,
@@ -1361,8 +1361,8 @@
               "order": 4,
               "distance": 386,
               "stop": {
-                "id": 10901,
-                "publicId": "10901",
+                "id": "10901",
+                "internalId": 10901,
                 "name": "Estrada De Benfica - Mercado",
                 "position": {
                   "latitude": 38.752021,
@@ -1377,8 +1377,8 @@
               "order": 5,
               "distance": 251,
               "stop": {
-                "id": 10903,
-                "publicId": "10903",
+                "id": "10903",
+                "internalId": 10903,
                 "name": "Igreja De Benfica",
                 "position": {
                   "latitude": 38.750615,
@@ -1393,8 +1393,8 @@
               "order": 6,
               "distance": 378,
               "stop": {
-                "id": 10905,
-                "publicId": "10905",
+                "id": "10905",
+                "internalId": 10905,
                 "name": "Estr. Benfica / Av. Gomes Pere",
                 "position": {
                   "latitude": 38.750593,
@@ -1409,8 +1409,8 @@
               "order": 7,
               "distance": 302,
               "stop": {
-                "id": 10801,
-                "publicId": "10801",
+                "id": "10801",
+                "internalId": 10801,
                 "name": "Escola Pedro Santarém",
                 "position": {
                   "latitude": 38.749762,
@@ -1425,8 +1425,8 @@
               "order": 8,
               "distance": 357,
               "stop": {
-                "id": 10803,
-                "publicId": "10803",
+                "id": "10803",
+                "internalId": 10803,
                 "name": "Calhariz (Escola)",
                 "position": {
                   "latitude": 38.748208,
@@ -1441,8 +1441,8 @@
               "order": 9,
               "distance": 361,
               "stop": {
-                "id": 10821,
-                "publicId": "10821",
+                "id": "10821",
+                "internalId": 10821,
                 "name": "R. Prof. Reinaldo Santos",
                 "position": {
                   "latitude": 38.747029,
@@ -1457,8 +1457,8 @@
               "order": 10,
               "distance": 282,
               "stop": {
-                "id": 10829,
-                "publicId": "10829",
+                "id": "10829",
+                "internalId": 10829,
                 "name": "Pupilos Exército",
                 "position": {
                   "latitude": 38.746693,
@@ -1473,8 +1473,8 @@
               "order": 11,
               "distance": 295,
               "stop": {
-                "id": 10701,
-                "publicId": "10701",
+                "id": "10701",
+                "internalId": 10701,
                 "name": "S. Domingos Benfica",
                 "position": {
                   "latitude": 38.745556,
@@ -1489,8 +1489,8 @@
               "order": 12,
               "distance": 241,
               "stop": {
-                "id": 10703,
-                "publicId": "10703",
+                "id": "10703",
+                "internalId": 10703,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744338,
@@ -1505,8 +1505,8 @@
               "order": 13,
               "distance": 351,
               "stop": {
-                "id": 10705,
-                "publicId": "10705",
+                "id": "10705",
+                "internalId": 10705,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743595,
@@ -1521,8 +1521,8 @@
               "order": 14,
               "distance": 279,
               "stop": {
-                "id": 1615,
-                "publicId": "1615",
+                "id": "1615",
+                "internalId": 1615,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742416,
@@ -1537,8 +1537,8 @@
               "order": 15,
               "distance": 375,
               "stop": {
-                "id": 1610,
-                "publicId": "1610",
+                "id": "1610",
+                "internalId": 1610,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742006,
@@ -1553,8 +1553,8 @@
               "order": 16,
               "distance": 274,
               "stop": {
-                "id": 1620,
-                "publicId": "1620",
+                "id": "1620",
+                "internalId": 1620,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.739162,
@@ -1569,8 +1569,8 @@
               "order": 17,
               "distance": 246,
               "stop": {
-                "id": 1602,
-                "publicId": "1602",
+                "id": "1602",
+                "internalId": 1602,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.73864,
@@ -1585,8 +1585,8 @@
               "order": 18,
               "distance": 274,
               "stop": {
-                "id": 1510,
-                "publicId": "1510",
+                "id": "1510",
+                "internalId": 1510,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738157,
@@ -1601,8 +1601,8 @@
               "order": 19,
               "distance": 426,
               "stop": {
-                "id": 1506,
-                "publicId": "1506",
+                "id": "1506",
+                "internalId": 1506,
                 "name": "Praça De Espanha",
                 "position": {
                   "latitude": 38.737895,
@@ -1617,8 +1617,8 @@
               "order": 20,
               "distance": 403,
               "stop": {
-                "id": 1502,
-                "publicId": "1502",
+                "id": "1502",
+                "internalId": 1502,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.736531,
@@ -1633,8 +1633,8 @@
               "order": 21,
               "distance": 254,
               "stop": {
-                "id": 1404,
-                "publicId": "1404",
+                "id": "1404",
+                "internalId": 1404,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.733517,
@@ -1649,8 +1649,8 @@
               "order": 22,
               "distance": 348,
               "stop": {
-                "id": 1402,
-                "publicId": "1402",
+                "id": "1402",
+                "internalId": 1402,
                 "name": "Igreja De São Sebastião",
                 "position": {
                   "latitude": 38.731597,
@@ -1665,8 +1665,8 @@
               "order": 23,
               "distance": 364,
               "stop": {
-                "id": 1302,
-                "publicId": "1302",
+                "id": "1302",
+                "internalId": 1302,
                 "name": "Av. António Augusto Aguiar",
                 "position": {
                   "latitude": 38.728985,
@@ -1681,8 +1681,8 @@
               "order": 24,
               "distance": 252,
               "stop": {
-                "id": 1206,
-                "publicId": "1206",
+                "id": "1206",
+                "internalId": 1206,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726233,
@@ -1697,8 +1697,8 @@
               "order": 25,
               "distance": 708,
               "stop": {
-                "id": 1212,
-                "publicId": "1212",
+                "id": "1212",
+                "internalId": 1212,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724665,
@@ -1713,8 +1713,8 @@
               "order": 26,
               "distance": 590,
               "stop": {
-                "id": 1102,
-                "publicId": "1102",
+                "id": "1102",
+                "internalId": 1102,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.720248,
@@ -1729,8 +1729,8 @@
               "order": 27,
               "distance": 287,
               "stop": {
-                "id": 1006,
-                "publicId": "1006",
+                "id": "1006",
+                "internalId": 1006,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715631,
@@ -1745,8 +1745,8 @@
               "order": 28,
               "distance": 412,
               "stop": {
-                "id": 908,
-                "publicId": "908",
+                "id": "908",
+                "internalId": 908,
                 "name": "Rossio",
                 "position": {
                   "latitude": 38.714037,
@@ -1761,8 +1761,8 @@
               "order": 29,
               "distance": 408,
               "stop": {
-                "id": 5510,
-                "publicId": "5510",
+                "id": "5510",
+                "internalId": 5510,
                 "name": "R. Ouro",
                 "position": {
                   "latitude": 38.710845,
@@ -1777,8 +1777,8 @@
               "order": 30,
               "distance": 0,
               "stop": {
-                "id": 50221,
-                "publicId": "4509",
+                "id": "4509",
+                "internalId": 50221,
                 "name": "Terreiro Do Paço",
                 "position": {
                   "latitude": 38.708385,

@@ -1,11 +1,15 @@
 {
-  "id": 24376,
-  "publicId": "89912",
+  "id": "89912",
+  "internalId": 24376,
   "name": "Esc. D. Dinis",
   "position": {
     "latitude": 38.751753,
     "longitude": -9.113592
   },
   "visible": true,
-  "updateDate": "2018-02-21T11:12:48.000Z"
+  "updateDate": "2018-02-21T11:12:48.000Z",
+  "routes": [
+    "31B",
+    "32B"
+  ]
 }

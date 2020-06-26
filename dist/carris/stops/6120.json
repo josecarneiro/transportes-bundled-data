@@ -1,11 +1,16 @@
 {
-  "id": 6120,
-  "publicId": "6120",
+  "id": "6120",
+  "internalId": 6120,
   "name": "Campolide (Av. Cons. Fernando",
   "position": {
     "latitude": 38.726441,
     "longitude": -9.161478
   },
   "visible": true,
-  "updateDate": "2017-12-07T12:59:24.000Z"
+  "updateDate": "2017-12-07T12:59:24.000Z",
+  "routes": [
+    "202",
+    "713",
+    "758"
+  ]
 }

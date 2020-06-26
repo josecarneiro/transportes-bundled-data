@@ -1,11 +1,15 @@
 {
-  "id": 11201,
-  "publicId": "11201",
+  "id": "11201",
+  "internalId": 11201,
   "name": "Estádio 1º Maio",
   "position": {
     "latitude": 38.753091,
     "longitude": -9.138006
   },
   "visible": true,
-  "updateDate": "2019-03-26T16:50:38.000Z"
+  "updateDate": "2019-03-26T16:50:38.000Z",
+  "routes": [
+    "717",
+    "744"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 6724,
-  "publicId": "6724",
+  "id": "6724",
+  "internalId": 6724,
   "name": "R. Poiais S. Bento",
   "position": {
     "latitude": 38.710769,
     "longitude": -9.151869
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:34:36.000Z"
+  "updateDate": "2019-09-02T14:34:36.000Z",
+  "routes": [
+    "28E"
+  ]
 }

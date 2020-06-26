@@ -1,11 +1,14 @@
 {
-  "id": 13119,
-  "publicId": "13119",
+  "id": "13119",
+  "internalId": 13119,
   "name": "Restelo - Epul",
   "position": {
     "latitude": 38.70621,
     "longitude": -9.212763
   },
   "visible": true,
-  "updateDate": "2006-02-10T11:32:55.000Z"
+  "updateDate": "2006-02-10T11:32:55.000Z",
+  "routes": [
+    "714"
+  ]
 }

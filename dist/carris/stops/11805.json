@@ -1,11 +1,14 @@
 {
-  "id": 11805,
-  "publicId": "11805",
+  "id": "11805",
+  "internalId": 11805,
   "name": "Clube De Ténis",
   "position": {
     "latitude": 38.716993,
     "longitude": -9.18388
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:06:40.000Z"
+  "updateDate": "2008-12-05T18:06:40.000Z",
+  "routes": [
+    "724"
+  ]
 }

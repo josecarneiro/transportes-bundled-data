@@ -1,11 +1,17 @@
 {
-  "id": 3706,
-  "publicId": "3706",
+  "id": "3706",
+  "internalId": 3706,
   "name": "Praça Eduardo Mondlane",
   "position": {
     "latitude": 38.744135,
     "longitude": -9.113686
   },
   "visible": true,
-  "updateDate": "2012-12-14T18:00:31.000Z"
+  "updateDate": "2012-12-14T18:00:31.000Z",
+  "routes": [
+    "749",
+    "755",
+    "759",
+    "31B"
+  ]
 }

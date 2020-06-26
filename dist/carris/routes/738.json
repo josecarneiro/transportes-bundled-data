@@ -1,6 +1,6 @@
 {
-  "id": 117,
-  "number": "738",
+  "id": "738",
+  "internalId": 117,
   "name": "Qta. Barros - Alto Sto. Amaro",
   "visible": true,
   "creationDate": "2020-05-20T09:25:07.000Z",
@@ -2144,8 +2144,8 @@
               "order": 1,
               "distance": 27,
               "stop": {
-                "id": 50243,
-                "publicId": "50020",
+                "id": "50020",
+                "internalId": 50243,
                 "name": "Qta Dos Barros",
                 "position": {
                   "latitude": 38.755739,
@@ -2160,8 +2160,8 @@
               "order": 2,
               "distance": 191,
               "stop": {
-                "id": 50017,
-                "publicId": "50017",
+                "id": "50017",
+                "internalId": 50017,
                 "name": "Qta Dos Barros",
                 "position": {
                   "latitude": 38.755724,
@@ -2176,8 +2176,8 @@
               "order": 3,
               "distance": 268,
               "stop": {
-                "id": 13622,
-                "publicId": "13622",
+                "id": "13622",
+                "internalId": 13622,
                 "name": "Rua António Albino Machado",
                 "position": {
                   "latitude": 38.754603,
@@ -2192,8 +2192,8 @@
               "order": 4,
               "distance": 972,
               "stop": {
-                "id": 13620,
-                "publicId": "13620",
+                "id": "13620",
+                "internalId": 13620,
                 "name": "R. S. Tomás Aquino",
                 "position": {
                   "latitude": 38.751873,
@@ -2208,8 +2208,8 @@
               "order": 5,
               "distance": 270,
               "stop": {
-                "id": 13509,
-                "publicId": "13509",
+                "id": "13509",
+                "internalId": 13509,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.750002,
@@ -2224,8 +2224,8 @@
               "order": 6,
               "distance": 336,
               "stop": {
-                "id": 13510,
-                "publicId": "13510",
+                "id": "13510",
+                "internalId": 13510,
                 "name": "Cantina Da Universidade",
                 "position": {
                   "latitude": 38.751401,
@@ -2240,8 +2240,8 @@
               "order": 7,
               "distance": 390,
               "stop": {
-                "id": 5702,
-                "publicId": "5702",
+                "id": "5702",
+                "internalId": 5702,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.752847,
@@ -2256,8 +2256,8 @@
               "order": 8,
               "distance": 230,
               "stop": {
-                "id": 5704,
-                "publicId": "5704",
+                "id": "5704",
+                "internalId": 5704,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.753919,
@@ -2272,8 +2272,8 @@
               "order": 9,
               "distance": 379,
               "stop": {
-                "id": 2008,
-                "publicId": "2008",
+                "id": "2008",
+                "internalId": 2008,
                 "name": "Campo Grande",
                 "position": {
                   "latitude": 38.752122,
@@ -2288,8 +2288,8 @@
               "order": 10,
               "distance": 209,
               "stop": {
-                "id": 2006,
-                "publicId": "2006",
+                "id": "2006",
+                "internalId": 2006,
                 "name": "Entrecampos Norte",
                 "position": {
                   "latitude": 38.749116,
@@ -2304,8 +2304,8 @@
               "order": 11,
               "distance": 326,
               "stop": {
-                "id": 2004,
-                "publicId": "2004",
+                "id": "2004",
+                "internalId": 2004,
                 "name": "Entrecampos",
                 "position": {
                   "latitude": 38.747419,
@@ -2320,8 +2320,8 @@
               "order": 12,
               "distance": 323,
               "stop": {
-                "id": 2020,
-                "publicId": "2020",
+                "id": "2020",
+                "internalId": 2020,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.74457,
@@ -2336,8 +2336,8 @@
               "order": 13,
               "distance": 370,
               "stop": {
-                "id": 1906,
-                "publicId": "1906",
+                "id": "1906",
+                "internalId": 1906,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.741701,
@@ -2352,8 +2352,8 @@
               "order": 14,
               "distance": 516,
               "stop": {
-                "id": 1810,
-                "publicId": "1810",
+                "id": "1810",
+                "internalId": 1810,
                 "name": "Av. Da República",
                 "position": {
                   "latitude": 38.73847,
@@ -2368,8 +2368,8 @@
               "order": 15,
               "distance": 300,
               "stop": {
-                "id": 1802,
-                "publicId": "1802",
+                "id": "1802",
+                "internalId": 1802,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733899,
@@ -2384,8 +2384,8 @@
               "order": 16,
               "distance": 351,
               "stop": {
-                "id": 1704,
-                "publicId": "1704",
+                "id": "1704",
+                "internalId": 1704,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.731428,
@@ -2400,8 +2400,8 @@
               "order": 17,
               "distance": 301,
               "stop": {
-                "id": 1702,
-                "publicId": "1702",
+                "id": "1702",
+                "internalId": 1702,
                 "name": "Av. Fontes Pereira De Melo",
                 "position": {
                   "latitude": 38.72861,
@@ -2416,8 +2416,8 @@
               "order": 18,
               "distance": 379,
               "stop": {
-                "id": 1206,
-                "publicId": "1206",
+                "id": "1206",
+                "internalId": 1206,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726233,
@@ -2432,8 +2432,8 @@
               "order": 19,
               "distance": 204,
               "stop": {
-                "id": 1208,
-                "publicId": "1208",
+                "id": "1208",
+                "internalId": 1208,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.723893,
@@ -2448,8 +2448,8 @@
               "order": 20,
               "distance": 372,
               "stop": {
-                "id": 6806,
-                "publicId": "6806",
+                "id": "6806",
+                "internalId": 6806,
                 "name": "Rua Braamcamp",
                 "position": {
                   "latitude": 38.722236,
@@ -2464,8 +2464,8 @@
               "order": 21,
               "distance": 285,
               "stop": {
-                "id": 6804,
-                "publicId": "6804",
+                "id": "6804",
+                "internalId": 6804,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.720082,
@@ -2480,8 +2480,8 @@
               "order": 22,
               "distance": 406,
               "stop": {
-                "id": 6802,
-                "publicId": "6802",
+                "id": "6802",
+                "internalId": 6802,
                 "name": "Av. Álvares Cabral",
                 "position": {
                   "latitude": 38.718344,
@@ -2496,8 +2496,8 @@
               "order": 23,
               "distance": 407,
               "stop": {
-                "id": 8104,
-                "publicId": "8104",
+                "id": "8104",
+                "internalId": 8104,
                 "name": "Jardim Da Estrela",
                 "position": {
                   "latitude": 38.715773,
@@ -2512,8 +2512,8 @@
               "order": 24,
               "distance": 283,
               "stop": {
-                "id": 8102,
-                "publicId": "8102",
+                "id": "8102",
+                "internalId": 8102,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713272,
@@ -2528,8 +2528,8 @@
               "order": 25,
               "distance": 296,
               "stop": {
-                "id": 10104,
-                "publicId": "10104",
+                "id": "10104",
+                "internalId": 10104,
                 "name": "Av. Inf. Santo / R. Santana À",
                 "position": {
                   "latitude": 38.711397,
@@ -2544,8 +2544,8 @@
               "order": 26,
               "distance": 278,
               "stop": {
-                "id": 10102,
-                "publicId": "10102",
+                "id": "10102",
+                "internalId": 10102,
                 "name": "Av. Inf. Santo (Gasómetro)",
                 "position": {
                   "latitude": 38.709431,
@@ -2560,8 +2560,8 @@
               "order": 27,
               "distance": 363,
               "stop": {
-                "id": 10206,
-                "publicId": "10206",
+                "id": "10206",
+                "internalId": 10206,
                 "name": "Cova Da Moura",
                 "position": {
                   "latitude": 38.707024,
@@ -2576,8 +2576,8 @@
               "order": 28,
               "distance": 545,
               "stop": {
-                "id": 10204,
-                "publicId": "10204",
+                "id": "10204",
+                "internalId": 10204,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.703804,
@@ -2592,8 +2592,8 @@
               "order": 29,
               "distance": 229,
               "stop": {
-                "id": 4004,
-                "publicId": "4004",
+                "id": "4004",
+                "internalId": 4004,
                 "name": "Alcântara - Av. 24 De Julho",
                 "position": {
                   "latitude": 38.704304,
@@ -2608,8 +2608,8 @@
               "order": 30,
               "distance": 484,
               "stop": {
-                "id": 12102,
-                "publicId": "12102",
+                "id": "12102",
+                "internalId": 12102,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.70466,
@@ -2624,8 +2624,8 @@
               "order": 31,
               "distance": 267,
               "stop": {
-                "id": 12114,
-                "publicId": "12114",
+                "id": "12114",
+                "internalId": 12114,
                 "name": "R. Lusíadas",
                 "position": {
                   "latitude": 38.705178,
@@ -2640,8 +2640,8 @@
               "order": 32,
               "distance": 275,
               "stop": {
-                "id": 12004,
-                "publicId": "12004",
+                "id": "12004",
+                "internalId": 12004,
                 "name": "R. Luis Camões",
                 "position": {
                   "latitude": 38.704527,
@@ -2656,8 +2656,8 @@
               "order": 33,
               "distance": 276,
               "stop": {
-                "id": 12002,
-                "publicId": "12002",
+                "id": "12002",
+                "internalId": 12002,
                 "name": "Jardim Do Alto De Santo Amaro",
                 "position": {
                   "latitude": 38.704189,
@@ -2672,8 +2672,8 @@
               "order": 34,
               "distance": 110,
               "stop": {
-                "id": 12010,
-                "publicId": "12010",
+                "id": "12010",
+                "internalId": 12010,
                 "name": "Alto Sto. Amaro",
                 "position": {
                   "latitude": 38.702559,
@@ -2688,8 +2688,8 @@
               "order": 35,
               "distance": 0,
               "stop": {
-                "id": 12001,
-                "publicId": "12001",
+                "id": "12001",
+                "internalId": 12001,
                 "name": "Alto De Santo Amaro",
                 "position": {
                   "latitude": 38.702359,
@@ -4938,8 +4938,8 @@
               "order": 1,
               "distance": 366,
               "stop": {
-                "id": 12001,
-                "publicId": "12001",
+                "id": "12001",
+                "internalId": 12001,
                 "name": "Alto De Santo Amaro",
                 "position": {
                   "latitude": 38.702359,
@@ -4954,8 +4954,8 @@
               "order": 2,
               "distance": 257,
               "stop": {
-                "id": 12003,
-                "publicId": "12003",
+                "id": "12003",
+                "internalId": 12003,
                 "name": "Jardim Do Alto De Santo Amaro",
                 "position": {
                   "latitude": 38.70448,
@@ -4970,8 +4970,8 @@
               "order": 3,
               "distance": 273,
               "stop": {
-                "id": 12005,
-                "publicId": "12005",
+                "id": "12005",
+                "internalId": 12005,
                 "name": "R. Luis Camões",
                 "position": {
                   "latitude": 38.704103,
@@ -4986,8 +4986,8 @@
               "order": 4,
               "distance": 416,
               "stop": {
-                "id": 12113,
-                "publicId": "12113",
+                "id": "12113",
+                "internalId": 12113,
                 "name": "R. Lusíadas",
                 "position": {
                   "latitude": 38.705329,
@@ -5002,8 +5002,8 @@
               "order": 5,
               "distance": 240,
               "stop": {
-                "id": 12101,
-                "publicId": "12101",
+                "id": "12101",
+                "internalId": 12101,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.704501,
@@ -5018,8 +5018,8 @@
               "order": 6,
               "distance": 591,
               "stop": {
-                "id": 4001,
-                "publicId": "4001",
+                "id": "4001",
+                "internalId": 4001,
                 "name": "Alcântara - Av. 24 De Julho",
                 "position": {
                   "latitude": 38.704145,
@@ -5034,8 +5034,8 @@
               "order": 7,
               "distance": 334,
               "stop": {
-                "id": 10203,
-                "publicId": "10203",
+                "id": "10203",
+                "internalId": 10203,
                 "name": "Av. Infante Santo",
                 "position": {
                   "latitude": 38.70419,
@@ -5050,8 +5050,8 @@
               "order": 8,
               "distance": 344,
               "stop": {
-                "id": 10205,
-                "publicId": "10205",
+                "id": "10205",
+                "internalId": 10205,
                 "name": "Cova Da Moura",
                 "position": {
                   "latitude": 38.707145,
@@ -5066,8 +5066,8 @@
               "order": 9,
               "distance": 325,
               "stop": {
-                "id": 10101,
-                "publicId": "10101",
+                "id": "10101",
+                "internalId": 10101,
                 "name": "Av. Inf. Santo (Gasómetro)",
                 "position": {
                   "latitude": 38.709867,
@@ -5082,8 +5082,8 @@
               "order": 10,
               "distance": 171,
               "stop": {
-                "id": 10103,
-                "publicId": "10103",
+                "id": "10103",
+                "internalId": 10103,
                 "name": "Av. Inf. Santo / R. Santana À",
                 "position": {
                   "latitude": 38.712024,
@@ -5098,8 +5098,8 @@
               "order": 11,
               "distance": 368,
               "stop": {
-                "id": 8101,
-                "publicId": "8101",
+                "id": "8101",
+                "internalId": 8101,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713163,
@@ -5114,8 +5114,8 @@
               "order": 12,
               "distance": 372,
               "stop": {
-                "id": 8103,
-                "publicId": "8103",
+                "id": "8103",
+                "internalId": 8103,
                 "name": "Jardim Da Estrela",
                 "position": {
                   "latitude": 38.715563,
@@ -5130,8 +5130,8 @@
               "order": 13,
               "distance": 344,
               "stop": {
-                "id": 6801,
-                "publicId": "6801",
+                "id": "6801",
+                "internalId": 6801,
                 "name": "Av. Álvares Cabral",
                 "position": {
                   "latitude": 38.717485,
@@ -5146,8 +5146,8 @@
               "order": 14,
               "distance": 398,
               "stop": {
-                "id": 6805,
-                "publicId": "6805",
+                "id": "6805",
+                "internalId": 6805,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.719834,
@@ -5162,8 +5162,8 @@
               "order": 15,
               "distance": 244,
               "stop": {
-                "id": 6809,
-                "publicId": "6809",
+                "id": "6809",
+                "internalId": 6809,
                 "name": "Rua Braamcamp",
                 "position": {
                   "latitude": 38.72213,
@@ -5178,8 +5178,8 @@
               "order": 16,
               "distance": 418,
               "stop": {
-                "id": 1207,
-                "publicId": "1207",
+                "id": "1207",
+                "internalId": 1207,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724125,
@@ -5194,8 +5194,8 @@
               "order": 17,
               "distance": 266,
               "stop": {
-                "id": 1205,
-                "publicId": "1205",
+                "id": "1205",
+                "internalId": 1205,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.726634,
@@ -5210,8 +5210,8 @@
               "order": 18,
               "distance": 280,
               "stop": {
-                "id": 1701,
-                "publicId": "1701",
+                "id": "1701",
+                "internalId": 1701,
                 "name": "Av. Fontes Pereira De Melo",
                 "position": {
                   "latitude": 38.728781,
@@ -5226,8 +5226,8 @@
               "order": 19,
               "distance": 330,
               "stop": {
-                "id": 1713,
-                "publicId": "1713",
+                "id": "1713",
+                "internalId": 1713,
                 "name": "Picoas",
                 "position": {
                   "latitude": 38.731033,
@@ -5242,8 +5242,8 @@
               "order": 20,
               "distance": 527,
               "stop": {
-                "id": 1801,
-                "publicId": "1801",
+                "id": "1801",
+                "internalId": 1801,
                 "name": "Saldanha",
                 "position": {
                   "latitude": 38.733676,
@@ -5258,8 +5258,8 @@
               "order": 21,
               "distance": 504,
               "stop": {
-                "id": 1805,
-                "publicId": "1805",
+                "id": "1805",
+                "internalId": 1805,
                 "name": "Av. Da República",
                 "position": {
                   "latitude": 38.738339,
@@ -5274,8 +5274,8 @@
               "order": 22,
               "distance": 355,
               "stop": {
-                "id": 1903,
-                "publicId": "1903",
+                "id": "1903",
+                "internalId": 1903,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.742781,
@@ -5290,8 +5290,8 @@
               "order": 23,
               "distance": 190,
               "stop": {
-                "id": 2022,
-                "publicId": "2022",
+                "id": "2022",
+                "internalId": 2022,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.745925,
@@ -5306,8 +5306,8 @@
               "order": 24,
               "distance": 249,
               "stop": {
-                "id": 2001,
-                "publicId": "2001",
+                "id": "2001",
+                "internalId": 2001,
                 "name": "Entrecampos",
                 "position": {
                   "latitude": 38.747604,
@@ -5322,8 +5322,8 @@
               "order": 25,
               "distance": 304,
               "stop": {
-                "id": 2003,
-                "publicId": "2003",
+                "id": "2003",
+                "internalId": 2003,
                 "name": "Entrecampos Norte",
                 "position": {
                   "latitude": 38.749798,
@@ -5338,8 +5338,8 @@
               "order": 26,
               "distance": 405,
               "stop": {
-                "id": 2017,
-                "publicId": "2017",
+                "id": "2017",
+                "internalId": 2017,
                 "name": "Campo Grande",
                 "position": {
                   "latitude": 38.752315,
@@ -5354,8 +5354,8 @@
               "order": 27,
               "distance": 411,
               "stop": {
-                "id": 5703,
-                "publicId": "5703",
+                "id": "5703",
+                "internalId": 5703,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.754814,
@@ -5370,8 +5370,8 @@
               "order": 28,
               "distance": 574,
               "stop": {
-                "id": 5701,
-                "publicId": "5701",
+                "id": "5701",
+                "internalId": 5701,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.753853,
@@ -5386,8 +5386,8 @@
               "order": 29,
               "distance": 327,
               "stop": {
-                "id": 13507,
-                "publicId": "13507",
+                "id": "13507",
+                "internalId": 13507,
                 "name": "Cantina Da Universidade",
                 "position": {
                   "latitude": 38.750757,
@@ -5402,8 +5402,8 @@
               "order": 30,
               "distance": 628,
               "stop": {
-                "id": 13508,
-                "publicId": "13508",
+                "id": "13508",
+                "internalId": 13508,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.75019,
@@ -5418,8 +5418,8 @@
               "order": 31,
               "distance": 373,
               "stop": {
-                "id": 13619,
-                "publicId": "13619",
+                "id": "13619",
+                "internalId": 13619,
                 "name": "Rua Tomás De Aquino",
                 "position": {
                   "latitude": 38.751631,
@@ -5434,8 +5434,8 @@
               "order": 32,
               "distance": 269,
               "stop": {
-                "id": 13621,
-                "publicId": "13621",
+                "id": "13621",
+                "internalId": 13621,
                 "name": "Rua António Albino Machado",
                 "position": {
                   "latitude": 38.754345,
@@ -5450,8 +5450,8 @@
               "order": 33,
               "distance": 0,
               "stop": {
-                "id": 50243,
-                "publicId": "50020",
+                "id": "50020",
+                "internalId": 50243,
                 "name": "Qta Dos Barros",
                 "position": {
                   "latitude": 38.755739,

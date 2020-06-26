@@ -1,11 +1,16 @@
 {
-  "id": 1003,
-  "publicId": "1003",
+  "id": "1003",
+  "internalId": 1003,
   "name": "Restauradores",
   "position": {
     "latitude": 38.715976,
     "longitude": -9.141625
   },
   "visible": true,
-  "updateDate": "2018-04-02T15:50:04.000Z"
+  "updateDate": "2018-04-02T15:50:04.000Z",
+  "routes": [
+    "207",
+    "709",
+    "711"
+  ]
 }

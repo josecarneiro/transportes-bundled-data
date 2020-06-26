@@ -1,6 +1,6 @@
 {
-  "id": 224,
-  "number": "37B",
+  "id": "37B",
+  "internalId": 224,
   "name": "Cruz Pedra (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -21,8 +21,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 50400,
-                "publicId": "9817",
+                "id": "9817",
+                "internalId": 50400,
                 "name": "Cruz Da Pedra",
                 "position": {
                   "latitude": 38.723685,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 378,
               "stop": {
-                "id": 9816,
-                "publicId": "9816",
+                "id": "9816",
+                "internalId": 9816,
                 "name": "R. Madre Deus",
                 "position": {
                   "latitude": 38.722636,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 242,
               "stop": {
-                "id": 9824,
-                "publicId": "9824",
+                "id": "9824",
+                "internalId": 9824,
                 "name": "Cç. Cruz Pedra",
                 "position": {
                   "latitude": 38.720459,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 254,
               "stop": {
-                "id": 9819,
-                "publicId": "9819",
+                "id": "9819",
+                "internalId": 9819,
                 "name": "Esc. Patricio Prazeres",
                 "position": {
                   "latitude": 38.721809,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 255,
               "stop": {
-                "id": 9821,
-                "publicId": "9821",
+                "id": "9821",
+                "internalId": 9821,
                 "name": "Qta. Peixinhos",
                 "position": {
                   "latitude": 38.723519,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 497,
               "stop": {
-                "id": 11707,
-                "publicId": "11707",
+                "id": "11707",
+                "internalId": 11707,
                 "name": "R. Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.725765,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 227,
               "stop": {
-                "id": 50397,
-                "publicId": "9123",
+                "id": "9123",
+                "internalId": 50397,
                 "name": "R. Gen. Themudo Barata",
                 "position": {
                   "latitude": 38.726935,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 240,
               "stop": {
-                "id": 50398,
-                "publicId": "9134",
+                "id": "9134",
+                "internalId": 50398,
                 "name": "R. Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.726065,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 242,
               "stop": {
-                "id": 50399,
-                "publicId": "9135",
+                "id": "9135",
+                "internalId": 50399,
                 "name": "R. Franciso Pedro Curado",
                 "position": {
                   "latitude": 38.727234,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 407,
               "stop": {
-                "id": 7006,
-                "publicId": "7006",
+                "id": "7006",
+                "internalId": 7006,
                 "name": "Esc. Nuno Gonçalves",
                 "position": {
                   "latitude": 38.727193,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 177,
               "stop": {
-                "id": 7005,
-                "publicId": "7005",
+                "id": "7005",
+                "internalId": 7005,
                 "name": "Penha França",
                 "position": {
                   "latitude": 38.728516,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 287,
               "stop": {
-                "id": 50395,
-                "publicId": "7017",
+                "id": "7017",
+                "internalId": 50395,
                 "name": "Igreja Penha França",
                 "position": {
                   "latitude": 38.729893,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 457,
               "stop": {
-                "id": 508,
-                "publicId": "508",
+                "id": "508",
+                "internalId": 508,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732437,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 388,
               "stop": {
-                "id": 50394,
-                "publicId": "401",
+                "id": "401",
+                "internalId": 50394,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736504,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 323,
               "stop": {
-                "id": 9002,
-                "publicId": "9002",
+                "id": "9002",
+                "internalId": 9002,
                 "name": "Alto Pina",
                 "position": {
                   "latitude": 38.737503,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 242,
               "stop": {
-                "id": 8911,
-                "publicId": "8911",
+                "id": "8911",
+                "internalId": 8911,
                 "name": "R. Eng.º Santos Simões",
                 "position": {
                   "latitude": 38.735827,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 406,
               "stop": {
-                "id": 50396,
-                "publicId": "8920",
+                "id": "8920",
+                "internalId": 50396,
                 "name": "Qta. Lavrado",
                 "position": {
                   "latitude": 38.734349,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 224,
               "stop": {
-                "id": 7010,
-                "publicId": "7010",
+                "id": "7010",
+                "internalId": 7010,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.731363,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 285,
               "stop": {
-                "id": 7012,
-                "publicId": "7012",
+                "id": "7012",
+                "internalId": 7012,
                 "name": "R. Morais Soares (Cemitério)",
                 "position": {
                   "latitude": 38.730261,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 274,
               "stop": {
-                "id": 11702,
-                "publicId": "11702",
+                "id": "11702",
+                "internalId": 11702,
                 "name": "Cemitério Alto S. João",
                 "position": {
                   "latitude": 38.728859,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 223,
               "stop": {
-                "id": 11704,
-                "publicId": "11704",
+                "id": "11704",
+                "internalId": 11704,
                 "name": "Av. Afonso Iii",
                 "position": {
                   "latitude": 38.727483,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 209,
               "stop": {
-                "id": 9801,
-                "publicId": "9801",
+                "id": "9801",
+                "internalId": 9801,
                 "name": "Cç. Lajes",
                 "position": {
                   "latitude": 38.725662,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 268,
               "stop": {
-                "id": 9803,
-                "publicId": "9803",
+                "id": "9803",
+                "internalId": 9803,
                 "name": "R. D. Fuas Roupinho",
                 "position": {
                   "latitude": 38.724404,
@@ -389,8 +389,8 @@
               "order": 1,
               "distance": 125,
               "stop": {
-                "id": 50400,
-                "publicId": "9817",
+                "id": "9817",
+                "internalId": 50400,
                 "name": "Cruz Da Pedra",
                 "position": {
                   "latitude": 38.723685,

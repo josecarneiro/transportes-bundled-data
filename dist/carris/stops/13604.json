@@ -1,11 +1,14 @@
 {
-  "id": 13604,
-  "publicId": "13604",
+  "id": "13604",
+  "internalId": 13604,
   "name": "Viaduto Da Luz",
   "position": {
     "latitude": 38.757173,
     "longitude": -9.180012
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:37:06.000Z"
+  "updateDate": "2014-10-15T11:37:06.000Z",
+  "routes": [
+    "750"
+  ]
 }

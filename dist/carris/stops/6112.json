@@ -1,11 +1,14 @@
 {
-  "id": 6112,
-  "publicId": "6112",
+  "id": "6112",
+  "internalId": 6112,
   "name": "Bº Da Cç. Dos Mestres",
   "position": {
     "latitude": 38.726359,
     "longitude": -9.167668
   },
   "visible": true,
-  "updateDate": "2014-10-16T09:25:16.000Z"
+  "updateDate": "2014-10-16T09:25:16.000Z",
+  "routes": [
+    "702"
+  ]
 }

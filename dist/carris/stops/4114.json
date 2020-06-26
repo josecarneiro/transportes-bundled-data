@@ -1,11 +1,19 @@
 {
-  "id": 4114,
-  "publicId": "4114",
+  "id": "4114",
+  "internalId": 4114,
   "name": "Altinho (Maat)",
   "position": {
     "latitude": 38.697512,
     "longitude": -9.196014
   },
   "visible": true,
-  "updateDate": "2018-04-06T16:48:14.000Z"
+  "updateDate": "2018-04-06T16:48:14.000Z",
+  "routes": [
+    "201",
+    "714",
+    "727",
+    "751",
+    "15E",
+    "18E"
+  ]
 }

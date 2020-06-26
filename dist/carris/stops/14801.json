@@ -1,11 +1,16 @@
 {
-  "id": 14801,
-  "publicId": "14801",
+  "id": "14801",
+  "internalId": 14801,
   "name": "Voz Operário",
   "position": {
     "latitude": 38.715074,
     "longitude": -9.12873
   },
   "visible": true,
-  "updateDate": "2019-10-04T17:37:58.000Z"
+  "updateDate": "2019-10-04T17:37:58.000Z",
+  "routes": [
+    "734",
+    "797",
+    "28E"
+  ]
 }

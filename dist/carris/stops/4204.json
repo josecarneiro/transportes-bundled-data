@@ -1,11 +1,15 @@
 {
-  "id": 4204,
-  "publicId": "4204",
+  "id": "4204",
+  "internalId": 4204,
   "name": "Rua Jerónimo Osório",
   "position": {
     "latitude": 38.699363,
     "longitude": -9.22494
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:57:42.000Z"
+  "updateDate": "2008-12-05T16:57:42.000Z",
+  "routes": [
+    "201",
+    "751"
+  ]
 }

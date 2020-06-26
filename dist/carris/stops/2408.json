@@ -1,11 +1,14 @@
 {
-  "id": 50294,
-  "publicId": "2408",
+  "id": "2408",
+  "internalId": 50294,
   "name": "Av. Fernando Pessoa",
   "position": {
     "latitude": 38.758483,
     "longitude": -9.097139
   },
   "visible": true,
-  "updateDate": "2014-03-03T11:50:17.000Z"
+  "updateDate": "2014-03-03T11:50:17.000Z",
+  "routes": [
+    "26B"
+  ]
 }

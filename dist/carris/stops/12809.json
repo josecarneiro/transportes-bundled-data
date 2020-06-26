@@ -1,11 +1,14 @@
 {
-  "id": 50359,
-  "publicId": "12809",
+  "id": "12809",
+  "internalId": 50359,
   "name": "Av. Cidade Praga (Lispolis)",
   "position": {
     "latitude": 38.765666,
     "longitude": -9.182287
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:20:46.000Z"
+  "updateDate": "2019-02-18T12:20:46.000Z",
+  "routes": [
+    "703"
+  ]
 }

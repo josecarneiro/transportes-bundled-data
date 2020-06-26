@@ -1,6 +1,6 @@
 {
-  "id": 75,
-  "number": "28E",
+  "id": "28E",
+  "internalId": 75,
   "name": "Martim Moniz - Campo Ourique",
   "visible": true,
   "creationDate": "2020-05-20T08:17:21.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 428,
               "stop": {
-                "id": 819,
-                "publicId": "819",
+                "id": "819",
+                "internalId": 819,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715498,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 312,
               "stop": {
-                "id": 803,
-                "publicId": "803",
+                "id": "803",
+                "internalId": 803,
                 "name": "R. Palma",
                 "position": {
                   "latitude": 38.7192,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 295,
               "stop": {
-                "id": 705,
-                "publicId": "705",
+                "id": "705",
+                "internalId": 705,
                 "name": "Igreja Anjos",
                 "position": {
                   "latitude": 38.721997,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 188,
               "stop": {
-                "id": 707,
-                "publicId": "707",
+                "id": "707",
+                "internalId": 707,
                 "name": "R. Maria Andrade",
                 "position": {
                   "latitude": 38.723434,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 156,
               "stop": {
-                "id": 709,
-                "publicId": "709",
+                "id": "709",
+                "internalId": 709,
                 "name": "R. Maria Fonte",
                 "position": {
                   "latitude": 38.723116,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 201,
               "stop": {
-                "id": 9127,
-                "publicId": "9127",
+                "id": "9127",
+                "internalId": 9127,
                 "name": "R. Angelina Vidal",
                 "position": {
                   "latitude": 38.722311,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 203,
               "stop": {
-                "id": 9129,
-                "publicId": "9129",
+                "id": "9129",
+                "internalId": 9129,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.720979,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 223,
               "stop": {
-                "id": 9131,
-                "publicId": "9131",
+                "id": "9131",
+                "internalId": 9131,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719221,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 259,
               "stop": {
-                "id": 14804,
-                "publicId": "14804",
+                "id": "14804",
+                "internalId": 14804,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717268,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 197,
               "stop": {
-                "id": 14802,
-                "publicId": "14802",
+                "id": "14802",
+                "internalId": 14802,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715036,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 149,
               "stop": {
-                "id": 50150,
-                "publicId": "13806",
+                "id": "13806",
+                "internalId": 50150,
                 "name": "Cç. S. Vicente",
                 "position": {
                   "latitude": 38.713507,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 206,
               "stop": {
-                "id": 13814,
-                "publicId": "13814",
+                "id": "13814",
+                "internalId": 13814,
                 "name": "R. Escolas Gerais",
                 "position": {
                   "latitude": 38.713085,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 108,
               "stop": {
-                "id": 13812,
-                "publicId": "13812",
+                "id": "13812",
+                "internalId": 13812,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.712182,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 262,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 377,
               "stop": {
-                "id": 5604,
-                "publicId": "5604",
+                "id": "5604",
+                "internalId": 5604,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709669,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 171,
               "stop": {
-                "id": 10518,
-                "publicId": "10518",
+                "id": "10518",
+                "internalId": 10518,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708072,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 239,
               "stop": {
-                "id": 10516,
-                "publicId": "10516",
+                "id": "10516",
+                "internalId": 10516,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.708265,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 159,
               "stop": {
-                "id": 10514,
-                "publicId": "10514",
+                "id": "10514",
+                "internalId": 10514,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.710424,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 200,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 195,
               "stop": {
-                "id": 9906,
-                "publicId": "9906",
+                "id": "9906",
+                "internalId": 9906,
                 "name": "Sta. Catarina",
                 "position": {
                   "latitude": 38.711046,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 181,
               "stop": {
-                "id": 9904,
-                "publicId": "9904",
+                "id": "9904",
+                "internalId": 9904,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.711029,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 142,
               "stop": {
-                "id": 6724,
-                "publicId": "6724",
+                "id": "6724",
+                "internalId": 6724,
                 "name": "R. Poiais S. Bento",
                 "position": {
                   "latitude": 38.710769,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 246,
               "stop": {
-                "id": 6722,
-                "publicId": "6722",
+                "id": "6722",
+                "internalId": 6722,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.711483,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 152,
               "stop": {
-                "id": 6720,
-                "publicId": "6720",
+                "id": "6720",
+                "internalId": 6720,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712478,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 269,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 192,
               "stop": {
-                "id": 8112,
-                "publicId": "8112",
+                "id": "8112",
+                "internalId": 8112,
                 "name": "Estrela (Basílica)",
                 "position": {
                   "latitude": 38.713735,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 104,
               "stop": {
-                "id": 8110,
-                "publicId": "8110",
+                "id": "8110",
+                "internalId": 8110,
                 "name": "Estrela - R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.714509,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 148,
               "stop": {
-                "id": 8108,
-                "publicId": "8108",
+                "id": "8108",
+                "internalId": 8108,
                 "name": "R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.715105,
@@ -517,8 +517,8 @@
               "order": 32,
               "distance": 174,
               "stop": {
-                "id": 8002,
-                "publicId": "8002",
+                "id": "8002",
+                "internalId": 8002,
                 "name": "R. Saraiva Carvalho",
                 "position": {
                   "latitude": 38.715461,
@@ -533,8 +533,8 @@
               "order": 33,
               "distance": 282,
               "stop": {
-                "id": 8018,
-                "publicId": "8018",
+                "id": "8018",
+                "internalId": 8018,
                 "name": "Igreja Sto. Condestável",
                 "position": {
                   "latitude": 38.714973,
@@ -549,8 +549,8 @@
               "order": 34,
               "distance": 0,
               "stop": {
-                "id": 8017,
-                "publicId": "8017",
+                "id": "8017",
+                "internalId": 8017,
                 "name": "Campo Ourique (Prazeres)",
                 "position": {
                   "latitude": 38.714282,
@@ -572,8 +572,8 @@
               "order": 1,
               "distance": 300,
               "stop": {
-                "id": 8017,
-                "publicId": "8017",
+                "id": "8017",
+                "internalId": 8017,
                 "name": "Campo Ourique (Prazeres)",
                 "position": {
                   "latitude": 38.714282,
@@ -588,8 +588,8 @@
               "order": 2,
               "distance": 174,
               "stop": {
-                "id": 8019,
-                "publicId": "8019",
+                "id": "8019",
+                "internalId": 8019,
                 "name": "Igreja Sto. Condestável",
                 "position": {
                   "latitude": 38.714841,
@@ -604,8 +604,8 @@
               "order": 3,
               "distance": 168,
               "stop": {
-                "id": 8001,
-                "publicId": "8001",
+                "id": "8001",
+                "internalId": 8001,
                 "name": "R. Saraiva Carvalho",
                 "position": {
                   "latitude": 38.715321,
@@ -620,8 +620,8 @@
               "order": 4,
               "distance": 151,
               "stop": {
-                "id": 8107,
-                "publicId": "8107",
+                "id": "8107",
+                "internalId": 8107,
                 "name": "R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.714962,
@@ -636,8 +636,8 @@
               "order": 5,
               "distance": 153,
               "stop": {
-                "id": 8109,
-                "publicId": "8109",
+                "id": "8109",
+                "internalId": 8109,
                 "name": "Estrela - R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.714089,
@@ -652,8 +652,8 @@
               "order": 6,
               "distance": 219,
               "stop": {
-                "id": 8111,
-                "publicId": "8111",
+                "id": "8111",
+                "internalId": 8111,
                 "name": "Estrela (Basílica)",
                 "position": {
                   "latitude": 38.713627,
@@ -668,8 +668,8 @@
               "order": 7,
               "distance": 130,
               "stop": {
-                "id": 6717,
-                "publicId": "6717",
+                "id": "6717",
+                "internalId": 6717,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712735,
@@ -684,8 +684,8 @@
               "order": 8,
               "distance": 113,
               "stop": {
-                "id": 6719,
-                "publicId": "6719",
+                "id": "6719",
+                "internalId": 6719,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712568,
@@ -700,8 +700,8 @@
               "order": 9,
               "distance": 270,
               "stop": {
-                "id": 6721,
-                "publicId": "6721",
+                "id": "6721",
+                "internalId": 6721,
                 "name": "Cç. Estrela",
                 "position": {
                   "latitude": 38.712221,
@@ -716,8 +716,8 @@
               "order": 10,
               "distance": 221,
               "stop": {
-                "id": 6723,
-                "publicId": "6723",
+                "id": "6723",
+                "internalId": 6723,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.710967,
@@ -732,8 +732,8 @@
               "order": 11,
               "distance": 241,
               "stop": {
-                "id": 7111,
-                "publicId": "7111",
+                "id": "7111",
+                "internalId": 7111,
                 "name": "R. Poço Negros",
                 "position": {
                   "latitude": 38.709803,
@@ -748,8 +748,8 @@
               "order": 12,
               "distance": 306,
               "stop": {
-                "id": 9903,
-                "publicId": "9903",
+                "id": "9903",
+                "internalId": 9903,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.710972,
@@ -764,8 +764,8 @@
               "order": 13,
               "distance": 214,
               "stop": {
-                "id": 10511,
-                "publicId": "10511",
+                "id": "10511",
+                "internalId": 10511,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710816,
@@ -780,8 +780,8 @@
               "order": 14,
               "distance": 256,
               "stop": {
-                "id": 10513,
-                "publicId": "10513",
+                "id": "10513",
+                "internalId": 10513,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710486,
@@ -796,8 +796,8 @@
               "order": 15,
               "distance": 194,
               "stop": {
-                "id": 10515,
-                "publicId": "10515",
+                "id": "10515",
+                "internalId": 10515,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.709306,
@@ -812,8 +812,8 @@
               "order": 16,
               "distance": 101,
               "stop": {
-                "id": 10517,
-                "publicId": "10517",
+                "id": "10517",
+                "internalId": 10517,
                 "name": "R. Vitor Cordon",
                 "position": {
                   "latitude": 38.70794,
@@ -828,8 +828,8 @@
               "order": 17,
               "distance": 127,
               "stop": {
-                "id": 10519,
-                "publicId": "10519",
+                "id": "10519",
+                "internalId": 10519,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.707962,
@@ -844,8 +844,8 @@
               "order": 18,
               "distance": 228,
               "stop": {
-                "id": 10521,
-                "publicId": "10521",
+                "id": "10521",
+                "internalId": 10521,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708037,
@@ -860,8 +860,8 @@
               "order": 19,
               "distance": 266,
               "stop": {
-                "id": 50149,
-                "publicId": "5605",
+                "id": "5605",
+                "internalId": 50149,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709316,
@@ -876,8 +876,8 @@
               "order": 20,
               "distance": 154,
               "stop": {
-                "id": 5601,
-                "publicId": "5601",
+                "id": "5601",
+                "internalId": 5601,
                 "name": "Igreja Sta. Maria Madalena",
                 "position": {
                   "latitude": 38.710046,
@@ -892,8 +892,8 @@
               "order": 21,
               "distance": 201,
               "stop": {
-                "id": 13801,
-                "publicId": "13801",
+                "id": "13801",
+                "internalId": 13801,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.709761,
@@ -908,8 +908,8 @@
               "order": 22,
               "distance": 179,
               "stop": {
-                "id": 13803,
-                "publicId": "13803",
+                "id": "13803",
+                "internalId": 13803,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710327,
@@ -924,8 +924,8 @@
               "order": 23,
               "distance": 121,
               "stop": {
-                "id": 13805,
-                "publicId": "13805",
+                "id": "13805",
+                "internalId": 13805,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711581,
@@ -940,8 +940,8 @@
               "order": 24,
               "distance": 189,
               "stop": {
-                "id": 13811,
-                "publicId": "13811",
+                "id": "13811",
+                "internalId": 13811,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.71253,
@@ -956,8 +956,8 @@
               "order": 25,
               "distance": 121,
               "stop": {
-                "id": 13813,
-                "publicId": "13813",
+                "id": "13813",
+                "internalId": 13813,
                 "name": "R. Escolas Gerais",
                 "position": {
                   "latitude": 38.712885,
@@ -972,8 +972,8 @@
               "order": 26,
               "distance": 199,
               "stop": {
-                "id": 50150,
-                "publicId": "13806",
+                "id": "13806",
+                "internalId": 50150,
                 "name": "Cç. S. Vicente",
                 "position": {
                   "latitude": 38.713507,
@@ -988,8 +988,8 @@
               "order": 27,
               "distance": 255,
               "stop": {
-                "id": 14801,
-                "publicId": "14801",
+                "id": "14801",
+                "internalId": 14801,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715074,
@@ -1004,8 +1004,8 @@
               "order": 28,
               "distance": 206,
               "stop": {
-                "id": 14803,
-                "publicId": "14803",
+                "id": "14803",
+                "internalId": 14803,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717222,
@@ -1020,8 +1020,8 @@
               "order": 29,
               "distance": 269,
               "stop": {
-                "id": 9130,
-                "publicId": "9130",
+                "id": "9130",
+                "internalId": 9130,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719031,
@@ -1036,8 +1036,8 @@
               "order": 30,
               "distance": 218,
               "stop": {
-                "id": 9128,
-                "publicId": "9128",
+                "id": "9128",
+                "internalId": 9128,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721337,
@@ -1052,8 +1052,8 @@
               "order": 31,
               "distance": 133,
               "stop": {
-                "id": 9126,
-                "publicId": "9126",
+                "id": "9126",
+                "internalId": 9126,
                 "name": "R. Angelina Vidal",
                 "position": {
                   "latitude": 38.722851,
@@ -1068,8 +1068,8 @@
               "order": 32,
               "distance": 154,
               "stop": {
-                "id": 601,
-                "publicId": "601",
+                "id": "601",
+                "internalId": 601,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723908,
@@ -1084,8 +1084,8 @@
               "order": 33,
               "distance": 150,
               "stop": {
-                "id": 708,
-                "publicId": "708",
+                "id": "708",
+                "internalId": 708,
                 "name": "R. Maria",
                 "position": {
                   "latitude": 38.723818,
@@ -1100,8 +1100,8 @@
               "order": 34,
               "distance": 226,
               "stop": {
-                "id": 706,
-                "publicId": "706",
+                "id": "706",
+                "internalId": 706,
                 "name": "R. Maria Andrade",
                 "position": {
                   "latitude": 38.723561,
@@ -1116,8 +1116,8 @@
               "order": 35,
               "distance": 330,
               "stop": {
-                "id": 704,
-                "publicId": "704",
+                "id": "704",
+                "internalId": 704,
                 "name": "Igreja Anjos",
                 "position": {
                   "latitude": 38.722122,
@@ -1132,8 +1132,8 @@
               "order": 36,
               "distance": 520,
               "stop": {
-                "id": 804,
-                "publicId": "804",
+                "id": "804",
+                "internalId": 804,
                 "name": "R. Palma",
                 "position": {
                   "latitude": 38.71916,
@@ -1148,8 +1148,8 @@
               "order": 37,
               "distance": 0,
               "stop": {
-                "id": 805,
-                "publicId": "805",
+                "id": "805",
+                "internalId": 805,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.714959,
@@ -1178,8 +1178,8 @@
               "order": 1,
               "distance": 428,
               "stop": {
-                "id": 819,
-                "publicId": "819",
+                "id": "819",
+                "internalId": 819,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715498,
@@ -1194,8 +1194,8 @@
               "order": 2,
               "distance": 312,
               "stop": {
-                "id": 803,
-                "publicId": "803",
+                "id": "803",
+                "internalId": 803,
                 "name": "R. Palma",
                 "position": {
                   "latitude": 38.7192,
@@ -1210,8 +1210,8 @@
               "order": 3,
               "distance": 295,
               "stop": {
-                "id": 705,
-                "publicId": "705",
+                "id": "705",
+                "internalId": 705,
                 "name": "Igreja Anjos",
                 "position": {
                   "latitude": 38.721997,
@@ -1226,8 +1226,8 @@
               "order": 4,
               "distance": 188,
               "stop": {
-                "id": 707,
-                "publicId": "707",
+                "id": "707",
+                "internalId": 707,
                 "name": "R. Maria Andrade",
                 "position": {
                   "latitude": 38.723434,
@@ -1242,8 +1242,8 @@
               "order": 5,
               "distance": 156,
               "stop": {
-                "id": 709,
-                "publicId": "709",
+                "id": "709",
+                "internalId": 709,
                 "name": "R. Maria Fonte",
                 "position": {
                   "latitude": 38.723116,
@@ -1258,8 +1258,8 @@
               "order": 6,
               "distance": 201,
               "stop": {
-                "id": 9127,
-                "publicId": "9127",
+                "id": "9127",
+                "internalId": 9127,
                 "name": "R. Angelina Vidal",
                 "position": {
                   "latitude": 38.722311,
@@ -1274,8 +1274,8 @@
               "order": 7,
               "distance": 203,
               "stop": {
-                "id": 9129,
-                "publicId": "9129",
+                "id": "9129",
+                "internalId": 9129,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.720979,
@@ -1290,8 +1290,8 @@
               "order": 8,
               "distance": 223,
               "stop": {
-                "id": 9131,
-                "publicId": "9131",
+                "id": "9131",
+                "internalId": 9131,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719221,
@@ -1306,8 +1306,8 @@
               "order": 9,
               "distance": 259,
               "stop": {
-                "id": 14804,
-                "publicId": "14804",
+                "id": "14804",
+                "internalId": 14804,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717268,
@@ -1322,8 +1322,8 @@
               "order": 10,
               "distance": 197,
               "stop": {
-                "id": 14802,
-                "publicId": "14802",
+                "id": "14802",
+                "internalId": 14802,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715036,
@@ -1338,8 +1338,8 @@
               "order": 11,
               "distance": 149,
               "stop": {
-                "id": 50150,
-                "publicId": "13806",
+                "id": "13806",
+                "internalId": 50150,
                 "name": "Cç. S. Vicente",
                 "position": {
                   "latitude": 38.713507,
@@ -1354,8 +1354,8 @@
               "order": 12,
               "distance": 206,
               "stop": {
-                "id": 13814,
-                "publicId": "13814",
+                "id": "13814",
+                "internalId": 13814,
                 "name": "R. Escolas Gerais",
                 "position": {
                   "latitude": 38.713085,
@@ -1370,8 +1370,8 @@
               "order": 13,
               "distance": 108,
               "stop": {
-                "id": 13812,
-                "publicId": "13812",
+                "id": "13812",
+                "internalId": 13812,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.712182,
@@ -1386,8 +1386,8 @@
               "order": 14,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -1402,8 +1402,8 @@
               "order": 15,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -1418,8 +1418,8 @@
               "order": 16,
               "distance": 262,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -1434,8 +1434,8 @@
               "order": 17,
               "distance": 377,
               "stop": {
-                "id": 5604,
-                "publicId": "5604",
+                "id": "5604",
+                "internalId": 5604,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709669,
@@ -1450,8 +1450,8 @@
               "order": 18,
               "distance": 171,
               "stop": {
-                "id": 10518,
-                "publicId": "10518",
+                "id": "10518",
+                "internalId": 10518,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708072,
@@ -1466,8 +1466,8 @@
               "order": 19,
               "distance": 239,
               "stop": {
-                "id": 10516,
-                "publicId": "10516",
+                "id": "10516",
+                "internalId": 10516,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.708265,
@@ -1482,8 +1482,8 @@
               "order": 20,
               "distance": 159,
               "stop": {
-                "id": 10514,
-                "publicId": "10514",
+                "id": "10514",
+                "internalId": 10514,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.710424,
@@ -1498,8 +1498,8 @@
               "order": 21,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -1514,8 +1514,8 @@
               "order": 22,
               "distance": 200,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -1530,8 +1530,8 @@
               "order": 23,
               "distance": 195,
               "stop": {
-                "id": 9906,
-                "publicId": "9906",
+                "id": "9906",
+                "internalId": 9906,
                 "name": "Sta. Catarina",
                 "position": {
                   "latitude": 38.711046,
@@ -1546,8 +1546,8 @@
               "order": 24,
               "distance": 181,
               "stop": {
-                "id": 9904,
-                "publicId": "9904",
+                "id": "9904",
+                "internalId": 9904,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.711029,
@@ -1562,8 +1562,8 @@
               "order": 25,
               "distance": 142,
               "stop": {
-                "id": 6724,
-                "publicId": "6724",
+                "id": "6724",
+                "internalId": 6724,
                 "name": "R. Poiais S. Bento",
                 "position": {
                   "latitude": 38.710769,
@@ -1578,8 +1578,8 @@
               "order": 26,
               "distance": 246,
               "stop": {
-                "id": 6722,
-                "publicId": "6722",
+                "id": "6722",
+                "internalId": 6722,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.711483,
@@ -1594,8 +1594,8 @@
               "order": 27,
               "distance": 152,
               "stop": {
-                "id": 6720,
-                "publicId": "6720",
+                "id": "6720",
+                "internalId": 6720,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712478,
@@ -1610,8 +1610,8 @@
               "order": 28,
               "distance": 305,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -1626,8 +1626,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 8115,
-                "publicId": "8115",
+                "id": "8115",
+                "internalId": 8115,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713209,
@@ -1649,8 +1649,8 @@
               "order": 1,
               "distance": 215,
               "stop": {
-                "id": 8115,
-                "publicId": "8115",
+                "id": "8115",
+                "internalId": 8115,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713209,
@@ -1665,8 +1665,8 @@
               "order": 2,
               "distance": 130,
               "stop": {
-                "id": 6717,
-                "publicId": "6717",
+                "id": "6717",
+                "internalId": 6717,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712735,
@@ -1681,8 +1681,8 @@
               "order": 3,
               "distance": 113,
               "stop": {
-                "id": 6719,
-                "publicId": "6719",
+                "id": "6719",
+                "internalId": 6719,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712568,
@@ -1697,8 +1697,8 @@
               "order": 4,
               "distance": 270,
               "stop": {
-                "id": 6721,
-                "publicId": "6721",
+                "id": "6721",
+                "internalId": 6721,
                 "name": "Cç. Estrela",
                 "position": {
                   "latitude": 38.712221,
@@ -1713,8 +1713,8 @@
               "order": 5,
               "distance": 221,
               "stop": {
-                "id": 6723,
-                "publicId": "6723",
+                "id": "6723",
+                "internalId": 6723,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.710967,
@@ -1729,8 +1729,8 @@
               "order": 6,
               "distance": 241,
               "stop": {
-                "id": 7111,
-                "publicId": "7111",
+                "id": "7111",
+                "internalId": 7111,
                 "name": "R. Poço Negros",
                 "position": {
                   "latitude": 38.709803,
@@ -1745,8 +1745,8 @@
               "order": 7,
               "distance": 306,
               "stop": {
-                "id": 9903,
-                "publicId": "9903",
+                "id": "9903",
+                "internalId": 9903,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.710972,
@@ -1761,8 +1761,8 @@
               "order": 8,
               "distance": 214,
               "stop": {
-                "id": 10511,
-                "publicId": "10511",
+                "id": "10511",
+                "internalId": 10511,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710816,
@@ -1777,8 +1777,8 @@
               "order": 9,
               "distance": 256,
               "stop": {
-                "id": 10513,
-                "publicId": "10513",
+                "id": "10513",
+                "internalId": 10513,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710486,
@@ -1793,8 +1793,8 @@
               "order": 10,
               "distance": 194,
               "stop": {
-                "id": 10515,
-                "publicId": "10515",
+                "id": "10515",
+                "internalId": 10515,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.709306,
@@ -1809,8 +1809,8 @@
               "order": 11,
               "distance": 101,
               "stop": {
-                "id": 10517,
-                "publicId": "10517",
+                "id": "10517",
+                "internalId": 10517,
                 "name": "R. Vitor Cordon",
                 "position": {
                   "latitude": 38.70794,
@@ -1825,8 +1825,8 @@
               "order": 12,
               "distance": 127,
               "stop": {
-                "id": 10519,
-                "publicId": "10519",
+                "id": "10519",
+                "internalId": 10519,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.707962,
@@ -1841,8 +1841,8 @@
               "order": 13,
               "distance": 228,
               "stop": {
-                "id": 10521,
-                "publicId": "10521",
+                "id": "10521",
+                "internalId": 10521,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708037,
@@ -1857,8 +1857,8 @@
               "order": 14,
               "distance": 266,
               "stop": {
-                "id": 50149,
-                "publicId": "5605",
+                "id": "5605",
+                "internalId": 50149,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709316,
@@ -1873,8 +1873,8 @@
               "order": 15,
               "distance": 154,
               "stop": {
-                "id": 5601,
-                "publicId": "5601",
+                "id": "5601",
+                "internalId": 5601,
                 "name": "Igreja Sta. Maria Madalena",
                 "position": {
                   "latitude": 38.710046,
@@ -1889,8 +1889,8 @@
               "order": 16,
               "distance": 201,
               "stop": {
-                "id": 13801,
-                "publicId": "13801",
+                "id": "13801",
+                "internalId": 13801,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.709761,
@@ -1905,8 +1905,8 @@
               "order": 17,
               "distance": 179,
               "stop": {
-                "id": 13803,
-                "publicId": "13803",
+                "id": "13803",
+                "internalId": 13803,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710327,
@@ -1921,8 +1921,8 @@
               "order": 18,
               "distance": 121,
               "stop": {
-                "id": 13805,
-                "publicId": "13805",
+                "id": "13805",
+                "internalId": 13805,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711581,
@@ -1937,8 +1937,8 @@
               "order": 19,
               "distance": 189,
               "stop": {
-                "id": 13811,
-                "publicId": "13811",
+                "id": "13811",
+                "internalId": 13811,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.71253,
@@ -1953,8 +1953,8 @@
               "order": 20,
               "distance": 121,
               "stop": {
-                "id": 13813,
-                "publicId": "13813",
+                "id": "13813",
+                "internalId": 13813,
                 "name": "R. Escolas Gerais",
                 "position": {
                   "latitude": 38.712885,
@@ -1969,8 +1969,8 @@
               "order": 21,
               "distance": 199,
               "stop": {
-                "id": 50150,
-                "publicId": "13806",
+                "id": "13806",
+                "internalId": 50150,
                 "name": "Cç. S. Vicente",
                 "position": {
                   "latitude": 38.713507,
@@ -1985,8 +1985,8 @@
               "order": 22,
               "distance": 255,
               "stop": {
-                "id": 14801,
-                "publicId": "14801",
+                "id": "14801",
+                "internalId": 14801,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715074,
@@ -2001,8 +2001,8 @@
               "order": 23,
               "distance": 206,
               "stop": {
-                "id": 14803,
-                "publicId": "14803",
+                "id": "14803",
+                "internalId": 14803,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717222,
@@ -2017,8 +2017,8 @@
               "order": 24,
               "distance": 269,
               "stop": {
-                "id": 9130,
-                "publicId": "9130",
+                "id": "9130",
+                "internalId": 9130,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719031,
@@ -2033,8 +2033,8 @@
               "order": 25,
               "distance": 218,
               "stop": {
-                "id": 9128,
-                "publicId": "9128",
+                "id": "9128",
+                "internalId": 9128,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721337,
@@ -2049,8 +2049,8 @@
               "order": 26,
               "distance": 133,
               "stop": {
-                "id": 9126,
-                "publicId": "9126",
+                "id": "9126",
+                "internalId": 9126,
                 "name": "R. Angelina Vidal",
                 "position": {
                   "latitude": 38.722851,
@@ -2065,8 +2065,8 @@
               "order": 27,
               "distance": 154,
               "stop": {
-                "id": 601,
-                "publicId": "601",
+                "id": "601",
+                "internalId": 601,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723908,
@@ -2081,8 +2081,8 @@
               "order": 28,
               "distance": 150,
               "stop": {
-                "id": 708,
-                "publicId": "708",
+                "id": "708",
+                "internalId": 708,
                 "name": "R. Maria",
                 "position": {
                   "latitude": 38.723818,
@@ -2097,8 +2097,8 @@
               "order": 29,
               "distance": 226,
               "stop": {
-                "id": 706,
-                "publicId": "706",
+                "id": "706",
+                "internalId": 706,
                 "name": "R. Maria Andrade",
                 "position": {
                   "latitude": 38.723561,
@@ -2113,8 +2113,8 @@
               "order": 30,
               "distance": 330,
               "stop": {
-                "id": 704,
-                "publicId": "704",
+                "id": "704",
+                "internalId": 704,
                 "name": "Igreja Anjos",
                 "position": {
                   "latitude": 38.722122,
@@ -2129,8 +2129,8 @@
               "order": 31,
               "distance": 520,
               "stop": {
-                "id": 804,
-                "publicId": "804",
+                "id": "804",
+                "internalId": 804,
                 "name": "R. Palma",
                 "position": {
                   "latitude": 38.71916,
@@ -2145,8 +2145,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 805,
-                "publicId": "805",
+                "id": "805",
+                "internalId": 805,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.714959,
@@ -3698,8 +3698,8 @@
               "order": 1,
               "distance": 428,
               "stop": {
-                "id": 819,
-                "publicId": "819",
+                "id": "819",
+                "internalId": 819,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715498,
@@ -3714,8 +3714,8 @@
               "order": 2,
               "distance": 312,
               "stop": {
-                "id": 803,
-                "publicId": "803",
+                "id": "803",
+                "internalId": 803,
                 "name": "R. Palma",
                 "position": {
                   "latitude": 38.7192,
@@ -3730,8 +3730,8 @@
               "order": 3,
               "distance": 295,
               "stop": {
-                "id": 705,
-                "publicId": "705",
+                "id": "705",
+                "internalId": 705,
                 "name": "Igreja Anjos",
                 "position": {
                   "latitude": 38.721997,
@@ -3746,8 +3746,8 @@
               "order": 4,
               "distance": 188,
               "stop": {
-                "id": 707,
-                "publicId": "707",
+                "id": "707",
+                "internalId": 707,
                 "name": "R. Maria Andrade",
                 "position": {
                   "latitude": 38.723434,
@@ -3762,8 +3762,8 @@
               "order": 5,
               "distance": 156,
               "stop": {
-                "id": 709,
-                "publicId": "709",
+                "id": "709",
+                "internalId": 709,
                 "name": "R. Maria Fonte",
                 "position": {
                   "latitude": 38.723116,
@@ -3778,8 +3778,8 @@
               "order": 6,
               "distance": 201,
               "stop": {
-                "id": 9127,
-                "publicId": "9127",
+                "id": "9127",
+                "internalId": 9127,
                 "name": "R. Angelina Vidal",
                 "position": {
                   "latitude": 38.722311,
@@ -3794,8 +3794,8 @@
               "order": 7,
               "distance": 203,
               "stop": {
-                "id": 9129,
-                "publicId": "9129",
+                "id": "9129",
+                "internalId": 9129,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.720979,
@@ -3810,8 +3810,8 @@
               "order": 8,
               "distance": 223,
               "stop": {
-                "id": 9131,
-                "publicId": "9131",
+                "id": "9131",
+                "internalId": 9131,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719221,
@@ -3826,8 +3826,8 @@
               "order": 9,
               "distance": 259,
               "stop": {
-                "id": 14804,
-                "publicId": "14804",
+                "id": "14804",
+                "internalId": 14804,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717268,
@@ -3842,8 +3842,8 @@
               "order": 10,
               "distance": 197,
               "stop": {
-                "id": 14802,
-                "publicId": "14802",
+                "id": "14802",
+                "internalId": 14802,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715036,
@@ -3858,8 +3858,8 @@
               "order": 11,
               "distance": 149,
               "stop": {
-                "id": 50150,
-                "publicId": "13806",
+                "id": "13806",
+                "internalId": 50150,
                 "name": "Cç. S. Vicente",
                 "position": {
                   "latitude": 38.713507,
@@ -3874,8 +3874,8 @@
               "order": 12,
               "distance": 206,
               "stop": {
-                "id": 13814,
-                "publicId": "13814",
+                "id": "13814",
+                "internalId": 13814,
                 "name": "R. Escolas Gerais",
                 "position": {
                   "latitude": 38.713085,
@@ -3890,8 +3890,8 @@
               "order": 13,
               "distance": 108,
               "stop": {
-                "id": 13812,
-                "publicId": "13812",
+                "id": "13812",
+                "internalId": 13812,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.712182,
@@ -3906,8 +3906,8 @@
               "order": 14,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -3922,8 +3922,8 @@
               "order": 15,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -3938,8 +3938,8 @@
               "order": 16,
               "distance": 262,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -3954,8 +3954,8 @@
               "order": 17,
               "distance": 377,
               "stop": {
-                "id": 5604,
-                "publicId": "5604",
+                "id": "5604",
+                "internalId": 5604,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709669,
@@ -3970,8 +3970,8 @@
               "order": 18,
               "distance": 171,
               "stop": {
-                "id": 10518,
-                "publicId": "10518",
+                "id": "10518",
+                "internalId": 10518,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708072,
@@ -3986,8 +3986,8 @@
               "order": 19,
               "distance": 239,
               "stop": {
-                "id": 10516,
-                "publicId": "10516",
+                "id": "10516",
+                "internalId": 10516,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.708265,
@@ -4002,8 +4002,8 @@
               "order": 20,
               "distance": 159,
               "stop": {
-                "id": 10514,
-                "publicId": "10514",
+                "id": "10514",
+                "internalId": 10514,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.710424,
@@ -4018,8 +4018,8 @@
               "order": 21,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -4034,8 +4034,8 @@
               "order": 22,
               "distance": 200,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -4050,8 +4050,8 @@
               "order": 23,
               "distance": 195,
               "stop": {
-                "id": 9906,
-                "publicId": "9906",
+                "id": "9906",
+                "internalId": 9906,
                 "name": "Sta. Catarina",
                 "position": {
                   "latitude": 38.711046,
@@ -4066,8 +4066,8 @@
               "order": 24,
               "distance": 181,
               "stop": {
-                "id": 9904,
-                "publicId": "9904",
+                "id": "9904",
+                "internalId": 9904,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.711029,
@@ -4082,8 +4082,8 @@
               "order": 25,
               "distance": 142,
               "stop": {
-                "id": 6724,
-                "publicId": "6724",
+                "id": "6724",
+                "internalId": 6724,
                 "name": "R. Poiais S. Bento",
                 "position": {
                   "latitude": 38.710769,
@@ -4098,8 +4098,8 @@
               "order": 26,
               "distance": 246,
               "stop": {
-                "id": 6722,
-                "publicId": "6722",
+                "id": "6722",
+                "internalId": 6722,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.711483,
@@ -4114,8 +4114,8 @@
               "order": 27,
               "distance": 152,
               "stop": {
-                "id": 6720,
-                "publicId": "6720",
+                "id": "6720",
+                "internalId": 6720,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712478,
@@ -4130,8 +4130,8 @@
               "order": 28,
               "distance": 305,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -4146,8 +4146,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 8115,
-                "publicId": "8115",
+                "id": "8115",
+                "internalId": 8115,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713209,
@@ -5762,8 +5762,8 @@
               "order": 1,
               "distance": 215,
               "stop": {
-                "id": 8115,
-                "publicId": "8115",
+                "id": "8115",
+                "internalId": 8115,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713209,
@@ -5778,8 +5778,8 @@
               "order": 2,
               "distance": 130,
               "stop": {
-                "id": 6717,
-                "publicId": "6717",
+                "id": "6717",
+                "internalId": 6717,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712735,
@@ -5794,8 +5794,8 @@
               "order": 3,
               "distance": 113,
               "stop": {
-                "id": 6719,
-                "publicId": "6719",
+                "id": "6719",
+                "internalId": 6719,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712568,
@@ -5810,8 +5810,8 @@
               "order": 4,
               "distance": 337,
               "stop": {
-                "id": 6721,
-                "publicId": "6721",
+                "id": "6721",
+                "internalId": 6721,
                 "name": "Cç. Estrela",
                 "position": {
                   "latitude": 38.712221,
@@ -5826,8 +5826,8 @@
               "order": 5,
               "distance": 154,
               "stop": {
-                "id": 6723,
-                "publicId": "6723",
+                "id": "6723",
+                "internalId": 6723,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.710967,
@@ -5842,8 +5842,8 @@
               "order": 6,
               "distance": 241,
               "stop": {
-                "id": 7111,
-                "publicId": "7111",
+                "id": "7111",
+                "internalId": 7111,
                 "name": "R. Poço Negros",
                 "position": {
                   "latitude": 38.709803,
@@ -5858,8 +5858,8 @@
               "order": 7,
               "distance": 306,
               "stop": {
-                "id": 9903,
-                "publicId": "9903",
+                "id": "9903",
+                "internalId": 9903,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.710972,
@@ -5874,8 +5874,8 @@
               "order": 8,
               "distance": 214,
               "stop": {
-                "id": 10511,
-                "publicId": "10511",
+                "id": "10511",
+                "internalId": 10511,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710816,
@@ -5890,8 +5890,8 @@
               "order": 9,
               "distance": 206,
               "stop": {
-                "id": 10513,
-                "publicId": "10513",
+                "id": "10513",
+                "internalId": 10513,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710486,
@@ -5906,8 +5906,8 @@
               "order": 10,
               "distance": 244,
               "stop": {
-                "id": 10515,
-                "publicId": "10515",
+                "id": "10515",
+                "internalId": 10515,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.709306,
@@ -5922,8 +5922,8 @@
               "order": 11,
               "distance": 101,
               "stop": {
-                "id": 10517,
-                "publicId": "10517",
+                "id": "10517",
+                "internalId": 10517,
                 "name": "R. Vitor Cordon",
                 "position": {
                   "latitude": 38.70794,
@@ -5938,8 +5938,8 @@
               "order": 12,
               "distance": 127,
               "stop": {
-                "id": 10519,
-                "publicId": "10519",
+                "id": "10519",
+                "internalId": 10519,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.707962,
@@ -5954,8 +5954,8 @@
               "order": 13,
               "distance": 228,
               "stop": {
-                "id": 10521,
-                "publicId": "10521",
+                "id": "10521",
+                "internalId": 10521,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708037,
@@ -5970,8 +5970,8 @@
               "order": 14,
               "distance": 266,
               "stop": {
-                "id": 50149,
-                "publicId": "5605",
+                "id": "5605",
+                "internalId": 50149,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709316,
@@ -5986,8 +5986,8 @@
               "order": 15,
               "distance": 154,
               "stop": {
-                "id": 5601,
-                "publicId": "5601",
+                "id": "5601",
+                "internalId": 5601,
                 "name": "Igreja Sta. Maria Madalena",
                 "position": {
                   "latitude": 38.710046,
@@ -6002,8 +6002,8 @@
               "order": 16,
               "distance": 201,
               "stop": {
-                "id": 13801,
-                "publicId": "13801",
+                "id": "13801",
+                "internalId": 13801,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.709761,
@@ -6018,8 +6018,8 @@
               "order": 17,
               "distance": 179,
               "stop": {
-                "id": 13803,
-                "publicId": "13803",
+                "id": "13803",
+                "internalId": 13803,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710327,
@@ -6034,8 +6034,8 @@
               "order": 18,
               "distance": 121,
               "stop": {
-                "id": 13805,
-                "publicId": "13805",
+                "id": "13805",
+                "internalId": 13805,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711581,
@@ -6050,8 +6050,8 @@
               "order": 19,
               "distance": 189,
               "stop": {
-                "id": 13811,
-                "publicId": "13811",
+                "id": "13811",
+                "internalId": 13811,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.71253,
@@ -6066,8 +6066,8 @@
               "order": 20,
               "distance": 121,
               "stop": {
-                "id": 13813,
-                "publicId": "13813",
+                "id": "13813",
+                "internalId": 13813,
                 "name": "R. Escolas Gerais",
                 "position": {
                   "latitude": 38.712885,
@@ -6082,8 +6082,8 @@
               "order": 21,
               "distance": 199,
               "stop": {
-                "id": 50150,
-                "publicId": "13806",
+                "id": "13806",
+                "internalId": 50150,
                 "name": "Cç. S. Vicente",
                 "position": {
                   "latitude": 38.713507,
@@ -6098,8 +6098,8 @@
               "order": 22,
               "distance": 255,
               "stop": {
-                "id": 14801,
-                "publicId": "14801",
+                "id": "14801",
+                "internalId": 14801,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715074,
@@ -6114,8 +6114,8 @@
               "order": 23,
               "distance": 206,
               "stop": {
-                "id": 14803,
-                "publicId": "14803",
+                "id": "14803",
+                "internalId": 14803,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717222,
@@ -6130,8 +6130,8 @@
               "order": 24,
               "distance": 269,
               "stop": {
-                "id": 9130,
-                "publicId": "9130",
+                "id": "9130",
+                "internalId": 9130,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719031,
@@ -6146,8 +6146,8 @@
               "order": 25,
               "distance": 218,
               "stop": {
-                "id": 9128,
-                "publicId": "9128",
+                "id": "9128",
+                "internalId": 9128,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721337,
@@ -6162,8 +6162,8 @@
               "order": 26,
               "distance": 133,
               "stop": {
-                "id": 9126,
-                "publicId": "9126",
+                "id": "9126",
+                "internalId": 9126,
                 "name": "R. Angelina Vidal",
                 "position": {
                   "latitude": 38.722851,
@@ -6178,8 +6178,8 @@
               "order": 27,
               "distance": 154,
               "stop": {
-                "id": 601,
-                "publicId": "601",
+                "id": "601",
+                "internalId": 601,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723908,
@@ -6194,8 +6194,8 @@
               "order": 28,
               "distance": 150,
               "stop": {
-                "id": 708,
-                "publicId": "708",
+                "id": "708",
+                "internalId": 708,
                 "name": "R. Maria",
                 "position": {
                   "latitude": 38.723818,
@@ -6210,8 +6210,8 @@
               "order": 29,
               "distance": 226,
               "stop": {
-                "id": 706,
-                "publicId": "706",
+                "id": "706",
+                "internalId": 706,
                 "name": "R. Maria Andrade",
                 "position": {
                   "latitude": 38.723561,
@@ -6226,8 +6226,8 @@
               "order": 30,
               "distance": 330,
               "stop": {
-                "id": 704,
-                "publicId": "704",
+                "id": "704",
+                "internalId": 704,
                 "name": "Igreja Anjos",
                 "position": {
                   "latitude": 38.722122,
@@ -6242,8 +6242,8 @@
               "order": 31,
               "distance": 520,
               "stop": {
-                "id": 804,
-                "publicId": "804",
+                "id": "804",
+                "internalId": 804,
                 "name": "R. Palma",
                 "position": {
                   "latitude": 38.71916,
@@ -6258,8 +6258,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 805,
-                "publicId": "805",
+                "id": "805",
+                "internalId": 805,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.714959,
@@ -6717,8 +6717,8 @@
               "order": 1,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -6733,8 +6733,8 @@
               "order": 2,
               "distance": 200,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -6749,8 +6749,8 @@
               "order": 3,
               "distance": 195,
               "stop": {
-                "id": 9906,
-                "publicId": "9906",
+                "id": "9906",
+                "internalId": 9906,
                 "name": "Sta. Catarina",
                 "position": {
                   "latitude": 38.711046,
@@ -6765,8 +6765,8 @@
               "order": 4,
               "distance": 181,
               "stop": {
-                "id": 9904,
-                "publicId": "9904",
+                "id": "9904",
+                "internalId": 9904,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.711029,
@@ -6781,8 +6781,8 @@
               "order": 5,
               "distance": 142,
               "stop": {
-                "id": 6724,
-                "publicId": "6724",
+                "id": "6724",
+                "internalId": 6724,
                 "name": "R. Poiais S. Bento",
                 "position": {
                   "latitude": 38.710769,
@@ -6797,8 +6797,8 @@
               "order": 6,
               "distance": 246,
               "stop": {
-                "id": 6722,
-                "publicId": "6722",
+                "id": "6722",
+                "internalId": 6722,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.711483,
@@ -6813,8 +6813,8 @@
               "order": 7,
               "distance": 152,
               "stop": {
-                "id": 6720,
-                "publicId": "6720",
+                "id": "6720",
+                "internalId": 6720,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712478,
@@ -6829,8 +6829,8 @@
               "order": 8,
               "distance": 305,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -6845,8 +6845,8 @@
               "order": 9,
               "distance": 0,
               "stop": {
-                "id": 8115,
-                "publicId": "8115",
+                "id": "8115",
+                "internalId": 8115,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713209,
@@ -7301,8 +7301,8 @@
               "order": 1,
               "distance": 215,
               "stop": {
-                "id": 8115,
-                "publicId": "8115",
+                "id": "8115",
+                "internalId": 8115,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713209,
@@ -7317,8 +7317,8 @@
               "order": 2,
               "distance": 130,
               "stop": {
-                "id": 6717,
-                "publicId": "6717",
+                "id": "6717",
+                "internalId": 6717,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712735,
@@ -7333,8 +7333,8 @@
               "order": 3,
               "distance": 113,
               "stop": {
-                "id": 6719,
-                "publicId": "6719",
+                "id": "6719",
+                "internalId": 6719,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712568,
@@ -7349,8 +7349,8 @@
               "order": 4,
               "distance": 337,
               "stop": {
-                "id": 6721,
-                "publicId": "6721",
+                "id": "6721",
+                "internalId": 6721,
                 "name": "Cç. Estrela",
                 "position": {
                   "latitude": 38.712221,
@@ -7365,8 +7365,8 @@
               "order": 5,
               "distance": 154,
               "stop": {
-                "id": 6723,
-                "publicId": "6723",
+                "id": "6723",
+                "internalId": 6723,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.710967,
@@ -7381,8 +7381,8 @@
               "order": 6,
               "distance": 241,
               "stop": {
-                "id": 7111,
-                "publicId": "7111",
+                "id": "7111",
+                "internalId": 7111,
                 "name": "R. Poço Negros",
                 "position": {
                   "latitude": 38.709803,
@@ -7397,8 +7397,8 @@
               "order": 7,
               "distance": 306,
               "stop": {
-                "id": 9903,
-                "publicId": "9903",
+                "id": "9903",
+                "internalId": 9903,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.710972,
@@ -7413,8 +7413,8 @@
               "order": 8,
               "distance": 214,
               "stop": {
-                "id": 10511,
-                "publicId": "10511",
+                "id": "10511",
+                "internalId": 10511,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710816,
@@ -7429,8 +7429,8 @@
               "order": 9,
               "distance": 0,
               "stop": {
-                "id": 10513,
-                "publicId": "10513",
+                "id": "10513",
+                "internalId": 10513,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710486,
@@ -7459,8 +7459,8 @@
               "order": 1,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -7475,8 +7475,8 @@
               "order": 2,
               "distance": 200,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -7491,8 +7491,8 @@
               "order": 3,
               "distance": 195,
               "stop": {
-                "id": 9906,
-                "publicId": "9906",
+                "id": "9906",
+                "internalId": 9906,
                 "name": "Sta. Catarina",
                 "position": {
                   "latitude": 38.711046,
@@ -7507,8 +7507,8 @@
               "order": 4,
               "distance": 181,
               "stop": {
-                "id": 9904,
-                "publicId": "9904",
+                "id": "9904",
+                "internalId": 9904,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.711029,
@@ -7523,8 +7523,8 @@
               "order": 5,
               "distance": 142,
               "stop": {
-                "id": 6724,
-                "publicId": "6724",
+                "id": "6724",
+                "internalId": 6724,
                 "name": "R. Poiais S. Bento",
                 "position": {
                   "latitude": 38.710769,
@@ -7539,8 +7539,8 @@
               "order": 6,
               "distance": 246,
               "stop": {
-                "id": 6722,
-                "publicId": "6722",
+                "id": "6722",
+                "internalId": 6722,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.711483,
@@ -7555,8 +7555,8 @@
               "order": 7,
               "distance": 152,
               "stop": {
-                "id": 6720,
-                "publicId": "6720",
+                "id": "6720",
+                "internalId": 6720,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712478,
@@ -7571,8 +7571,8 @@
               "order": 8,
               "distance": 269,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -7587,8 +7587,8 @@
               "order": 9,
               "distance": 192,
               "stop": {
-                "id": 8112,
-                "publicId": "8112",
+                "id": "8112",
+                "internalId": 8112,
                 "name": "Estrela (Basílica)",
                 "position": {
                   "latitude": 38.713735,
@@ -7603,8 +7603,8 @@
               "order": 10,
               "distance": 104,
               "stop": {
-                "id": 8110,
-                "publicId": "8110",
+                "id": "8110",
+                "internalId": 8110,
                 "name": "Estrela - R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.714509,
@@ -7619,8 +7619,8 @@
               "order": 11,
               "distance": 148,
               "stop": {
-                "id": 8108,
-                "publicId": "8108",
+                "id": "8108",
+                "internalId": 8108,
                 "name": "R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.715105,
@@ -7635,8 +7635,8 @@
               "order": 12,
               "distance": 174,
               "stop": {
-                "id": 8002,
-                "publicId": "8002",
+                "id": "8002",
+                "internalId": 8002,
                 "name": "R. Saraiva Carvalho",
                 "position": {
                   "latitude": 38.715461,
@@ -7651,8 +7651,8 @@
               "order": 13,
               "distance": 282,
               "stop": {
-                "id": 8018,
-                "publicId": "8018",
+                "id": "8018",
+                "internalId": 8018,
                 "name": "Igreja Sto. Condestável",
                 "position": {
                   "latitude": 38.714973,
@@ -7667,8 +7667,8 @@
               "order": 14,
               "distance": 0,
               "stop": {
-                "id": 8017,
-                "publicId": "8017",
+                "id": "8017",
+                "internalId": 8017,
                 "name": "Campo Ourique (Prazeres)",
                 "position": {
                   "latitude": 38.714282,
@@ -7690,8 +7690,8 @@
               "order": 1,
               "distance": 300,
               "stop": {
-                "id": 8017,
-                "publicId": "8017",
+                "id": "8017",
+                "internalId": 8017,
                 "name": "Campo Ourique (Prazeres)",
                 "position": {
                   "latitude": 38.714282,
@@ -7706,8 +7706,8 @@
               "order": 2,
               "distance": 174,
               "stop": {
-                "id": 8019,
-                "publicId": "8019",
+                "id": "8019",
+                "internalId": 8019,
                 "name": "Igreja Sto. Condestável",
                 "position": {
                   "latitude": 38.714841,
@@ -7722,8 +7722,8 @@
               "order": 3,
               "distance": 168,
               "stop": {
-                "id": 8001,
-                "publicId": "8001",
+                "id": "8001",
+                "internalId": 8001,
                 "name": "R. Saraiva Carvalho",
                 "position": {
                   "latitude": 38.715321,
@@ -7738,8 +7738,8 @@
               "order": 4,
               "distance": 151,
               "stop": {
-                "id": 8107,
-                "publicId": "8107",
+                "id": "8107",
+                "internalId": 8107,
                 "name": "R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.714962,
@@ -7754,8 +7754,8 @@
               "order": 5,
               "distance": 153,
               "stop": {
-                "id": 8109,
-                "publicId": "8109",
+                "id": "8109",
+                "internalId": 8109,
                 "name": "Estrela - R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.714089,
@@ -7770,8 +7770,8 @@
               "order": 6,
               "distance": 219,
               "stop": {
-                "id": 8111,
-                "publicId": "8111",
+                "id": "8111",
+                "internalId": 8111,
                 "name": "Estrela (Basílica)",
                 "position": {
                   "latitude": 38.713627,
@@ -7786,8 +7786,8 @@
               "order": 7,
               "distance": 130,
               "stop": {
-                "id": 6717,
-                "publicId": "6717",
+                "id": "6717",
+                "internalId": 6717,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712735,
@@ -7802,8 +7802,8 @@
               "order": 8,
               "distance": 113,
               "stop": {
-                "id": 6719,
-                "publicId": "6719",
+                "id": "6719",
+                "internalId": 6719,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712568,
@@ -7818,8 +7818,8 @@
               "order": 9,
               "distance": 270,
               "stop": {
-                "id": 6721,
-                "publicId": "6721",
+                "id": "6721",
+                "internalId": 6721,
                 "name": "Cç. Estrela",
                 "position": {
                   "latitude": 38.712221,
@@ -7834,8 +7834,8 @@
               "order": 10,
               "distance": 221,
               "stop": {
-                "id": 6723,
-                "publicId": "6723",
+                "id": "6723",
+                "internalId": 6723,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.710967,
@@ -7850,8 +7850,8 @@
               "order": 11,
               "distance": 241,
               "stop": {
-                "id": 7111,
-                "publicId": "7111",
+                "id": "7111",
+                "internalId": 7111,
                 "name": "R. Poço Negros",
                 "position": {
                   "latitude": 38.709803,
@@ -7866,8 +7866,8 @@
               "order": 12,
               "distance": 306,
               "stop": {
-                "id": 9903,
-                "publicId": "9903",
+                "id": "9903",
+                "internalId": 9903,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.710972,
@@ -7882,8 +7882,8 @@
               "order": 13,
               "distance": 214,
               "stop": {
-                "id": 10511,
-                "publicId": "10511",
+                "id": "10511",
+                "internalId": 10511,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710816,
@@ -7898,8 +7898,8 @@
               "order": 14,
               "distance": 0,
               "stop": {
-                "id": 10513,
-                "publicId": "10513",
+                "id": "10513",
+                "internalId": 10513,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710486,
@@ -7928,8 +7928,8 @@
               "order": 1,
               "distance": 428,
               "stop": {
-                "id": 819,
-                "publicId": "819",
+                "id": "819",
+                "internalId": 819,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715498,
@@ -7944,8 +7944,8 @@
               "order": 2,
               "distance": 312,
               "stop": {
-                "id": 803,
-                "publicId": "803",
+                "id": "803",
+                "internalId": 803,
                 "name": "R. Palma",
                 "position": {
                   "latitude": 38.7192,
@@ -7960,8 +7960,8 @@
               "order": 3,
               "distance": 399,
               "stop": {
-                "id": 705,
-                "publicId": "705",
+                "id": "705",
+                "internalId": 705,
                 "name": "Igreja Anjos",
                 "position": {
                   "latitude": 38.721997,
@@ -7976,8 +7976,8 @@
               "order": 4,
               "distance": 156,
               "stop": {
-                "id": 607,
-                "publicId": "607",
+                "id": "607",
+                "internalId": 607,
                 "name": "Av. Almirante Reis / R. Angola",
                 "position": {
                   "latitude": 38.725575,
@@ -7992,8 +7992,8 @@
               "order": 5,
               "distance": 366,
               "stop": {
-                "id": 604,
-                "publicId": "604",
+                "id": "604",
+                "internalId": 604,
                 "name": "Av. Almirante Reis / R. Angola",
                 "position": {
                   "latitude": 38.726012,
@@ -8008,8 +8008,8 @@
               "order": 6,
               "distance": 139,
               "stop": {
-                "id": 602,
-                "publicId": "602",
+                "id": "602",
+                "internalId": 602,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723421,
@@ -8024,8 +8024,8 @@
               "order": 7,
               "distance": 201,
               "stop": {
-                "id": 9127,
-                "publicId": "9127",
+                "id": "9127",
+                "internalId": 9127,
                 "name": "R. Angelina Vidal",
                 "position": {
                   "latitude": 38.722311,
@@ -8040,8 +8040,8 @@
               "order": 8,
               "distance": 203,
               "stop": {
-                "id": 9129,
-                "publicId": "9129",
+                "id": "9129",
+                "internalId": 9129,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.720979,
@@ -8056,8 +8056,8 @@
               "order": 9,
               "distance": 217,
               "stop": {
-                "id": 9131,
-                "publicId": "9131",
+                "id": "9131",
+                "internalId": 9131,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719221,
@@ -8072,8 +8072,8 @@
               "order": 10,
               "distance": 259,
               "stop": {
-                "id": 14804,
-                "publicId": "14804",
+                "id": "14804",
+                "internalId": 14804,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717268,
@@ -8088,8 +8088,8 @@
               "order": 11,
               "distance": 157,
               "stop": {
-                "id": 14802,
-                "publicId": "14802",
+                "id": "14802",
+                "internalId": 14802,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715036,
@@ -8104,8 +8104,8 @@
               "order": 12,
               "distance": 189,
               "stop": {
-                "id": 50150,
-                "publicId": "13806",
+                "id": "13806",
+                "internalId": 50150,
                 "name": "Cç. S. Vicente",
                 "position": {
                   "latitude": 38.713507,
@@ -8120,8 +8120,8 @@
               "order": 13,
               "distance": 206,
               "stop": {
-                "id": 13814,
-                "publicId": "13814",
+                "id": "13814",
+                "internalId": 13814,
                 "name": "R. Escolas Gerais",
                 "position": {
                   "latitude": 38.713085,
@@ -8136,8 +8136,8 @@
               "order": 14,
               "distance": 108,
               "stop": {
-                "id": 13812,
-                "publicId": "13812",
+                "id": "13812",
+                "internalId": 13812,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.712182,
@@ -8152,8 +8152,8 @@
               "order": 15,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -8168,8 +8168,8 @@
               "order": 16,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -8184,8 +8184,8 @@
               "order": 17,
               "distance": 262,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -8200,8 +8200,8 @@
               "order": 18,
               "distance": 377,
               "stop": {
-                "id": 5604,
-                "publicId": "5604",
+                "id": "5604",
+                "internalId": 5604,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709669,
@@ -8216,8 +8216,8 @@
               "order": 19,
               "distance": 171,
               "stop": {
-                "id": 10518,
-                "publicId": "10518",
+                "id": "10518",
+                "internalId": 10518,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708072,
@@ -8232,8 +8232,8 @@
               "order": 20,
               "distance": 239,
               "stop": {
-                "id": 10516,
-                "publicId": "10516",
+                "id": "10516",
+                "internalId": 10516,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.708265,
@@ -8248,8 +8248,8 @@
               "order": 21,
               "distance": 159,
               "stop": {
-                "id": 10514,
-                "publicId": "10514",
+                "id": "10514",
+                "internalId": 10514,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.710424,
@@ -8264,8 +8264,8 @@
               "order": 22,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -8280,8 +8280,8 @@
               "order": 23,
               "distance": 200,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -8296,8 +8296,8 @@
               "order": 24,
               "distance": 195,
               "stop": {
-                "id": 9906,
-                "publicId": "9906",
+                "id": "9906",
+                "internalId": 9906,
                 "name": "Sta. Catarina",
                 "position": {
                   "latitude": 38.711046,
@@ -8312,8 +8312,8 @@
               "order": 25,
               "distance": 181,
               "stop": {
-                "id": 9904,
-                "publicId": "9904",
+                "id": "9904",
+                "internalId": 9904,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.711029,
@@ -8328,8 +8328,8 @@
               "order": 26,
               "distance": 142,
               "stop": {
-                "id": 6724,
-                "publicId": "6724",
+                "id": "6724",
+                "internalId": 6724,
                 "name": "R. Poiais S. Bento",
                 "position": {
                   "latitude": 38.710769,
@@ -8344,8 +8344,8 @@
               "order": 27,
               "distance": 246,
               "stop": {
-                "id": 6722,
-                "publicId": "6722",
+                "id": "6722",
+                "internalId": 6722,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.711483,
@@ -8360,8 +8360,8 @@
               "order": 28,
               "distance": 152,
               "stop": {
-                "id": 6720,
-                "publicId": "6720",
+                "id": "6720",
+                "internalId": 6720,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712478,
@@ -8376,8 +8376,8 @@
               "order": 29,
               "distance": 305,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -8392,8 +8392,8 @@
               "order": 30,
               "distance": 0,
               "stop": {
-                "id": 8115,
-                "publicId": "8115",
+                "id": "8115",
+                "internalId": 8115,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713209,
@@ -8422,8 +8422,8 @@
               "order": 1,
               "distance": 428,
               "stop": {
-                "id": 819,
-                "publicId": "819",
+                "id": "819",
+                "internalId": 819,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715498,
@@ -8438,8 +8438,8 @@
               "order": 2,
               "distance": 312,
               "stop": {
-                "id": 803,
-                "publicId": "803",
+                "id": "803",
+                "internalId": 803,
                 "name": "R. Palma",
                 "position": {
                   "latitude": 38.7192,
@@ -8454,8 +8454,8 @@
               "order": 3,
               "distance": 399,
               "stop": {
-                "id": 705,
-                "publicId": "705",
+                "id": "705",
+                "internalId": 705,
                 "name": "Igreja Anjos",
                 "position": {
                   "latitude": 38.721997,
@@ -8470,8 +8470,8 @@
               "order": 4,
               "distance": 156,
               "stop": {
-                "id": 607,
-                "publicId": "607",
+                "id": "607",
+                "internalId": 607,
                 "name": "Av. Almirante Reis / R. Angola",
                 "position": {
                   "latitude": 38.725575,
@@ -8486,8 +8486,8 @@
               "order": 5,
               "distance": 366,
               "stop": {
-                "id": 604,
-                "publicId": "604",
+                "id": "604",
+                "internalId": 604,
                 "name": "Av. Almirante Reis / R. Angola",
                 "position": {
                   "latitude": 38.726012,
@@ -8502,8 +8502,8 @@
               "order": 6,
               "distance": 139,
               "stop": {
-                "id": 602,
-                "publicId": "602",
+                "id": "602",
+                "internalId": 602,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723421,
@@ -8518,8 +8518,8 @@
               "order": 7,
               "distance": 201,
               "stop": {
-                "id": 9127,
-                "publicId": "9127",
+                "id": "9127",
+                "internalId": 9127,
                 "name": "R. Angelina Vidal",
                 "position": {
                   "latitude": 38.722311,
@@ -8534,8 +8534,8 @@
               "order": 8,
               "distance": 203,
               "stop": {
-                "id": 9129,
-                "publicId": "9129",
+                "id": "9129",
+                "internalId": 9129,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.720979,
@@ -8550,8 +8550,8 @@
               "order": 9,
               "distance": 217,
               "stop": {
-                "id": 9131,
-                "publicId": "9131",
+                "id": "9131",
+                "internalId": 9131,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719221,
@@ -8566,8 +8566,8 @@
               "order": 10,
               "distance": 0,
               "stop": {
-                "id": 14804,
-                "publicId": "14804",
+                "id": "14804",
+                "internalId": 14804,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717268,
@@ -8589,8 +8589,8 @@
               "order": 1,
               "distance": 265,
               "stop": {
-                "id": 14804,
-                "publicId": "14804",
+                "id": "14804",
+                "internalId": 14804,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717268,
@@ -8605,8 +8605,8 @@
               "order": 2,
               "distance": 197,
               "stop": {
-                "id": 14802,
-                "publicId": "14802",
+                "id": "14802",
+                "internalId": 14802,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715036,
@@ -8621,8 +8621,8 @@
               "order": 3,
               "distance": 149,
               "stop": {
-                "id": 50150,
-                "publicId": "13806",
+                "id": "13806",
+                "internalId": 50150,
                 "name": "Cç. S. Vicente",
                 "position": {
                   "latitude": 38.713507,
@@ -8637,8 +8637,8 @@
               "order": 4,
               "distance": 206,
               "stop": {
-                "id": 13814,
-                "publicId": "13814",
+                "id": "13814",
+                "internalId": 13814,
                 "name": "R. Escolas Gerais",
                 "position": {
                   "latitude": 38.713085,
@@ -8653,8 +8653,8 @@
               "order": 5,
               "distance": 108,
               "stop": {
-                "id": 13812,
-                "publicId": "13812",
+                "id": "13812",
+                "internalId": 13812,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.712182,
@@ -8669,8 +8669,8 @@
               "order": 6,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -8685,8 +8685,8 @@
               "order": 7,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -8701,8 +8701,8 @@
               "order": 8,
               "distance": 694,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -8717,8 +8717,8 @@
               "order": 9,
               "distance": 0,
               "stop": {
-                "id": 819,
-                "publicId": "819",
+                "id": "819",
+                "internalId": 819,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715498,
@@ -8747,8 +8747,8 @@
               "order": 1,
               "distance": 222,
               "stop": {
-                "id": 801,
-                "publicId": "801",
+                "id": "801",
+                "internalId": 801,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715277,
@@ -8763,8 +8763,8 @@
               "order": 2,
               "distance": 196,
               "stop": {
-                "id": 817,
-                "publicId": "817",
+                "id": "817",
+                "internalId": 817,
                 "name": "Socorro",
                 "position": {
                   "latitude": 38.71671,
@@ -8779,8 +8779,8 @@
               "order": 3,
               "distance": 113,
               "stop": {
-                "id": 13824,
-                "publicId": "13824",
+                "id": "13824",
+                "internalId": 13824,
                 "name": "Largo Do Terreirinho",
                 "position": {
                   "latitude": 38.716115,
@@ -8795,8 +8795,8 @@
               "order": 4,
               "distance": 271,
               "stop": {
-                "id": 13822,
-                "publicId": "13822",
+                "id": "13822",
+                "internalId": 13822,
                 "name": "Rua Dos Lagares",
                 "position": {
                   "latitude": 38.715464,
@@ -8811,8 +8811,8 @@
               "order": 5,
               "distance": 148,
               "stop": {
-                "id": 13809,
-                "publicId": "13809",
+                "id": "13809",
+                "internalId": 13809,
                 "name": "São Tomé",
                 "position": {
                   "latitude": 38.713425,
@@ -8827,8 +8827,8 @@
               "order": 6,
               "distance": 108,
               "stop": {
-                "id": 13812,
-                "publicId": "13812",
+                "id": "13812",
+                "internalId": 13812,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.712182,
@@ -8843,8 +8843,8 @@
               "order": 7,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -8859,8 +8859,8 @@
               "order": 8,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -8875,8 +8875,8 @@
               "order": 9,
               "distance": 262,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -8891,8 +8891,8 @@
               "order": 10,
               "distance": 377,
               "stop": {
-                "id": 5604,
-                "publicId": "5604",
+                "id": "5604",
+                "internalId": 5604,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709669,
@@ -8907,8 +8907,8 @@
               "order": 11,
               "distance": 171,
               "stop": {
-                "id": 10518,
-                "publicId": "10518",
+                "id": "10518",
+                "internalId": 10518,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708072,
@@ -8923,8 +8923,8 @@
               "order": 12,
               "distance": 239,
               "stop": {
-                "id": 10516,
-                "publicId": "10516",
+                "id": "10516",
+                "internalId": 10516,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.708265,
@@ -8939,8 +8939,8 @@
               "order": 13,
               "distance": 159,
               "stop": {
-                "id": 10514,
-                "publicId": "10514",
+                "id": "10514",
+                "internalId": 10514,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.710424,
@@ -8955,8 +8955,8 @@
               "order": 14,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -8971,8 +8971,8 @@
               "order": 15,
               "distance": 200,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -8987,8 +8987,8 @@
               "order": 16,
               "distance": 195,
               "stop": {
-                "id": 9906,
-                "publicId": "9906",
+                "id": "9906",
+                "internalId": 9906,
                 "name": "Sta. Catarina",
                 "position": {
                   "latitude": 38.711046,
@@ -9003,8 +9003,8 @@
               "order": 17,
               "distance": 181,
               "stop": {
-                "id": 9904,
-                "publicId": "9904",
+                "id": "9904",
+                "internalId": 9904,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.711029,
@@ -9019,8 +9019,8 @@
               "order": 18,
               "distance": 142,
               "stop": {
-                "id": 6724,
-                "publicId": "6724",
+                "id": "6724",
+                "internalId": 6724,
                 "name": "R. Poiais S. Bento",
                 "position": {
                   "latitude": 38.710769,
@@ -9035,8 +9035,8 @@
               "order": 19,
               "distance": 246,
               "stop": {
-                "id": 6722,
-                "publicId": "6722",
+                "id": "6722",
+                "internalId": 6722,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.711483,
@@ -9051,8 +9051,8 @@
               "order": 20,
               "distance": 152,
               "stop": {
-                "id": 6720,
-                "publicId": "6720",
+                "id": "6720",
+                "internalId": 6720,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712478,
@@ -9067,8 +9067,8 @@
               "order": 21,
               "distance": 305,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -9083,8 +9083,8 @@
               "order": 22,
               "distance": 0,
               "stop": {
-                "id": 8115,
-                "publicId": "8115",
+                "id": "8115",
+                "internalId": 8115,
                 "name": "Estrela",
                 "position": {
                   "latitude": 38.713209,
@@ -9113,8 +9113,8 @@
               "order": 1,
               "distance": 222,
               "stop": {
-                "id": 801,
-                "publicId": "801",
+                "id": "801",
+                "internalId": 801,
                 "name": "Martim Moniz",
                 "position": {
                   "latitude": 38.715277,
@@ -9129,8 +9129,8 @@
               "order": 2,
               "distance": 196,
               "stop": {
-                "id": 817,
-                "publicId": "817",
+                "id": "817",
+                "internalId": 817,
                 "name": "Socorro",
                 "position": {
                   "latitude": 38.71671,
@@ -9145,8 +9145,8 @@
               "order": 3,
               "distance": 113,
               "stop": {
-                "id": 13824,
-                "publicId": "13824",
+                "id": "13824",
+                "internalId": 13824,
                 "name": "Largo Do Terreirinho",
                 "position": {
                   "latitude": 38.716115,
@@ -9161,8 +9161,8 @@
               "order": 4,
               "distance": 271,
               "stop": {
-                "id": 13822,
-                "publicId": "13822",
+                "id": "13822",
+                "internalId": 13822,
                 "name": "Rua Dos Lagares",
                 "position": {
                   "latitude": 38.715464,
@@ -9177,8 +9177,8 @@
               "order": 5,
               "distance": 148,
               "stop": {
-                "id": 13809,
-                "publicId": "13809",
+                "id": "13809",
+                "internalId": 13809,
                 "name": "São Tomé",
                 "position": {
                   "latitude": 38.713425,
@@ -9193,8 +9193,8 @@
               "order": 6,
               "distance": 108,
               "stop": {
-                "id": 13812,
-                "publicId": "13812",
+                "id": "13812",
+                "internalId": 13812,
                 "name": "Lg. Portas Sol",
                 "position": {
                   "latitude": 38.712182,
@@ -9209,8 +9209,8 @@
               "order": 7,
               "distance": 213,
               "stop": {
-                "id": 13816,
-                "publicId": "13816",
+                "id": "13816",
+                "internalId": 13816,
                 "name": "Miradouro Sta. Luzia",
                 "position": {
                   "latitude": 38.711314,
@@ -9225,8 +9225,8 @@
               "order": 8,
               "distance": 190,
               "stop": {
-                "id": 13804,
-                "publicId": "13804",
+                "id": "13804",
+                "internalId": 13804,
                 "name": "Limoeiro",
                 "position": {
                   "latitude": 38.710166,
@@ -9241,8 +9241,8 @@
               "order": 9,
               "distance": 262,
               "stop": {
-                "id": 13802,
-                "publicId": "13802",
+                "id": "13802",
+                "internalId": 13802,
                 "name": "Sé",
                 "position": {
                   "latitude": 38.710052,
@@ -9257,8 +9257,8 @@
               "order": 10,
               "distance": 377,
               "stop": {
-                "id": 5604,
-                "publicId": "5604",
+                "id": "5604",
+                "internalId": 5604,
                 "name": "R. Conceição",
                 "position": {
                   "latitude": 38.709669,
@@ -9273,8 +9273,8 @@
               "order": 11,
               "distance": 171,
               "stop": {
-                "id": 10518,
-                "publicId": "10518",
+                "id": "10518",
+                "internalId": 10518,
                 "name": "Lg. Academia Nacional Belas Ar",
                 "position": {
                   "latitude": 38.708072,
@@ -9289,8 +9289,8 @@
               "order": 12,
               "distance": 239,
               "stop": {
-                "id": 10516,
-                "publicId": "10516",
+                "id": "10516",
+                "internalId": 10516,
                 "name": "R. Vitor Cordon / R. Serpa Pin",
                 "position": {
                   "latitude": 38.708265,
@@ -9305,8 +9305,8 @@
               "order": 13,
               "distance": 159,
               "stop": {
-                "id": 10514,
-                "publicId": "10514",
+                "id": "10514",
+                "internalId": 10514,
                 "name": "Chiado",
                 "position": {
                   "latitude": 38.710424,
@@ -9321,8 +9321,8 @@
               "order": 14,
               "distance": 154,
               "stop": {
-                "id": 10512,
-                "publicId": "10512",
+                "id": "10512",
+                "internalId": 10512,
                 "name": "Pç. Luis Camões",
                 "position": {
                   "latitude": 38.710788,
@@ -9337,8 +9337,8 @@
               "order": 15,
               "distance": 200,
               "stop": {
-                "id": 10510,
-                "publicId": "10510",
+                "id": "10510",
+                "internalId": 10510,
                 "name": "Calhariz (Bica)",
                 "position": {
                   "latitude": 38.710801,
@@ -9353,8 +9353,8 @@
               "order": 16,
               "distance": 195,
               "stop": {
-                "id": 9906,
-                "publicId": "9906",
+                "id": "9906",
+                "internalId": 9906,
                 "name": "Sta. Catarina",
                 "position": {
                   "latitude": 38.711046,
@@ -9369,8 +9369,8 @@
               "order": 17,
               "distance": 181,
               "stop": {
-                "id": 9904,
-                "publicId": "9904",
+                "id": "9904",
+                "internalId": 9904,
                 "name": "Cç. Combro",
                 "position": {
                   "latitude": 38.711029,
@@ -9385,8 +9385,8 @@
               "order": 18,
               "distance": 142,
               "stop": {
-                "id": 6724,
-                "publicId": "6724",
+                "id": "6724",
+                "internalId": 6724,
                 "name": "R. Poiais S. Bento",
                 "position": {
                   "latitude": 38.710769,
@@ -9401,8 +9401,8 @@
               "order": 19,
               "distance": 246,
               "stop": {
-                "id": 6722,
-                "publicId": "6722",
+                "id": "6722",
+                "internalId": 6722,
                 "name": "R. S. Bento / Cç. Estrela",
                 "position": {
                   "latitude": 38.711483,
@@ -9417,8 +9417,8 @@
               "order": 20,
               "distance": 152,
               "stop": {
-                "id": 6720,
-                "publicId": "6720",
+                "id": "6720",
+                "internalId": 6720,
                 "name": "Cç. Estrela / R. Borges Carnei",
                 "position": {
                   "latitude": 38.712478,
@@ -9433,8 +9433,8 @@
               "order": 21,
               "distance": 269,
               "stop": {
-                "id": 6718,
-                "publicId": "6718",
+                "id": "6718",
+                "internalId": 6718,
                 "name": "Cç. Estrela / R. Dr. Teófilo B",
                 "position": {
                   "latitude": 38.712761,
@@ -9449,8 +9449,8 @@
               "order": 22,
               "distance": 192,
               "stop": {
-                "id": 8112,
-                "publicId": "8112",
+                "id": "8112",
+                "internalId": 8112,
                 "name": "Estrela (Basílica)",
                 "position": {
                   "latitude": 38.713735,
@@ -9465,8 +9465,8 @@
               "order": 23,
               "distance": 104,
               "stop": {
-                "id": 8110,
-                "publicId": "8110",
+                "id": "8110",
+                "internalId": 8110,
                 "name": "Estrela - R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.714509,
@@ -9481,8 +9481,8 @@
               "order": 24,
               "distance": 148,
               "stop": {
-                "id": 8108,
-                "publicId": "8108",
+                "id": "8108",
+                "internalId": 8108,
                 "name": "R. Domingos Sequeira",
                 "position": {
                   "latitude": 38.715105,
@@ -9497,8 +9497,8 @@
               "order": 25,
               "distance": 174,
               "stop": {
-                "id": 8002,
-                "publicId": "8002",
+                "id": "8002",
+                "internalId": 8002,
                 "name": "R. Saraiva Carvalho",
                 "position": {
                   "latitude": 38.715461,
@@ -9513,8 +9513,8 @@
               "order": 26,
               "distance": 282,
               "stop": {
-                "id": 8018,
-                "publicId": "8018",
+                "id": "8018",
+                "internalId": 8018,
                 "name": "Igreja Sto. Condestável",
                 "position": {
                   "latitude": 38.714973,
@@ -9529,8 +9529,8 @@
               "order": 27,
               "distance": 0,
               "stop": {
-                "id": 8017,
-                "publicId": "8017",
+                "id": "8017",
+                "internalId": 8017,
                 "name": "Campo Ourique (Prazeres)",
                 "position": {
                   "latitude": 38.714282,

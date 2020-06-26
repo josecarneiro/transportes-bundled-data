@@ -1,11 +1,14 @@
 {
-  "id": 7215,
-  "publicId": "7215",
+  "id": "7215",
+  "internalId": 7215,
   "name": "Qta. Moleirinha",
   "position": {
     "latitude": 38.784416,
     "longitude": -9.161066
   },
   "visible": true,
-  "updateDate": "2018-04-06T17:04:58.000Z"
+  "updateDate": "2018-04-06T17:04:58.000Z",
+  "routes": [
+    "796"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 50147,
-  "publicId": "9413",
+  "id": "9413",
+  "internalId": 50147,
   "name": "Cç. Do Livramento",
   "position": {
     "latitude": 38.705815,
     "longitude": -9.171749
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:51:55.000Z"
+  "updateDate": "2008-12-05T17:51:55.000Z",
+  "routes": [
+    "773"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 5804,
-  "publicId": "5804",
+  "id": "5804",
+  "internalId": 5804,
   "name": "Campo Grande Norte",
   "position": {
     "latitude": 38.757865,
     "longitude": -9.155404
   },
   "visible": true,
-  "updateDate": "2019-02-13T17:46:43.000Z"
+  "updateDate": "2019-02-13T17:46:43.000Z",
+  "routes": [
+    "207",
+    "750",
+    "767",
+    "9E"
+  ]
 }

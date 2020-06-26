@@ -1,11 +1,14 @@
 {
-  "id": 50052,
-  "publicId": "18134",
+  "id": "18134",
+  "internalId": 50052,
   "name": "Alfragide - Nato",
   "position": {
     "latitude": 38.737204,
     "longitude": -9.216103
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:12:33.000Z"
+  "updateDate": "2018-02-20T10:12:33.000Z",
+  "routes": [
+    "799"
+  ]
 }

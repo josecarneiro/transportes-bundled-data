@@ -1,11 +1,20 @@
 {
-  "id": 14309,
-  "publicId": "14309",
+  "id": "14309",
+  "internalId": 14309,
   "name": "Miraflores",
   "position": {
     "latitude": 38.713332,
     "longitude": -9.225254
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:55.000Z"
+  "updateDate": "2010-12-02T17:19:55.000Z",
+  "routes": [
+    "201",
+    "748",
+    "750",
+    "751",
+    "9A",
+    "9B",
+    "9D"
+  ]
 }

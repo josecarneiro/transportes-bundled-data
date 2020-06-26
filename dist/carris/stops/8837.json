@@ -1,11 +1,15 @@
 {
-  "id": 8837,
-  "publicId": "8837",
+  "id": "8837",
+  "internalId": 8837,
   "name": "Estádio Pina Manique",
   "position": {
     "latitude": 38.736992,
     "longitude": -9.201881
   },
   "visible": true,
-  "updateDate": "2019-06-14T16:50:21.000Z"
+  "updateDate": "2019-06-14T16:50:21.000Z",
+  "routes": [
+    "729",
+    "70B"
+  ]
 }

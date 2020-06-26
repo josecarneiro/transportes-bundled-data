@@ -1,11 +1,12 @@
 {
-  "id": 50279,
-  "publicId": "50009",
+  "id": "50009",
+  "internalId": 50279,
   "name": "R. Daniel Santa Rita",
   "position": {
     "latitude": 38.770058,
     "longitude": -9.1654
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:32:31.000Z"
+  "updateDate": "2019-01-16T08:32:31.000Z",
+  "routes": []
 }

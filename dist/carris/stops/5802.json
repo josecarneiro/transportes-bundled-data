@@ -1,11 +1,14 @@
 {
-  "id": 5802,
-  "publicId": "5802",
+  "id": "5802",
+  "internalId": 5802,
   "name": "Hipódromo",
   "position": {
     "latitude": 38.757868,
     "longitude": -9.162878
   },
   "visible": true,
-  "updateDate": "2002-09-05T15:27:59.000Z"
+  "updateDate": "2002-09-05T15:27:59.000Z",
+  "routes": [
+    "750"
+  ]
 }

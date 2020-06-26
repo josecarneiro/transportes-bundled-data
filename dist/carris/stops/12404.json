@@ -1,11 +1,19 @@
 {
-  "id": 12404,
-  "publicId": "12404",
+  "id": "12404",
+  "internalId": 12404,
   "name": "Restelo - Av. Descobertas",
   "position": {
     "latitude": 38.709819,
     "longitude": -9.21498
   },
   "visible": true,
-  "updateDate": "2019-01-17T11:28:08.000Z"
+  "updateDate": "2019-01-17T11:28:08.000Z",
+  "routes": [
+    "714",
+    "723",
+    "727",
+    "732",
+    "79B",
+    "9B"
+  ]
 }

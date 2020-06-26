@@ -1,11 +1,15 @@
 {
-  "id": 9706,
-  "publicId": "9706",
+  "id": "9706",
+  "internalId": 9706,
   "name": "Rua Constantino De Bragança",
   "position": {
     "latitude": 38.706369,
     "longitude": -9.216063
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:43:50.000Z"
+  "updateDate": "2008-12-05T17:43:50.000Z",
+  "routes": [
+    "723",
+    "9B"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 11620,
-  "publicId": "11620",
+  "id": "11620",
+  "internalId": 11620,
   "name": "Torrinha",
   "position": {
     "latitude": 38.78812,
     "longitude": -9.158614
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:55.000Z"
+  "updateDate": "2010-12-02T17:19:55.000Z",
+  "routes": [
+    "796"
+  ]
 }

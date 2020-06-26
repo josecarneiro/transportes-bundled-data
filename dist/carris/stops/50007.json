@@ -1,11 +1,16 @@
 {
-  "id": 50007,
-  "publicId": "50007",
+  "id": "50007",
+  "internalId": 50007,
   "name": "R. Prof. João Barreira",
   "position": {
     "latitude": 38.762457,
     "longitude": -9.170679
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:29:21.000Z"
+  "updateDate": "2019-01-16T08:29:21.000Z",
+  "routes": [
+    "747",
+    "778",
+    "44B"
+  ]
 }

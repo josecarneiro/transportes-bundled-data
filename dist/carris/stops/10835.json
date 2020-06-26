@@ -1,11 +1,19 @@
 {
-  "id": 10835,
-  "publicId": "10835",
+  "id": "10835",
+  "internalId": 10835,
   "name": "Esc. Pedro Santarém",
   "position": {
     "latitude": 38.749735,
     "longitude": -9.194268
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:10:41.000Z"
+  "updateDate": "2019-02-18T12:10:41.000Z",
+  "routes": [
+    "202",
+    "703",
+    "729",
+    "750",
+    "767",
+    "9E"
+  ]
 }

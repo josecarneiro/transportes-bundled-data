@@ -1,11 +1,15 @@
 {
-  "id": 2106,
-  "publicId": "2106",
+  "id": "2106",
+  "internalId": 2106,
   "name": "R. Vale Sto. António",
   "position": {
     "latitude": 38.718044,
     "longitude": -9.122185
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:00:53.000Z"
+  "updateDate": "2018-04-03T15:00:53.000Z",
+  "routes": [
+    "206",
+    "735"
+  ]
 }

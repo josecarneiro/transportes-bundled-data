@@ -1,11 +1,15 @@
 {
-  "id": 707,
-  "publicId": "707",
+  "id": "707",
+  "internalId": 707,
   "name": "R. Maria Andrade",
   "position": {
     "latitude": 38.723434,
     "longitude": -9.133834
   },
   "visible": true,
-  "updateDate": "2012-01-13T12:37:48.000Z"
+  "updateDate": "2012-01-13T12:37:48.000Z",
+  "routes": [
+    "734",
+    "28E"
+  ]
 }

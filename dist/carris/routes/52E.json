@@ -1,6 +1,6 @@
 {
-  "id": 159,
-  "number": "52E",
+  "id": "52E",
+  "internalId": 159,
   "name": "Lg. Anunciada - R. Câmara Pestana",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -98,8 +98,8 @@
               "order": 1,
               "distance": 178,
               "stop": {
-                "id": 50245,
-                "publicId": "1012",
+                "id": "1012",
+                "internalId": 50245,
                 "name": "Largo Da Anunciada",
                 "position": {
                   "latitude": 38.717845,
@@ -114,8 +114,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 50246,
-                "publicId": "1013",
+                "id": "1013",
+                "internalId": 50246,
                 "name": "Rua Câmara Pestana",
                 "position": {
                   "latitude": 38.718659,
@@ -214,8 +214,8 @@
               "order": 1,
               "distance": 178,
               "stop": {
-                "id": 50246,
-                "publicId": "1013",
+                "id": "1013",
+                "internalId": 50246,
                 "name": "Rua Câmara Pestana",
                 "position": {
                   "latitude": 38.718659,
@@ -230,8 +230,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 50245,
-                "publicId": "1012",
+                "id": "1012",
+                "internalId": 50245,
                 "name": "Largo Da Anunciada",
                 "position": {
                   "latitude": 38.717845,

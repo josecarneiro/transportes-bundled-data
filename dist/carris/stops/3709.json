@@ -1,11 +1,15 @@
 {
-  "id": 50173,
-  "publicId": "3709",
+  "id": "3709",
+  "internalId": 50173,
   "name": "Escola De Marvila",
   "position": {
     "latitude": 38.740353,
     "longitude": -9.109842
   },
   "visible": true,
-  "updateDate": "2017-02-21T16:19:15.000Z"
+  "updateDate": "2017-02-21T16:19:15.000Z",
+  "routes": [
+    "793",
+    "31B"
+  ]
 }

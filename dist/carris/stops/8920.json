@@ -1,11 +1,14 @@
 {
-  "id": 50396,
-  "publicId": "8920",
+  "id": "8920",
+  "internalId": 50396,
   "name": "Qta. Lavrado",
   "position": {
     "latitude": 38.734349,
     "longitude": -9.125134
   },
   "visible": true,
-  "updateDate": "2019-04-08T11:35:44.000Z"
+  "updateDate": "2019-04-08T11:35:44.000Z",
+  "routes": [
+    "37B"
+  ]
 }

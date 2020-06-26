@@ -1,11 +1,17 @@
 {
-  "id": 8835,
-  "publicId": "8835",
+  "id": "8835",
+  "internalId": 8835,
   "name": "Estr. Buraca",
   "position": {
     "latitude": 38.741635,
     "longitude": -9.202821
   },
   "visible": true,
-  "updateDate": "2019-06-14T16:50:02.000Z"
+  "updateDate": "2019-06-14T16:50:02.000Z",
+  "routes": [
+    "711",
+    "750",
+    "70B",
+    "9E"
+  ]
 }

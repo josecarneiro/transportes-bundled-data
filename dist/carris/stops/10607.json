@@ -1,11 +1,17 @@
 {
-  "id": 10607,
-  "publicId": "10607",
+  "id": "10607",
+  "internalId": 10607,
   "name": "R. Escola Politécnica",
   "position": {
     "latitude": 38.71807,
     "longitude": -9.151939
   },
   "visible": true,
-  "updateDate": "2018-05-04T11:25:39.000Z"
+  "updateDate": "2018-05-04T11:25:39.000Z",
+  "routes": [
+    "202",
+    "758",
+    "773",
+    "24E"
+  ]
 }

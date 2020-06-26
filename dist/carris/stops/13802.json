@@ -1,11 +1,16 @@
 {
-  "id": 13802,
-  "publicId": "13802",
+  "id": "13802",
+  "internalId": 13802,
   "name": "Sé",
   "position": {
     "latitude": 38.710052,
     "longitude": -9.134268
   },
   "visible": true,
-  "updateDate": "2019-10-04T17:39:18.000Z"
+  "updateDate": "2019-10-04T17:39:18.000Z",
+  "routes": [
+    "737",
+    "12E",
+    "28E"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 2316,
-  "publicId": "2316",
+  "id": "2316",
+  "internalId": 2316,
   "name": "Gás De Portugal",
   "position": {
     "latitude": 38.753897,
     "longitude": -9.096001
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:51:12.000Z"
+  "updateDate": "2008-12-05T18:51:12.000Z",
+  "routes": [
+    "210",
+    "781"
+  ]
 }

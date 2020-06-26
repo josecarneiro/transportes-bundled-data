@@ -1,11 +1,14 @@
 {
-  "id": 50283,
-  "publicId": "11112",
+  "id": "11112",
+  "internalId": 50283,
   "name": "Alameda D. A. Henriques",
   "position": {
     "latitude": 38.736924,
     "longitude": -9.136349
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:14:16.000Z"
+  "updateDate": "2014-10-15T11:14:16.000Z",
+  "routes": [
+    "716"
+  ]
 }

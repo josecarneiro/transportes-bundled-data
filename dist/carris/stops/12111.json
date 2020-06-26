@@ -1,11 +1,16 @@
 {
-  "id": 12111,
-  "publicId": "12111",
+  "id": "12111",
+  "internalId": 12111,
   "name": "Estação De Santo Amaro",
   "position": {
     "latitude": 38.702215,
     "longitude": -9.180677
   },
   "visible": true,
-  "updateDate": "2012-07-23T10:38:26.000Z"
+  "updateDate": "2012-07-23T10:38:26.000Z",
+  "routes": [
+    "714",
+    "727",
+    "732"
+  ]
 }

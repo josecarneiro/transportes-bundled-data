@@ -1,11 +1,16 @@
 {
-  "id": 8517,
-  "publicId": "8517",
+  "id": "8517",
+  "internalId": 8517,
   "name": "Amoreiras",
   "position": {
     "latitude": 38.723216,
     "longitude": -9.160121
   },
   "visible": true,
-  "updateDate": "2010-12-02T17:19:54.000Z"
+  "updateDate": "2010-12-02T17:19:54.000Z",
+  "routes": [
+    "713",
+    "714",
+    "774"
+  ]
 }

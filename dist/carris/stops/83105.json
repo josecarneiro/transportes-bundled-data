@@ -1,11 +1,16 @@
 {
-  "id": 17569,
-  "publicId": "83105",
+  "id": "83105",
+  "internalId": 17569,
   "name": "B.º Madre Deus",
   "position": {
     "latitude": 38.732043,
     "longitude": -9.114395
   },
   "visible": true,
-  "updateDate": "2019-07-19T15:57:06.000Z"
+  "updateDate": "2019-07-19T15:57:06.000Z",
+  "routes": [
+    "742",
+    "759",
+    "34B"
+  ]
 }

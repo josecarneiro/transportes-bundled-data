@@ -1,11 +1,14 @@
 {
-  "id": 1505,
-  "publicId": "1505",
+  "id": "1505",
+  "internalId": 1505,
   "name": "Praça De Espanha",
   "position": {
     "latitude": 38.738089,
     "longitude": -9.159846
   },
   "visible": true,
-  "updateDate": "2012-12-14T17:58:11.000Z"
+  "updateDate": "2012-12-14T17:58:11.000Z",
+  "routes": [
+    "726"
+  ]
 }

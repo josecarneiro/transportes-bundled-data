@@ -1,6 +1,6 @@
 {
-  "id": 116,
-  "number": "726",
+  "id": "726",
+  "internalId": 116,
   "name": "Sapadores - Pontinha Centro",
   "visible": true,
   "creationDate": "2020-05-20T09:19:03.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 193,
               "stop": {
-                "id": 50282,
-                "publicId": "9133",
+                "id": "9133",
+                "internalId": 50282,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721968,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 371,
               "stop": {
-                "id": 9105,
-                "publicId": "9105",
+                "id": "9105",
+                "internalId": 9105,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721553,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 323,
               "stop": {
-                "id": 601,
-                "publicId": "601",
+                "id": "601",
+                "internalId": 601,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723908,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 264,
               "stop": {
-                "id": 603,
-                "publicId": "603",
+                "id": "603",
+                "internalId": 603,
                 "name": "Pç. Novas Nações",
                 "position": {
                   "latitude": 38.726348,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 260,
               "stop": {
-                "id": 605,
-                "publicId": "605",
+                "id": "605",
+                "internalId": 605,
                 "name": "Av. Almirante Reis / R. Febo M",
                 "position": {
                   "latitude": 38.726429,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 311,
               "stop": {
-                "id": 611,
-                "publicId": "611",
+                "id": "611",
+                "internalId": 611,
                 "name": "R. Passos Manuel",
                 "position": {
                   "latitude": 38.728017,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 504,
               "stop": {
-                "id": 6504,
-                "publicId": "6504",
+                "id": "6504",
+                "internalId": 6504,
                 "name": "Jardim Constantino",
                 "position": {
                   "latitude": 38.730821,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 262,
               "stop": {
-                "id": 6502,
-                "publicId": "6502",
+                "id": "6502",
+                "internalId": 6502,
                 "name": "Estefânia",
                 "position": {
                   "latitude": 38.732553,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 384,
               "stop": {
-                "id": 11102,
-                "publicId": "11102",
+                "id": "11102",
+                "internalId": 11102,
                 "name": "Arco Cego",
                 "position": {
                   "latitude": 38.734887,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 342,
               "stop": {
-                "id": 11118,
-                "publicId": "11118",
+                "id": "11118",
+                "internalId": 11118,
                 "name": "Arco Cego - Av.Miguel Bombard",
                 "position": {
                   "latitude": 38.737701,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 332,
               "stop": {
-                "id": 1811,
-                "publicId": "1811",
+                "id": "1811",
+                "internalId": 1811,
                 "name": "Av. Miguel Bombarda (Iscal)",
                 "position": {
                   "latitude": 38.737161,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 434,
               "stop": {
-                "id": 1407,
-                "publicId": "1407",
+                "id": "1407",
+                "internalId": 1407,
                 "name": "Av. Visconde Valmor",
                 "position": {
                   "latitude": 38.737521,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 239,
               "stop": {
-                "id": 33102,
-                "publicId": "33102",
+                "id": "33102",
+                "internalId": 33102,
                 "name": "Av. De Berna - Rego",
                 "position": {
                   "latitude": 38.739811,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 813,
               "stop": {
-                "id": 1503,
-                "publicId": "1503",
+                "id": "1503",
+                "internalId": 1503,
                 "name": "Praça De Espanha-Av. De Berna",
                 "position": {
                   "latitude": 38.738738,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 237,
               "stop": {
-                "id": 1507,
-                "publicId": "1507",
+                "id": "1507",
+                "internalId": 1507,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738336,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 338,
               "stop": {
-                "id": 1601,
-                "publicId": "1601",
+                "id": "1601",
+                "internalId": 1601,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.738837,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 216,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 557,
               "stop": {
-                "id": 1611,
-                "publicId": "1611",
+                "id": "1611",
+                "internalId": 1611,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742127,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 265,
               "stop": {
-                "id": 12707,
-                "publicId": "12707",
+                "id": "12707",
+                "internalId": 12707,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745558,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 417,
               "stop": {
-                "id": 12709,
-                "publicId": "12709",
+                "id": "12709",
+                "internalId": 12709,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747561,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 327,
               "stop": {
-                "id": 12711,
-                "publicId": "12711",
+                "id": "12711",
+                "internalId": 12711,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.750864,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 411,
               "stop": {
-                "id": 13617,
-                "publicId": "13617",
+                "id": "13617",
+                "internalId": 13617,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.753612,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 385,
               "stop": {
-                "id": 13606,
-                "publicId": "13606",
+                "id": "13606",
+                "internalId": 13606,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756594,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 241,
               "stop": {
-                "id": 13608,
-                "publicId": "13608",
+                "id": "13608",
+                "internalId": 13608,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75889,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 430,
               "stop": {
-                "id": 12804,
-                "publicId": "12804",
+                "id": "12804",
+                "internalId": 12804,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760243,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 332,
               "stop": {
-                "id": 12816,
-                "publicId": "12816",
+                "id": "12816",
+                "internalId": 12816,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.7593,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 365,
               "stop": {
-                "id": 12814,
-                "publicId": "12814",
+                "id": "12814",
+                "internalId": 12814,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759741,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 245,
               "stop": {
-                "id": 12812,
-                "publicId": "12812",
+                "id": "12812",
+                "internalId": 12812,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760675,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 573,
               "stop": {
-                "id": 13912,
-                "publicId": "13912",
+                "id": "13912",
+                "internalId": 13912,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761719,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 205,
               "stop": {
-                "id": 13910,
-                "publicId": "13910",
+                "id": "13910",
+                "internalId": 13910,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.765966,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 632,
               "stop": {
-                "id": 13902,
-                "publicId": "13902",
+                "id": "13902",
+                "internalId": 13902,
                 "name": "R. Sto. Eloy",
                 "position": {
                   "latitude": 38.766846,
@@ -517,8 +517,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 13901,
-                "publicId": "13901",
+                "id": "13901",
+                "internalId": 13901,
                 "name": "Pontinha Centro",
                 "position": {
                   "latitude": 38.766782,
@@ -540,8 +540,8 @@
               "order": 1,
               "distance": 176,
               "stop": {
-                "id": 13901,
-                "publicId": "13901",
+                "id": "13901",
+                "internalId": 13901,
                 "name": "Pontinha Centro",
                 "position": {
                   "latitude": 38.766782,
@@ -556,8 +556,8 @@
               "order": 2,
               "distance": 231,
               "stop": {
-                "id": 13903,
-                "publicId": "13903",
+                "id": "13903",
+                "internalId": 13903,
                 "name": "R. Ilha Terceira",
                 "position": {
                   "latitude": 38.765895,
@@ -572,8 +572,8 @@
               "order": 3,
               "distance": 508,
               "stop": {
-                "id": 13905,
-                "publicId": "13905",
+                "id": "13905",
+                "internalId": 13905,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.764429,
@@ -588,8 +588,8 @@
               "order": 4,
               "distance": 366,
               "stop": {
-                "id": 13907,
-                "publicId": "13907",
+                "id": "13907",
+                "internalId": 13907,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761686,
@@ -604,8 +604,8 @@
               "order": 5,
               "distance": 362,
               "stop": {
-                "id": 12813,
-                "publicId": "12813",
+                "id": "12813",
+                "internalId": 12813,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760328,
@@ -620,8 +620,8 @@
               "order": 6,
               "distance": 307,
               "stop": {
-                "id": 12817,
-                "publicId": "12817",
+                "id": "12817",
+                "internalId": 12817,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759443,
@@ -636,8 +636,8 @@
               "order": 7,
               "distance": 401,
               "stop": {
-                "id": 12819,
-                "publicId": "12819",
+                "id": "12819",
+                "internalId": 12819,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.759429,
@@ -652,8 +652,8 @@
               "order": 8,
               "distance": 310,
               "stop": {
-                "id": 12803,
-                "publicId": "12803",
+                "id": "12803",
+                "internalId": 12803,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760017,
@@ -668,8 +668,8 @@
               "order": 9,
               "distance": 262,
               "stop": {
-                "id": 13607,
-                "publicId": "13607",
+                "id": "13607",
+                "internalId": 13607,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75826,
@@ -684,8 +684,8 @@
               "order": 10,
               "distance": 305,
               "stop": {
-                "id": 13605,
-                "publicId": "13605",
+                "id": "13605",
+                "internalId": 13605,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756639,
@@ -700,8 +700,8 @@
               "order": 11,
               "distance": 604,
               "stop": {
-                "id": 13618,
-                "publicId": "13618",
+                "id": "13618",
+                "internalId": 13618,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.754522,
@@ -716,8 +716,8 @@
               "order": 12,
               "distance": 244,
               "stop": {
-                "id": 12712,
-                "publicId": "12712",
+                "id": "12712",
+                "internalId": 12712,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.749661,
@@ -732,8 +732,8 @@
               "order": 13,
               "distance": 328,
               "stop": {
-                "id": 12710,
-                "publicId": "12710",
+                "id": "12710",
+                "internalId": 12710,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747742,
@@ -748,8 +748,8 @@
               "order": 14,
               "distance": 457,
               "stop": {
-                "id": 12708,
-                "publicId": "12708",
+                "id": "12708",
+                "internalId": 12708,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745263,
@@ -764,8 +764,8 @@
               "order": 15,
               "distance": 401,
               "stop": {
-                "id": 1604,
-                "publicId": "1604",
+                "id": "1604",
+                "internalId": 1604,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742544,
@@ -780,8 +780,8 @@
               "order": 16,
               "distance": 274,
               "stop": {
-                "id": 1620,
-                "publicId": "1620",
+                "id": "1620",
+                "internalId": 1620,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.739162,
@@ -796,8 +796,8 @@
               "order": 17,
               "distance": 246,
               "stop": {
-                "id": 1602,
-                "publicId": "1602",
+                "id": "1602",
+                "internalId": 1602,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.73864,
@@ -812,8 +812,8 @@
               "order": 18,
               "distance": 274,
               "stop": {
-                "id": 1510,
-                "publicId": "1510",
+                "id": "1510",
+                "internalId": 1510,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738157,
@@ -828,8 +828,8 @@
               "order": 19,
               "distance": 396,
               "stop": {
-                "id": 1508,
-                "publicId": "1508",
+                "id": "1508",
+                "internalId": 1508,
                 "name": "Praça De Espanha",
                 "position": {
                   "latitude": 38.738047,
@@ -844,8 +844,8 @@
               "order": 20,
               "distance": 385,
               "stop": {
-                "id": 1504,
-                "publicId": "1504",
+                "id": "1504",
+                "internalId": 1504,
                 "name": "Praça De Espanha-Av. De Berna",
                 "position": {
                   "latitude": 38.737789,
@@ -860,8 +860,8 @@
               "order": 21,
               "distance": 383,
               "stop": {
-                "id": 33101,
-                "publicId": "33101",
+                "id": "33101",
+                "internalId": 33101,
                 "name": "Av. De Berna - Rego",
                 "position": {
                   "latitude": 38.739537,
@@ -876,8 +876,8 @@
               "order": 22,
               "distance": 199,
               "stop": {
-                "id": 1408,
-                "publicId": "1408",
+                "id": "1408",
+                "internalId": 1408,
                 "name": "Av. Visconde Valmor",
                 "position": {
                   "latitude": 38.737902,
@@ -892,8 +892,8 @@
               "order": 23,
               "distance": 381,
               "stop": {
-                "id": 1412,
-                "publicId": "1412",
+                "id": "1412",
+                "internalId": 1412,
                 "name": "Av. Marquês De Tomar",
                 "position": {
                   "latitude": 38.736137,
@@ -908,8 +908,8 @@
               "order": 24,
               "distance": 471,
               "stop": {
-                "id": 1806,
-                "publicId": "1806",
+                "id": "1806",
+                "internalId": 1806,
                 "name": "Av. Duque D'ávila",
                 "position": {
                   "latitude": 38.735014,
@@ -924,8 +924,8 @@
               "order": 25,
               "distance": 277,
               "stop": {
-                "id": 11105,
-                "publicId": "11105",
+                "id": "11105",
+                "internalId": 11105,
                 "name": "Arco Cego",
                 "position": {
                   "latitude": 38.734581,
@@ -940,8 +940,8 @@
               "order": 26,
               "distance": 447,
               "stop": {
-                "id": 6501,
-                "publicId": "6501",
+                "id": "6501",
+                "internalId": 6501,
                 "name": "Estefânia",
                 "position": {
                   "latitude": 38.73212,
@@ -956,8 +956,8 @@
               "order": 27,
               "distance": 338,
               "stop": {
-                "id": 6503,
-                "publicId": "6503",
+                "id": "6503",
+                "internalId": 6503,
                 "name": "Jardim Constantino",
                 "position": {
                   "latitude": 38.730844,
@@ -972,8 +972,8 @@
               "order": 28,
               "distance": 394,
               "stop": {
-                "id": 613,
-                "publicId": "613",
+                "id": "613",
+                "internalId": 613,
                 "name": "R. José Estêvão",
                 "position": {
                   "latitude": 38.727798,
@@ -988,8 +988,8 @@
               "order": 29,
               "distance": 366,
               "stop": {
-                "id": 604,
-                "publicId": "604",
+                "id": "604",
+                "internalId": 604,
                 "name": "Av. Almirante Reis / R. Angola",
                 "position": {
                   "latitude": 38.726012,
@@ -1004,8 +1004,8 @@
               "order": 30,
               "distance": 349,
               "stop": {
-                "id": 602,
-                "publicId": "602",
+                "id": "602",
+                "internalId": 602,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723421,
@@ -1020,8 +1020,8 @@
               "order": 31,
               "distance": 88,
               "stop": {
-                "id": 9118,
-                "publicId": "9118",
+                "id": "9118",
+                "internalId": 9118,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721287,
@@ -1036,8 +1036,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 50282,
-                "publicId": "9133",
+                "id": "9133",
+                "internalId": 50282,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721968,
@@ -3079,8 +3079,8 @@
               "order": 1,
               "distance": 344,
               "stop": {
-                "id": 1203,
-                "publicId": "1203",
+                "id": "1203",
+                "internalId": 1203,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725872,
@@ -3095,8 +3095,8 @@
               "order": 2,
               "distance": 313,
               "stop": {
-                "id": 1301,
-                "publicId": "1301",
+                "id": "1301",
+                "internalId": 1301,
                 "name": "Av. António Augusto Aguiar",
                 "position": {
                   "latitude": 38.729131,
@@ -3111,8 +3111,8 @@
               "order": 3,
               "distance": 439,
               "stop": {
-                "id": 1401,
-                "publicId": "1401",
+                "id": "1401",
+                "internalId": 1401,
                 "name": "Igreja De São Sebastião",
                 "position": {
                   "latitude": 38.731809,
@@ -3127,8 +3127,8 @@
               "order": 4,
               "distance": 257,
               "stop": {
-                "id": 1403,
-                "publicId": "1403",
+                "id": "1403",
+                "internalId": 1403,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.734589,
@@ -3143,8 +3143,8 @@
               "order": 5,
               "distance": 517,
               "stop": {
-                "id": 1501,
-                "publicId": "1501",
+                "id": "1501",
+                "internalId": 1501,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.73671,
@@ -3159,8 +3159,8 @@
               "order": 6,
               "distance": 192,
               "stop": {
-                "id": 1505,
-                "publicId": "1505",
+                "id": "1505",
+                "internalId": 1505,
                 "name": "Praça De Espanha",
                 "position": {
                   "latitude": 38.738089,
@@ -3175,8 +3175,8 @@
               "order": 7,
               "distance": 245,
               "stop": {
-                "id": 1507,
-                "publicId": "1507",
+                "id": "1507",
+                "internalId": 1507,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738336,
@@ -3191,8 +3191,8 @@
               "order": 8,
               "distance": 198,
               "stop": {
-                "id": 1601,
-                "publicId": "1601",
+                "id": "1601",
+                "internalId": 1601,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.738837,
@@ -3207,8 +3207,8 @@
               "order": 9,
               "distance": 136,
               "stop": {
-                "id": 1619,
-                "publicId": "1619",
+                "id": "1619",
+                "internalId": 1619,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742725,
@@ -3223,8 +3223,8 @@
               "order": 10,
               "distance": 207,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -3239,8 +3239,8 @@
               "order": 11,
               "distance": 538,
               "stop": {
-                "id": 1611,
-                "publicId": "1611",
+                "id": "1611",
+                "internalId": 1611,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742127,
@@ -3255,8 +3255,8 @@
               "order": 12,
               "distance": 266,
               "stop": {
-                "id": 12707,
-                "publicId": "12707",
+                "id": "12707",
+                "internalId": 12707,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745558,
@@ -3271,8 +3271,8 @@
               "order": 13,
               "distance": 417,
               "stop": {
-                "id": 12709,
-                "publicId": "12709",
+                "id": "12709",
+                "internalId": 12709,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747561,
@@ -3287,8 +3287,8 @@
               "order": 14,
               "distance": 325,
               "stop": {
-                "id": 12711,
-                "publicId": "12711",
+                "id": "12711",
+                "internalId": 12711,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.750864,
@@ -3303,8 +3303,8 @@
               "order": 15,
               "distance": 419,
               "stop": {
-                "id": 13617,
-                "publicId": "13617",
+                "id": "13617",
+                "internalId": 13617,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.753612,
@@ -3319,8 +3319,8 @@
               "order": 16,
               "distance": 394,
               "stop": {
-                "id": 13606,
-                "publicId": "13606",
+                "id": "13606",
+                "internalId": 13606,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756594,
@@ -3335,8 +3335,8 @@
               "order": 17,
               "distance": 235,
               "stop": {
-                "id": 13608,
-                "publicId": "13608",
+                "id": "13608",
+                "internalId": 13608,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75889,
@@ -3351,8 +3351,8 @@
               "order": 18,
               "distance": 439,
               "stop": {
-                "id": 12804,
-                "publicId": "12804",
+                "id": "12804",
+                "internalId": 12804,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760243,
@@ -3367,8 +3367,8 @@
               "order": 19,
               "distance": 323,
               "stop": {
-                "id": 12816,
-                "publicId": "12816",
+                "id": "12816",
+                "internalId": 12816,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.7593,
@@ -3383,8 +3383,8 @@
               "order": 20,
               "distance": 363,
               "stop": {
-                "id": 12814,
-                "publicId": "12814",
+                "id": "12814",
+                "internalId": 12814,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759741,
@@ -3399,8 +3399,8 @@
               "order": 21,
               "distance": 385,
               "stop": {
-                "id": 12812,
-                "publicId": "12812",
+                "id": "12812",
+                "internalId": 12812,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760675,
@@ -3415,8 +3415,8 @@
               "order": 22,
               "distance": 615,
               "stop": {
-                "id": 13912,
-                "publicId": "13912",
+                "id": "13912",
+                "internalId": 13912,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761719,
@@ -3431,8 +3431,8 @@
               "order": 23,
               "distance": 406,
               "stop": {
-                "id": 13906,
-                "publicId": "13906",
+                "id": "13906",
+                "internalId": 13906,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.766045,
@@ -3447,8 +3447,8 @@
               "order": 24,
               "distance": 293,
               "stop": {
-                "id": 14110,
-                "publicId": "14110",
+                "id": "14110",
+                "internalId": 14110,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768933,
@@ -3463,8 +3463,8 @@
               "order": 25,
               "distance": 332,
               "stop": {
-                "id": 14102,
-                "publicId": "14102",
+                "id": "14102",
+                "internalId": 14102,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770954,
@@ -3479,8 +3479,8 @@
               "order": 26,
               "distance": 139,
               "stop": {
-                "id": 14104,
-                "publicId": "14104",
+                "id": "14104",
+                "internalId": 14104,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.771974,
@@ -3495,8 +3495,8 @@
               "order": 27,
               "distance": 229,
               "stop": {
-                "id": 14106,
-                "publicId": "14106",
+                "id": "14106",
+                "internalId": 14106,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.771073,
@@ -3511,8 +3511,8 @@
               "order": 28,
               "distance": 0,
               "stop": {
-                "id": 14107,
-                "publicId": "14107",
+                "id": "14107",
+                "internalId": 14107,
                 "name": "Bº Padre Cruz",
                 "position": {
                   "latitude": 38.769542,
@@ -5585,8 +5585,8 @@
               "order": 1,
               "distance": 384,
               "stop": {
-                "id": 14107,
-                "publicId": "14107",
+                "id": "14107",
+                "internalId": 14107,
                 "name": "Bº Padre Cruz",
                 "position": {
                   "latitude": 38.769542,
@@ -5601,8 +5601,8 @@
               "order": 2,
               "distance": 218,
               "stop": {
-                "id": 14105,
-                "publicId": "14105",
+                "id": "14105",
+                "internalId": 14105,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.770974,
@@ -5617,8 +5617,8 @@
               "order": 3,
               "distance": 285,
               "stop": {
-                "id": 14103,
-                "publicId": "14103",
+                "id": "14103",
+                "internalId": 14103,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.772223,
@@ -5633,8 +5633,8 @@
               "order": 4,
               "distance": 314,
               "stop": {
-                "id": 14101,
-                "publicId": "14101",
+                "id": "14101",
+                "internalId": 14101,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770995,
@@ -5649,8 +5649,8 @@
               "order": 5,
               "distance": 507,
               "stop": {
-                "id": 14111,
-                "publicId": "14111",
+                "id": "14111",
+                "internalId": 14111,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768798,
@@ -5665,8 +5665,8 @@
               "order": 6,
               "distance": 597,
               "stop": {
-                "id": 13909,
-                "publicId": "13909",
+                "id": "13909",
+                "internalId": 13909,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.765117,
@@ -5681,8 +5681,8 @@
               "order": 7,
               "distance": 332,
               "stop": {
-                "id": 13907,
-                "publicId": "13907",
+                "id": "13907",
+                "internalId": 13907,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761686,
@@ -5697,8 +5697,8 @@
               "order": 8,
               "distance": 362,
               "stop": {
-                "id": 12813,
-                "publicId": "12813",
+                "id": "12813",
+                "internalId": 12813,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760328,
@@ -5713,8 +5713,8 @@
               "order": 9,
               "distance": 310,
               "stop": {
-                "id": 12817,
-                "publicId": "12817",
+                "id": "12817",
+                "internalId": 12817,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759443,
@@ -5729,8 +5729,8 @@
               "order": 10,
               "distance": 389,
               "stop": {
-                "id": 12819,
-                "publicId": "12819",
+                "id": "12819",
+                "internalId": 12819,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.759429,
@@ -5745,8 +5745,8 @@
               "order": 11,
               "distance": 314,
               "stop": {
-                "id": 12803,
-                "publicId": "12803",
+                "id": "12803",
+                "internalId": 12803,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760017,
@@ -5761,8 +5761,8 @@
               "order": 12,
               "distance": 264,
               "stop": {
-                "id": 13607,
-                "publicId": "13607",
+                "id": "13607",
+                "internalId": 13607,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75826,
@@ -5777,8 +5777,8 @@
               "order": 13,
               "distance": 299,
               "stop": {
-                "id": 13605,
-                "publicId": "13605",
+                "id": "13605",
+                "internalId": 13605,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756639,
@@ -5793,8 +5793,8 @@
               "order": 14,
               "distance": 617,
               "stop": {
-                "id": 13618,
-                "publicId": "13618",
+                "id": "13618",
+                "internalId": 13618,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.754522,
@@ -5809,8 +5809,8 @@
               "order": 15,
               "distance": 233,
               "stop": {
-                "id": 12712,
-                "publicId": "12712",
+                "id": "12712",
+                "internalId": 12712,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.749661,
@@ -5825,8 +5825,8 @@
               "order": 16,
               "distance": 347,
               "stop": {
-                "id": 12710,
-                "publicId": "12710",
+                "id": "12710",
+                "internalId": 12710,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747742,
@@ -5841,8 +5841,8 @@
               "order": 17,
               "distance": 414,
               "stop": {
-                "id": 12708,
-                "publicId": "12708",
+                "id": "12708",
+                "internalId": 12708,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745263,
@@ -5857,8 +5857,8 @@
               "order": 18,
               "distance": 563,
               "stop": {
-                "id": 1604,
-                "publicId": "1604",
+                "id": "1604",
+                "internalId": 1604,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742544,
@@ -5873,8 +5873,8 @@
               "order": 19,
               "distance": 104,
               "stop": {
-                "id": 1620,
-                "publicId": "1620",
+                "id": "1620",
+                "internalId": 1620,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.739162,
@@ -5889,8 +5889,8 @@
               "order": 20,
               "distance": 252,
               "stop": {
-                "id": 1602,
-                "publicId": "1602",
+                "id": "1602",
+                "internalId": 1602,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.73864,
@@ -5905,8 +5905,8 @@
               "order": 21,
               "distance": 312,
               "stop": {
-                "id": 1510,
-                "publicId": "1510",
+                "id": "1510",
+                "internalId": 1510,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738157,
@@ -5921,8 +5921,8 @@
               "order": 22,
               "distance": 319,
               "stop": {
-                "id": 1508,
-                "publicId": "1508",
+                "id": "1508",
+                "internalId": 1508,
                 "name": "Praça De Espanha",
                 "position": {
                   "latitude": 38.738047,
@@ -5937,8 +5937,8 @@
               "order": 23,
               "distance": 402,
               "stop": {
-                "id": 1502,
-                "publicId": "1502",
+                "id": "1502",
+                "internalId": 1502,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.736531,
@@ -5953,8 +5953,8 @@
               "order": 24,
               "distance": 254,
               "stop": {
-                "id": 1404,
-                "publicId": "1404",
+                "id": "1404",
+                "internalId": 1404,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.733517,
@@ -5969,8 +5969,8 @@
               "order": 25,
               "distance": 353,
               "stop": {
-                "id": 1402,
-                "publicId": "1402",
+                "id": "1402",
+                "internalId": 1402,
                 "name": "Igreja De São Sebastião",
                 "position": {
                   "latitude": 38.731597,
@@ -5985,8 +5985,8 @@
               "order": 26,
               "distance": 257,
               "stop": {
-                "id": 1302,
-                "publicId": "1302",
+                "id": "1302",
+                "internalId": 1302,
                 "name": "Av. António Augusto Aguiar",
                 "position": {
                   "latitude": 38.728985,
@@ -6001,8 +6001,8 @@
               "order": 27,
               "distance": 0,
               "stop": {
-                "id": 1228,
-                "publicId": "1228",
+                "id": "1228",
+                "internalId": 1228,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.727375,
@@ -6031,8 +6031,8 @@
               "order": 1,
               "distance": 422,
               "stop": {
-                "id": 1203,
-                "publicId": "1203",
+                "id": "1203",
+                "internalId": 1203,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725872,
@@ -6047,8 +6047,8 @@
               "order": 2,
               "distance": 358,
               "stop": {
-                "id": 1301,
-                "publicId": "1301",
+                "id": "1301",
+                "internalId": 1301,
                 "name": "Av. António Augusto Aguiar",
                 "position": {
                   "latitude": 38.729131,
@@ -6063,8 +6063,8 @@
               "order": 3,
               "distance": 373,
               "stop": {
-                "id": 1401,
-                "publicId": "1401",
+                "id": "1401",
+                "internalId": 1401,
                 "name": "Igreja De São Sebastião",
                 "position": {
                   "latitude": 38.731809,
@@ -6079,8 +6079,8 @@
               "order": 4,
               "distance": 282,
               "stop": {
-                "id": 1403,
-                "publicId": "1403",
+                "id": "1403",
+                "internalId": 1403,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.734589,
@@ -6095,8 +6095,8 @@
               "order": 5,
               "distance": 698,
               "stop": {
-                "id": 1501,
-                "publicId": "1501",
+                "id": "1501",
+                "internalId": 1501,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.73671,
@@ -6111,8 +6111,8 @@
               "order": 6,
               "distance": 237,
               "stop": {
-                "id": 1507,
-                "publicId": "1507",
+                "id": "1507",
+                "internalId": 1507,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738336,
@@ -6127,8 +6127,8 @@
               "order": 7,
               "distance": 338,
               "stop": {
-                "id": 1601,
-                "publicId": "1601",
+                "id": "1601",
+                "internalId": 1601,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.738837,
@@ -6143,8 +6143,8 @@
               "order": 8,
               "distance": 216,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -6159,8 +6159,8 @@
               "order": 9,
               "distance": 557,
               "stop": {
-                "id": 1611,
-                "publicId": "1611",
+                "id": "1611",
+                "internalId": 1611,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742127,
@@ -6175,8 +6175,8 @@
               "order": 10,
               "distance": 265,
               "stop": {
-                "id": 12707,
-                "publicId": "12707",
+                "id": "12707",
+                "internalId": 12707,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745558,
@@ -6191,8 +6191,8 @@
               "order": 11,
               "distance": 417,
               "stop": {
-                "id": 12709,
-                "publicId": "12709",
+                "id": "12709",
+                "internalId": 12709,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747561,
@@ -6207,8 +6207,8 @@
               "order": 12,
               "distance": 327,
               "stop": {
-                "id": 12711,
-                "publicId": "12711",
+                "id": "12711",
+                "internalId": 12711,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.750864,
@@ -6223,8 +6223,8 @@
               "order": 13,
               "distance": 411,
               "stop": {
-                "id": 13617,
-                "publicId": "13617",
+                "id": "13617",
+                "internalId": 13617,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.753612,
@@ -6239,8 +6239,8 @@
               "order": 14,
               "distance": 385,
               "stop": {
-                "id": 13606,
-                "publicId": "13606",
+                "id": "13606",
+                "internalId": 13606,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756594,
@@ -6255,8 +6255,8 @@
               "order": 15,
               "distance": 241,
               "stop": {
-                "id": 13608,
-                "publicId": "13608",
+                "id": "13608",
+                "internalId": 13608,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75889,
@@ -6271,8 +6271,8 @@
               "order": 16,
               "distance": 430,
               "stop": {
-                "id": 12804,
-                "publicId": "12804",
+                "id": "12804",
+                "internalId": 12804,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760243,
@@ -6287,8 +6287,8 @@
               "order": 17,
               "distance": 332,
               "stop": {
-                "id": 12816,
-                "publicId": "12816",
+                "id": "12816",
+                "internalId": 12816,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.7593,
@@ -6303,8 +6303,8 @@
               "order": 18,
               "distance": 365,
               "stop": {
-                "id": 12814,
-                "publicId": "12814",
+                "id": "12814",
+                "internalId": 12814,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759741,
@@ -6319,8 +6319,8 @@
               "order": 19,
               "distance": 245,
               "stop": {
-                "id": 12812,
-                "publicId": "12812",
+                "id": "12812",
+                "internalId": 12812,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760675,
@@ -6335,8 +6335,8 @@
               "order": 20,
               "distance": 585,
               "stop": {
-                "id": 13912,
-                "publicId": "13912",
+                "id": "13912",
+                "internalId": 13912,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761719,
@@ -6351,8 +6351,8 @@
               "order": 21,
               "distance": 401,
               "stop": {
-                "id": 13906,
-                "publicId": "13906",
+                "id": "13906",
+                "internalId": 13906,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.766045,
@@ -6367,8 +6367,8 @@
               "order": 22,
               "distance": 294,
               "stop": {
-                "id": 14110,
-                "publicId": "14110",
+                "id": "14110",
+                "internalId": 14110,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768933,
@@ -6383,8 +6383,8 @@
               "order": 23,
               "distance": 339,
               "stop": {
-                "id": 14102,
-                "publicId": "14102",
+                "id": "14102",
+                "internalId": 14102,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770954,
@@ -6399,8 +6399,8 @@
               "order": 24,
               "distance": 130,
               "stop": {
-                "id": 14104,
-                "publicId": "14104",
+                "id": "14104",
+                "internalId": 14104,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.771974,
@@ -6415,8 +6415,8 @@
               "order": 25,
               "distance": 430,
               "stop": {
-                "id": 14106,
-                "publicId": "14106",
+                "id": "14106",
+                "internalId": 14106,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.771073,
@@ -6431,8 +6431,8 @@
               "order": 26,
               "distance": 0,
               "stop": {
-                "id": 14107,
-                "publicId": "14107",
+                "id": "14107",
+                "internalId": 14107,
                 "name": "Bº Padre Cruz",
                 "position": {
                   "latitude": 38.769542,
@@ -6454,8 +6454,8 @@
               "order": 1,
               "distance": 218,
               "stop": {
-                "id": 14107,
-                "publicId": "14107",
+                "id": "14107",
+                "internalId": 14107,
                 "name": "Bº Padre Cruz",
                 "position": {
                   "latitude": 38.769542,
@@ -6470,8 +6470,8 @@
               "order": 2,
               "distance": 220,
               "stop": {
-                "id": 14105,
-                "publicId": "14105",
+                "id": "14105",
+                "internalId": 14105,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.770974,
@@ -6486,8 +6486,8 @@
               "order": 3,
               "distance": 283,
               "stop": {
-                "id": 14103,
-                "publicId": "14103",
+                "id": "14103",
+                "internalId": 14103,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.772223,
@@ -6502,8 +6502,8 @@
               "order": 4,
               "distance": 312,
               "stop": {
-                "id": 14101,
-                "publicId": "14101",
+                "id": "14101",
+                "internalId": 14101,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770995,
@@ -6518,8 +6518,8 @@
               "order": 5,
               "distance": 514,
               "stop": {
-                "id": 14111,
-                "publicId": "14111",
+                "id": "14111",
+                "internalId": 14111,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768798,
@@ -6534,8 +6534,8 @@
               "order": 6,
               "distance": 581,
               "stop": {
-                "id": 13909,
-                "publicId": "13909",
+                "id": "13909",
+                "internalId": 13909,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.765117,
@@ -6550,8 +6550,8 @@
               "order": 7,
               "distance": 366,
               "stop": {
-                "id": 13907,
-                "publicId": "13907",
+                "id": "13907",
+                "internalId": 13907,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761686,
@@ -6566,8 +6566,8 @@
               "order": 8,
               "distance": 362,
               "stop": {
-                "id": 12813,
-                "publicId": "12813",
+                "id": "12813",
+                "internalId": 12813,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760328,
@@ -6582,8 +6582,8 @@
               "order": 9,
               "distance": 307,
               "stop": {
-                "id": 12817,
-                "publicId": "12817",
+                "id": "12817",
+                "internalId": 12817,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759443,
@@ -6598,8 +6598,8 @@
               "order": 10,
               "distance": 401,
               "stop": {
-                "id": 12819,
-                "publicId": "12819",
+                "id": "12819",
+                "internalId": 12819,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.759429,
@@ -6614,8 +6614,8 @@
               "order": 11,
               "distance": 310,
               "stop": {
-                "id": 12803,
-                "publicId": "12803",
+                "id": "12803",
+                "internalId": 12803,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760017,
@@ -6630,8 +6630,8 @@
               "order": 12,
               "distance": 262,
               "stop": {
-                "id": 13607,
-                "publicId": "13607",
+                "id": "13607",
+                "internalId": 13607,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75826,
@@ -6646,8 +6646,8 @@
               "order": 13,
               "distance": 305,
               "stop": {
-                "id": 13605,
-                "publicId": "13605",
+                "id": "13605",
+                "internalId": 13605,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756639,
@@ -6662,8 +6662,8 @@
               "order": 14,
               "distance": 604,
               "stop": {
-                "id": 13618,
-                "publicId": "13618",
+                "id": "13618",
+                "internalId": 13618,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.754522,
@@ -6678,8 +6678,8 @@
               "order": 15,
               "distance": 244,
               "stop": {
-                "id": 12712,
-                "publicId": "12712",
+                "id": "12712",
+                "internalId": 12712,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.749661,
@@ -6694,8 +6694,8 @@
               "order": 16,
               "distance": 328,
               "stop": {
-                "id": 12710,
-                "publicId": "12710",
+                "id": "12710",
+                "internalId": 12710,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747742,
@@ -6710,8 +6710,8 @@
               "order": 17,
               "distance": 457,
               "stop": {
-                "id": 12708,
-                "publicId": "12708",
+                "id": "12708",
+                "internalId": 12708,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745263,
@@ -6726,8 +6726,8 @@
               "order": 18,
               "distance": 401,
               "stop": {
-                "id": 1604,
-                "publicId": "1604",
+                "id": "1604",
+                "internalId": 1604,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742544,
@@ -6742,8 +6742,8 @@
               "order": 19,
               "distance": 274,
               "stop": {
-                "id": 1620,
-                "publicId": "1620",
+                "id": "1620",
+                "internalId": 1620,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.739162,
@@ -6758,8 +6758,8 @@
               "order": 20,
               "distance": 246,
               "stop": {
-                "id": 1602,
-                "publicId": "1602",
+                "id": "1602",
+                "internalId": 1602,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.73864,
@@ -6774,8 +6774,8 @@
               "order": 21,
               "distance": 274,
               "stop": {
-                "id": 1510,
-                "publicId": "1510",
+                "id": "1510",
+                "internalId": 1510,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738157,
@@ -6790,8 +6790,8 @@
               "order": 22,
               "distance": 428,
               "stop": {
-                "id": 1508,
-                "publicId": "1508",
+                "id": "1508",
+                "internalId": 1508,
                 "name": "Praça De Espanha",
                 "position": {
                   "latitude": 38.738047,
@@ -6806,8 +6806,8 @@
               "order": 23,
               "distance": 403,
               "stop": {
-                "id": 1502,
-                "publicId": "1502",
+                "id": "1502",
+                "internalId": 1502,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.736531,
@@ -6822,8 +6822,8 @@
               "order": 24,
               "distance": 254,
               "stop": {
-                "id": 1404,
-                "publicId": "1404",
+                "id": "1404",
+                "internalId": 1404,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.733517,
@@ -6838,8 +6838,8 @@
               "order": 25,
               "distance": 348,
               "stop": {
-                "id": 1402,
-                "publicId": "1402",
+                "id": "1402",
+                "internalId": 1402,
                 "name": "Igreja De São Sebastião",
                 "position": {
                   "latitude": 38.731597,
@@ -6854,8 +6854,8 @@
               "order": 26,
               "distance": 220,
               "stop": {
-                "id": 1302,
-                "publicId": "1302",
+                "id": "1302",
+                "internalId": 1302,
                 "name": "Av. António Augusto Aguiar",
                 "position": {
                   "latitude": 38.728985,
@@ -6870,8 +6870,8 @@
               "order": 27,
               "distance": 0,
               "stop": {
-                "id": 1228,
-                "publicId": "1228",
+                "id": "1228",
+                "internalId": 1228,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.727375,
@@ -6900,8 +6900,8 @@
               "order": 1,
               "distance": 282,
               "stop": {
-                "id": 1403,
-                "publicId": "1403",
+                "id": "1403",
+                "internalId": 1403,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.734589,
@@ -6916,8 +6916,8 @@
               "order": 2,
               "distance": 698,
               "stop": {
-                "id": 1501,
-                "publicId": "1501",
+                "id": "1501",
+                "internalId": 1501,
                 "name": "Bº Azul - Gulbenkian",
                 "position": {
                   "latitude": 38.73671,
@@ -6932,8 +6932,8 @@
               "order": 3,
               "distance": 237,
               "stop": {
-                "id": 1507,
-                "publicId": "1507",
+                "id": "1507",
+                "internalId": 1507,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738336,
@@ -6948,8 +6948,8 @@
               "order": 4,
               "distance": 338,
               "stop": {
-                "id": 1601,
-                "publicId": "1601",
+                "id": "1601",
+                "internalId": 1601,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.738837,
@@ -6964,8 +6964,8 @@
               "order": 5,
               "distance": 216,
               "stop": {
-                "id": 1621,
-                "publicId": "1621",
+                "id": "1621",
+                "internalId": 1621,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.740566,
@@ -6980,8 +6980,8 @@
               "order": 6,
               "distance": 557,
               "stop": {
-                "id": 1611,
-                "publicId": "1611",
+                "id": "1611",
+                "internalId": 1611,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742127,
@@ -6996,8 +6996,8 @@
               "order": 7,
               "distance": 265,
               "stop": {
-                "id": 12707,
-                "publicId": "12707",
+                "id": "12707",
+                "internalId": 12707,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745558,
@@ -7012,8 +7012,8 @@
               "order": 8,
               "distance": 417,
               "stop": {
-                "id": 12709,
-                "publicId": "12709",
+                "id": "12709",
+                "internalId": 12709,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747561,
@@ -7028,8 +7028,8 @@
               "order": 9,
               "distance": 327,
               "stop": {
-                "id": 12711,
-                "publicId": "12711",
+                "id": "12711",
+                "internalId": 12711,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.750864,
@@ -7044,8 +7044,8 @@
               "order": 10,
               "distance": 411,
               "stop": {
-                "id": 13617,
-                "publicId": "13617",
+                "id": "13617",
+                "internalId": 13617,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.753612,
@@ -7060,8 +7060,8 @@
               "order": 11,
               "distance": 385,
               "stop": {
-                "id": 13606,
-                "publicId": "13606",
+                "id": "13606",
+                "internalId": 13606,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756594,
@@ -7076,8 +7076,8 @@
               "order": 12,
               "distance": 241,
               "stop": {
-                "id": 13608,
-                "publicId": "13608",
+                "id": "13608",
+                "internalId": 13608,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75889,
@@ -7092,8 +7092,8 @@
               "order": 13,
               "distance": 430,
               "stop": {
-                "id": 12804,
-                "publicId": "12804",
+                "id": "12804",
+                "internalId": 12804,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760243,
@@ -7108,8 +7108,8 @@
               "order": 14,
               "distance": 332,
               "stop": {
-                "id": 12816,
-                "publicId": "12816",
+                "id": "12816",
+                "internalId": 12816,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.7593,
@@ -7124,8 +7124,8 @@
               "order": 15,
               "distance": 365,
               "stop": {
-                "id": 12814,
-                "publicId": "12814",
+                "id": "12814",
+                "internalId": 12814,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759741,
@@ -7140,8 +7140,8 @@
               "order": 16,
               "distance": 245,
               "stop": {
-                "id": 12812,
-                "publicId": "12812",
+                "id": "12812",
+                "internalId": 12812,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760675,
@@ -7156,8 +7156,8 @@
               "order": 17,
               "distance": 585,
               "stop": {
-                "id": 13912,
-                "publicId": "13912",
+                "id": "13912",
+                "internalId": 13912,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761719,
@@ -7172,8 +7172,8 @@
               "order": 18,
               "distance": 401,
               "stop": {
-                "id": 13906,
-                "publicId": "13906",
+                "id": "13906",
+                "internalId": 13906,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.766045,
@@ -7188,8 +7188,8 @@
               "order": 19,
               "distance": 294,
               "stop": {
-                "id": 14110,
-                "publicId": "14110",
+                "id": "14110",
+                "internalId": 14110,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768933,
@@ -7204,8 +7204,8 @@
               "order": 20,
               "distance": 339,
               "stop": {
-                "id": 14102,
-                "publicId": "14102",
+                "id": "14102",
+                "internalId": 14102,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770954,
@@ -7220,8 +7220,8 @@
               "order": 21,
               "distance": 130,
               "stop": {
-                "id": 14104,
-                "publicId": "14104",
+                "id": "14104",
+                "internalId": 14104,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.771974,
@@ -7236,8 +7236,8 @@
               "order": 22,
               "distance": 430,
               "stop": {
-                "id": 14106,
-                "publicId": "14106",
+                "id": "14106",
+                "internalId": 14106,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.771073,
@@ -7252,8 +7252,8 @@
               "order": 23,
               "distance": 0,
               "stop": {
-                "id": 14107,
-                "publicId": "14107",
+                "id": "14107",
+                "internalId": 14107,
                 "name": "Bº Padre Cruz",
                 "position": {
                   "latitude": 38.769542,
@@ -7275,8 +7275,8 @@
               "order": 1,
               "distance": 218,
               "stop": {
-                "id": 14107,
-                "publicId": "14107",
+                "id": "14107",
+                "internalId": 14107,
                 "name": "Bº Padre Cruz",
                 "position": {
                   "latitude": 38.769542,
@@ -7291,8 +7291,8 @@
               "order": 2,
               "distance": 220,
               "stop": {
-                "id": 14105,
-                "publicId": "14105",
+                "id": "14105",
+                "internalId": 14105,
                 "name": "R. Rio Tejo",
                 "position": {
                   "latitude": 38.770974,
@@ -7307,8 +7307,8 @@
               "order": 3,
               "distance": 283,
               "stop": {
-                "id": 14103,
-                "publicId": "14103",
+                "id": "14103",
+                "internalId": 14103,
                 "name": "Serra Luz",
                 "position": {
                   "latitude": 38.772223,
@@ -7323,8 +7323,8 @@
               "order": 4,
               "distance": 312,
               "stop": {
-                "id": 14101,
-                "publicId": "14101",
+                "id": "14101",
+                "internalId": 14101,
                 "name": "Estr. Militar (Escorpiões)",
                 "position": {
                   "latitude": 38.770995,
@@ -7339,8 +7339,8 @@
               "order": 5,
               "distance": 514,
               "stop": {
-                "id": 14111,
-                "publicId": "14111",
+                "id": "14111",
+                "internalId": 14111,
                 "name": "Mal Penteada",
                 "position": {
                   "latitude": 38.768798,
@@ -7355,8 +7355,8 @@
               "order": 6,
               "distance": 581,
               "stop": {
-                "id": 13909,
-                "publicId": "13909",
+                "id": "13909",
+                "internalId": 13909,
                 "name": "Pontinha",
                 "position": {
                   "latitude": 38.765117,
@@ -7371,8 +7371,8 @@
               "order": 7,
               "distance": 366,
               "stop": {
-                "id": 13907,
-                "publicId": "13907",
+                "id": "13907",
+                "internalId": 13907,
                 "name": "Pontinha (Metro)",
                 "position": {
                   "latitude": 38.761686,
@@ -7387,8 +7387,8 @@
               "order": 8,
               "distance": 362,
               "stop": {
-                "id": 12813,
-                "publicId": "12813",
+                "id": "12813",
+                "internalId": 12813,
                 "name": "Estação Da Pontinha",
                 "position": {
                   "latitude": 38.760328,
@@ -7403,8 +7403,8 @@
               "order": 9,
               "distance": 307,
               "stop": {
-                "id": 12817,
-                "publicId": "12817",
+                "id": "12817",
+                "internalId": 12817,
                 "name": "Carnide-Metro",
                 "position": {
                   "latitude": 38.759443,
@@ -7419,8 +7419,8 @@
               "order": 10,
               "distance": 401,
               "stop": {
-                "id": 12819,
-                "publicId": "12819",
+                "id": "12819",
+                "internalId": 12819,
                 "name": "Carnide",
                 "position": {
                   "latitude": 38.759429,
@@ -7435,8 +7435,8 @@
               "order": 11,
               "distance": 310,
               "stop": {
-                "id": 12803,
-                "publicId": "12803",
+                "id": "12803",
+                "internalId": 12803,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760017,
@@ -7451,8 +7451,8 @@
               "order": 12,
               "distance": 262,
               "stop": {
-                "id": 13607,
-                "publicId": "13607",
+                "id": "13607",
+                "internalId": 13607,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75826,
@@ -7467,8 +7467,8 @@
               "order": 13,
               "distance": 305,
               "stop": {
-                "id": 13605,
-                "publicId": "13605",
+                "id": "13605",
+                "internalId": 13605,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756639,
@@ -7483,8 +7483,8 @@
               "order": 14,
               "distance": 604,
               "stop": {
-                "id": 13618,
-                "publicId": "13618",
+                "id": "13618",
+                "internalId": 13618,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.754522,
@@ -7499,8 +7499,8 @@
               "order": 15,
               "distance": 244,
               "stop": {
-                "id": 12712,
-                "publicId": "12712",
+                "id": "12712",
+                "internalId": 12712,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.749661,
@@ -7515,8 +7515,8 @@
               "order": 16,
               "distance": 328,
               "stop": {
-                "id": 12710,
-                "publicId": "12710",
+                "id": "12710",
+                "internalId": 12710,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747742,
@@ -7531,8 +7531,8 @@
               "order": 17,
               "distance": 457,
               "stop": {
-                "id": 12708,
-                "publicId": "12708",
+                "id": "12708",
+                "internalId": 12708,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745263,
@@ -7547,8 +7547,8 @@
               "order": 18,
               "distance": 401,
               "stop": {
-                "id": 1604,
-                "publicId": "1604",
+                "id": "1604",
+                "internalId": 1604,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742544,
@@ -7563,8 +7563,8 @@
               "order": 19,
               "distance": 274,
               "stop": {
-                "id": 1620,
-                "publicId": "1620",
+                "id": "1620",
+                "internalId": 1620,
                 "name": "Estação De Sete Rios",
                 "position": {
                   "latitude": 38.739162,
@@ -7579,8 +7579,8 @@
               "order": 20,
               "distance": 246,
               "stop": {
-                "id": 1602,
-                "publicId": "1602",
+                "id": "1602",
+                "internalId": 1602,
                 "name": "Rua António Granjo",
                 "position": {
                   "latitude": 38.73864,
@@ -7595,8 +7595,8 @@
               "order": 21,
               "distance": 274,
               "stop": {
-                "id": 1510,
-                "publicId": "1510",
+                "id": "1510",
+                "internalId": 1510,
                 "name": "Av. Madame Curie",
                 "position": {
                   "latitude": 38.738157,
@@ -7611,8 +7611,8 @@
               "order": 22,
               "distance": 396,
               "stop": {
-                "id": 1508,
-                "publicId": "1508",
+                "id": "1508",
+                "internalId": 1508,
                 "name": "Praça De Espanha",
                 "position": {
                   "latitude": 38.738047,
@@ -7627,8 +7627,8 @@
               "order": 23,
               "distance": 879,
               "stop": {
-                "id": 1504,
-                "publicId": "1504",
+                "id": "1504",
+                "internalId": 1504,
                 "name": "Praça De Espanha-Av. De Berna",
                 "position": {
                   "latitude": 38.737789,
@@ -7643,8 +7643,8 @@
               "order": 24,
               "distance": 0,
               "stop": {
-                "id": 1403,
-                "publicId": "1403",
+                "id": "1403",
+                "internalId": 1403,
                 "name": "São Sebastião",
                 "position": {
                   "latitude": 38.734589,
@@ -7673,8 +7673,8 @@
               "order": 1,
               "distance": 193,
               "stop": {
-                "id": 50282,
-                "publicId": "9133",
+                "id": "9133",
+                "internalId": 50282,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721968,
@@ -7689,8 +7689,8 @@
               "order": 2,
               "distance": 371,
               "stop": {
-                "id": 9105,
-                "publicId": "9105",
+                "id": "9105",
+                "internalId": 9105,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721553,
@@ -7705,8 +7705,8 @@
               "order": 3,
               "distance": 323,
               "stop": {
-                "id": 601,
-                "publicId": "601",
+                "id": "601",
+                "internalId": 601,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723908,
@@ -7721,8 +7721,8 @@
               "order": 4,
               "distance": 288,
               "stop": {
-                "id": 603,
-                "publicId": "603",
+                "id": "603",
+                "internalId": 603,
                 "name": "Pç. Novas Nações",
                 "position": {
                   "latitude": 38.726348,
@@ -7737,8 +7737,8 @@
               "order": 5,
               "distance": 366,
               "stop": {
-                "id": 604,
-                "publicId": "604",
+                "id": "604",
+                "internalId": 604,
                 "name": "Av. Almirante Reis / R. Angola",
                 "position": {
                   "latitude": 38.726012,
@@ -7753,8 +7753,8 @@
               "order": 6,
               "distance": 349,
               "stop": {
-                "id": 602,
-                "publicId": "602",
+                "id": "602",
+                "internalId": 602,
                 "name": "R. Forno Tijolo",
                 "position": {
                   "latitude": 38.723421,
@@ -7769,8 +7769,8 @@
               "order": 7,
               "distance": 88,
               "stop": {
-                "id": 9118,
-                "publicId": "9118",
+                "id": "9118",
+                "internalId": 9118,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721287,
@@ -7785,8 +7785,8 @@
               "order": 8,
               "distance": 0,
               "stop": {
-                "id": 50282,
-                "publicId": "9133",
+                "id": "9133",
+                "internalId": 50282,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721968,

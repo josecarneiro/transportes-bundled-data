@@ -1,11 +1,15 @@
 {
-  "id": 6905,
-  "publicId": "6905",
+  "id": "6905",
+  "internalId": 6905,
   "name": "Hosp. D. Estefânia",
   "position": {
     "latitude": 38.727615,
     "longitude": -9.13978
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:49:02.000Z"
+  "updateDate": "2018-04-03T15:49:02.000Z",
+  "routes": [
+    "706",
+    "712"
+  ]
 }

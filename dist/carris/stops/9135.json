@@ -1,11 +1,14 @@
 {
-  "id": 50399,
-  "publicId": "9135",
+  "id": "9135",
+  "internalId": 50399,
   "name": "R. Franciso Pedro Curado",
   "position": {
     "latitude": 38.727234,
     "longitude": -9.125697
   },
   "visible": true,
-  "updateDate": "2019-04-08T11:38:16.000Z"
+  "updateDate": "2019-04-08T11:38:16.000Z",
+  "routes": [
+    "37B"
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "id": 210,
-  "number": "31B",
+  "id": "31B",
+  "internalId": 210,
   "name": "Vale Formoso - B.º Alfinetes",
   "visible": true,
   "creationDate": "2020-05-20T08:23:45.000Z",
@@ -1340,8 +1340,8 @@
               "order": 1,
               "distance": 293,
               "stop": {
-                "id": 50341,
-                "publicId": "2222",
+                "id": "2222",
+                "internalId": 50341,
                 "name": "Vale Formoso",
                 "position": {
                   "latitude": 38.74801,
@@ -1356,8 +1356,8 @@
               "order": 2,
               "distance": 262,
               "stop": {
-                "id": 2208,
-                "publicId": "2208",
+                "id": "2208",
+                "internalId": 2208,
                 "name": "Estação Braço Prata",
                 "position": {
                   "latitude": 38.747181,
@@ -1372,8 +1372,8 @@
               "order": 3,
               "distance": 471,
               "stop": {
-                "id": 2206,
-                "publicId": "2206",
+                "id": "2206",
+                "internalId": 2206,
                 "name": "Vale Formoso De Cima",
                 "position": {
                   "latitude": 38.749441,
@@ -1388,8 +1388,8 @@
               "order": 4,
               "distance": 319,
               "stop": {
-                "id": 24372,
-                "publicId": "89908",
+                "id": "89908",
+                "internalId": 24372,
                 "name": "R. Dr. José Espirito Santo",
                 "position": {
                   "latitude": 38.753028,
@@ -1404,8 +1404,8 @@
               "order": 5,
               "distance": 446,
               "stop": {
-                "id": 24366,
-                "publicId": "89902",
+                "id": "89902",
+                "internalId": 24366,
                 "name": "R. Capitão-Mor Lopes Sequeira",
                 "position": {
                   "latitude": 38.75439,
@@ -1420,8 +1420,8 @@
               "order": 6,
               "distance": 161,
               "stop": {
-                "id": 24385,
-                "publicId": "89921",
+                "id": "89921",
+                "internalId": 24385,
                 "name": "R. Tomás Alcaide",
                 "position": {
                   "latitude": 38.752813,
@@ -1436,8 +1436,8 @@
               "order": 7,
               "distance": 328,
               "stop": {
-                "id": 24387,
-                "publicId": "89923",
+                "id": "89923",
+                "internalId": 24387,
                 "name": "R. Manuel Teixeira Gomes",
                 "position": {
                   "latitude": 38.751748,
@@ -1452,8 +1452,8 @@
               "order": 8,
               "distance": 381,
               "stop": {
-                "id": 24389,
-                "publicId": "89925",
+                "id": "89925",
+                "internalId": 24389,
                 "name": "R. Manuel Teixeira Gomes (Esc.",
                 "position": {
                   "latitude": 38.752062,
@@ -1468,8 +1468,8 @@
               "order": 9,
               "distance": 368,
               "stop": {
-                "id": 50346,
-                "publicId": "89909",
+                "id": "89909",
+                "internalId": 50346,
                 "name": "Amendoeiras (Metro)",
                 "position": {
                   "latitude": 38.754627,
@@ -1484,8 +1484,8 @@
               "order": 10,
               "distance": 256,
               "stop": {
-                "id": 24367,
-                "publicId": "89903",
+                "id": "89903",
+                "internalId": 24367,
                 "name": "Isel",
                 "position": {
                   "latitude": 38.755758,
@@ -1500,8 +1500,8 @@
               "order": 11,
               "distance": 180,
               "stop": {
-                "id": 50070,
-                "publicId": "89905",
+                "id": "89905",
+                "internalId": 50070,
                 "name": "Av. Dr. Augusto Castro",
                 "position": {
                   "latitude": 38.753725,
@@ -1516,8 +1516,8 @@
               "order": 12,
               "distance": 532,
               "stop": {
-                "id": 50345,
-                "publicId": "89910",
+                "id": "89910",
+                "internalId": 50345,
                 "name": "Esc. D. Dinis",
                 "position": {
                   "latitude": 38.751958,
@@ -1532,8 +1532,8 @@
               "order": 13,
               "distance": 219,
               "stop": {
-                "id": 3714,
-                "publicId": "3714",
+                "id": "3714",
+                "internalId": 3714,
                 "name": "Rua Salgueiro Maia",
                 "position": {
                   "latitude": 38.747965,
@@ -1548,8 +1548,8 @@
               "order": 14,
               "distance": 264,
               "stop": {
-                "id": 3708,
-                "publicId": "3708",
+                "id": "3708",
+                "internalId": 3708,
                 "name": "Praça Doutor Fernando Amado",
                 "position": {
                   "latitude": 38.74634,
@@ -1564,8 +1564,8 @@
               "order": 15,
               "distance": 250,
               "stop": {
-                "id": 3706,
-                "publicId": "3706",
+                "id": "3706",
+                "internalId": 3706,
                 "name": "Praça Eduardo Mondlane",
                 "position": {
                   "latitude": 38.744135,
@@ -1580,8 +1580,8 @@
               "order": 16,
               "distance": 239,
               "stop": {
-                "id": 3716,
-                "publicId": "3716",
+                "id": "3716",
+                "internalId": 3716,
                 "name": "Av. Paulo Vi - Igreja",
                 "position": {
                   "latitude": 38.742463,
@@ -1596,8 +1596,8 @@
               "order": 17,
               "distance": 177,
               "stop": {
-                "id": 3702,
-                "publicId": "3702",
+                "id": "3702",
+                "internalId": 3702,
                 "name": "Rua Dinah Silveira Queiróz",
                 "position": {
                   "latitude": 38.740649,
@@ -1612,8 +1612,8 @@
               "order": 18,
               "distance": 304,
               "stop": {
-                "id": 50172,
-                "publicId": "3704",
+                "id": "3704",
+                "internalId": 50172,
                 "name": "Escola De Marvila",
                 "position": {
                   "latitude": 38.739916,
@@ -1628,8 +1628,8 @@
               "order": 19,
               "distance": 144,
               "stop": {
-                "id": 50174,
-                "publicId": "3721",
+                "id": "3721",
+                "internalId": 50174,
                 "name": "Rua Alberto José Pessoa",
                 "position": {
                   "latitude": 38.741603,
@@ -1644,8 +1644,8 @@
               "order": 20,
               "distance": 0,
               "stop": {
-                "id": 50175,
-                "publicId": "3722",
+                "id": "3722",
+                "internalId": 50175,
                 "name": "Bº Alfinetes",
                 "position": {
                   "latitude": 38.741858,
@@ -2668,8 +2668,8 @@
               "order": 1,
               "distance": 244,
               "stop": {
-                "id": 50175,
-                "publicId": "3722",
+                "id": "3722",
+                "internalId": 50175,
                 "name": "Bº Alfinetes",
                 "position": {
                   "latitude": 38.741858,
@@ -2684,8 +2684,8 @@
               "order": 2,
               "distance": 263,
               "stop": {
-                "id": 50173,
-                "publicId": "3709",
+                "id": "3709",
+                "internalId": 50173,
                 "name": "Escola De Marvila",
                 "position": {
                   "latitude": 38.740353,
@@ -2700,8 +2700,8 @@
               "order": 3,
               "distance": 236,
               "stop": {
-                "id": 3701,
-                "publicId": "3701",
+                "id": "3701",
+                "internalId": 3701,
                 "name": "Rua Dinah Silveira Queiróz",
                 "position": {
                   "latitude": 38.740737,
@@ -2716,8 +2716,8 @@
               "order": 4,
               "distance": 261,
               "stop": {
-                "id": 3715,
-                "publicId": "3715",
+                "id": "3715",
+                "internalId": 3715,
                 "name": "Av. Paulo Vi - Igreja",
                 "position": {
                   "latitude": 38.742408,
@@ -2732,8 +2732,8 @@
               "order": 5,
               "distance": 295,
               "stop": {
-                "id": 3703,
-                "publicId": "3703",
+                "id": "3703",
+                "internalId": 3703,
                 "name": "Praça Eduardo Mondlane",
                 "position": {
                   "latitude": 38.74446,
@@ -2748,8 +2748,8 @@
               "order": 6,
               "distance": 269,
               "stop": {
-                "id": 3705,
-                "publicId": "3705",
+                "id": "3705",
+                "internalId": 3705,
                 "name": "Praça Doutor Fernando Amado",
                 "position": {
                   "latitude": 38.746554,
@@ -2764,8 +2764,8 @@
               "order": 7,
               "distance": 114,
               "stop": {
-                "id": 3713,
-                "publicId": "3713",
+                "id": "3713",
+                "internalId": 3713,
                 "name": "Rua Salgueiro Maia",
                 "position": {
                   "latitude": 38.748168,
@@ -2780,8 +2780,8 @@
               "order": 8,
               "distance": 330,
               "stop": {
-                "id": 50342,
-                "publicId": "3723",
+                "id": "3723",
+                "internalId": 50342,
                 "name": "Av. Dr. Augusto Castro / R. Sa",
                 "position": {
                   "latitude": 38.748782,
@@ -2796,8 +2796,8 @@
               "order": 9,
               "distance": 270,
               "stop": {
-                "id": 24376,
-                "publicId": "89912",
+                "id": "89912",
+                "internalId": 24376,
                 "name": "Esc. D. Dinis",
                 "position": {
                   "latitude": 38.751753,
@@ -2812,8 +2812,8 @@
               "order": 10,
               "distance": 288,
               "stop": {
-                "id": 24390,
-                "publicId": "89926",
+                "id": "89926",
+                "internalId": 24390,
                 "name": "R. Manuel Teixeira Gomes (Esc.",
                 "position": {
                   "latitude": 38.751702,
@@ -2828,8 +2828,8 @@
               "order": 11,
               "distance": 178,
               "stop": {
-                "id": 24388,
-                "publicId": "89924",
+                "id": "89924",
+                "internalId": 24388,
                 "name": "R. Manuel Teixeira Gomes",
                 "position": {
                   "latitude": 38.751645,
@@ -2844,8 +2844,8 @@
               "order": 12,
               "distance": 383,
               "stop": {
-                "id": 24386,
-                "publicId": "89922",
+                "id": "89922",
+                "internalId": 24386,
                 "name": "R. Tomás Alcaide",
                 "position": {
                   "latitude": 38.753003,
@@ -2860,8 +2860,8 @@
               "order": 13,
               "distance": 361,
               "stop": {
-                "id": 24365,
-                "publicId": "89901",
+                "id": "89901",
+                "internalId": 24365,
                 "name": "R. Capitão-Mor Lopes Sequeira",
                 "position": {
                   "latitude": 38.754426,
@@ -2876,8 +2876,8 @@
               "order": 14,
               "distance": 293,
               "stop": {
-                "id": 24371,
-                "publicId": "89907",
+                "id": "89907",
+                "internalId": 24371,
                 "name": "R. Dr. José Espirito Santo",
                 "position": {
                   "latitude": 38.75299,
@@ -2892,8 +2892,8 @@
               "order": 15,
               "distance": 384,
               "stop": {
-                "id": 2205,
-                "publicId": "2205",
+                "id": "2205",
+                "internalId": 2205,
                 "name": "Vale Formoso De Cima",
                 "position": {
                   "latitude": 38.750878,
@@ -2908,8 +2908,8 @@
               "order": 16,
               "distance": 243,
               "stop": {
-                "id": 50351,
-                "publicId": "2221",
+                "id": "2221",
+                "internalId": 50351,
                 "name": "R.Armandinho",
                 "position": {
                   "latitude": 38.749671,
@@ -2924,8 +2924,8 @@
               "order": 17,
               "distance": 0,
               "stop": {
-                "id": 50341,
-                "publicId": "2222",
+                "id": "2222",
+                "internalId": 50341,
                 "name": "Vale Formoso",
                 "position": {
                   "latitude": 38.74801,

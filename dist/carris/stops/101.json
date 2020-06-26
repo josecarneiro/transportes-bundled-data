@@ -1,11 +1,16 @@
 {
-  "id": 101,
-  "publicId": "101",
+  "id": "101",
+  "internalId": 101,
   "name": "Esc. Rainha D. Leonor",
   "position": {
     "latitude": 38.751834,
     "longitude": -9.143217
   },
   "visible": true,
-  "updateDate": "2019-02-12T12:02:07.000Z"
+  "updateDate": "2019-02-12T12:02:07.000Z",
+  "routes": [
+    "206",
+    "735",
+    "767"
+  ]
 }

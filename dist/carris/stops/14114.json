@@ -1,11 +1,14 @@
 {
-  "id": 14114,
-  "publicId": "14114",
+  "id": "14114",
+  "internalId": 14114,
   "name": "Rua Rio Minho",
   "position": {
     "latitude": 38.771417,
     "longitude": -9.18654
   },
   "visible": true,
-  "updateDate": "2006-02-10T11:42:55.000Z"
+  "updateDate": "2006-02-10T11:42:55.000Z",
+  "routes": [
+    "768"
+  ]
 }

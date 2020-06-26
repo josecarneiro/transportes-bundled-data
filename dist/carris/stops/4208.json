@@ -1,11 +1,17 @@
 {
-  "id": 4208,
-  "publicId": "4208",
+  "id": "4208",
+  "internalId": 4208,
   "name": "Rua Damião De Góis",
   "position": {
     "latitude": 38.69836,
     "longitude": -9.225053
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:10:53.000Z"
+  "updateDate": "2008-12-05T17:10:53.000Z",
+  "routes": [
+    "723",
+    "729",
+    "15E",
+    "9A"
+  ]
 }

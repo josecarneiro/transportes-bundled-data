@@ -1,11 +1,17 @@
 {
-  "id": 6608,
-  "publicId": "6608",
+  "id": "6608",
+  "internalId": 6608,
   "name": "Gomes Freire - R. Joaquim Boni",
   "position": {
     "latitude": 38.727769,
     "longitude": -9.142964
   },
   "visible": true,
-  "updateDate": "2018-02-07T14:58:42.000Z"
+  "updateDate": "2018-02-07T14:58:42.000Z",
+  "routes": [
+    "706",
+    "712",
+    "714",
+    "774"
+  ]
 }

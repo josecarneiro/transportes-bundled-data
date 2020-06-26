@@ -1,11 +1,18 @@
 {
-  "id": 13410,
-  "publicId": "13410",
+  "id": "13410",
+  "internalId": 13410,
   "name": "Boa Hora",
   "position": {
     "latitude": 38.703711,
     "longitude": -9.19523
   },
   "visible": true,
-  "updateDate": "2019-01-03T17:13:24.000Z"
+  "updateDate": "2019-01-03T17:13:24.000Z",
+  "routes": [
+    "732",
+    "742",
+    "760",
+    "18E",
+    "76B"
+  ]
 }

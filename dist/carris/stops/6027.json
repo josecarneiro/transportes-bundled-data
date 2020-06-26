@@ -1,11 +1,14 @@
 {
-  "id": 50048,
-  "publicId": "6027",
+  "id": "6027",
+  "internalId": 50048,
   "name": "Esc. S. Gonçalo",
   "position": {
     "latitude": 38.783922,
     "longitude": -9.149261
   },
   "visible": true,
-  "updateDate": "2019-02-14T16:32:04.000Z"
+  "updateDate": "2019-02-14T16:32:04.000Z",
+  "routes": [
+    "703"
+  ]
 }

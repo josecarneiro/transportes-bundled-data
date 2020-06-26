@@ -1,11 +1,15 @@
 {
-  "id": 3822,
-  "publicId": "3822",
+  "id": "3822",
+  "internalId": 3822,
   "name": "Corpo Santo",
   "position": {
     "latitude": 38.706961,
     "longitude": -9.141766
   },
   "visible": true,
-  "updateDate": "2019-10-28T22:00:11.000Z"
+  "updateDate": "2019-10-28T22:00:11.000Z",
+  "routes": [
+    "15E",
+    "88C"
+  ]
 }

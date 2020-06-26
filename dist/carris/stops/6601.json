@@ -1,11 +1,17 @@
 {
-  "id": 6601,
-  "publicId": "6601",
+  "id": "6601",
+  "internalId": 6601,
   "name": "Av. Duque De Loulé",
   "position": {
     "latitude": 38.727926,
     "longitude": -9.145156
   },
   "visible": true,
-  "updateDate": "2017-08-09T16:43:55.000Z"
+  "updateDate": "2017-08-09T16:43:55.000Z",
+  "routes": [
+    "712",
+    "720",
+    "753",
+    "88B"
+  ]
 }

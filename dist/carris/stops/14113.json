@@ -1,11 +1,14 @@
 {
-  "id": 50110,
-  "publicId": "14113",
+  "id": "14113",
+  "internalId": 50110,
   "name": "Serra Da Luz",
   "position": {
     "latitude": 38.772438,
     "longitude": -9.190198
   },
   "visible": true,
-  "updateDate": "2005-03-29T20:35:17.000Z"
+  "updateDate": "2005-03-29T20:35:17.000Z",
+  "routes": [
+    "768"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 1703,
-  "publicId": "1703",
+  "id": "1703",
+  "internalId": 1703,
   "name": "Picoas",
   "position": {
     "latitude": 38.731398,
     "longitude": -9.146117
   },
   "visible": true,
-  "updateDate": "2016-10-27T09:23:35.000Z"
+  "updateDate": "2016-10-27T09:23:35.000Z",
+  "routes": [
+    "207",
+    "736",
+    "783",
+    "88A"
+  ]
 }

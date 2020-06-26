@@ -1,11 +1,14 @@
 {
-  "id": 14906,
-  "publicId": "14906",
+  "id": "14906",
+  "internalId": 14906,
   "name": "Dafundo",
   "position": {
     "latitude": 38.700278,
     "longitude": -9.24092
   },
   "visible": true,
-  "updateDate": "2019-07-23T10:16:42.000Z"
+  "updateDate": "2019-07-23T10:16:42.000Z",
+  "routes": [
+    "776"
+  ]
 }

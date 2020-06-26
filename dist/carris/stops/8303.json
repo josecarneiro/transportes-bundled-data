@@ -1,11 +1,19 @@
 {
-  "id": 8303,
-  "publicId": "8303",
+  "id": "8303",
+  "internalId": 8303,
   "name": "Xabregas",
   "position": {
     "latitude": 38.727437,
     "longitude": -9.110289
   },
   "visible": true,
-  "updateDate": "2019-07-19T15:42:51.000Z"
+  "updateDate": "2019-07-19T15:42:51.000Z",
+  "routes": [
+    "210",
+    "718",
+    "728",
+    "742",
+    "759",
+    "34B"
+  ]
 }

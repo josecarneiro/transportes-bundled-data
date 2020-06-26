@@ -1,11 +1,12 @@
 {
-  "id": 50416,
-  "publicId": "1623",
+  "id": "1623",
+  "internalId": 50416,
   "name": "R. Raul Carapinha",
   "position": {
     "latitude": 38.741399,
     "longitude": -9.173636
   },
   "visible": true,
-  "updateDate": "2019-10-01T16:49:23.000Z"
+  "updateDate": "2019-10-01T16:49:23.000Z",
+  "routes": []
 }

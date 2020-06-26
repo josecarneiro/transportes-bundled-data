@@ -1,11 +1,14 @@
 {
-  "id": 7407,
-  "publicId": "7407",
+  "id": "7407",
+  "internalId": 7407,
   "name": "Av. Santa Joana Princesa",
   "position": {
     "latitude": 38.754592,
     "longitude": -9.136384
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:04:53.000Z"
+  "updateDate": "2008-12-05T17:04:53.000Z",
+  "routes": [
+    "755"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 13211,
-  "publicId": "13211",
+  "id": "13211",
+  "internalId": 13211,
   "name": "Instituto De Estudos Militares",
   "position": {
     "latitude": 38.696604,
     "longitude": -9.220495
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:38:14.000Z"
+  "updateDate": "2012-12-13T17:38:14.000Z",
+  "routes": [
+    "723"
+  ]
 }

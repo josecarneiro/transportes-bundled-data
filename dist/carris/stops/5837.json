@@ -1,11 +1,15 @@
 {
-  "id": 5837,
-  "publicId": "5837",
+  "id": "5837",
+  "internalId": 5837,
   "name": "Rua Amílcar Cabral",
   "position": {
     "latitude": 38.764831,
     "longitude": -9.152828
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:54:43.000Z"
+  "updateDate": "2008-12-05T17:54:43.000Z",
+  "routes": [
+    "798",
+    "43B"
+  ]
 }

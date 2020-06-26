@@ -1,11 +1,16 @@
 {
-  "id": 13408,
-  "publicId": "13408",
+  "id": "13408",
+  "internalId": 13408,
   "name": "Cç. Da Boa Hora",
   "position": {
     "latitude": 38.703134,
     "longitude": -9.193396
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:31:37.000Z"
+  "updateDate": "2008-12-05T17:31:37.000Z",
+  "routes": [
+    "742",
+    "760",
+    "18E"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 7308,
-  "publicId": "7308",
+  "id": "7308",
+  "internalId": 7308,
   "name": "Av. Alm. Gago Coutinho / Av. E",
   "position": {
     "latitude": 38.747998,
     "longitude": -9.13119
   },
   "visible": true,
-  "updateDate": "2019-03-26T16:48:57.000Z"
+  "updateDate": "2019-03-26T16:48:57.000Z",
+  "routes": [
+    "705",
+    "708",
+    "717",
+    "722"
+  ]
 }

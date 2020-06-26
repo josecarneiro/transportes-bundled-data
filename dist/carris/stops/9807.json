@@ -1,11 +1,17 @@
 {
-  "id": 9807,
-  "publicId": "9807",
+  "id": "9807",
+  "internalId": 9807,
   "name": "Igreja Madre Deus",
   "position": {
     "latitude": 38.724688,
     "longitude": -9.113388
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:37:34.000Z"
+  "updateDate": "2012-12-13T17:37:34.000Z",
+  "routes": [
+    "210",
+    "718",
+    "742",
+    "759"
+  ]
 }

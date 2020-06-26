@@ -1,11 +1,14 @@
 {
-  "id": 14716,
-  "publicId": "14716",
+  "id": "14716",
+  "internalId": 14716,
   "name": "Rua Pedro Cruz",
   "position": {
     "latitude": 38.750354,
     "longitude": -9.120754
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:48:20.000Z"
+  "updateDate": "2008-12-05T16:48:20.000Z",
+  "routes": [
+    "208"
+  ]
 }

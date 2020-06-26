@@ -1,11 +1,17 @@
 {
-  "id": 16308,
-  "publicId": "16308",
+  "id": "16308",
+  "internalId": 16308,
   "name": "Qta Da Francelha De Baixo",
   "position": {
     "latitude": 38.788306,
     "longitude": -9.123888
   },
   "visible": true,
-  "updateDate": "2016-09-20T08:46:32.000Z"
+  "updateDate": "2016-09-20T08:46:32.000Z",
+  "routes": [
+    "210",
+    "725",
+    "781",
+    "783"
+  ]
 }

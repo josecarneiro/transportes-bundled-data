@@ -1,11 +1,12 @@
 {
-  "id": 6012,
-  "publicId": "6012",
+  "id": "6012",
+  "internalId": 6012,
   "name": "Estrada Do Forte",
   "position": {
     "latitude": 38.7883,
     "longitude": -9.149733
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:23:03.000Z"
+  "updateDate": "2008-12-05T18:23:03.000Z",
+  "routes": []
 }

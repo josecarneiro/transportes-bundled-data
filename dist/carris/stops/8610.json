@@ -1,11 +1,16 @@
 {
-  "id": 8610,
-  "publicId": "8610",
+  "id": "8610",
+  "internalId": 8610,
   "name": "Arco Carvalhão",
   "position": {
     "latitude": 38.724023,
     "longitude": -9.165377
   },
   "visible": true,
-  "updateDate": "2008-04-02T16:21:48.000Z"
+  "updateDate": "2008-04-02T16:21:48.000Z",
+  "routes": [
+    "701",
+    "712",
+    "742"
+  ]
 }

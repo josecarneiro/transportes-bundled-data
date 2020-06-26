@@ -1,11 +1,15 @@
 {
-  "id": 17573,
-  "publicId": "83109",
+  "id": "83109",
+  "internalId": 17573,
   "name": "Cç. Teixeira",
   "position": {
     "latitude": 38.73547,
     "longitude": -9.117059
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:41:35.000Z"
+  "updateDate": "2019-02-18T12:41:35.000Z",
+  "routes": [
+    "794",
+    "34B"
+  ]
 }

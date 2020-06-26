@@ -1,11 +1,17 @@
 {
-  "id": 50242,
-  "publicId": "30001",
+  "id": "30001",
+  "internalId": 50242,
   "name": "Hosp. Luz",
   "position": {
     "latitude": 38.755426,
     "longitude": -9.192377
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:27:04.000Z"
+  "updateDate": "2019-01-16T08:27:04.000Z",
+  "routes": [
+    "729",
+    "765",
+    "778",
+    "799"
+  ]
 }

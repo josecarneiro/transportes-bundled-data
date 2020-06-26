@@ -1,11 +1,17 @@
 {
-  "id": 11305,
-  "publicId": "11305",
+  "id": "11305",
+  "internalId": 11305,
   "name": "Pote De Água",
   "position": {
     "latitude": 38.759636,
     "longitude": -9.136475
   },
   "visible": true,
-  "updateDate": "2019-08-16T16:17:47.000Z"
+  "updateDate": "2019-08-16T16:17:47.000Z",
+  "routes": [
+    "731",
+    "750",
+    "783",
+    "9E"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 50326,
-  "publicId": "3102",
+  "id": "3102",
+  "internalId": 50326,
   "name": "Est. Damaia",
   "position": {
     "latitude": 38.748632,
     "longitude": -9.216522
   },
   "visible": true,
-  "updateDate": "2017-07-05T14:00:00.000Z"
+  "updateDate": "2017-07-05T14:00:00.000Z",
+  "routes": [
+    "746"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 6811,
-  "publicId": "6811",
+  "id": "6811",
+  "internalId": 6811,
   "name": "Rato",
   "position": {
     "latitude": 38.720279,
     "longitude": -9.153789
   },
   "visible": true,
-  "updateDate": "2014-10-16T09:30:16.000Z"
+  "updateDate": "2014-10-16T09:30:16.000Z",
+  "routes": [
+    "706",
+    "709",
+    "714",
+    "774"
+  ]
 }

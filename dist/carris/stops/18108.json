@@ -1,11 +1,14 @@
 {
-  "id": 18108,
-  "publicId": "18108",
+  "id": "18108",
+  "internalId": 18108,
   "name": "Qta Grande (Alfragide)",
   "position": {
     "latitude": 38.735377,
     "longitude": -9.218843
   },
   "visible": true,
-  "updateDate": "2008-12-05T15:51:25.000Z"
+  "updateDate": "2008-12-05T15:51:25.000Z",
+  "routes": [
+    "754"
+  ]
 }

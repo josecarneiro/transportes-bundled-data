@@ -1,11 +1,16 @@
 {
-  "id": 9816,
-  "publicId": "9816",
+  "id": "9816",
+  "internalId": 9816,
   "name": "R. Madre Deus",
   "position": {
     "latitude": 38.722636,
     "longitude": -9.115659
   },
   "visible": true,
-  "updateDate": "2019-04-08T11:40:15.000Z"
+  "updateDate": "2019-04-08T11:40:15.000Z",
+  "routes": [
+    "210",
+    "759",
+    "37B"
+  ]
 }

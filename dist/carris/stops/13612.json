@@ -1,11 +1,14 @@
 {
-  "id": 13612,
-  "publicId": "13612",
+  "id": "13612",
+  "internalId": 13612,
   "name": "Rua Dos Soeiros",
   "position": {
     "latitude": 38.754728,
     "longitude": -9.179488
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:24:05.000Z"
+  "updateDate": "2008-12-05T16:24:05.000Z",
+  "routes": [
+    "768"
+  ]
 }

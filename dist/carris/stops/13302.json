@@ -1,11 +1,15 @@
 {
-  "id": 13302,
-  "publicId": "13302",
+  "id": "13302",
+  "internalId": 13302,
   "name": "Rua Do Jardim Botânico",
   "position": {
     "latitude": 38.705761,
     "longitude": -9.199872
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:02:58.000Z"
+  "updateDate": "2008-12-05T17:02:58.000Z",
+  "routes": [
+    "729",
+    "732"
+  ]
 }

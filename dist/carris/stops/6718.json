@@ -1,11 +1,15 @@
 {
-  "id": 6718,
-  "publicId": "6718",
+  "id": "6718",
+  "internalId": 6718,
   "name": "Cç. Estrela / R. Dr. Teófilo B",
   "position": {
     "latitude": 38.712761,
     "longitude": -9.157436
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:32:46.000Z"
+  "updateDate": "2019-09-02T14:32:46.000Z",
+  "routes": [
+    "713",
+    "28E"
+  ]
 }

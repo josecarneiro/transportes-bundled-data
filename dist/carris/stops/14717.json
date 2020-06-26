@@ -1,11 +1,15 @@
 {
-  "id": 14717,
-  "publicId": "14717",
+  "id": "14717",
+  "internalId": 14717,
   "name": "Parque Da Bela Vista",
   "position": {
     "latitude": 38.750273,
     "longitude": -9.12389
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:52:27.000Z"
+  "updateDate": "2012-12-13T17:52:27.000Z",
+  "routes": [
+    "208",
+    "32B"
+  ]
 }

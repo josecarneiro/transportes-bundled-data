@@ -1,11 +1,16 @@
 {
-  "id": 7512,
-  "publicId": "7512",
+  "id": "7512",
+  "internalId": 7512,
   "name": "Qta Do Narigão",
   "position": {
     "latitude": 38.758253,
     "longitude": -9.130187
   },
   "visible": true,
-  "updateDate": "2012-12-14T18:17:09.000Z"
+  "updateDate": "2012-12-14T18:17:09.000Z",
+  "routes": [
+    "705",
+    "708",
+    "722"
+  ]
 }

@@ -1,11 +1,17 @@
 {
-  "id": 10829,
-  "publicId": "10829",
+  "id": "10829",
+  "internalId": 10829,
   "name": "Pupilos Exército",
   "position": {
     "latitude": 38.746693,
     "longitude": -9.18459
   },
   "visible": true,
-  "updateDate": "2019-10-01T16:54:21.000Z"
+  "updateDate": "2019-10-01T16:54:21.000Z",
+  "routes": [
+    "202",
+    "716",
+    "746",
+    "758"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 108,
-  "publicId": "108",
+  "id": "108",
+  "internalId": 108,
   "name": "Pç. Alvalade",
   "position": {
     "latitude": 38.753418,
     "longitude": -9.143276
   },
   "visible": true,
-  "updateDate": "2018-02-08T11:09:33.000Z"
+  "updateDate": "2018-02-08T11:09:33.000Z",
+  "routes": [
+    "755"
+  ]
 }

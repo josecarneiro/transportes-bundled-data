@@ -1,6 +1,6 @@
 {
-  "id": 201,
-  "number": "754",
+  "id": "754",
+  "internalId": 201,
   "name": "Campo Pequeno - Alfragide",
   "visible": true,
   "creationDate": "2020-05-20T09:39:35.000Z",
@@ -2974,8 +2974,8 @@
               "order": 1,
               "distance": 288,
               "stop": {
-                "id": 1905,
-                "publicId": "1905",
+                "id": "1905",
+                "internalId": 1905,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.743554,
@@ -2990,8 +2990,8 @@
               "order": 2,
               "distance": 348,
               "stop": {
-                "id": 1904,
-                "publicId": "1904",
+                "id": "1904",
+                "internalId": 1904,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.741788,
@@ -3006,8 +3006,8 @@
               "order": 3,
               "distance": 380,
               "stop": {
-                "id": 1903,
-                "publicId": "1903",
+                "id": "1903",
+                "internalId": 1903,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.742781,
@@ -3022,8 +3022,8 @@
               "order": 4,
               "distance": 152,
               "stop": {
-                "id": 2022,
-                "publicId": "2022",
+                "id": "2022",
+                "internalId": 2022,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.745925,
@@ -3038,8 +3038,8 @@
               "order": 5,
               "distance": 368,
               "stop": {
-                "id": 2001,
-                "publicId": "2001",
+                "id": "2001",
+                "internalId": 2001,
                 "name": "Entrecampos",
                 "position": {
                   "latitude": 38.747604,
@@ -3054,8 +3054,8 @@
               "order": 6,
               "distance": 149,
               "stop": {
-                "id": 2007,
-                "publicId": "2007",
+                "id": "2007",
+                "internalId": 2007,
                 "name": "Av. Das Forças Armadas",
                 "position": {
                   "latitude": 38.748047,
@@ -3070,8 +3070,8 @@
               "order": 7,
               "distance": 236,
               "stop": {
-                "id": 2009,
-                "publicId": "2009",
+                "id": "2009",
+                "internalId": 2009,
                 "name": "Av. Forças Armadas / R. Sanche",
                 "position": {
                   "latitude": 38.747735,
@@ -3086,8 +3086,8 @@
               "order": 8,
               "distance": 1462,
               "stop": {
-                "id": 13501,
-                "publicId": "13501",
+                "id": "13501",
+                "internalId": 13501,
                 "name": "Faculdade De Farmácia",
                 "position": {
                   "latitude": 38.74738,
@@ -3102,8 +3102,8 @@
               "order": 9,
               "distance": 307,
               "stop": {
-                "id": 1609,
-                "publicId": "1609",
+                "id": "1609",
+                "internalId": 1609,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742087,
@@ -3118,8 +3118,8 @@
               "order": 10,
               "distance": 273,
               "stop": {
-                "id": 1616,
-                "publicId": "1616",
+                "id": "1616",
+                "internalId": 1616,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742583,
@@ -3134,8 +3134,8 @@
               "order": 11,
               "distance": 332,
               "stop": {
-                "id": 10706,
-                "publicId": "10706",
+                "id": "10706",
+                "internalId": 10706,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743614,
@@ -3150,8 +3150,8 @@
               "order": 12,
               "distance": 261,
               "stop": {
-                "id": 10704,
-                "publicId": "10704",
+                "id": "10704",
+                "internalId": 10704,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744557,
@@ -3166,8 +3166,8 @@
               "order": 13,
               "distance": 448,
               "stop": {
-                "id": 10702,
-                "publicId": "10702",
+                "id": "10702",
+                "internalId": 10702,
                 "name": "S. Domingos De Benfica",
                 "position": {
                   "latitude": 38.745703,
@@ -3182,8 +3182,8 @@
               "order": 14,
               "distance": 423,
               "stop": {
-                "id": 10708,
-                "publicId": "10708",
+                "id": "10708",
+                "internalId": 10708,
                 "name": "Esc. Delfim Santos",
                 "position": {
                   "latitude": 38.748482,
@@ -3198,8 +3198,8 @@
               "order": 15,
               "distance": 389,
               "stop": {
-                "id": 10828,
-                "publicId": "10828",
+                "id": "10828",
+                "internalId": 10828,
                 "name": "R. Augusto Pina",
                 "position": {
                   "latitude": 38.749643,
@@ -3214,8 +3214,8 @@
               "order": 16,
               "distance": 273,
               "stop": {
-                "id": 10824,
-                "publicId": "10824",
+                "id": "10824",
+                "internalId": 10824,
                 "name": "R. Prof. Reinaldo Santos",
                 "position": {
                   "latitude": 38.747811,
@@ -3230,8 +3230,8 @@
               "order": 17,
               "distance": 428,
               "stop": {
-                "id": 10822,
-                "publicId": "10822",
+                "id": "10822",
+                "internalId": 10822,
                 "name": "Calhariz (Rua Ribeiro Reis)",
                 "position": {
                   "latitude": 38.746268,
@@ -3246,8 +3246,8 @@
               "order": 18,
               "distance": 611,
               "stop": {
-                "id": 10818,
-                "publicId": "10818",
+                "id": "10818",
+                "internalId": 10818,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.744494,
@@ -3262,8 +3262,8 @@
               "order": 19,
               "distance": 278,
               "stop": {
-                "id": 2806,
-                "publicId": "2806",
+                "id": "2806",
+                "internalId": 2806,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.745077,
@@ -3278,8 +3278,8 @@
               "order": 20,
               "distance": 353,
               "stop": {
-                "id": 8816,
-                "publicId": "8816",
+                "id": "8816",
+                "internalId": 8816,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745257,
@@ -3294,8 +3294,8 @@
               "order": 21,
               "distance": 206,
               "stop": {
-                "id": 8814,
-                "publicId": "8814",
+                "id": "8814",
+                "internalId": 8814,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743823,
@@ -3310,8 +3310,8 @@
               "order": 22,
               "distance": 302,
               "stop": {
-                "id": 50239,
-                "publicId": "8822",
+                "id": "8822",
+                "internalId": 50239,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.742394,
@@ -3326,8 +3326,8 @@
               "order": 23,
               "distance": 391,
               "stop": {
-                "id": 8818,
-                "publicId": "8818",
+                "id": "8818",
+                "internalId": 8818,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.740835,
@@ -3342,8 +3342,8 @@
               "order": 24,
               "distance": 640,
               "stop": {
-                "id": 8820,
-                "publicId": "8820",
+                "id": "8820",
+                "internalId": 8820,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.742358,
@@ -3358,8 +3358,8 @@
               "order": 25,
               "distance": 365,
               "stop": {
-                "id": 18112,
-                "publicId": "18112",
+                "id": "18112",
+                "internalId": 18112,
                 "name": "Alfragide - Fap",
                 "position": {
                   "latitude": 38.738705,
@@ -3374,8 +3374,8 @@
               "order": 26,
               "distance": 249,
               "stop": {
-                "id": 18110,
-                "publicId": "18110",
+                "id": "18110",
+                "internalId": 18110,
                 "name": "Alfragide - Nato",
                 "position": {
                   "latitude": 38.736523,
@@ -3390,8 +3390,8 @@
               "order": 27,
               "distance": 196,
               "stop": {
-                "id": 18108,
-                "publicId": "18108",
+                "id": "18108",
+                "internalId": 18108,
                 "name": "Qta Grande (Alfragide)",
                 "position": {
                   "latitude": 38.735377,
@@ -3406,8 +3406,8 @@
               "order": 28,
               "distance": 236,
               "stop": {
-                "id": 50328,
-                "publicId": "18135",
+                "id": "18135",
+                "internalId": 50328,
                 "name": "Estrada Seminário",
                 "position": {
                   "latitude": 38.734454,
@@ -3422,8 +3422,8 @@
               "order": 29,
               "distance": 276,
               "stop": {
-                "id": 18106,
-                "publicId": "18106",
+                "id": "18106",
+                "internalId": 18106,
                 "name": "Av. Ivens",
                 "position": {
                   "latitude": 38.733111,
@@ -3438,8 +3438,8 @@
               "order": 30,
               "distance": 203,
               "stop": {
-                "id": 18104,
-                "publicId": "18104",
+                "id": "18104",
+                "internalId": 18104,
                 "name": "Av. Dom Luís I",
                 "position": {
                   "latitude": 38.731437,
@@ -3454,8 +3454,8 @@
               "order": 31,
               "distance": 308,
               "stop": {
-                "id": 18116,
-                "publicId": "18116",
+                "id": "18116",
+                "internalId": 18116,
                 "name": "Alfragide Sul",
                 "position": {
                   "latitude": 38.732891,
@@ -3470,8 +3470,8 @@
               "order": 32,
               "distance": 369,
               "stop": {
-                "id": 18114,
-                "publicId": "18114",
+                "id": "18114",
+                "internalId": 18114,
                 "name": "Estrada Do Zambujal",
                 "position": {
                   "latitude": 38.734571,
@@ -3486,8 +3486,8 @@
               "order": 33,
               "distance": 161,
               "stop": {
-                "id": 8844,
-                "publicId": "8844",
+                "id": "8844",
+                "internalId": 8844,
                 "name": "Alto Do Zambujal",
                 "position": {
                   "latitude": 38.736337,
@@ -3502,8 +3502,8 @@
               "order": 34,
               "distance": 419,
               "stop": {
-                "id": 50251,
-                "publicId": "88101",
+                "id": "88101",
+                "internalId": 50251,
                 "name": "Rua Das Galegas",
                 "position": {
                   "latitude": 38.735896,
@@ -3518,8 +3518,8 @@
               "order": 35,
               "distance": 266,
               "stop": {
-                "id": 50252,
-                "publicId": "88102",
+                "id": "88102",
+                "internalId": 50252,
                 "name": "Alfragide - Dga",
                 "position": {
                   "latitude": 38.737675,
@@ -3534,8 +3534,8 @@
               "order": 36,
               "distance": 259,
               "stop": {
-                "id": 8843,
-                "publicId": "8843",
+                "id": "8843",
+                "internalId": 8843,
                 "name": "Bº Do Zambujal",
                 "position": {
                   "latitude": 38.738725,
@@ -3550,8 +3550,8 @@
               "order": 37,
               "distance": 0,
               "stop": {
-                "id": 8841,
-                "publicId": "8841",
+                "id": "8841",
+                "internalId": 8841,
                 "name": "Alfragide",
                 "position": {
                   "latitude": 38.738112,
@@ -6186,8 +6186,8 @@
               "order": 1,
               "distance": 583,
               "stop": {
-                "id": 8841,
-                "publicId": "8841",
+                "id": "8841",
+                "internalId": 8841,
                 "name": "Alfragide",
                 "position": {
                   "latitude": 38.738112,
@@ -6202,8 +6202,8 @@
               "order": 2,
               "distance": 213,
               "stop": {
-                "id": 8842,
-                "publicId": "8842",
+                "id": "8842",
+                "internalId": 8842,
                 "name": "Bº Do Zambujal",
                 "position": {
                   "latitude": 38.738681,
@@ -6218,8 +6218,8 @@
               "order": 3,
               "distance": 451,
               "stop": {
-                "id": 50253,
-                "publicId": "88104",
+                "id": "88104",
+                "internalId": 50253,
                 "name": "Alfragide - Dga",
                 "position": {
                   "latitude": 38.737705,
@@ -6234,8 +6234,8 @@
               "order": 4,
               "distance": 166,
               "stop": {
-                "id": 50254,
-                "publicId": "88105",
+                "id": "88105",
+                "internalId": 50254,
                 "name": "Rua Das Galegas",
                 "position": {
                   "latitude": 38.73599,
@@ -6250,8 +6250,8 @@
               "order": 5,
               "distance": 316,
               "stop": {
-                "id": 8845,
-                "publicId": "8845",
+                "id": "8845",
+                "internalId": 8845,
                 "name": "Alto Do Zambujal",
                 "position": {
                   "latitude": 38.736464,
@@ -6266,8 +6266,8 @@
               "order": 6,
               "distance": 339,
               "stop": {
-                "id": 18113,
-                "publicId": "18113",
+                "id": "18113",
+                "internalId": 18113,
                 "name": "Estrada Do Zambujal",
                 "position": {
                   "latitude": 38.734812,
@@ -6282,8 +6282,8 @@
               "order": 7,
               "distance": 214,
               "stop": {
-                "id": 18101,
-                "publicId": "18101",
+                "id": "18101",
+                "internalId": 18101,
                 "name": "Alfragide Sul",
                 "position": {
                   "latitude": 38.73332,
@@ -6298,8 +6298,8 @@
               "order": 8,
               "distance": 291,
               "stop": {
-                "id": 18103,
-                "publicId": "18103",
+                "id": "18103",
+                "internalId": 18103,
                 "name": "Av. Ivens",
                 "position": {
                   "latitude": 38.733791,
@@ -6314,8 +6314,8 @@
               "order": 9,
               "distance": 193,
               "stop": {
-                "id": 50329,
-                "publicId": "18136",
+                "id": "18136",
+                "internalId": 50329,
                 "name": "Estrada Do Seminário",
                 "position": {
                   "latitude": 38.734324,
@@ -6330,8 +6330,8 @@
               "order": 10,
               "distance": 289,
               "stop": {
-                "id": 18105,
-                "publicId": "18105",
+                "id": "18105",
+                "internalId": 18105,
                 "name": "Qta Grande (Alfragide)",
                 "position": {
                   "latitude": 38.735321,
@@ -6346,8 +6346,8 @@
               "order": 11,
               "distance": 304,
               "stop": {
-                "id": 18107,
-                "publicId": "18107",
+                "id": "18107",
+                "internalId": 18107,
                 "name": "Alfragide - Nato",
                 "position": {
                   "latitude": 38.736649,
@@ -6362,8 +6362,8 @@
               "order": 12,
               "distance": 683,
               "stop": {
-                "id": 18109,
-                "publicId": "18109",
+                "id": "18109",
+                "internalId": 18109,
                 "name": "Alfragide - Fap",
                 "position": {
                   "latitude": 38.738514,
@@ -6378,8 +6378,8 @@
               "order": 13,
               "distance": 331,
               "stop": {
-                "id": 8819,
-                "publicId": "8819",
+                "id": "8819",
+                "internalId": 8819,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.741798,
@@ -6394,8 +6394,8 @@
               "order": 14,
               "distance": 241,
               "stop": {
-                "id": 8815,
-                "publicId": "8815",
+                "id": "8815",
+                "internalId": 8815,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.74075,
@@ -6410,8 +6410,8 @@
               "order": 15,
               "distance": 345,
               "stop": {
-                "id": 50240,
-                "publicId": "8821",
+                "id": "8821",
+                "internalId": 50240,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.741726,
@@ -6426,8 +6426,8 @@
               "order": 16,
               "distance": 357,
               "stop": {
-                "id": 8811,
-                "publicId": "8811",
+                "id": "8811",
+                "internalId": 8811,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743861,
@@ -6442,8 +6442,8 @@
               "order": 17,
               "distance": 327,
               "stop": {
-                "id": 8813,
-                "publicId": "8813",
+                "id": "8813",
+                "internalId": 8813,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745108,
@@ -6458,8 +6458,8 @@
               "order": 18,
               "distance": 422,
               "stop": {
-                "id": 2811,
-                "publicId": "2811",
+                "id": "2811",
+                "internalId": 2811,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.744722,
@@ -6474,8 +6474,8 @@
               "order": 19,
               "distance": 198,
               "stop": {
-                "id": 10817,
-                "publicId": "10817",
+                "id": "10817",
+                "internalId": 10817,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.74426,
@@ -6490,8 +6490,8 @@
               "order": 20,
               "distance": 365,
               "stop": {
-                "id": 10838,
-                "publicId": "10838",
+                "id": "10838",
+                "internalId": 10838,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.744487,
@@ -6506,8 +6506,8 @@
               "order": 21,
               "distance": 244,
               "stop": {
-                "id": 10815,
-                "publicId": "10815",
+                "id": "10815",
+                "internalId": 10815,
                 "name": "Calhariz (Rua Ribeiro Reis)",
                 "position": {
                   "latitude": 38.746335,
@@ -6522,8 +6522,8 @@
               "order": 22,
               "distance": 426,
               "stop": {
-                "id": 10805,
-                "publicId": "10805",
+                "id": "10805",
+                "internalId": 10805,
                 "name": "R. Prof. Reinaldo Santos",
                 "position": {
                   "latitude": 38.747693,
@@ -6538,8 +6538,8 @@
               "order": 23,
               "distance": 441,
               "stop": {
-                "id": 10825,
-                "publicId": "10825",
+                "id": "10825",
+                "internalId": 10825,
                 "name": "Rua Augusto Pina",
                 "position": {
                   "latitude": 38.749503,
@@ -6554,8 +6554,8 @@
               "order": 24,
               "distance": 386,
               "stop": {
-                "id": 10707,
-                "publicId": "10707",
+                "id": "10707",
+                "internalId": 10707,
                 "name": "Escola Delfim Santos",
                 "position": {
                   "latitude": 38.748161,
@@ -6570,8 +6570,8 @@
               "order": 25,
               "distance": 295,
               "stop": {
-                "id": 10701,
-                "publicId": "10701",
+                "id": "10701",
+                "internalId": 10701,
                 "name": "S. Domingos Benfica",
                 "position": {
                   "latitude": 38.745556,
@@ -6586,8 +6586,8 @@
               "order": 26,
               "distance": 241,
               "stop": {
-                "id": 10703,
-                "publicId": "10703",
+                "id": "10703",
+                "internalId": 10703,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744338,
@@ -6602,8 +6602,8 @@
               "order": 27,
               "distance": 351,
               "stop": {
-                "id": 10705,
-                "publicId": "10705",
+                "id": "10705",
+                "internalId": 10705,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743595,
@@ -6618,8 +6618,8 @@
               "order": 28,
               "distance": 403,
               "stop": {
-                "id": 1615,
-                "publicId": "1615",
+                "id": "1615",
+                "internalId": 1615,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742416,
@@ -6634,8 +6634,8 @@
               "order": 29,
               "distance": 1366,
               "stop": {
-                "id": 1603,
-                "publicId": "1603",
+                "id": "1603",
+                "internalId": 1603,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742577,
@@ -6650,8 +6650,8 @@
               "order": 30,
               "distance": 253,
               "stop": {
-                "id": 13502,
-                "publicId": "13502",
+                "id": "13502",
+                "internalId": 13502,
                 "name": "Faculdade De Farmácia",
                 "position": {
                   "latitude": 38.74719,
@@ -6666,8 +6666,8 @@
               "order": 31,
               "distance": 422,
               "stop": {
-                "id": 2010,
-                "publicId": "2010",
+                "id": "2010",
+                "internalId": 2010,
                 "name": "Av. Forças Armadas / R. Sanche",
                 "position": {
                   "latitude": 38.747648,
@@ -6682,8 +6682,8 @@
               "order": 32,
               "distance": 258,
               "stop": {
-                "id": 2004,
-                "publicId": "2004",
+                "id": "2004",
+                "internalId": 2004,
                 "name": "Entrecampos",
                 "position": {
                   "latitude": 38.747419,
@@ -6698,8 +6698,8 @@
               "order": 33,
               "distance": 409,
               "stop": {
-                "id": 2020,
-                "publicId": "2020",
+                "id": "2020",
+                "internalId": 2020,
                 "name": "Estação Entrecampos",
                 "position": {
                   "latitude": 38.74457,
@@ -6714,8 +6714,8 @@
               "order": 34,
               "distance": 224,
               "stop": {
-                "id": 1901,
-                "publicId": "1901",
+                "id": "1901",
+                "internalId": 1901,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.742978,
@@ -6730,8 +6730,8 @@
               "order": 35,
               "distance": 0,
               "stop": {
-                "id": 1905,
-                "publicId": "1905",
+                "id": "1905",
+                "internalId": 1905,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.743554,
@@ -9047,8 +9047,8 @@
               "order": 1,
               "distance": 307,
               "stop": {
-                "id": 1609,
-                "publicId": "1609",
+                "id": "1609",
+                "internalId": 1609,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742087,
@@ -9063,8 +9063,8 @@
               "order": 2,
               "distance": 273,
               "stop": {
-                "id": 1616,
-                "publicId": "1616",
+                "id": "1616",
+                "internalId": 1616,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742583,
@@ -9079,8 +9079,8 @@
               "order": 3,
               "distance": 332,
               "stop": {
-                "id": 10706,
-                "publicId": "10706",
+                "id": "10706",
+                "internalId": 10706,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743614,
@@ -9095,8 +9095,8 @@
               "order": 4,
               "distance": 261,
               "stop": {
-                "id": 10704,
-                "publicId": "10704",
+                "id": "10704",
+                "internalId": 10704,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744557,
@@ -9111,8 +9111,8 @@
               "order": 5,
               "distance": 448,
               "stop": {
-                "id": 10702,
-                "publicId": "10702",
+                "id": "10702",
+                "internalId": 10702,
                 "name": "S. Domingos De Benfica",
                 "position": {
                   "latitude": 38.745703,
@@ -9127,8 +9127,8 @@
               "order": 6,
               "distance": 423,
               "stop": {
-                "id": 10708,
-                "publicId": "10708",
+                "id": "10708",
+                "internalId": 10708,
                 "name": "Esc. Delfim Santos",
                 "position": {
                   "latitude": 38.748482,
@@ -9143,8 +9143,8 @@
               "order": 7,
               "distance": 389,
               "stop": {
-                "id": 10828,
-                "publicId": "10828",
+                "id": "10828",
+                "internalId": 10828,
                 "name": "R. Augusto Pina",
                 "position": {
                   "latitude": 38.749643,
@@ -9159,8 +9159,8 @@
               "order": 8,
               "distance": 273,
               "stop": {
-                "id": 10824,
-                "publicId": "10824",
+                "id": "10824",
+                "internalId": 10824,
                 "name": "R. Prof. Reinaldo Santos",
                 "position": {
                   "latitude": 38.747811,
@@ -9175,8 +9175,8 @@
               "order": 9,
               "distance": 428,
               "stop": {
-                "id": 10822,
-                "publicId": "10822",
+                "id": "10822",
+                "internalId": 10822,
                 "name": "Calhariz (Rua Ribeiro Reis)",
                 "position": {
                   "latitude": 38.746268,
@@ -9191,8 +9191,8 @@
               "order": 10,
               "distance": 611,
               "stop": {
-                "id": 10818,
-                "publicId": "10818",
+                "id": "10818",
+                "internalId": 10818,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.744494,
@@ -9207,8 +9207,8 @@
               "order": 11,
               "distance": 278,
               "stop": {
-                "id": 2806,
-                "publicId": "2806",
+                "id": "2806",
+                "internalId": 2806,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.745077,
@@ -9223,8 +9223,8 @@
               "order": 12,
               "distance": 353,
               "stop": {
-                "id": 8816,
-                "publicId": "8816",
+                "id": "8816",
+                "internalId": 8816,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745257,
@@ -9239,8 +9239,8 @@
               "order": 13,
               "distance": 206,
               "stop": {
-                "id": 8814,
-                "publicId": "8814",
+                "id": "8814",
+                "internalId": 8814,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743823,
@@ -9255,8 +9255,8 @@
               "order": 14,
               "distance": 302,
               "stop": {
-                "id": 50239,
-                "publicId": "8822",
+                "id": "8822",
+                "internalId": 50239,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.742394,
@@ -9271,8 +9271,8 @@
               "order": 15,
               "distance": 391,
               "stop": {
-                "id": 8818,
-                "publicId": "8818",
+                "id": "8818",
+                "internalId": 8818,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.740835,
@@ -9287,8 +9287,8 @@
               "order": 16,
               "distance": 640,
               "stop": {
-                "id": 8820,
-                "publicId": "8820",
+                "id": "8820",
+                "internalId": 8820,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.742358,
@@ -9303,8 +9303,8 @@
               "order": 17,
               "distance": 365,
               "stop": {
-                "id": 18112,
-                "publicId": "18112",
+                "id": "18112",
+                "internalId": 18112,
                 "name": "Alfragide - Fap",
                 "position": {
                   "latitude": 38.738705,
@@ -9319,8 +9319,8 @@
               "order": 18,
               "distance": 249,
               "stop": {
-                "id": 18110,
-                "publicId": "18110",
+                "id": "18110",
+                "internalId": 18110,
                 "name": "Alfragide - Nato",
                 "position": {
                   "latitude": 38.736523,
@@ -9335,8 +9335,8 @@
               "order": 19,
               "distance": 196,
               "stop": {
-                "id": 18108,
-                "publicId": "18108",
+                "id": "18108",
+                "internalId": 18108,
                 "name": "Qta Grande (Alfragide)",
                 "position": {
                   "latitude": 38.735377,
@@ -9351,8 +9351,8 @@
               "order": 20,
               "distance": 236,
               "stop": {
-                "id": 50328,
-                "publicId": "18135",
+                "id": "18135",
+                "internalId": 50328,
                 "name": "Estrada Seminário",
                 "position": {
                   "latitude": 38.734454,
@@ -9367,8 +9367,8 @@
               "order": 21,
               "distance": 276,
               "stop": {
-                "id": 18106,
-                "publicId": "18106",
+                "id": "18106",
+                "internalId": 18106,
                 "name": "Av. Ivens",
                 "position": {
                   "latitude": 38.733111,
@@ -9383,8 +9383,8 @@
               "order": 22,
               "distance": 203,
               "stop": {
-                "id": 18104,
-                "publicId": "18104",
+                "id": "18104",
+                "internalId": 18104,
                 "name": "Av. Dom Luís I",
                 "position": {
                   "latitude": 38.731437,
@@ -9399,8 +9399,8 @@
               "order": 23,
               "distance": 308,
               "stop": {
-                "id": 18116,
-                "publicId": "18116",
+                "id": "18116",
+                "internalId": 18116,
                 "name": "Alfragide Sul",
                 "position": {
                   "latitude": 38.732891,
@@ -9415,8 +9415,8 @@
               "order": 24,
               "distance": 369,
               "stop": {
-                "id": 18114,
-                "publicId": "18114",
+                "id": "18114",
+                "internalId": 18114,
                 "name": "Estrada Do Zambujal",
                 "position": {
                   "latitude": 38.734571,
@@ -9431,8 +9431,8 @@
               "order": 25,
               "distance": 161,
               "stop": {
-                "id": 8844,
-                "publicId": "8844",
+                "id": "8844",
+                "internalId": 8844,
                 "name": "Alto Do Zambujal",
                 "position": {
                   "latitude": 38.736337,
@@ -9447,8 +9447,8 @@
               "order": 26,
               "distance": 419,
               "stop": {
-                "id": 50251,
-                "publicId": "88101",
+                "id": "88101",
+                "internalId": 50251,
                 "name": "Rua Das Galegas",
                 "position": {
                   "latitude": 38.735896,
@@ -9463,8 +9463,8 @@
               "order": 27,
               "distance": 266,
               "stop": {
-                "id": 50252,
-                "publicId": "88102",
+                "id": "88102",
+                "internalId": 50252,
                 "name": "Alfragide - Dga",
                 "position": {
                   "latitude": 38.737675,
@@ -9479,8 +9479,8 @@
               "order": 28,
               "distance": 259,
               "stop": {
-                "id": 8843,
-                "publicId": "8843",
+                "id": "8843",
+                "internalId": 8843,
                 "name": "Bº Do Zambujal",
                 "position": {
                   "latitude": 38.738725,
@@ -9495,8 +9495,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 8841,
-                "publicId": "8841",
+                "id": "8841",
+                "internalId": 8841,
                 "name": "Alfragide",
                 "position": {
                   "latitude": 38.738112,
@@ -11693,8 +11693,8 @@
               "order": 1,
               "distance": 583,
               "stop": {
-                "id": 8841,
-                "publicId": "8841",
+                "id": "8841",
+                "internalId": 8841,
                 "name": "Alfragide",
                 "position": {
                   "latitude": 38.738112,
@@ -11709,8 +11709,8 @@
               "order": 2,
               "distance": 213,
               "stop": {
-                "id": 8842,
-                "publicId": "8842",
+                "id": "8842",
+                "internalId": 8842,
                 "name": "Bº Do Zambujal",
                 "position": {
                   "latitude": 38.738681,
@@ -11725,8 +11725,8 @@
               "order": 3,
               "distance": 451,
               "stop": {
-                "id": 50253,
-                "publicId": "88104",
+                "id": "88104",
+                "internalId": 50253,
                 "name": "Alfragide - Dga",
                 "position": {
                   "latitude": 38.737705,
@@ -11741,8 +11741,8 @@
               "order": 4,
               "distance": 166,
               "stop": {
-                "id": 50254,
-                "publicId": "88105",
+                "id": "88105",
+                "internalId": 50254,
                 "name": "Rua Das Galegas",
                 "position": {
                   "latitude": 38.73599,
@@ -11757,8 +11757,8 @@
               "order": 5,
               "distance": 316,
               "stop": {
-                "id": 8845,
-                "publicId": "8845",
+                "id": "8845",
+                "internalId": 8845,
                 "name": "Alto Do Zambujal",
                 "position": {
                   "latitude": 38.736464,
@@ -11773,8 +11773,8 @@
               "order": 6,
               "distance": 339,
               "stop": {
-                "id": 18113,
-                "publicId": "18113",
+                "id": "18113",
+                "internalId": 18113,
                 "name": "Estrada Do Zambujal",
                 "position": {
                   "latitude": 38.734812,
@@ -11789,8 +11789,8 @@
               "order": 7,
               "distance": 214,
               "stop": {
-                "id": 18101,
-                "publicId": "18101",
+                "id": "18101",
+                "internalId": 18101,
                 "name": "Alfragide Sul",
                 "position": {
                   "latitude": 38.73332,
@@ -11805,8 +11805,8 @@
               "order": 8,
               "distance": 291,
               "stop": {
-                "id": 18103,
-                "publicId": "18103",
+                "id": "18103",
+                "internalId": 18103,
                 "name": "Av. Ivens",
                 "position": {
                   "latitude": 38.733791,
@@ -11821,8 +11821,8 @@
               "order": 9,
               "distance": 193,
               "stop": {
-                "id": 50329,
-                "publicId": "18136",
+                "id": "18136",
+                "internalId": 50329,
                 "name": "Estrada Do Seminário",
                 "position": {
                   "latitude": 38.734324,
@@ -11837,8 +11837,8 @@
               "order": 10,
               "distance": 289,
               "stop": {
-                "id": 18105,
-                "publicId": "18105",
+                "id": "18105",
+                "internalId": 18105,
                 "name": "Qta Grande (Alfragide)",
                 "position": {
                   "latitude": 38.735321,
@@ -11853,8 +11853,8 @@
               "order": 11,
               "distance": 304,
               "stop": {
-                "id": 18107,
-                "publicId": "18107",
+                "id": "18107",
+                "internalId": 18107,
                 "name": "Alfragide - Nato",
                 "position": {
                   "latitude": 38.736649,
@@ -11869,8 +11869,8 @@
               "order": 12,
               "distance": 683,
               "stop": {
-                "id": 18109,
-                "publicId": "18109",
+                "id": "18109",
+                "internalId": 18109,
                 "name": "Alfragide - Fap",
                 "position": {
                   "latitude": 38.738514,
@@ -11885,8 +11885,8 @@
               "order": 13,
               "distance": 331,
               "stop": {
-                "id": 8819,
-                "publicId": "8819",
+                "id": "8819",
+                "internalId": 8819,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.741798,
@@ -11901,8 +11901,8 @@
               "order": 14,
               "distance": 241,
               "stop": {
-                "id": 8815,
-                "publicId": "8815",
+                "id": "8815",
+                "internalId": 8815,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.74075,
@@ -11917,8 +11917,8 @@
               "order": 15,
               "distance": 345,
               "stop": {
-                "id": 50240,
-                "publicId": "8821",
+                "id": "8821",
+                "internalId": 50240,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.741726,
@@ -11933,8 +11933,8 @@
               "order": 16,
               "distance": 357,
               "stop": {
-                "id": 8811,
-                "publicId": "8811",
+                "id": "8811",
+                "internalId": 8811,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743861,
@@ -11949,8 +11949,8 @@
               "order": 17,
               "distance": 327,
               "stop": {
-                "id": 8813,
-                "publicId": "8813",
+                "id": "8813",
+                "internalId": 8813,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745108,
@@ -11965,8 +11965,8 @@
               "order": 18,
               "distance": 422,
               "stop": {
-                "id": 2811,
-                "publicId": "2811",
+                "id": "2811",
+                "internalId": 2811,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.744722,
@@ -11981,8 +11981,8 @@
               "order": 19,
               "distance": 198,
               "stop": {
-                "id": 10817,
-                "publicId": "10817",
+                "id": "10817",
+                "internalId": 10817,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.74426,
@@ -11997,8 +11997,8 @@
               "order": 20,
               "distance": 365,
               "stop": {
-                "id": 10838,
-                "publicId": "10838",
+                "id": "10838",
+                "internalId": 10838,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.744487,
@@ -12013,8 +12013,8 @@
               "order": 21,
               "distance": 244,
               "stop": {
-                "id": 10815,
-                "publicId": "10815",
+                "id": "10815",
+                "internalId": 10815,
                 "name": "Calhariz (Rua Ribeiro Reis)",
                 "position": {
                   "latitude": 38.746335,
@@ -12029,8 +12029,8 @@
               "order": 22,
               "distance": 426,
               "stop": {
-                "id": 10805,
-                "publicId": "10805",
+                "id": "10805",
+                "internalId": 10805,
                 "name": "R. Prof. Reinaldo Santos",
                 "position": {
                   "latitude": 38.747693,
@@ -12045,8 +12045,8 @@
               "order": 23,
               "distance": 441,
               "stop": {
-                "id": 10825,
-                "publicId": "10825",
+                "id": "10825",
+                "internalId": 10825,
                 "name": "Rua Augusto Pina",
                 "position": {
                   "latitude": 38.749503,
@@ -12061,8 +12061,8 @@
               "order": 24,
               "distance": 386,
               "stop": {
-                "id": 10707,
-                "publicId": "10707",
+                "id": "10707",
+                "internalId": 10707,
                 "name": "Escola Delfim Santos",
                 "position": {
                   "latitude": 38.748161,
@@ -12077,8 +12077,8 @@
               "order": 25,
               "distance": 295,
               "stop": {
-                "id": 10701,
-                "publicId": "10701",
+                "id": "10701",
+                "internalId": 10701,
                 "name": "S. Domingos Benfica",
                 "position": {
                   "latitude": 38.745556,
@@ -12093,8 +12093,8 @@
               "order": 26,
               "distance": 241,
               "stop": {
-                "id": 10703,
-                "publicId": "10703",
+                "id": "10703",
+                "internalId": 10703,
                 "name": "B.º Novo",
                 "position": {
                   "latitude": 38.744338,
@@ -12109,8 +12109,8 @@
               "order": 27,
               "distance": 351,
               "stop": {
-                "id": 10705,
-                "publicId": "10705",
+                "id": "10705",
+                "internalId": 10705,
                 "name": "R. Duarte Galvão",
                 "position": {
                   "latitude": 38.743595,
@@ -12125,8 +12125,8 @@
               "order": 28,
               "distance": 403,
               "stop": {
-                "id": 1615,
-                "publicId": "1615",
+                "id": "1615",
+                "internalId": 1615,
                 "name": "Estr. Benfica (Furnas)",
                 "position": {
                   "latitude": 38.742416,
@@ -12141,8 +12141,8 @@
               "order": 29,
               "distance": 0,
               "stop": {
-                "id": 1603,
-                "publicId": "1603",
+                "id": "1603",
+                "internalId": 1603,
                 "name": "Sete Rios",
                 "position": {
                   "latitude": 38.742577,

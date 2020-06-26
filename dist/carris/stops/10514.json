@@ -1,11 +1,14 @@
 {
-  "id": 10514,
-  "publicId": "10514",
+  "id": "10514",
+  "internalId": 10514,
   "name": "Chiado",
   "position": {
     "latitude": 38.710424,
     "longitude": -9.142077
   },
   "visible": true,
-  "updateDate": "2015-08-11T15:58:00.000Z"
+  "updateDate": "2015-08-11T15:58:00.000Z",
+  "routes": [
+    "28E"
+  ]
 }

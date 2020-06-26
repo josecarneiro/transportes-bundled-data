@@ -1,11 +1,14 @@
 {
-  "id": 50169,
-  "publicId": "12930",
+  "id": "12930",
+  "internalId": 50169,
   "name": "Restelo",
   "position": {
     "latitude": 38.712283,
     "longitude": -9.210916
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:04:22.000Z"
+  "updateDate": "2008-12-05T17:04:22.000Z",
+  "routes": [
+    "760"
+  ]
 }

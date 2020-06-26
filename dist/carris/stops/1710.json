@@ -1,11 +1,14 @@
 {
-  "id": 1710,
-  "publicId": "1710",
+  "id": "1710",
+  "internalId": 1710,
   "name": "Praça José Fontana",
   "position": {
     "latitude": 38.729529,
     "longitude": -9.143565
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:16:40.000Z"
+  "updateDate": "2018-02-20T10:16:40.000Z",
+  "routes": [
+    "720"
+  ]
 }

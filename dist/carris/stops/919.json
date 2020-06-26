@@ -1,11 +1,16 @@
 {
-  "id": 919,
-  "publicId": "919",
+  "id": "919",
+  "internalId": 919,
   "name": "Rossio",
   "position": {
     "latitude": 38.714399,
     "longitude": -9.139213
   },
   "visible": true,
-  "updateDate": "2019-02-12T12:06:59.000Z"
+  "updateDate": "2019-02-12T12:06:59.000Z",
+  "routes": [
+    "711",
+    "759",
+    "794"
+  ]
 }

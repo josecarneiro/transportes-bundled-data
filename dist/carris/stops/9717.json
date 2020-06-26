@@ -1,11 +1,14 @@
 {
-  "id": 9717,
-  "publicId": "9717",
+  "id": "9717",
+  "internalId": 9717,
   "name": "Rua De São Francisco Xavier",
   "position": {
     "latitude": 38.699117,
     "longitude": -9.217588
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:27:11.000Z"
+  "updateDate": "2008-12-05T16:27:11.000Z",
+  "routes": [
+    "723"
+  ]
 }

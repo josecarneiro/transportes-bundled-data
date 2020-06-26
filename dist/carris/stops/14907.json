@@ -1,11 +1,14 @@
 {
-  "id": 14907,
-  "publicId": "14907",
+  "id": "14907",
+  "internalId": 14907,
   "name": "Aquário Vasco Gama",
   "position": {
     "latitude": 38.699182,
     "longitude": -9.237486
   },
   "visible": true,
-  "updateDate": "2019-07-23T10:15:07.000Z"
+  "updateDate": "2019-07-23T10:15:07.000Z",
+  "routes": [
+    "776"
+  ]
 }

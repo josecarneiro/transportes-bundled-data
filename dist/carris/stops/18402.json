@@ -1,11 +1,17 @@
 {
-  "id": 18402,
-  "publicId": "18402",
+  "id": "18402",
+  "internalId": 18402,
   "name": "Av. Bombeiros De Algés",
   "position": {
     "latitude": 38.707337,
     "longitude": -9.225596
   },
   "visible": true,
-  "updateDate": "2008-12-09T09:59:22.000Z"
+  "updateDate": "2008-12-09T09:59:22.000Z",
+  "routes": [
+    "201",
+    "750",
+    "751",
+    "9E"
+  ]
 }

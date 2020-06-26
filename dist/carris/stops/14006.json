@@ -1,11 +1,14 @@
 {
-  "id": 14006,
-  "publicId": "14006",
+  "id": "14006",
+  "internalId": 14006,
   "name": "Parque De Campismo",
   "position": {
     "latitude": 38.727925,
     "longitude": -9.209299
   },
   "visible": true,
-  "updateDate": "2012-12-13T17:54:28.000Z"
+  "updateDate": "2012-12-13T17:54:28.000Z",
+  "routes": [
+    "714"
+  ]
 }

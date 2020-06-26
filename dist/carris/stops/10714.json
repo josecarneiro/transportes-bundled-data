@@ -1,11 +1,14 @@
 {
-  "id": 10714,
-  "publicId": "10714",
+  "id": "10714",
+  "internalId": 10714,
   "name": "Cruz Da Pedra",
   "position": {
     "latitude": 38.741232,
     "longitude": -9.176198
   },
   "visible": true,
-  "updateDate": "2009-07-29T08:37:25.000Z"
+  "updateDate": "2009-07-29T08:37:25.000Z",
+  "routes": [
+    "770"
+  ]
 }

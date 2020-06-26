@@ -1,11 +1,14 @@
 {
-  "id": 50384,
-  "publicId": "13126",
+  "id": "13126",
+  "internalId": 50384,
   "name": "R. Mem Rodrigues",
   "position": {
     "latitude": 38.708075,
     "longitude": -9.208899
   },
   "visible": true,
-  "updateDate": "2019-02-13T09:09:24.000Z"
+  "updateDate": "2019-02-13T09:09:24.000Z",
+  "routes": [
+    "79B"
+  ]
 }

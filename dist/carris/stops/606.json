@@ -1,11 +1,14 @@
 {
-  "id": 606,
-  "publicId": "606",
+  "id": "606",
+  "internalId": 606,
   "name": "R. José Estêvão",
   "position": {
     "latitude": 38.727273,
     "longitude": -9.137947
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:42:13.000Z"
+  "updateDate": "2018-04-03T15:42:13.000Z",
+  "routes": [
+    "730"
+  ]
 }

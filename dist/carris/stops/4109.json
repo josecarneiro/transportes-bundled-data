@@ -1,11 +1,18 @@
 {
-  "id": 4109,
-  "publicId": "4109",
+  "id": "4109",
+  "internalId": 4109,
   "name": "Belém",
   "position": {
     "latitude": 38.697127,
     "longitude": -9.200734
   },
   "visible": true,
-  "updateDate": "2014-10-16T08:20:18.000Z"
+  "updateDate": "2014-10-16T08:20:18.000Z",
+  "routes": [
+    "201",
+    "727",
+    "728",
+    "729",
+    "751"
+  ]
 }

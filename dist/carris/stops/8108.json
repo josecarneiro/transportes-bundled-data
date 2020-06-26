@@ -1,11 +1,17 @@
 {
-  "id": 8108,
-  "publicId": "8108",
+  "id": "8108",
+  "internalId": 8108,
   "name": "R. Domingos Sequeira",
   "position": {
     "latitude": 38.715105,
     "longitude": -9.163034
   },
   "visible": true,
-  "updateDate": "2019-09-02T14:37:33.000Z"
+  "updateDate": "2019-09-02T14:37:33.000Z",
+  "routes": [
+    "714",
+    "774",
+    "25E",
+    "28E"
+  ]
 }

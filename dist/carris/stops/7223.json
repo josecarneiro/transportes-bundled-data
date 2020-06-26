@@ -1,11 +1,14 @@
 {
-  "id": 50105,
-  "publicId": "7223",
+  "id": "7223",
+  "internalId": 50105,
   "name": "Chapeleiro",
   "position": {
     "latitude": 38.792269,
     "longitude": -9.157564
   },
   "visible": true,
-  "updateDate": "2014-10-16T11:30:19.000Z"
+  "updateDate": "2014-10-16T11:30:19.000Z",
+  "routes": [
+    "40B"
+  ]
 }

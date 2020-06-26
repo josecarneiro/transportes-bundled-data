@@ -1,11 +1,15 @@
 {
-  "id": 9114,
-  "publicId": "9114",
+  "id": "9114",
+  "internalId": 9114,
   "name": "Rua Afonso Domingues",
   "position": {
     "latitude": 38.720647,
     "longitude": -9.124562
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:00:06.000Z"
+  "updateDate": "2008-12-05T18:00:06.000Z",
+  "routes": [
+    "206",
+    "735"
+  ]
 }

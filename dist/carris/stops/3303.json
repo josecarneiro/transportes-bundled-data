@@ -1,11 +1,14 @@
 {
-  "id": 3303,
-  "publicId": "3303",
+  "id": "3303",
+  "internalId": 3303,
   "name": "Rua Da Beneficência",
   "position": {
     "latitude": 38.743144,
     "longitude": -9.156701
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:28:12.000Z"
+  "updateDate": "2008-12-05T17:28:12.000Z",
+  "routes": [
+    "731"
+  ]
 }

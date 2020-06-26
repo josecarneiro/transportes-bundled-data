@@ -1,11 +1,16 @@
 {
-  "id": 8014,
-  "publicId": "8014",
+  "id": "8014",
+  "internalId": 8014,
   "name": "Rua Sampaio Bruno",
   "position": {
     "latitude": 38.718959,
     "longitude": -9.169559
   },
   "visible": true,
-  "updateDate": "2015-11-06T16:02:30.000Z"
+  "updateDate": "2015-11-06T16:02:30.000Z",
+  "routes": [
+    "701",
+    "712",
+    "742"
+  ]
 }

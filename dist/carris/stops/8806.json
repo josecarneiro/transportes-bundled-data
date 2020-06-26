@@ -1,11 +1,14 @@
 {
-  "id": 50402,
-  "publicId": "8806",
+  "id": "8806",
+  "internalId": 50402,
   "name": "R. Azevinho",
   "position": {
     "latitude": 38.732465,
     "longitude": -9.204669
   },
   "visible": true,
-  "updateDate": "2019-06-14T16:48:51.000Z"
+  "updateDate": "2019-06-14T16:48:51.000Z",
+  "routes": [
+    "70B"
+  ]
 }

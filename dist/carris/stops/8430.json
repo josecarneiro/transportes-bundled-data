@@ -1,11 +1,14 @@
 {
-  "id": 8430,
-  "publicId": "8430",
+  "id": "8430",
+  "internalId": 8430,
   "name": "Escola Vitorino Nemésio",
   "position": {
     "latitude": 38.756647,
     "longitude": -9.114626
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:33:50.000Z"
+  "updateDate": "2008-12-05T18:33:50.000Z",
+  "routes": [
+    "755"
+  ]
 }

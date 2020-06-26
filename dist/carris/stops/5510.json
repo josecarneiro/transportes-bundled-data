@@ -1,11 +1,20 @@
 {
-  "id": 5510,
-  "publicId": "5510",
+  "id": "5510",
+  "internalId": 5510,
   "name": "R. Ouro",
   "position": {
     "latitude": 38.710845,
     "longitude": -9.138711
   },
   "visible": true,
-  "updateDate": "2019-02-13T17:43:31.000Z"
+  "updateDate": "2019-02-13T17:43:31.000Z",
+  "routes": [
+    "711",
+    "732",
+    "736",
+    "746",
+    "759",
+    "783",
+    "794"
+  ]
 }

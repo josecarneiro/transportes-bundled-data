@@ -1,11 +1,14 @@
 {
-  "id": 12829,
-  "publicId": "12829",
+  "id": "12829",
+  "internalId": 12829,
   "name": "R. Eugénio Salvador",
   "position": {
     "latitude": 38.767095,
     "longitude": -9.179335
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:23:29.000Z"
+  "updateDate": "2019-02-18T12:23:29.000Z",
+  "routes": [
+    "747"
+  ]
 }

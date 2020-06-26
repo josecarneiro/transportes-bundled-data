@@ -1,11 +1,15 @@
 {
-  "id": 2810,
-  "publicId": "2810",
+  "id": "2810",
+  "internalId": 2810,
   "name": "B.º Calhariz Benfica",
   "position": {
     "latitude": 38.742098,
     "longitude": -9.2001
   },
   "visible": true,
-  "updateDate": "2018-02-21T18:52:05.000Z"
+  "updateDate": "2018-02-21T18:52:05.000Z",
+  "routes": [
+    "724",
+    "729"
+  ]
 }

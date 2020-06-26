@@ -1,11 +1,15 @@
 {
-  "id": 6115,
-  "publicId": "6115",
+  "id": "6115",
+  "internalId": 6115,
   "name": "Rua Marquês De Fronteira",
   "position": {
     "latitude": 38.729089,
     "longitude": -9.159208
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:58:33.000Z"
+  "updateDate": "2008-12-05T16:58:33.000Z",
+  "routes": [
+    "713",
+    "742"
+  ]
 }

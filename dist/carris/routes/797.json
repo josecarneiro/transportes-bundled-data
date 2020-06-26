@@ -1,6 +1,6 @@
 {
-  "id": 163,
-  "number": "797",
+  "id": "797",
+  "internalId": 163,
   "name": "Alameda - Sapadores",
   "visible": true,
   "creationDate": "2020-05-20T09:57:51.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 545,
               "stop": {
-                "id": 402,
-                "publicId": "402",
+                "id": "402",
+                "internalId": 402,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736941,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 205,
               "stop": {
-                "id": 504,
-                "publicId": "504",
+                "id": "504",
+                "internalId": 504,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733227,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 350,
               "stop": {
-                "id": 502,
-                "publicId": "502",
+                "id": "502",
+                "internalId": 502,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732653,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 386,
               "stop": {
-                "id": 7004,
-                "publicId": "7004",
+                "id": "7004",
+                "internalId": 7004,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.731203,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 232,
               "stop": {
-                "id": 7016,
-                "publicId": "7016",
+                "id": "7016",
+                "internalId": 7016,
                 "name": "Rua Cesário Verde",
                 "position": {
                   "latitude": 38.730042,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 305,
               "stop": {
-                "id": 7008,
-                "publicId": "7008",
+                "id": "7008",
+                "internalId": 7008,
                 "name": "Penha De França",
                 "position": {
                   "latitude": 38.728521,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 174,
               "stop": {
-                "id": 9101,
-                "publicId": "9101",
+                "id": "9101",
+                "internalId": 9101,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725891,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 392,
               "stop": {
-                "id": 9103,
-                "publicId": "9103",
+                "id": "9103",
+                "internalId": 9103,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.724368,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 70,
               "stop": {
-                "id": 9118,
-                "publicId": "9118",
+                "id": "9118",
+                "internalId": 9118,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721287,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 0,
               "stop": {
-                "id": 50116,
-                "publicId": "9132",
+                "id": "9132",
+                "internalId": 50116,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721794,
@@ -188,8 +188,8 @@
               "order": 1,
               "distance": 260,
               "stop": {
-                "id": 50116,
-                "publicId": "9132",
+                "id": "9132",
+                "internalId": 50116,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721794,
@@ -204,8 +204,8 @@
               "order": 2,
               "distance": 237,
               "stop": {
-                "id": 9104,
-                "publicId": "9104",
+                "id": "9104",
+                "internalId": 9104,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.723879,
@@ -220,8 +220,8 @@
               "order": 3,
               "distance": 294,
               "stop": {
-                "id": 9102,
-                "publicId": "9102",
+                "id": "9102",
+                "internalId": 9102,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725973,
@@ -236,8 +236,8 @@
               "order": 4,
               "distance": 177,
               "stop": {
-                "id": 7005,
-                "publicId": "7005",
+                "id": "7005",
+                "internalId": 7005,
                 "name": "Penha França",
                 "position": {
                   "latitude": 38.728516,
@@ -252,8 +252,8 @@
               "order": 5,
               "distance": 140,
               "stop": {
-                "id": 50395,
-                "publicId": "7017",
+                "id": "7017",
+                "internalId": 50395,
                 "name": "Igreja Penha França",
                 "position": {
                   "latitude": 38.729893,
@@ -268,8 +268,8 @@
               "order": 6,
               "distance": 349,
               "stop": {
-                "id": 7007,
-                "publicId": "7007",
+                "id": "7007",
+                "internalId": 7007,
                 "name": "Rua Cesário Verde",
                 "position": {
                   "latitude": 38.729168,
@@ -284,8 +284,8 @@
               "order": 7,
               "distance": 326,
               "stop": {
-                "id": 7003,
-                "publicId": "7003",
+                "id": "7003",
+                "internalId": 7003,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730414,
@@ -300,8 +300,8 @@
               "order": 8,
               "distance": 195,
               "stop": {
-                "id": 7011,
-                "publicId": "7011",
+                "id": "7011",
+                "internalId": 7011,
                 "name": "Pç. Paiva Couceiro / R. Morais",
                 "position": {
                   "latitude": 38.732115,
@@ -316,8 +316,8 @@
               "order": 9,
               "distance": 218,
               "stop": {
-                "id": 501,
-                "publicId": "501",
+                "id": "501",
+                "internalId": 501,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732735,
@@ -332,8 +332,8 @@
               "order": 10,
               "distance": 385,
               "stop": {
-                "id": 509,
-                "publicId": "509",
+                "id": "509",
+                "internalId": 509,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733344,
@@ -348,8 +348,8 @@
               "order": 11,
               "distance": 530,
               "stop": {
-                "id": 409,
-                "publicId": "409",
+                "id": "409",
+                "internalId": 409,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736101,
@@ -364,8 +364,8 @@
               "order": 12,
               "distance": 0,
               "stop": {
-                "id": 402,
-                "publicId": "402",
+                "id": "402",
+                "internalId": 402,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736941,
@@ -394,8 +394,8 @@
               "order": 1,
               "distance": 545,
               "stop": {
-                "id": 402,
-                "publicId": "402",
+                "id": "402",
+                "internalId": 402,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736941,
@@ -410,8 +410,8 @@
               "order": 2,
               "distance": 205,
               "stop": {
-                "id": 504,
-                "publicId": "504",
+                "id": "504",
+                "internalId": 504,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733227,
@@ -426,8 +426,8 @@
               "order": 3,
               "distance": 350,
               "stop": {
-                "id": 502,
-                "publicId": "502",
+                "id": "502",
+                "internalId": 502,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732653,
@@ -442,8 +442,8 @@
               "order": 4,
               "distance": 386,
               "stop": {
-                "id": 7004,
-                "publicId": "7004",
+                "id": "7004",
+                "internalId": 7004,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.731203,
@@ -458,8 +458,8 @@
               "order": 5,
               "distance": 232,
               "stop": {
-                "id": 7016,
-                "publicId": "7016",
+                "id": "7016",
+                "internalId": 7016,
                 "name": "Rua Cesário Verde",
                 "position": {
                   "latitude": 38.730042,
@@ -474,8 +474,8 @@
               "order": 6,
               "distance": 305,
               "stop": {
-                "id": 7008,
-                "publicId": "7008",
+                "id": "7008",
+                "internalId": 7008,
                 "name": "Penha De França",
                 "position": {
                   "latitude": 38.728521,
@@ -490,8 +490,8 @@
               "order": 7,
               "distance": 174,
               "stop": {
-                "id": 9101,
-                "publicId": "9101",
+                "id": "9101",
+                "internalId": 9101,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725891,
@@ -506,8 +506,8 @@
               "order": 8,
               "distance": 334,
               "stop": {
-                "id": 9103,
-                "publicId": "9103",
+                "id": "9103",
+                "internalId": 9103,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.724368,
@@ -522,8 +522,8 @@
               "order": 9,
               "distance": 88,
               "stop": {
-                "id": 9105,
-                "publicId": "9105",
+                "id": "9105",
+                "internalId": 9105,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721553,
@@ -538,8 +538,8 @@
               "order": 10,
               "distance": 203,
               "stop": {
-                "id": 9129,
-                "publicId": "9129",
+                "id": "9129",
+                "internalId": 9129,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.720979,
@@ -554,8 +554,8 @@
               "order": 11,
               "distance": 217,
               "stop": {
-                "id": 9131,
-                "publicId": "9131",
+                "id": "9131",
+                "internalId": 9131,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719221,
@@ -570,8 +570,8 @@
               "order": 12,
               "distance": 265,
               "stop": {
-                "id": 14804,
-                "publicId": "14804",
+                "id": "14804",
+                "internalId": 14804,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717268,
@@ -586,8 +586,8 @@
               "order": 13,
               "distance": 319,
               "stop": {
-                "id": 14802,
-                "publicId": "14802",
+                "id": "14802",
+                "internalId": 14802,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715036,
@@ -602,8 +602,8 @@
               "order": 14,
               "distance": 0,
               "stop": {
-                "id": 2129,
-                "publicId": "2129",
+                "id": "2129",
+                "internalId": 2129,
                 "name": "Mercado De Santa Clara",
                 "position": {
                   "latitude": 38.715383,
@@ -625,8 +625,8 @@
               "order": 1,
               "distance": 300,
               "stop": {
-                "id": 2130,
-                "publicId": "2130",
+                "id": "2130",
+                "internalId": 2130,
                 "name": "Mercado De Santa Clara",
                 "position": {
                   "latitude": 38.715665,
@@ -641,8 +641,8 @@
               "order": 2,
               "distance": 256,
               "stop": {
-                "id": 14801,
-                "publicId": "14801",
+                "id": "14801",
+                "internalId": 14801,
                 "name": "Voz Operário",
                 "position": {
                   "latitude": 38.715074,
@@ -657,8 +657,8 @@
               "order": 3,
               "distance": 205,
               "stop": {
-                "id": 14803,
-                "publicId": "14803",
+                "id": "14803",
+                "internalId": 14803,
                 "name": "Graça",
                 "position": {
                   "latitude": 38.717222,
@@ -673,8 +673,8 @@
               "order": 4,
               "distance": 335,
               "stop": {
-                "id": 9130,
-                "publicId": "9130",
+                "id": "9130",
+                "internalId": 9130,
                 "name": "R. Graça",
                 "position": {
                   "latitude": 38.719031,
@@ -689,8 +689,8 @@
               "order": 5,
               "distance": 260,
               "stop": {
-                "id": 50116,
-                "publicId": "9132",
+                "id": "9132",
+                "internalId": 50116,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721794,
@@ -705,8 +705,8 @@
               "order": 6,
               "distance": 237,
               "stop": {
-                "id": 9104,
-                "publicId": "9104",
+                "id": "9104",
+                "internalId": 9104,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.723879,
@@ -721,8 +721,8 @@
               "order": 7,
               "distance": 294,
               "stop": {
-                "id": 9102,
-                "publicId": "9102",
+                "id": "9102",
+                "internalId": 9102,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725973,
@@ -737,8 +737,8 @@
               "order": 8,
               "distance": 177,
               "stop": {
-                "id": 7005,
-                "publicId": "7005",
+                "id": "7005",
+                "internalId": 7005,
                 "name": "Penha França",
                 "position": {
                   "latitude": 38.728516,
@@ -753,8 +753,8 @@
               "order": 9,
               "distance": 140,
               "stop": {
-                "id": 50395,
-                "publicId": "7017",
+                "id": "7017",
+                "internalId": 50395,
                 "name": "Igreja Penha França",
                 "position": {
                   "latitude": 38.729893,
@@ -769,8 +769,8 @@
               "order": 10,
               "distance": 349,
               "stop": {
-                "id": 7007,
-                "publicId": "7007",
+                "id": "7007",
+                "internalId": 7007,
                 "name": "Rua Cesário Verde",
                 "position": {
                   "latitude": 38.729168,
@@ -785,8 +785,8 @@
               "order": 11,
               "distance": 326,
               "stop": {
-                "id": 7003,
-                "publicId": "7003",
+                "id": "7003",
+                "internalId": 7003,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730414,
@@ -801,8 +801,8 @@
               "order": 12,
               "distance": 195,
               "stop": {
-                "id": 7011,
-                "publicId": "7011",
+                "id": "7011",
+                "internalId": 7011,
                 "name": "Pç. Paiva Couceiro / R. Morais",
                 "position": {
                   "latitude": 38.732115,
@@ -817,8 +817,8 @@
               "order": 13,
               "distance": 218,
               "stop": {
-                "id": 501,
-                "publicId": "501",
+                "id": "501",
+                "internalId": 501,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732735,
@@ -833,8 +833,8 @@
               "order": 14,
               "distance": 385,
               "stop": {
-                "id": 509,
-                "publicId": "509",
+                "id": "509",
+                "internalId": 509,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733344,
@@ -849,8 +849,8 @@
               "order": 15,
               "distance": 530,
               "stop": {
-                "id": 409,
-                "publicId": "409",
+                "id": "409",
+                "internalId": 409,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736101,
@@ -865,8 +865,8 @@
               "order": 16,
               "distance": 0,
               "stop": {
-                "id": 402,
-                "publicId": "402",
+                "id": "402",
+                "internalId": 402,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736941,
@@ -1324,8 +1324,8 @@
               "order": 1,
               "distance": 260,
               "stop": {
-                "id": 50116,
-                "publicId": "9132",
+                "id": "9132",
+                "internalId": 50116,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721794,
@@ -1340,8 +1340,8 @@
               "order": 2,
               "distance": 237,
               "stop": {
-                "id": 9104,
-                "publicId": "9104",
+                "id": "9104",
+                "internalId": 9104,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.723879,
@@ -1356,8 +1356,8 @@
               "order": 3,
               "distance": 294,
               "stop": {
-                "id": 9102,
-                "publicId": "9102",
+                "id": "9102",
+                "internalId": 9102,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725973,
@@ -1372,8 +1372,8 @@
               "order": 4,
               "distance": 317,
               "stop": {
-                "id": 7005,
-                "publicId": "7005",
+                "id": "7005",
+                "internalId": 7005,
                 "name": "Penha França",
                 "position": {
                   "latitude": 38.728516,
@@ -1388,8 +1388,8 @@
               "order": 5,
               "distance": 349,
               "stop": {
-                "id": 7007,
-                "publicId": "7007",
+                "id": "7007",
+                "internalId": 7007,
                 "name": "Rua Cesário Verde",
                 "position": {
                   "latitude": 38.729168,
@@ -1404,8 +1404,8 @@
               "order": 6,
               "distance": 326,
               "stop": {
-                "id": 7003,
-                "publicId": "7003",
+                "id": "7003",
+                "internalId": 7003,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730414,
@@ -1420,8 +1420,8 @@
               "order": 7,
               "distance": 195,
               "stop": {
-                "id": 7011,
-                "publicId": "7011",
+                "id": "7011",
+                "internalId": 7011,
                 "name": "Pç. Paiva Couceiro / R. Morais",
                 "position": {
                   "latitude": 38.732115,
@@ -1436,8 +1436,8 @@
               "order": 8,
               "distance": 218,
               "stop": {
-                "id": 501,
-                "publicId": "501",
+                "id": "501",
+                "internalId": 501,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732735,
@@ -1452,8 +1452,8 @@
               "order": 9,
               "distance": 385,
               "stop": {
-                "id": 509,
-                "publicId": "509",
+                "id": "509",
+                "internalId": 509,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733344,
@@ -1468,8 +1468,8 @@
               "order": 10,
               "distance": 531,
               "stop": {
-                "id": 409,
-                "publicId": "409",
+                "id": "409",
+                "internalId": 409,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736101,
@@ -1484,8 +1484,8 @@
               "order": 11,
               "distance": 0,
               "stop": {
-                "id": 402,
-                "publicId": "402",
+                "id": "402",
+                "internalId": 402,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736941,
@@ -1962,8 +1962,8 @@
               "order": 1,
               "distance": 545,
               "stop": {
-                "id": 402,
-                "publicId": "402",
+                "id": "402",
+                "internalId": 402,
                 "name": "Alameda D. A. Henriques",
                 "position": {
                   "latitude": 38.736941,
@@ -1978,8 +1978,8 @@
               "order": 2,
               "distance": 205,
               "stop": {
-                "id": 504,
-                "publicId": "504",
+                "id": "504",
+                "internalId": 504,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733227,
@@ -1994,8 +1994,8 @@
               "order": 3,
               "distance": 350,
               "stop": {
-                "id": 502,
-                "publicId": "502",
+                "id": "502",
+                "internalId": 502,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732653,
@@ -2010,8 +2010,8 @@
               "order": 4,
               "distance": 386,
               "stop": {
-                "id": 7004,
-                "publicId": "7004",
+                "id": "7004",
+                "internalId": 7004,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.731203,
@@ -2026,8 +2026,8 @@
               "order": 5,
               "distance": 232,
               "stop": {
-                "id": 7016,
-                "publicId": "7016",
+                "id": "7016",
+                "internalId": 7016,
                 "name": "Rua Cesário Verde",
                 "position": {
                   "latitude": 38.730042,
@@ -2042,8 +2042,8 @@
               "order": 6,
               "distance": 305,
               "stop": {
-                "id": 7008,
-                "publicId": "7008",
+                "id": "7008",
+                "internalId": 7008,
                 "name": "Penha De França",
                 "position": {
                   "latitude": 38.728521,
@@ -2058,8 +2058,8 @@
               "order": 7,
               "distance": 174,
               "stop": {
-                "id": 9101,
-                "publicId": "9101",
+                "id": "9101",
+                "internalId": 9101,
                 "name": "Pç. António Sardinha",
                 "position": {
                   "latitude": 38.725891,
@@ -2074,8 +2074,8 @@
               "order": 8,
               "distance": 392,
               "stop": {
-                "id": 9103,
-                "publicId": "9103",
+                "id": "9103",
+                "internalId": 9103,
                 "name": "R. Penha França",
                 "position": {
                   "latitude": 38.724368,
@@ -2090,8 +2090,8 @@
               "order": 9,
               "distance": 70,
               "stop": {
-                "id": 9118,
-                "publicId": "9118",
+                "id": "9118",
+                "internalId": 9118,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721287,
@@ -2106,8 +2106,8 @@
               "order": 10,
               "distance": 0,
               "stop": {
-                "id": 50116,
-                "publicId": "9132",
+                "id": "9132",
+                "internalId": 50116,
                 "name": "Sapadores",
                 "position": {
                   "latitude": 38.721794,

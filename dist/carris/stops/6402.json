@@ -1,11 +1,12 @@
 {
-  "id": 6402,
-  "publicId": "6402",
+  "id": "6402",
+  "internalId": 6402,
   "name": "Av. João Xxi",
   "position": {
     "latitude": 38.742432,
     "longitude": -9.140459
   },
   "visible": true,
-  "updateDate": "2008-12-05T16:30:18.000Z"
+  "updateDate": "2008-12-05T16:30:18.000Z",
+  "routes": []
 }

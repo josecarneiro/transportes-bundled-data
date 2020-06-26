@@ -1,11 +1,12 @@
 {
-  "id": 1914,
-  "publicId": "1914",
+  "id": "1914",
+  "internalId": 1914,
   "name": "Campo Pequeno - Av. De Berna",
   "position": {
     "latitude": 38.741249,
     "longitude": -9.147937
   },
   "visible": true,
-  "updateDate": "2018-02-20T10:25:16.000Z"
+  "updateDate": "2018-02-20T10:25:16.000Z",
+  "routes": []
 }

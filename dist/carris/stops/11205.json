@@ -1,11 +1,15 @@
 {
-  "id": 11205,
-  "publicId": "11205",
+  "id": "11205",
+  "internalId": 11205,
   "name": "Av. Rio Janeiro / Av. Eua",
   "position": {
     "latitude": 38.750239,
     "longitude": -9.137285
   },
   "visible": true,
-  "updateDate": "2019-03-26T17:39:57.000Z"
+  "updateDate": "2019-03-26T17:39:57.000Z",
+  "routes": [
+    "717",
+    "744"
+  ]
 }

@@ -1,11 +1,16 @@
 {
-  "id": 704,
-  "publicId": "704",
+  "id": "704",
+  "internalId": 704,
   "name": "Igreja Anjos",
   "position": {
     "latitude": 38.722122,
     "longitude": -9.135445
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:44:37.000Z"
+  "updateDate": "2018-04-03T15:44:37.000Z",
+  "routes": [
+    "208",
+    "734",
+    "28E"
+  ]
 }

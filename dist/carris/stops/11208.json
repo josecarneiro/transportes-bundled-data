@@ -1,11 +1,14 @@
 {
-  "id": 11208,
-  "publicId": "11208",
+  "id": "11208",
+  "internalId": 11208,
   "name": "Rua Doutor Gama Barros",
   "position": {
     "latitude": 38.747942,
     "longitude": -9.13641
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:50:12.000Z"
+  "updateDate": "2008-12-05T17:50:12.000Z",
+  "routes": [
+    "727"
+  ]
 }

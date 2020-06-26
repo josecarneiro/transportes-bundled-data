@@ -1,11 +1,19 @@
 {
-  "id": 2006,
-  "publicId": "2006",
+  "id": "2006",
+  "internalId": 2006,
   "name": "Entrecampos Norte",
   "position": {
     "latitude": 38.749116,
     "longitude": -9.149208
   },
   "visible": true,
-  "updateDate": "2018-11-02T11:38:06.000Z"
+  "updateDate": "2018-11-02T11:38:06.000Z",
+  "routes": [
+    "207",
+    "701",
+    "736",
+    "738",
+    "783",
+    "798"
+  ]
 }

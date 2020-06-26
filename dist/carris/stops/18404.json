@@ -1,11 +1,17 @@
 {
-  "id": 18404,
-  "publicId": "18404",
+  "id": "18404",
+  "internalId": 18404,
   "name": "Av. Bombeiros De Algés-Cinema",
   "position": {
     "latitude": 38.705295,
     "longitude": -9.226756
   },
   "visible": true,
-  "updateDate": "2008-12-09T09:59:03.000Z"
+  "updateDate": "2008-12-09T09:59:03.000Z",
+  "routes": [
+    "201",
+    "750",
+    "751",
+    "9E"
+  ]
 }

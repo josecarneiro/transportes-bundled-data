@@ -1,11 +1,15 @@
 {
-  "id": 50340,
-  "publicId": "79123",
+  "id": "79123",
+  "internalId": 50340,
   "name": "Rua Chen He",
   "position": {
     "latitude": 38.788756,
     "longitude": -9.099538
   },
   "visible": true,
-  "updateDate": "2018-02-21T00:01:04.000Z"
+  "updateDate": "2018-02-21T00:01:04.000Z",
+  "routes": [
+    "708",
+    "26B"
+  ]
 }

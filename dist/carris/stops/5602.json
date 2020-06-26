@@ -1,11 +1,15 @@
 {
-  "id": 5602,
-  "publicId": "5602",
+  "id": "5602",
+  "internalId": 5602,
   "name": "Rua Da Conceição",
   "position": {
     "latitude": 38.709944,
     "longitude": -9.135962
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:24:25.000Z"
+  "updateDate": "2008-12-05T17:24:25.000Z",
+  "routes": [
+    "737",
+    "12E"
+  ]
 }

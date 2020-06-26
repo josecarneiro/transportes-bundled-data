@@ -1,6 +1,6 @@
 {
-  "id": 147,
-  "number": "706",
+  "id": "706",
+  "internalId": 147,
   "name": "Cais Sodré - Est. Sta. Apolónia",
   "visible": true,
   "creationDate": "2020-05-20T09:09:43.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 412,
               "stop": {
-                "id": 3804,
-                "publicId": "3804",
+                "id": "3804",
+                "internalId": 3804,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.7059,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 390,
               "stop": {
-                "id": 3802,
-                "publicId": "3802",
+                "id": "3802",
+                "internalId": 3802,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706332,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 409,
               "stop": {
-                "id": 7102,
-                "publicId": "7102",
+                "id": "7102",
+                "internalId": 7102,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706414,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 207,
               "stop": {
-                "id": 3926,
-                "publicId": "3926",
+                "id": "3926",
+                "internalId": 3926,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706516,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 304,
               "stop": {
-                "id": 3922,
-                "publicId": "3922",
+                "id": "3922",
+                "internalId": 3922,
                 "name": "Largo Vitorino Damásio",
                 "position": {
                   "latitude": 38.707333,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 239,
               "stop": {
-                "id": 7103,
-                "publicId": "7103",
+                "id": "7103",
+                "internalId": 7103,
                 "name": "Conde Barão - Av. D. Carlos I",
                 "position": {
                   "latitude": 38.708901,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 298,
               "stop": {
-                "id": 6701,
-                "publicId": "6701",
+                "id": "6701",
+                "internalId": 6701,
                 "name": "Assembleia Da República",
                 "position": {
                   "latitude": 38.711006,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 198,
               "stop": {
-                "id": 6703,
-                "publicId": "6703",
+                "id": "6703",
+                "internalId": 6703,
                 "name": "Palácio De São Bento (Jardim)",
                 "position": {
                   "latitude": 38.71339,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 279,
               "stop": {
-                "id": 6705,
-                "publicId": "6705",
+                "id": "6705",
+                "internalId": 6705,
                 "name": "Rua De São Bento",
                 "position": {
                   "latitude": 38.715028,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 443,
               "stop": {
-                "id": 6817,
-                "publicId": "6817",
+                "id": "6817",
+                "internalId": 6817,
                 "name": "Rua Do Arco",
                 "position": {
                   "latitude": 38.717358,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 468,
               "stop": {
-                "id": 6811,
-                "publicId": "6811",
+                "id": "6811",
+                "internalId": 6811,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.720279,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 439,
               "stop": {
-                "id": 1216,
-                "publicId": "1216",
+                "id": "1216",
+                "internalId": 1216,
                 "name": "Mq. Pombal - R. Alexandre Herc",
                 "position": {
                   "latitude": 38.722674,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 180,
               "stop": {
-                "id": 1218,
-                "publicId": "1218",
+                "id": "1218",
+                "internalId": 1218,
                 "name": "R. Sta. Marta",
                 "position": {
                   "latitude": 38.725295,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 418,
               "stop": {
-                "id": 6609,
-                "publicId": "6609",
+                "id": "6609",
+                "internalId": 6609,
                 "name": "R. Conde Redondo",
                 "position": {
                   "latitude": 38.726545,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 205,
               "stop": {
-                "id": 6906,
-                "publicId": "6906",
+                "id": "6906",
+                "internalId": 6906,
                 "name": "Hosp. D. Estefânia",
                 "position": {
                   "latitude": 38.727541,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 260,
               "stop": {
-                "id": 615,
-                "publicId": "615",
+                "id": "615",
+                "internalId": 615,
                 "name": "R. José Estêvão",
                 "position": {
                   "latitude": 38.727432,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 311,
               "stop": {
-                "id": 611,
-                "publicId": "611",
+                "id": "611",
+                "internalId": 611,
                 "name": "R. Passos Manuel",
                 "position": {
                   "latitude": 38.728017,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 172,
               "stop": {
-                "id": 6504,
-                "publicId": "6504",
+                "id": "6504",
+                "internalId": 6504,
                 "name": "Jardim Constantino",
                 "position": {
                   "latitude": 38.730821,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 278,
               "stop": {
-                "id": 511,
-                "publicId": "511",
+                "id": "511",
+                "internalId": 511,
                 "name": "R. Pascoal Melo",
                 "position": {
                   "latitude": 38.731224,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 206,
               "stop": {
-                "id": 505,
-                "publicId": "505",
+                "id": "505",
+                "internalId": 505,
                 "name": "Pç. Chile / Av. Almirante Reis",
                 "position": {
                   "latitude": 38.732672,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 205,
               "stop": {
-                "id": 504,
-                "publicId": "504",
+                "id": "504",
+                "internalId": 504,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733227,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 430,
               "stop": {
-                "id": 502,
-                "publicId": "502",
+                "id": "502",
+                "internalId": 502,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732653,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 353,
               "stop": {
-                "id": 7014,
-                "publicId": "7014",
+                "id": "7014",
+                "internalId": 7014,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730546,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 430,
               "stop": {
-                "id": 11706,
-                "publicId": "11706",
+                "id": "11706",
+                "internalId": 11706,
                 "name": "Vale Escuro",
                 "position": {
                   "latitude": 38.728365,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 266,
               "stop": {
-                "id": 11708,
-                "publicId": "11708",
+                "id": "11708",
+                "internalId": 11708,
                 "name": "Rua Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.725037,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 218,
               "stop": {
-                "id": 9820,
-                "publicId": "9820",
+                "id": "9820",
+                "internalId": 9820,
                 "name": "Qta Dos Peixinhos",
                 "position": {
                   "latitude": 38.722732,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 182,
               "stop": {
-                "id": 9823,
-                "publicId": "9823",
+                "id": "9823",
+                "internalId": 9823,
                 "name": "Escola Patrício Prazeres",
                 "position": {
                   "latitude": 38.721291,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 579,
               "stop": {
-                "id": 9825,
-                "publicId": "9825",
+                "id": "9825",
+                "internalId": 9825,
                 "name": "Cç. Cruz Da Pedra",
                 "position": {
                   "latitude": 38.720385,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 449,
               "stop": {
-                "id": 2128,
-                "publicId": "2128",
+                "id": "2128",
+                "internalId": 2128,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716784,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 0,
               "stop": {
-                "id": 2133,
-                "publicId": "2133",
+                "id": "2133",
+                "internalId": 2133,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713735,
@@ -508,8 +508,8 @@
               "order": 1,
               "distance": 397,
               "stop": {
-                "id": 2133,
-                "publicId": "2133",
+                "id": "2133",
+                "internalId": 2133,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713735,
@@ -524,8 +524,8 @@
               "order": 2,
               "distance": 411,
               "stop": {
-                "id": 2101,
-                "publicId": "2101",
+                "id": "2101",
+                "internalId": 2101,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713531,
@@ -540,8 +540,8 @@
               "order": 3,
               "distance": 210,
               "stop": {
-                "id": 2103,
-                "publicId": "2103",
+                "id": "2103",
+                "internalId": 2103,
                 "name": "Rua Da Bica Do Sapato",
                 "position": {
                   "latitude": 38.716375,
@@ -556,8 +556,8 @@
               "order": 4,
               "distance": 365,
               "stop": {
-                "id": 2131,
-                "publicId": "2131",
+                "id": "2131",
+                "internalId": 2131,
                 "name": "Cç. De Santa Apolónia",
                 "position": {
                   "latitude": 38.717774,
@@ -572,8 +572,8 @@
               "order": 5,
               "distance": 242,
               "stop": {
-                "id": 9824,
-                "publicId": "9824",
+                "id": "9824",
+                "internalId": 9824,
                 "name": "Cç. Cruz Pedra",
                 "position": {
                   "latitude": 38.720459,
@@ -588,8 +588,8 @@
               "order": 6,
               "distance": 254,
               "stop": {
-                "id": 9819,
-                "publicId": "9819",
+                "id": "9819",
+                "internalId": 9819,
                 "name": "Esc. Patricio Prazeres",
                 "position": {
                   "latitude": 38.721809,
@@ -604,8 +604,8 @@
               "order": 7,
               "distance": 255,
               "stop": {
-                "id": 9821,
-                "publicId": "9821",
+                "id": "9821",
+                "internalId": 9821,
                 "name": "Qta. Peixinhos",
                 "position": {
                   "latitude": 38.723519,
@@ -620,8 +620,8 @@
               "order": 8,
               "distance": 334,
               "stop": {
-                "id": 11707,
-                "publicId": "11707",
+                "id": "11707",
+                "internalId": 11707,
                 "name": "R. Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.725765,
@@ -636,8 +636,8 @@
               "order": 9,
               "distance": 343,
               "stop": {
-                "id": 11705,
-                "publicId": "11705",
+                "id": "11705",
+                "internalId": 11705,
                 "name": "Vale Escuro",
                 "position": {
                   "latitude": 38.728363,
@@ -652,8 +652,8 @@
               "order": 10,
               "distance": 275,
               "stop": {
-                "id": 7015,
-                "publicId": "7015",
+                "id": "7015",
+                "internalId": 7015,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730557,
@@ -668,8 +668,8 @@
               "order": 11,
               "distance": 195,
               "stop": {
-                "id": 7011,
-                "publicId": "7011",
+                "id": "7011",
+                "internalId": 7011,
                 "name": "Pç. Paiva Couceiro / R. Morais",
                 "position": {
                   "latitude": 38.732115,
@@ -684,8 +684,8 @@
               "order": 12,
               "distance": 190,
               "stop": {
-                "id": 501,
-                "publicId": "501",
+                "id": "501",
+                "internalId": 501,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732735,
@@ -700,8 +700,8 @@
               "order": 13,
               "distance": 285,
               "stop": {
-                "id": 503,
-                "publicId": "503",
+                "id": "503",
+                "internalId": 503,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733262,
@@ -716,8 +716,8 @@
               "order": 14,
               "distance": 294,
               "stop": {
-                "id": 506,
-                "publicId": "506",
+                "id": "506",
+                "internalId": 506,
                 "name": "Pç. Chile / Av. Almirante Reis",
                 "position": {
                   "latitude": 38.732466,
@@ -732,8 +732,8 @@
               "order": 15,
               "distance": 194,
               "stop": {
-                "id": 510,
-                "publicId": "510",
+                "id": "510",
+                "internalId": 510,
                 "name": "R. Pascoal Melo",
                 "position": {
                   "latitude": 38.731387,
@@ -748,8 +748,8 @@
               "order": 16,
               "distance": 338,
               "stop": {
-                "id": 6503,
-                "publicId": "6503",
+                "id": "6503",
+                "internalId": 6503,
                 "name": "Jardim Constantino",
                 "position": {
                   "latitude": 38.730844,
@@ -764,8 +764,8 @@
               "order": 17,
               "distance": 253,
               "stop": {
-                "id": 613,
-                "publicId": "613",
+                "id": "613",
+                "internalId": 613,
                 "name": "R. José Estêvão",
                 "position": {
                   "latitude": 38.727798,
@@ -780,8 +780,8 @@
               "order": 18,
               "distance": 278,
               "stop": {
-                "id": 6905,
-                "publicId": "6905",
+                "id": "6905",
+                "internalId": 6905,
                 "name": "Hosp. D. Estefânia",
                 "position": {
                   "latitude": 38.727615,
@@ -796,8 +796,8 @@
               "order": 19,
               "distance": 230,
               "stop": {
-                "id": 6608,
-                "publicId": "6608",
+                "id": "6608",
+                "internalId": 6608,
                 "name": "Gomes Freire - R. Joaquim Boni",
                 "position": {
                   "latitude": 38.727769,
@@ -812,8 +812,8 @@
               "order": 20,
               "distance": 194,
               "stop": {
-                "id": 6610,
-                "publicId": "6610",
+                "id": "6610",
+                "internalId": 6610,
                 "name": "R. Conde Redondo",
                 "position": {
                   "latitude": 38.726621,
@@ -828,8 +828,8 @@
               "order": 21,
               "distance": 399,
               "stop": {
-                "id": 1217,
-                "publicId": "1217",
+                "id": "1217",
+                "internalId": 1217,
                 "name": "Rua De Santa Marta",
                 "position": {
                   "latitude": 38.725156,
@@ -844,8 +844,8 @@
               "order": 22,
               "distance": 243,
               "stop": {
-                "id": 1211,
-                "publicId": "1211",
+                "id": "1211",
+                "internalId": 1211,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.722917,
@@ -860,8 +860,8 @@
               "order": 23,
               "distance": 364,
               "stop": {
-                "id": 6820,
-                "publicId": "6820",
+                "id": "6820",
+                "internalId": 6820,
                 "name": "Rua Braamcamp",
                 "position": {
                   "latitude": 38.721689,
@@ -876,8 +876,8 @@
               "order": 24,
               "distance": 256,
               "stop": {
-                "id": 6810,
-                "publicId": "6810",
+                "id": "6810",
+                "internalId": 6810,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.720033,
@@ -892,8 +892,8 @@
               "order": 25,
               "distance": 326,
               "stop": {
-                "id": 6818,
-                "publicId": "6818",
+                "id": "6818",
+                "internalId": 6818,
                 "name": "Rua Do Arco",
                 "position": {
                   "latitude": 38.718085,
@@ -908,8 +908,8 @@
               "order": 26,
               "distance": 223,
               "stop": {
-                "id": 6706,
-                "publicId": "6706",
+                "id": "6706",
+                "internalId": 6706,
                 "name": "Rua De São Bento",
                 "position": {
                   "latitude": 38.715277,
@@ -924,8 +924,8 @@
               "order": 27,
               "distance": 289,
               "stop": {
-                "id": 6704,
-                "publicId": "6704",
+                "id": "6704",
+                "internalId": 6704,
                 "name": "Palácio De São Bento (Jardim)",
                 "position": {
                   "latitude": 38.713484,
@@ -940,8 +940,8 @@
               "order": 28,
               "distance": 292,
               "stop": {
-                "id": 6702,
-                "publicId": "6702",
+                "id": "6702",
+                "internalId": 6702,
                 "name": "Assembleia Da República",
                 "position": {
                   "latitude": 38.71118,
@@ -956,8 +956,8 @@
               "order": 29,
               "distance": 269,
               "stop": {
-                "id": 7104,
-                "publicId": "7104",
+                "id": "7104",
+                "internalId": 7104,
                 "name": "Conde Barão - Av. D. Carlos I",
                 "position": {
                   "latitude": 38.7086,
@@ -972,8 +972,8 @@
               "order": 30,
               "distance": 231,
               "stop": {
-                "id": 3925,
-                "publicId": "3925",
+                "id": "3925",
+                "internalId": 3925,
                 "name": "Largo Vitorino Damásio",
                 "position": {
                   "latitude": 38.707443,
@@ -988,8 +988,8 @@
               "order": 31,
               "distance": 376,
               "stop": {
-                "id": 3927,
-                "publicId": "3927",
+                "id": "3927",
+                "internalId": 3927,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706386,
@@ -1004,8 +1004,8 @@
               "order": 32,
               "distance": 428,
               "stop": {
-                "id": 7101,
-                "publicId": "7101",
+                "id": "7101",
+                "internalId": 7101,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706331,
@@ -1020,8 +1020,8 @@
               "order": 33,
               "distance": 142,
               "stop": {
-                "id": 3803,
-                "publicId": "3803",
+                "id": "3803",
+                "internalId": 3803,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706244,
@@ -1036,8 +1036,8 @@
               "order": 34,
               "distance": 0,
               "stop": {
-                "id": 3804,
-                "publicId": "3804",
+                "id": "3804",
+                "internalId": 3804,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.7059,
@@ -1066,8 +1066,8 @@
               "order": 1,
               "distance": 205,
               "stop": {
-                "id": 504,
-                "publicId": "504",
+                "id": "504",
+                "internalId": 504,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733227,
@@ -1082,8 +1082,8 @@
               "order": 2,
               "distance": 430,
               "stop": {
-                "id": 502,
-                "publicId": "502",
+                "id": "502",
+                "internalId": 502,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732653,
@@ -1098,8 +1098,8 @@
               "order": 3,
               "distance": 353,
               "stop": {
-                "id": 7014,
-                "publicId": "7014",
+                "id": "7014",
+                "internalId": 7014,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730546,
@@ -1114,8 +1114,8 @@
               "order": 4,
               "distance": 430,
               "stop": {
-                "id": 11706,
-                "publicId": "11706",
+                "id": "11706",
+                "internalId": 11706,
                 "name": "Vale Escuro",
                 "position": {
                   "latitude": 38.728365,
@@ -1130,8 +1130,8 @@
               "order": 5,
               "distance": 266,
               "stop": {
-                "id": 11708,
-                "publicId": "11708",
+                "id": "11708",
+                "internalId": 11708,
                 "name": "Rua Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.725037,
@@ -1146,8 +1146,8 @@
               "order": 6,
               "distance": 218,
               "stop": {
-                "id": 9820,
-                "publicId": "9820",
+                "id": "9820",
+                "internalId": 9820,
                 "name": "Qta Dos Peixinhos",
                 "position": {
                   "latitude": 38.722732,
@@ -1162,8 +1162,8 @@
               "order": 7,
               "distance": 182,
               "stop": {
-                "id": 9823,
-                "publicId": "9823",
+                "id": "9823",
+                "internalId": 9823,
                 "name": "Escola Patrício Prazeres",
                 "position": {
                   "latitude": 38.721291,
@@ -1178,8 +1178,8 @@
               "order": 8,
               "distance": 579,
               "stop": {
-                "id": 9825,
-                "publicId": "9825",
+                "id": "9825",
+                "internalId": 9825,
                 "name": "Cç. Cruz Da Pedra",
                 "position": {
                   "latitude": 38.720385,
@@ -1194,8 +1194,8 @@
               "order": 9,
               "distance": 449,
               "stop": {
-                "id": 2128,
-                "publicId": "2128",
+                "id": "2128",
+                "internalId": 2128,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716784,
@@ -1210,8 +1210,8 @@
               "order": 10,
               "distance": 0,
               "stop": {
-                "id": 2133,
-                "publicId": "2133",
+                "id": "2133",
+                "internalId": 2133,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713735,
@@ -1233,8 +1233,8 @@
               "order": 1,
               "distance": 397,
               "stop": {
-                "id": 2133,
-                "publicId": "2133",
+                "id": "2133",
+                "internalId": 2133,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713735,
@@ -1249,8 +1249,8 @@
               "order": 2,
               "distance": 411,
               "stop": {
-                "id": 2101,
-                "publicId": "2101",
+                "id": "2101",
+                "internalId": 2101,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713531,
@@ -1265,8 +1265,8 @@
               "order": 3,
               "distance": 210,
               "stop": {
-                "id": 2103,
-                "publicId": "2103",
+                "id": "2103",
+                "internalId": 2103,
                 "name": "Rua Da Bica Do Sapato",
                 "position": {
                   "latitude": 38.716375,
@@ -1281,8 +1281,8 @@
               "order": 4,
               "distance": 365,
               "stop": {
-                "id": 2131,
-                "publicId": "2131",
+                "id": "2131",
+                "internalId": 2131,
                 "name": "Cç. De Santa Apolónia",
                 "position": {
                   "latitude": 38.717774,
@@ -1297,8 +1297,8 @@
               "order": 5,
               "distance": 242,
               "stop": {
-                "id": 9824,
-                "publicId": "9824",
+                "id": "9824",
+                "internalId": 9824,
                 "name": "Cç. Cruz Pedra",
                 "position": {
                   "latitude": 38.720459,
@@ -1313,8 +1313,8 @@
               "order": 6,
               "distance": 254,
               "stop": {
-                "id": 9819,
-                "publicId": "9819",
+                "id": "9819",
+                "internalId": 9819,
                 "name": "Esc. Patricio Prazeres",
                 "position": {
                   "latitude": 38.721809,
@@ -1329,8 +1329,8 @@
               "order": 7,
               "distance": 255,
               "stop": {
-                "id": 9821,
-                "publicId": "9821",
+                "id": "9821",
+                "internalId": 9821,
                 "name": "Qta. Peixinhos",
                 "position": {
                   "latitude": 38.723519,
@@ -1345,8 +1345,8 @@
               "order": 8,
               "distance": 334,
               "stop": {
-                "id": 11707,
-                "publicId": "11707",
+                "id": "11707",
+                "internalId": 11707,
                 "name": "R. Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.725765,
@@ -1361,8 +1361,8 @@
               "order": 9,
               "distance": 343,
               "stop": {
-                "id": 11705,
-                "publicId": "11705",
+                "id": "11705",
+                "internalId": 11705,
                 "name": "Vale Escuro",
                 "position": {
                   "latitude": 38.728363,
@@ -1377,8 +1377,8 @@
               "order": 10,
               "distance": 275,
               "stop": {
-                "id": 7015,
-                "publicId": "7015",
+                "id": "7015",
+                "internalId": 7015,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730557,
@@ -1393,8 +1393,8 @@
               "order": 11,
               "distance": 195,
               "stop": {
-                "id": 7011,
-                "publicId": "7011",
+                "id": "7011",
+                "internalId": 7011,
                 "name": "Pç. Paiva Couceiro / R. Morais",
                 "position": {
                   "latitude": 38.732115,
@@ -1409,8 +1409,8 @@
               "order": 12,
               "distance": 190,
               "stop": {
-                "id": 501,
-                "publicId": "501",
+                "id": "501",
+                "internalId": 501,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732735,
@@ -1425,8 +1425,8 @@
               "order": 13,
               "distance": 0,
               "stop": {
-                "id": 503,
-                "publicId": "503",
+                "id": "503",
+                "internalId": 503,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733262,
@@ -2140,8 +2140,8 @@
               "order": 1,
               "distance": 225,
               "stop": {
-                "id": 6607,
-                "publicId": "6607",
+                "id": "6607",
+                "internalId": 6607,
                 "name": "Rua Joaquim Bonifácio",
                 "position": {
                   "latitude": 38.728351,
@@ -2156,8 +2156,8 @@
               "order": 2,
               "distance": 205,
               "stop": {
-                "id": 6906,
-                "publicId": "6906",
+                "id": "6906",
+                "internalId": 6906,
                 "name": "Hosp. D. Estefânia",
                 "position": {
                   "latitude": 38.727541,
@@ -2172,8 +2172,8 @@
               "order": 3,
               "distance": 260,
               "stop": {
-                "id": 615,
-                "publicId": "615",
+                "id": "615",
+                "internalId": 615,
                 "name": "R. José Estêvão",
                 "position": {
                   "latitude": 38.727432,
@@ -2188,8 +2188,8 @@
               "order": 4,
               "distance": 311,
               "stop": {
-                "id": 611,
-                "publicId": "611",
+                "id": "611",
+                "internalId": 611,
                 "name": "R. Passos Manuel",
                 "position": {
                   "latitude": 38.728017,
@@ -2204,8 +2204,8 @@
               "order": 5,
               "distance": 172,
               "stop": {
-                "id": 6504,
-                "publicId": "6504",
+                "id": "6504",
+                "internalId": 6504,
                 "name": "Jardim Constantino",
                 "position": {
                   "latitude": 38.730821,
@@ -2220,8 +2220,8 @@
               "order": 6,
               "distance": 278,
               "stop": {
-                "id": 511,
-                "publicId": "511",
+                "id": "511",
+                "internalId": 511,
                 "name": "R. Pascoal Melo",
                 "position": {
                   "latitude": 38.731224,
@@ -2236,8 +2236,8 @@
               "order": 7,
               "distance": 206,
               "stop": {
-                "id": 505,
-                "publicId": "505",
+                "id": "505",
+                "internalId": 505,
                 "name": "Pç. Chile / Av. Almirante Reis",
                 "position": {
                   "latitude": 38.732672,
@@ -2252,8 +2252,8 @@
               "order": 8,
               "distance": 205,
               "stop": {
-                "id": 504,
-                "publicId": "504",
+                "id": "504",
+                "internalId": 504,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733227,
@@ -2268,8 +2268,8 @@
               "order": 9,
               "distance": 430,
               "stop": {
-                "id": 502,
-                "publicId": "502",
+                "id": "502",
+                "internalId": 502,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732653,
@@ -2284,8 +2284,8 @@
               "order": 10,
               "distance": 353,
               "stop": {
-                "id": 7014,
-                "publicId": "7014",
+                "id": "7014",
+                "internalId": 7014,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730546,
@@ -2300,8 +2300,8 @@
               "order": 11,
               "distance": 430,
               "stop": {
-                "id": 11706,
-                "publicId": "11706",
+                "id": "11706",
+                "internalId": 11706,
                 "name": "Vale Escuro",
                 "position": {
                   "latitude": 38.728365,
@@ -2316,8 +2316,8 @@
               "order": 12,
               "distance": 266,
               "stop": {
-                "id": 11708,
-                "publicId": "11708",
+                "id": "11708",
+                "internalId": 11708,
                 "name": "Rua Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.725037,
@@ -2332,8 +2332,8 @@
               "order": 13,
               "distance": 218,
               "stop": {
-                "id": 9820,
-                "publicId": "9820",
+                "id": "9820",
+                "internalId": 9820,
                 "name": "Qta Dos Peixinhos",
                 "position": {
                   "latitude": 38.722732,
@@ -2348,8 +2348,8 @@
               "order": 14,
               "distance": 182,
               "stop": {
-                "id": 9823,
-                "publicId": "9823",
+                "id": "9823",
+                "internalId": 9823,
                 "name": "Escola Patrício Prazeres",
                 "position": {
                   "latitude": 38.721291,
@@ -2364,8 +2364,8 @@
               "order": 15,
               "distance": 579,
               "stop": {
-                "id": 9825,
-                "publicId": "9825",
+                "id": "9825",
+                "internalId": 9825,
                 "name": "Cç. Cruz Da Pedra",
                 "position": {
                   "latitude": 38.720385,
@@ -2380,8 +2380,8 @@
               "order": 16,
               "distance": 449,
               "stop": {
-                "id": 2128,
-                "publicId": "2128",
+                "id": "2128",
+                "internalId": 2128,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716784,
@@ -2396,8 +2396,8 @@
               "order": 17,
               "distance": 0,
               "stop": {
-                "id": 2133,
-                "publicId": "2133",
+                "id": "2133",
+                "internalId": 2133,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713735,
@@ -3338,8 +3338,8 @@
               "order": 1,
               "distance": 398,
               "stop": {
-                "id": 2133,
-                "publicId": "2133",
+                "id": "2133",
+                "internalId": 2133,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713735,
@@ -3354,8 +3354,8 @@
               "order": 2,
               "distance": 411,
               "stop": {
-                "id": 2101,
-                "publicId": "2101",
+                "id": "2101",
+                "internalId": 2101,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713531,
@@ -3370,8 +3370,8 @@
               "order": 3,
               "distance": 246,
               "stop": {
-                "id": 2103,
-                "publicId": "2103",
+                "id": "2103",
+                "internalId": 2103,
                 "name": "Rua Da Bica Do Sapato",
                 "position": {
                   "latitude": 38.716375,
@@ -3386,8 +3386,8 @@
               "order": 4,
               "distance": 329,
               "stop": {
-                "id": 2131,
-                "publicId": "2131",
+                "id": "2131",
+                "internalId": 2131,
                 "name": "Cç. De Santa Apolónia",
                 "position": {
                   "latitude": 38.717774,
@@ -3402,8 +3402,8 @@
               "order": 5,
               "distance": 242,
               "stop": {
-                "id": 9824,
-                "publicId": "9824",
+                "id": "9824",
+                "internalId": 9824,
                 "name": "Cç. Cruz Pedra",
                 "position": {
                   "latitude": 38.720459,
@@ -3418,8 +3418,8 @@
               "order": 6,
               "distance": 254,
               "stop": {
-                "id": 9819,
-                "publicId": "9819",
+                "id": "9819",
+                "internalId": 9819,
                 "name": "Esc. Patricio Prazeres",
                 "position": {
                   "latitude": 38.721809,
@@ -3434,8 +3434,8 @@
               "order": 7,
               "distance": 255,
               "stop": {
-                "id": 9821,
-                "publicId": "9821",
+                "id": "9821",
+                "internalId": 9821,
                 "name": "Qta. Peixinhos",
                 "position": {
                   "latitude": 38.723519,
@@ -3450,8 +3450,8 @@
               "order": 8,
               "distance": 334,
               "stop": {
-                "id": 11707,
-                "publicId": "11707",
+                "id": "11707",
+                "internalId": 11707,
                 "name": "R. Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.725765,
@@ -3466,8 +3466,8 @@
               "order": 9,
               "distance": 343,
               "stop": {
-                "id": 11705,
-                "publicId": "11705",
+                "id": "11705",
+                "internalId": 11705,
                 "name": "Vale Escuro",
                 "position": {
                   "latitude": 38.728363,
@@ -3482,8 +3482,8 @@
               "order": 10,
               "distance": 275,
               "stop": {
-                "id": 7015,
-                "publicId": "7015",
+                "id": "7015",
+                "internalId": 7015,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730557,
@@ -3498,8 +3498,8 @@
               "order": 11,
               "distance": 195,
               "stop": {
-                "id": 7011,
-                "publicId": "7011",
+                "id": "7011",
+                "internalId": 7011,
                 "name": "Pç. Paiva Couceiro / R. Morais",
                 "position": {
                   "latitude": 38.732115,
@@ -3514,8 +3514,8 @@
               "order": 12,
               "distance": 189,
               "stop": {
-                "id": 501,
-                "publicId": "501",
+                "id": "501",
+                "internalId": 501,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732735,
@@ -3530,8 +3530,8 @@
               "order": 13,
               "distance": 285,
               "stop": {
-                "id": 503,
-                "publicId": "503",
+                "id": "503",
+                "internalId": 503,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733262,
@@ -3546,8 +3546,8 @@
               "order": 14,
               "distance": 394,
               "stop": {
-                "id": 506,
-                "publicId": "506",
+                "id": "506",
+                "internalId": 506,
                 "name": "Pç. Chile / Av. Almirante Reis",
                 "position": {
                   "latitude": 38.732466,
@@ -3562,8 +3562,8 @@
               "order": 15,
               "distance": 194,
               "stop": {
-                "id": 510,
-                "publicId": "510",
+                "id": "510",
+                "internalId": 510,
                 "name": "R. Pascoal Melo",
                 "position": {
                   "latitude": 38.731387,
@@ -3578,8 +3578,8 @@
               "order": 16,
               "distance": 338,
               "stop": {
-                "id": 6503,
-                "publicId": "6503",
+                "id": "6503",
+                "internalId": 6503,
                 "name": "Jardim Constantino",
                 "position": {
                   "latitude": 38.730844,
@@ -3594,8 +3594,8 @@
               "order": 17,
               "distance": 253,
               "stop": {
-                "id": 613,
-                "publicId": "613",
+                "id": "613",
+                "internalId": 613,
                 "name": "R. José Estêvão",
                 "position": {
                   "latitude": 38.727798,
@@ -3610,8 +3610,8 @@
               "order": 18,
               "distance": 278,
               "stop": {
-                "id": 6905,
-                "publicId": "6905",
+                "id": "6905",
+                "internalId": 6905,
                 "name": "Hosp. D. Estefânia",
                 "position": {
                   "latitude": 38.727615,
@@ -3626,8 +3626,8 @@
               "order": 19,
               "distance": 356,
               "stop": {
-                "id": 6608,
-                "publicId": "6608",
+                "id": "6608",
+                "internalId": 6608,
                 "name": "Gomes Freire - R. Joaquim Boni",
                 "position": {
                   "latitude": 38.727769,
@@ -3642,8 +3642,8 @@
               "order": 20,
               "distance": 0,
               "stop": {
-                "id": 6607,
-                "publicId": "6607",
+                "id": "6607",
+                "internalId": 6607,
                 "name": "Rua Joaquim Bonifácio",
                 "position": {
                   "latitude": 38.728351,
@@ -3672,8 +3672,8 @@
               "order": 1,
               "distance": 225,
               "stop": {
-                "id": 50221,
-                "publicId": "4509",
+                "id": "4509",
+                "internalId": 50221,
                 "name": "Terreiro Do Paço",
                 "position": {
                   "latitude": 38.708385,
@@ -3688,8 +3688,8 @@
               "order": 2,
               "distance": 266,
               "stop": {
-                "id": 5504,
-                "publicId": "5504",
+                "id": "5504",
+                "internalId": 5504,
                 "name": "Praça Do Comércio",
                 "position": {
                   "latitude": 38.707944,
@@ -3704,8 +3704,8 @@
               "order": 3,
               "distance": 318,
               "stop": {
-                "id": 3820,
-                "publicId": "3820",
+                "id": "3820",
+                "internalId": 3820,
                 "name": "Corpo Santo",
                 "position": {
                   "latitude": 38.707363,
@@ -3720,8 +3720,8 @@
               "order": 4,
               "distance": 412,
               "stop": {
-                "id": 3804,
-                "publicId": "3804",
+                "id": "3804",
+                "internalId": 3804,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.7059,
@@ -3736,8 +3736,8 @@
               "order": 5,
               "distance": 390,
               "stop": {
-                "id": 3802,
-                "publicId": "3802",
+                "id": "3802",
+                "internalId": 3802,
                 "name": "Cais Sodré",
                 "position": {
                   "latitude": 38.706332,
@@ -3752,8 +3752,8 @@
               "order": 6,
               "distance": 409,
               "stop": {
-                "id": 7102,
-                "publicId": "7102",
+                "id": "7102",
+                "internalId": 7102,
                 "name": "Conde Barão - Av. 24 Julho",
                 "position": {
                   "latitude": 38.706414,
@@ -3768,8 +3768,8 @@
               "order": 7,
               "distance": 207,
               "stop": {
-                "id": 3926,
-                "publicId": "3926",
+                "id": "3926",
+                "internalId": 3926,
                 "name": "Santos",
                 "position": {
                   "latitude": 38.706516,
@@ -3784,8 +3784,8 @@
               "order": 8,
               "distance": 304,
               "stop": {
-                "id": 3922,
-                "publicId": "3922",
+                "id": "3922",
+                "internalId": 3922,
                 "name": "Largo Vitorino Damásio",
                 "position": {
                   "latitude": 38.707333,
@@ -3800,8 +3800,8 @@
               "order": 9,
               "distance": 239,
               "stop": {
-                "id": 7103,
-                "publicId": "7103",
+                "id": "7103",
+                "internalId": 7103,
                 "name": "Conde Barão - Av. D. Carlos I",
                 "position": {
                   "latitude": 38.708901,
@@ -3816,8 +3816,8 @@
               "order": 10,
               "distance": 298,
               "stop": {
-                "id": 6701,
-                "publicId": "6701",
+                "id": "6701",
+                "internalId": 6701,
                 "name": "Assembleia Da República",
                 "position": {
                   "latitude": 38.711006,
@@ -3832,8 +3832,8 @@
               "order": 11,
               "distance": 198,
               "stop": {
-                "id": 6703,
-                "publicId": "6703",
+                "id": "6703",
+                "internalId": 6703,
                 "name": "Palácio De São Bento (Jardim)",
                 "position": {
                   "latitude": 38.71339,
@@ -3848,8 +3848,8 @@
               "order": 12,
               "distance": 279,
               "stop": {
-                "id": 6705,
-                "publicId": "6705",
+                "id": "6705",
+                "internalId": 6705,
                 "name": "Rua De São Bento",
                 "position": {
                   "latitude": 38.715028,
@@ -3864,8 +3864,8 @@
               "order": 13,
               "distance": 443,
               "stop": {
-                "id": 6817,
-                "publicId": "6817",
+                "id": "6817",
+                "internalId": 6817,
                 "name": "Rua Do Arco",
                 "position": {
                   "latitude": 38.717358,
@@ -3880,8 +3880,8 @@
               "order": 14,
               "distance": 468,
               "stop": {
-                "id": 6811,
-                "publicId": "6811",
+                "id": "6811",
+                "internalId": 6811,
                 "name": "Rato",
                 "position": {
                   "latitude": 38.720279,
@@ -3896,8 +3896,8 @@
               "order": 15,
               "distance": 439,
               "stop": {
-                "id": 1216,
-                "publicId": "1216",
+                "id": "1216",
+                "internalId": 1216,
                 "name": "Mq. Pombal - R. Alexandre Herc",
                 "position": {
                   "latitude": 38.722674,
@@ -3912,8 +3912,8 @@
               "order": 16,
               "distance": 180,
               "stop": {
-                "id": 1218,
-                "publicId": "1218",
+                "id": "1218",
+                "internalId": 1218,
                 "name": "R. Sta. Marta",
                 "position": {
                   "latitude": 38.725295,
@@ -3928,8 +3928,8 @@
               "order": 17,
               "distance": 418,
               "stop": {
-                "id": 6609,
-                "publicId": "6609",
+                "id": "6609",
+                "internalId": 6609,
                 "name": "R. Conde Redondo",
                 "position": {
                   "latitude": 38.726545,
@@ -3944,8 +3944,8 @@
               "order": 18,
               "distance": 205,
               "stop": {
-                "id": 6906,
-                "publicId": "6906",
+                "id": "6906",
+                "internalId": 6906,
                 "name": "Hosp. D. Estefânia",
                 "position": {
                   "latitude": 38.727541,
@@ -3960,8 +3960,8 @@
               "order": 19,
               "distance": 260,
               "stop": {
-                "id": 615,
-                "publicId": "615",
+                "id": "615",
+                "internalId": 615,
                 "name": "R. José Estêvão",
                 "position": {
                   "latitude": 38.727432,
@@ -3976,8 +3976,8 @@
               "order": 20,
               "distance": 311,
               "stop": {
-                "id": 611,
-                "publicId": "611",
+                "id": "611",
+                "internalId": 611,
                 "name": "R. Passos Manuel",
                 "position": {
                   "latitude": 38.728017,
@@ -3992,8 +3992,8 @@
               "order": 21,
               "distance": 172,
               "stop": {
-                "id": 6504,
-                "publicId": "6504",
+                "id": "6504",
+                "internalId": 6504,
                 "name": "Jardim Constantino",
                 "position": {
                   "latitude": 38.730821,
@@ -4008,8 +4008,8 @@
               "order": 22,
               "distance": 278,
               "stop": {
-                "id": 511,
-                "publicId": "511",
+                "id": "511",
+                "internalId": 511,
                 "name": "R. Pascoal Melo",
                 "position": {
                   "latitude": 38.731224,
@@ -4024,8 +4024,8 @@
               "order": 23,
               "distance": 206,
               "stop": {
-                "id": 505,
-                "publicId": "505",
+                "id": "505",
+                "internalId": 505,
                 "name": "Pç. Chile / Av. Almirante Reis",
                 "position": {
                   "latitude": 38.732672,
@@ -4040,8 +4040,8 @@
               "order": 24,
               "distance": 205,
               "stop": {
-                "id": 504,
-                "publicId": "504",
+                "id": "504",
+                "internalId": 504,
                 "name": "Pç. Chile",
                 "position": {
                   "latitude": 38.733227,
@@ -4056,8 +4056,8 @@
               "order": 25,
               "distance": 430,
               "stop": {
-                "id": 502,
-                "publicId": "502",
+                "id": "502",
+                "internalId": 502,
                 "name": "R. Morais Soares",
                 "position": {
                   "latitude": 38.732653,
@@ -4072,8 +4072,8 @@
               "order": 26,
               "distance": 353,
               "stop": {
-                "id": 7014,
-                "publicId": "7014",
+                "id": "7014",
+                "internalId": 7014,
                 "name": "Pç. Paiva Couceiro",
                 "position": {
                   "latitude": 38.730546,
@@ -4088,8 +4088,8 @@
               "order": 27,
               "distance": 430,
               "stop": {
-                "id": 11706,
-                "publicId": "11706",
+                "id": "11706",
+                "internalId": 11706,
                 "name": "Vale Escuro",
                 "position": {
                   "latitude": 38.728365,
@@ -4104,8 +4104,8 @@
               "order": 28,
               "distance": 266,
               "stop": {
-                "id": 11708,
-                "publicId": "11708",
+                "id": "11708",
+                "internalId": 11708,
                 "name": "Rua Castelo Branco Saraiva",
                 "position": {
                   "latitude": 38.725037,
@@ -4120,8 +4120,8 @@
               "order": 29,
               "distance": 218,
               "stop": {
-                "id": 9820,
-                "publicId": "9820",
+                "id": "9820",
+                "internalId": 9820,
                 "name": "Qta Dos Peixinhos",
                 "position": {
                   "latitude": 38.722732,
@@ -4136,8 +4136,8 @@
               "order": 30,
               "distance": 182,
               "stop": {
-                "id": 9823,
-                "publicId": "9823",
+                "id": "9823",
+                "internalId": 9823,
                 "name": "Escola Patrício Prazeres",
                 "position": {
                   "latitude": 38.721291,
@@ -4152,8 +4152,8 @@
               "order": 31,
               "distance": 579,
               "stop": {
-                "id": 9825,
-                "publicId": "9825",
+                "id": "9825",
+                "internalId": 9825,
                 "name": "Cç. Cruz Da Pedra",
                 "position": {
                   "latitude": 38.720385,
@@ -4168,8 +4168,8 @@
               "order": 32,
               "distance": 449,
               "stop": {
-                "id": 2128,
-                "publicId": "2128",
+                "id": "2128",
+                "internalId": 2128,
                 "name": "Estação Sta. Apolónia (Mercado",
                 "position": {
                   "latitude": 38.716784,
@@ -4184,8 +4184,8 @@
               "order": 33,
               "distance": 0,
               "stop": {
-                "id": 2133,
-                "publicId": "2133",
+                "id": "2133",
+                "internalId": 2133,
                 "name": "Estação De Santa Apolónia",
                 "position": {
                   "latitude": 38.713735,

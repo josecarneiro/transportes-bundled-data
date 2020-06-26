@@ -1,11 +1,17 @@
 {
-  "id": 50012,
-  "publicId": "50012",
+  "id": "50012",
+  "internalId": 50012,
   "name": "Telheiras",
   "position": {
     "latitude": 38.760467,
     "longitude": -9.169222
   },
   "visible": true,
-  "updateDate": "2019-01-16T08:34:11.000Z"
+  "updateDate": "2019-01-16T08:34:11.000Z",
+  "routes": [
+    "747",
+    "767",
+    "778",
+    "43B"
+  ]
 }

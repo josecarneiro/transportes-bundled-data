@@ -1,6 +1,6 @@
 {
-  "id": 160,
-  "number": "53E",
+  "id": "53E",
+  "internalId": 160,
   "name": "R. S. Paulo - Lg. Calhariz",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -94,8 +94,8 @@
               "order": 1,
               "distance": 259,
               "stop": {
-                "id": 50248,
-                "publicId": "9905",
+                "id": "9905",
+                "internalId": 50248,
                 "name": "Rua De São Paulo",
                 "position": {
                   "latitude": 38.708556,
@@ -110,8 +110,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 50247,
-                "publicId": "10507",
+                "id": "10507",
+                "internalId": 50247,
                 "name": "Largo Do Calhariz",
                 "position": {
                   "latitude": 38.710764,
@@ -206,8 +206,8 @@
               "order": 1,
               "distance": 259,
               "stop": {
-                "id": 50247,
-                "publicId": "10507",
+                "id": "10507",
+                "internalId": 50247,
                 "name": "Largo Do Calhariz",
                 "position": {
                   "latitude": 38.710764,
@@ -222,8 +222,8 @@
               "order": 2,
               "distance": 0,
               "stop": {
-                "id": 50248,
-                "publicId": "9905",
+                "id": "9905",
+                "internalId": 50248,
                 "name": "Rua De São Paulo",
                 "position": {
                   "latitude": 38.708556,

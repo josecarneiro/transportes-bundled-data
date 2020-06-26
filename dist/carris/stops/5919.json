@@ -1,11 +1,15 @@
 {
-  "id": 5919,
-  "publicId": "5919",
+  "id": "5919",
+  "internalId": 5919,
   "name": "Estr. Lumiar",
   "position": {
     "latitude": 38.77397,
     "longitude": -9.168557
   },
   "visible": true,
-  "updateDate": "2019-02-14T12:56:56.000Z"
+  "updateDate": "2019-02-14T12:56:56.000Z",
+  "routes": [
+    "703",
+    "44B"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 12623,
-  "publicId": "12623",
+  "id": "12623",
+  "internalId": 12623,
   "name": "Largo Dos Bombeiros",
   "position": {
     "latitude": 38.779076,
     "longitude": -9.111088
   },
   "visible": true,
-  "updateDate": "2008-12-05T15:17:45.000Z"
+  "updateDate": "2008-12-05T15:17:45.000Z",
+  "routes": [
+    "722"
+  ]
 }

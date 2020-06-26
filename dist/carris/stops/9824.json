@@ -1,11 +1,15 @@
 {
-  "id": 9824,
-  "publicId": "9824",
+  "id": "9824",
+  "internalId": 9824,
   "name": "Cç. Cruz Pedra",
   "position": {
     "latitude": 38.720459,
     "longitude": -9.117806
   },
   "visible": true,
-  "updateDate": "2019-04-08T11:43:54.000Z"
+  "updateDate": "2019-04-08T11:43:54.000Z",
+  "routes": [
+    "706",
+    "37B"
+  ]
 }

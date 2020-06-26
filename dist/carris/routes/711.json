@@ -1,6 +1,6 @@
 {
-  "id": 101,
-  "number": "711",
+  "id": "711",
+  "internalId": 101,
   "name": "Terreiro do Paço - Alto Damaia",
   "visible": true,
   "creationDate": "2020-05-20T09:11:49.000Z",
@@ -2970,8 +2970,8 @@
               "order": 1,
               "distance": 308,
               "stop": {
-                "id": 50221,
-                "publicId": "4509",
+                "id": "4509",
+                "internalId": 50221,
                 "name": "Terreiro Do Paço",
                 "position": {
                   "latitude": 38.708385,
@@ -2986,8 +2986,8 @@
               "order": 2,
               "distance": 488,
               "stop": {
-                "id": 5518,
-                "publicId": "5518",
+                "id": "5518",
+                "internalId": 5518,
                 "name": "R. Prata",
                 "position": {
                   "latitude": 38.711025,
@@ -3002,8 +3002,8 @@
               "order": 3,
               "distance": 305,
               "stop": {
-                "id": 919,
-                "publicId": "919",
+                "id": "919",
+                "internalId": 919,
                 "name": "Rossio",
                 "position": {
                   "latitude": 38.714399,
@@ -3018,8 +3018,8 @@
               "order": 4,
               "distance": 513,
               "stop": {
-                "id": 1003,
-                "publicId": "1003",
+                "id": "1003",
+                "internalId": 1003,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715976,
@@ -3034,8 +3034,8 @@
               "order": 5,
               "distance": 1004,
               "stop": {
-                "id": 1103,
-                "publicId": "1103",
+                "id": "1103",
+                "internalId": 1103,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.719736,
@@ -3050,8 +3050,8 @@
               "order": 6,
               "distance": 298,
               "stop": {
-                "id": 1209,
-                "publicId": "1209",
+                "id": "1209",
+                "internalId": 1209,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.725361,
@@ -3066,8 +3066,8 @@
               "order": 7,
               "distance": 494,
               "stop": {
-                "id": 1223,
-                "publicId": "1223",
+                "id": "1223",
+                "internalId": 1223,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.725106,
@@ -3082,8 +3082,8 @@
               "order": 8,
               "distance": 518,
               "stop": {
-                "id": 8501,
-                "publicId": "8501",
+                "id": "8501",
+                "internalId": 8501,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724375,
@@ -3098,8 +3098,8 @@
               "order": 9,
               "distance": 2506,
               "stop": {
-                "id": 8607,
-                "publicId": "8607",
+                "id": "8607",
+                "internalId": 8607,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723244,
@@ -3114,8 +3114,8 @@
               "order": 10,
               "distance": 378,
               "stop": {
-                "id": 8701,
-                "publicId": "8701",
+                "id": "8701",
+                "internalId": 8701,
                 "name": "Cruz Das Oliveiras",
                 "position": {
                   "latitude": 38.726592,
@@ -3130,8 +3130,8 @@
               "order": 11,
               "distance": 449,
               "stop": {
-                "id": 8703,
-                "publicId": "8703",
+                "id": "8703",
+                "internalId": 8703,
                 "name": "Av. Tenente Martins",
                 "position": {
                   "latitude": 38.728823,
@@ -3146,8 +3146,8 @@
               "order": 12,
               "distance": 299,
               "stop": {
-                "id": 8705,
-                "publicId": "8705",
+                "id": "8705",
+                "internalId": 8705,
                 "name": "Monsanto",
                 "position": {
                   "latitude": 38.732765,
@@ -3162,8 +3162,8 @@
               "order": 13,
               "distance": 136,
               "stop": {
-                "id": 8715,
-                "publicId": "8715",
+                "id": "8715",
+                "internalId": 8715,
                 "name": "Tribunal De Monsanto",
                 "position": {
                   "latitude": 38.732912,
@@ -3178,8 +3178,8 @@
               "order": 14,
               "distance": 399,
               "stop": {
-                "id": 8717,
-                "publicId": "8717",
+                "id": "8717",
+                "internalId": 8717,
                 "name": "Bº De Monsanto",
                 "position": {
                   "latitude": 38.732792,
@@ -3194,8 +3194,8 @@
               "order": 15,
               "distance": 1027,
               "stop": {
-                "id": 8707,
-                "publicId": "8707",
+                "id": "8707",
+                "internalId": 8707,
                 "name": "Luneta Dos Quartéis",
                 "position": {
                   "latitude": 38.731471,
@@ -3210,8 +3210,8 @@
               "order": 16,
               "distance": 259,
               "stop": {
-                "id": 8827,
-                "publicId": "8827",
+                "id": "8827",
+                "internalId": 8827,
                 "name": "Pina Manique",
                 "position": {
                   "latitude": 38.735751,
@@ -3226,8 +3226,8 @@
               "order": 17,
               "distance": 838,
               "stop": {
-                "id": 8829,
-                "publicId": "8829",
+                "id": "8829",
+                "internalId": 8829,
                 "name": "Bº Da Boavista",
                 "position": {
                   "latitude": 38.736401,
@@ -3242,8 +3242,8 @@
               "order": 18,
               "distance": 430,
               "stop": {
-                "id": 8835,
-                "publicId": "8835",
+                "id": "8835",
+                "internalId": 8835,
                 "name": "Estr. Buraca",
                 "position": {
                   "latitude": 38.741635,
@@ -3258,8 +3258,8 @@
               "order": 19,
               "distance": 584,
               "stop": {
-                "id": 8811,
-                "publicId": "8811",
+                "id": "8811",
+                "internalId": 8811,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743861,
@@ -3274,8 +3274,8 @@
               "order": 20,
               "distance": 190,
               "stop": {
-                "id": 2908,
-                "publicId": "2908",
+                "id": "2908",
+                "internalId": 2908,
                 "name": "R. Casquilha",
                 "position": {
                   "latitude": 38.746261,
@@ -3290,8 +3290,8 @@
               "order": 21,
               "distance": 291,
               "stop": {
-                "id": 2909,
-                "publicId": "2909",
+                "id": "2909",
+                "internalId": 2909,
                 "name": "B.º Sta. Cruz",
                 "position": {
                   "latitude": 38.747879,
@@ -3306,8 +3306,8 @@
               "order": 22,
               "distance": 406,
               "stop": {
-                "id": 50231,
-                "publicId": "2904",
+                "id": "2904",
+                "internalId": 50231,
                 "name": "Benfica (Mercado)",
                 "position": {
                   "latitude": 38.749741,
@@ -3322,8 +3322,8 @@
               "order": 23,
               "distance": 209,
               "stop": {
-                "id": 50170,
-                "publicId": "11009",
+                "id": "11009",
+                "internalId": 50170,
                 "name": "Estr. Benfica (Mercado)",
                 "position": {
                   "latitude": 38.75199,
@@ -3338,8 +3338,8 @@
               "order": 24,
               "distance": 569,
               "stop": {
-                "id": 11006,
-                "publicId": "11006",
+                "id": "11006",
+                "internalId": 11006,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.753411,
@@ -3354,8 +3354,8 @@
               "order": 25,
               "distance": 374,
               "stop": {
-                "id": 50234,
-                "publicId": "3101",
+                "id": "3101",
+                "internalId": 50234,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.750506,
@@ -3370,8 +3370,8 @@
               "order": 26,
               "distance": 221,
               "stop": {
-                "id": 3007,
-                "publicId": "3007",
+                "id": "3007",
+                "internalId": 3007,
                 "name": "Estação Damaia",
                 "position": {
                   "latitude": 38.748334,
@@ -3386,8 +3386,8 @@
               "order": 27,
               "distance": 208,
               "stop": {
-                "id": 3014,
-                "publicId": "3014",
+                "id": "3014",
+                "internalId": 3014,
                 "name": "Praça Das Águas Livres",
                 "position": {
                   "latitude": 38.746946,
@@ -3402,8 +3402,8 @@
               "order": 28,
               "distance": 336,
               "stop": {
-                "id": 3012,
-                "publicId": "3012",
+                "id": "3012",
+                "internalId": 3012,
                 "name": "Av. Dom João V",
                 "position": {
                   "latitude": 38.745485,
@@ -3418,8 +3418,8 @@
               "order": 29,
               "distance": 282,
               "stop": {
-                "id": 3020,
-                "publicId": "3020",
+                "id": "3020",
+                "internalId": 3020,
                 "name": "Rua Bernardino Machado",
                 "position": {
                   "latitude": 38.743612,
@@ -3434,8 +3434,8 @@
               "order": 30,
               "distance": 0,
               "stop": {
-                "id": 3021,
-                "publicId": "3021",
+                "id": "3021",
+                "internalId": 3021,
                 "name": "Alto Da Damaia",
                 "position": {
                   "latitude": 38.743514,
@@ -6524,8 +6524,8 @@
               "order": 1,
               "distance": 184,
               "stop": {
-                "id": 3021,
-                "publicId": "3021",
+                "id": "3021",
+                "internalId": 3021,
                 "name": "Alto Da Damaia",
                 "position": {
                   "latitude": 38.743514,
@@ -6540,8 +6540,8 @@
               "order": 2,
               "distance": 417,
               "stop": {
-                "id": 3019,
-                "publicId": "3019",
+                "id": "3019",
+                "internalId": 3019,
                 "name": "Rua Bernardino Machado",
                 "position": {
                   "latitude": 38.743212,
@@ -6556,8 +6556,8 @@
               "order": 3,
               "distance": 181,
               "stop": {
-                "id": 3013,
-                "publicId": "3013",
+                "id": "3013",
+                "internalId": 3013,
                 "name": "Av. Dom João V",
                 "position": {
                   "latitude": 38.745821,
@@ -6572,8 +6572,8 @@
               "order": 4,
               "distance": 162,
               "stop": {
-                "id": 3015,
-                "publicId": "3015",
+                "id": "3015",
+                "internalId": 3015,
                 "name": "Pç. Águas Livres",
                 "position": {
                   "latitude": 38.746839,
@@ -6588,8 +6588,8 @@
               "order": 5,
               "distance": 380,
               "stop": {
-                "id": 3018,
-                "publicId": "3018",
+                "id": "3018",
+                "internalId": 3018,
                 "name": "Estação Damaia",
                 "position": {
                   "latitude": 38.74813,
@@ -6604,8 +6604,8 @@
               "order": 6,
               "distance": 600,
               "stop": {
-                "id": 3003,
-                "publicId": "3003",
+                "id": "3003",
+                "internalId": 3003,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.749623,
@@ -6620,8 +6620,8 @@
               "order": 7,
               "distance": 579,
               "stop": {
-                "id": 11001,
-                "publicId": "11001",
+                "id": "11001",
+                "internalId": 11001,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.752705,
@@ -6636,8 +6636,8 @@
               "order": 8,
               "distance": 311,
               "stop": {
-                "id": 50132,
-                "publicId": "2903",
+                "id": "2903",
+                "internalId": 50132,
                 "name": "Benfica (Mercado)",
                 "position": {
                   "latitude": 38.75022,
@@ -6652,8 +6652,8 @@
               "order": 9,
               "distance": 222,
               "stop": {
-                "id": 2910,
-                "publicId": "2910",
+                "id": "2910",
+                "internalId": 2910,
                 "name": "B.º Sta. Cruz",
                 "position": {
                   "latitude": 38.747835,
@@ -6668,8 +6668,8 @@
               "order": 10,
               "distance": 553,
               "stop": {
-                "id": 2907,
-                "publicId": "2907",
+                "id": "2907",
+                "internalId": 2907,
                 "name": "R. Casquilha",
                 "position": {
                   "latitude": 38.745952,
@@ -6684,8 +6684,8 @@
               "order": 11,
               "distance": 432,
               "stop": {
-                "id": 8814,
-                "publicId": "8814",
+                "id": "8814",
+                "internalId": 8814,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743823,
@@ -6700,8 +6700,8 @@
               "order": 12,
               "distance": 743,
               "stop": {
-                "id": 8836,
-                "publicId": "8836",
+                "id": "8836",
+                "internalId": 8836,
                 "name": "Estrada Da Buraca",
                 "position": {
                   "latitude": 38.741619,
@@ -6716,8 +6716,8 @@
               "order": 13,
               "distance": 275,
               "stop": {
-                "id": 8828,
-                "publicId": "8828",
+                "id": "8828",
+                "internalId": 8828,
                 "name": "B.º Boavista",
                 "position": {
                   "latitude": 38.736157,
@@ -6732,8 +6732,8 @@
               "order": 14,
               "distance": 928,
               "stop": {
-                "id": 8826,
-                "publicId": "8826",
+                "id": "8826",
+                "internalId": 8826,
                 "name": "Pina Manique",
                 "position": {
                   "latitude": 38.735625,
@@ -6748,8 +6748,8 @@
               "order": 15,
               "distance": 397,
               "stop": {
-                "id": 8708,
-                "publicId": "8708",
+                "id": "8708",
+                "internalId": 8708,
                 "name": "Luneta Dos Quartéis",
                 "position": {
                   "latitude": 38.731455,
@@ -6764,8 +6764,8 @@
               "order": 16,
               "distance": 151,
               "stop": {
-                "id": 8718,
-                "publicId": "8718",
+                "id": "8718",
+                "internalId": 8718,
                 "name": "Bº De Monsanto",
                 "position": {
                   "latitude": 38.73271,
@@ -6780,8 +6780,8 @@
               "order": 17,
               "distance": 295,
               "stop": {
-                "id": 8716,
-                "publicId": "8716",
+                "id": "8716",
+                "internalId": 8716,
                 "name": "Tribunal De Monsanto",
                 "position": {
                   "latitude": 38.73296,
@@ -6796,8 +6796,8 @@
               "order": 18,
               "distance": 450,
               "stop": {
-                "id": 8706,
-                "publicId": "8706",
+                "id": "8706",
+                "internalId": 8706,
                 "name": "Monsanto",
                 "position": {
                   "latitude": 38.732565,
@@ -6812,8 +6812,8 @@
               "order": 19,
               "distance": 542,
               "stop": {
-                "id": 8704,
-                "publicId": "8704",
+                "id": "8704",
+                "internalId": 8704,
                 "name": "Av. Tenente Martins",
                 "position": {
                   "latitude": 38.728692,
@@ -6828,8 +6828,8 @@
               "order": 20,
               "distance": 815,
               "stop": {
-                "id": 8702,
-                "publicId": "8702",
+                "id": "8702",
+                "internalId": 8702,
                 "name": "Cruz Das Oliveiras",
                 "position": {
                   "latitude": 38.725342,
@@ -6844,8 +6844,8 @@
               "order": 21,
               "distance": 422,
               "stop": {
-                "id": 21308,
-                "publicId": "21308",
+                "id": "21308",
+                "internalId": 21308,
                 "name": "Estrada Do Alvito",
                 "position": {
                   "latitude": 38.723391,
@@ -6860,8 +6860,8 @@
               "order": 22,
               "distance": 587,
               "stop": {
-                "id": 50323,
-                "publicId": "21309",
+                "id": "21309",
+                "internalId": 50323,
                 "name": "Parque Infantil Alvito",
                 "position": {
                   "latitude": 38.719873,
@@ -6876,8 +6876,8 @@
               "order": 23,
               "distance": 1620,
               "stop": {
-                "id": 50324,
-                "publicId": "21310",
+                "id": "21310",
+                "internalId": 50324,
                 "name": "Estrada Pimenteira",
                 "position": {
                   "latitude": 38.723133,
@@ -6892,8 +6892,8 @@
               "order": 24,
               "distance": 437,
               "stop": {
-                "id": 8608,
-                "publicId": "8608",
+                "id": "8608",
+                "internalId": 8608,
                 "name": "Viaduto Duarte Pacheco",
                 "position": {
                   "latitude": 38.723303,
@@ -6908,8 +6908,8 @@
               "order": 25,
               "distance": 521,
               "stop": {
-                "id": 8502,
-                "publicId": "8502",
+                "id": "8502",
+                "internalId": 8502,
                 "name": "Amoreiras",
                 "position": {
                   "latitude": 38.724091,
@@ -6924,8 +6924,8 @@
               "order": 26,
               "distance": 189,
               "stop": {
-                "id": 1224,
-                "publicId": "1224",
+                "id": "1224",
+                "internalId": 1224,
                 "name": "Rua Joaquim António De Aguiar",
                 "position": {
                   "latitude": 38.724903,
@@ -6940,8 +6940,8 @@
               "order": 27,
               "distance": 886,
               "stop": {
-                "id": 50197,
-                "publicId": "1215",
+                "id": "1215",
+                "internalId": 50197,
                 "name": "Marquês De Pombal",
                 "position": {
                   "latitude": 38.724996,
@@ -6956,8 +6956,8 @@
               "order": 28,
               "distance": 614,
               "stop": {
-                "id": 1102,
-                "publicId": "1102",
+                "id": "1102",
+                "internalId": 1102,
                 "name": "Av. Da Liberdade",
                 "position": {
                   "latitude": 38.720248,
@@ -6972,8 +6972,8 @@
               "order": 29,
               "distance": 320,
               "stop": {
-                "id": 1006,
-                "publicId": "1006",
+                "id": "1006",
+                "internalId": 1006,
                 "name": "Restauradores",
                 "position": {
                   "latitude": 38.715631,
@@ -6988,8 +6988,8 @@
               "order": 30,
               "distance": 316,
               "stop": {
-                "id": 902,
-                "publicId": "902",
+                "id": "902",
+                "internalId": 902,
                 "name": "Rossio",
                 "position": {
                   "latitude": 38.71357,
@@ -7004,8 +7004,8 @@
               "order": 31,
               "distance": 450,
               "stop": {
-                "id": 5510,
-                "publicId": "5510",
+                "id": "5510",
+                "internalId": 5510,
                 "name": "R. Ouro",
                 "position": {
                   "latitude": 38.710845,
@@ -7020,8 +7020,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 50221,
-                "publicId": "4509",
+                "id": "4509",
+                "internalId": 50221,
                 "name": "Terreiro Do Paço",
                 "position": {
                   "latitude": 38.708385,

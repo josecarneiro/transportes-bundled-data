@@ -1,11 +1,19 @@
 {
-  "id": 607,
-  "publicId": "607",
+  "id": "607",
+  "internalId": 607,
   "name": "Av. Almirante Reis / R. Angola",
   "position": {
     "latitude": 38.725575,
     "longitude": -9.134932
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:42:39.000Z"
+  "updateDate": "2018-04-03T15:42:39.000Z",
+  "routes": [
+    "208",
+    "708",
+    "734",
+    "736",
+    "28E",
+    "88C"
+  ]
 }

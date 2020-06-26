@@ -1,11 +1,15 @@
 {
-  "id": 9206,
-  "publicId": "9206",
+  "id": "9206",
+  "internalId": 9206,
   "name": "Hosp. Sto. António Capuchos",
   "position": {
     "latitude": 38.722571,
     "longitude": -9.141549
   },
   "visible": true,
-  "updateDate": "2019-09-03T16:53:28.000Z"
+  "updateDate": "2019-09-03T16:53:28.000Z",
+  "routes": [
+    "723",
+    "730"
+  ]
 }

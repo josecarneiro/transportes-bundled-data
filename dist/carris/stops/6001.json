@@ -1,11 +1,17 @@
 {
-  "id": 6001,
-  "publicId": "6001",
+  "id": "6001",
+  "internalId": 6001,
   "name": "R. João Amaral",
   "position": {
     "latitude": 38.787328,
     "longitude": -9.149174
   },
   "visible": true,
-  "updateDate": "2019-03-20T17:58:00.000Z"
+  "updateDate": "2019-03-20T17:58:00.000Z",
+  "routes": [
+    "207",
+    "703",
+    "717",
+    "798"
+  ]
 }

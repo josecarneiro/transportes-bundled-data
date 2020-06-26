@@ -1,11 +1,16 @@
 {
-  "id": 1812,
-  "publicId": "1812",
+  "id": "1812",
+  "internalId": 1812,
   "name": "Saldanha",
   "position": {
     "latitude": 38.733625,
     "longitude": -9.145091
   },
   "visible": true,
-  "updateDate": "2011-09-13T16:40:06.000Z"
+  "updateDate": "2011-09-13T16:40:06.000Z",
+  "routes": [
+    "736",
+    "744",
+    "783"
+  ]
 }

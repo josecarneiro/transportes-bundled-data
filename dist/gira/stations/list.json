@@ -1,17 +1,21 @@
 [
   {
     "id": "001",
-    "name": "Jardim da Ã�gua",
+    "name": "Jardim da Água",
     "type": "B",
     "position": {
       "latitude": 38.761218,
       "longitude": -9.095019
     },
-    "boundingBox": [
-      -9.095019,
-      38.761218,
-      -9.095019,
-      38.761218
+    "bounds": [
+      {
+        "longitude": -9.095019,
+        "latitude": 38.761218
+      },
+      {
+        "longitude": -9.095019,
+        "latitude": 38.761218
+      }
     ]
   },
   {
@@ -22,266 +26,15 @@
       "latitude": 38.71383,
       "longitude": -9.13828
     },
-    "boundingBox": [
-      -9.13828,
-      38.71383,
-      -9.13828,
-      38.71383
-    ]
-  },
-  {
-    "id": "229",
-    "name": "Av. 24 de Julho",
-    "type": "B",
-    "position": {
-      "latitude": 38.70662,
-      "longitude": -9.14949
-    },
-    "boundingBox": [
-      -9.14949,
-      38.70662,
-      -9.14949,
-      38.70662
-    ]
-  },
-  {
-    "id": "104",
-    "name": "Gare do Oriente",
-    "type": "A",
-    "position": {
-      "latitude": 38.766716,
-      "longitude": -9.097322
-    },
-    "boundingBox": [
-      -9.097322,
-      38.766716,
-      -9.097322,
-      38.766716
-    ]
-  },
-  {
-    "id": "107",
-    "name": "Rotunda dos Vice-Reis",
-    "type": "B",
-    "position": {
-      "latitude": 38.774505,
-      "longitude": -9.095416
-    },
-    "boundingBox": [
-      -9.095416,
-      38.774505,
-      -9.095416,
-      38.774505
-    ]
-  },
-  {
-    "id": "108",
-    "name": "Rua do Bojador",
-    "type": "B",
-    "position": {
-      "latitude": 38.774289,
-      "longitude": -9.09235
-    },
-    "boundingBox": [
-      -9.09235,
-      38.774289,
-      -9.09235,
-      38.774289
-    ]
-  },
-  {
-    "id": "481",
-    "name": "Campo Grande / Museu da Cidade",
-    "type": "B",
-    "position": {
-      "latitude": 38.758207,
-      "longitude": -9.156169
-    },
-    "boundingBox": [
-      -9.156169,
-      38.758207,
-      -9.156169,
-      38.758207
-    ]
-  },
-  {
-    "id": "464",
-    "name": "Av. da Igreja / Rua Afonso Lopes Vieira",
-    "type": "B",
-    "position": {
-      "latitude": 38.75165,
-      "longitude": -9.148427
-    },
-    "boundingBox": [
-      -9.148427,
-      38.75165,
-      -9.148427,
-      38.75165
-    ]
-  },
-  {
-    "id": "442",
-    "name": "Campo Pequeno",
-    "type": "A",
-    "position": {
-      "latitude": 38.743371,
-      "longitude": -9.14523
-    },
-    "boundingBox": [
-      -9.14523,
-      38.743371,
-      -9.14523,
-      38.743371
-    ]
-  },
-  {
-    "id": "473",
-    "name": "Av. do Brasil / Av. de Roma",
-    "type": "B",
-    "position": {
-      "latitude": 38.75643,
-      "longitude": -9.14697
-    },
-    "boundingBox": [
-      -9.14697,
-      38.75643,
-      -9.14697,
-      38.75643
-    ]
-  },
-  {
-    "id": "105",
-    "name": "CC Vasco da Gama",
-    "type": "A",
-    "position": {
-      "latitude": 38.768548,
-      "longitude": -9.096222
-    },
-    "boundingBox": [
-      -9.096222,
-      38.768548,
-      -9.096222,
-      38.768548
-    ]
-  },
-  {
-    "id": "106",
-    "name": "Jardim Garcia da Orta",
-    "type": "B",
-    "position": {
-      "latitude": 38.769459,
-      "longitude": -9.092506
-    },
-    "boundingBox": [
-      -9.092506,
-      38.769459,
-      -9.092506,
-      38.769459
-    ]
-  },
-  {
-    "id": "109",
-    "name": "Alameda dos Oceanos / Rua Ilha dos Amores",
-    "type": "B",
-    "position": {
-      "latitude": 38.777589,
-      "longitude": -9.094672
-    },
-    "boundingBox": [
-      -9.094672,
-      38.777589,
-      -9.094672,
-      38.777589
-    ]
-  },
-  {
-    "id": "468",
-    "name": "Largo Frei Heitor Pinto",
-    "type": "B",
-    "position": {
-      "latitude": 38.75482,
-      "longitude": -9.13827
-    },
-    "boundingBox": [
-      -9.13827,
-      38.75482,
-      -9.13827,
-      38.75482
-    ]
-  },
-  {
-    "id": "474",
-    "name": "Av. do Brasil / Av. Rio de Janeiro",
-    "type": "A",
-    "position": {
-      "latitude": 38.75832,
-      "longitude": -9.1409
-    },
-    "boundingBox": [
-      -9.1409,
-      38.75832,
-      -9.1409,
-      38.75832
-    ]
-  },
-  {
-    "id": "463",
-    "name": "Campo Grande / Av. da Igreja",
-    "type": "B",
-    "position": {
-      "latitude": 38.75243,
-      "longitude": -9.14951
-    },
-    "boundingBox": [
-      -9.14951,
-      38.75243,
-      -9.14951,
-      38.75243
-    ]
-  },
-  {
-    "id": "407",
-    "name": "Praça Duque de Saldanha",
-    "type": "A",
-    "position": {
-      "latitude": 38.73434,
-      "longitude": -9.14446
-    },
-    "boundingBox": [
-      -9.14446,
-      38.73434,
-      -9.14446,
-      38.73434
-    ]
-  },
-  {
-    "id": "307",
-    "name": "Marquês de Pombal",
-    "type": "A",
-    "position": {
-      "latitude": 38.724954,
-      "longitude": -9.149334
-    },
-    "boundingBox": [
-      -9.149334,
-      38.724954,
-      -9.149334,
-      38.724954
-    ]
-  },
-  {
-    "id": "218",
-    "name": "Cais do Sodré",
-    "type": "A",
-    "position": {
-      "latitude": 38.70617,
-      "longitude": -9.14471
-    },
-    "boundingBox": [
-      -9.14471,
-      38.70617,
-      -9.14471,
-      38.70617
+    "bounds": [
+      {
+        "longitude": -9.13828,
+        "latitude": 38.71383
+      },
+      {
+        "longitude": -9.13828,
+        "latitude": 38.71383
+      }
     ]
   },
   {
@@ -292,446 +45,15 @@
       "latitude": 38.756161,
       "longitude": -9.096804
     },
-    "boundingBox": [
-      -9.096804,
-      38.756161,
-      -9.096804,
-      38.756161
-    ]
-  },
-  {
-    "id": "452",
-    "name": "Rua Teixeira de Pascoais / Rua Dr. Gama Barros",
-    "type": "B",
-    "position": {
-      "latitude": 38.747751,
-      "longitude": -9.136681
-    },
-    "boundingBox": [
-      -9.136681,
-      38.747751,
-      -9.136681,
-      38.747751
-    ]
-  },
-  {
-    "id": "412",
-    "name": "Av. Ressano Garcia / Av. António Augusto de Aguiar",
-    "type": "B",
-    "position": {
-      "latitude": 38.73448,
-      "longitude": -9.1546
-    },
-    "boundingBox": [
-      -9.1546,
-      38.73448,
-      -9.1546,
-      38.73448
-    ]
-  },
-  {
-    "id": "428",
-    "name": "Av. República / Avenida Barbosa Du Bocage",
-    "type": "A",
-    "position": {
-      "latitude": 38.74047,
-      "longitude": -9.14684
-    },
-    "boundingBox": [
-      -9.14684,
-      38.74047,
-      -9.14684,
-      38.74047
-    ]
-  },
-  {
-    "id": "403",
-    "name": "Av. Fontes Pereira de Melo",
-    "type": "B",
-    "position": {
-      "latitude": 38.731698,
-      "longitude": -9.146522
-    },
-    "boundingBox": [
-      -9.146522,
-      38.731698,
-      -9.146522,
-      38.731698
-    ]
-  },
-  {
-    "id": "484",
-    "name": "Rua Professor Vieira de Almeida",
-    "type": "A",
-    "position": {
-      "latitude": 38.76081,
-      "longitude": -9.16658
-    },
-    "boundingBox": [
-      -9.16658,
-      38.76081,
-      -9.16658,
-      38.76081
-    ]
-  },
-  {
-    "id": "224",
-    "name": "Martim Moniz",
-    "type": "A",
-    "position": {
-      "latitude": 38.71498,
-      "longitude": -9.13651
-    },
-    "boundingBox": [
-      -9.13651,
-      38.71498,
-      -9.13651,
-      38.71498
-    ]
-  },
-  {
-    "id": "222",
-    "name": "Praça da Figueira",
-    "type": "A",
-    "position": {
-      "latitude": 38.71383,
-      "longitude": -9.13828
-    },
-    "boundingBox": [
-      -9.13828,
-      38.71383,
-      -9.13828,
-      38.71383
-    ]
-  },
-  {
-    "id": "103",
-    "name": "Jardim da Água",
-    "type": "B",
-    "position": {
-      "latitude": 38.761218,
-      "longitude": -9.095019
-    },
-    "boundingBox": [
-      -9.095019,
-      38.761218,
-      -9.095019,
-      38.761218
-    ]
-  },
-  {
-    "id": "457",
-    "name": "Rua Aboim Ascensão",
-    "type": "B",
-    "position": {
-      "latitude": 38.74975,
-      "longitude": -9.14722
-    },
-    "boundingBox": [
-      -9.14722,
-      38.74975,
-      -9.14722,
-      38.74975
-    ]
-  },
-  {
-    "id": "472",
-    "name": "Rua Marquês Soveral / ES Padre António Vieira",
-    "type": "B",
-    "position": {
-      "latitude": 38.75784,
-      "longitude": -9.13608
-    },
-    "boundingBox": [
-      -9.13608,
-      38.75784,
-      -9.13608,
-      38.75784
-    ]
-  },
-  {
-    "id": "427",
-    "name": "Av. República / Av. Visconde Valmor",
-    "type": "A",
-    "position": {
-      "latitude": 38.73812,
-      "longitude": -9.14617
-    },
-    "boundingBox": [
-      -9.14617,
-      38.73812,
-      -9.14617,
-      38.73812
-    ]
-  },
-  {
-    "id": "471",
-    "name": "Rua Lopes de Mendonça / EB São João de Brito",
-    "type": "B",
-    "position": {
-      "latitude": 38.756487,
-      "longitude": -9.137337
-    },
-    "boundingBox": [
-      -9.137337,
-      38.756487,
-      -9.137337,
-      38.756487
-    ]
-  },
-  {
-    "id": "485",
-    "name": "Rua Tomás da Fonseca / Rua António Albino Machado",
-    "type": "B",
-    "position": {
-      "latitude": 38.756,
-      "longitude": -9.17
-    },
-    "boundingBox": [
-      -9.17,
-      38.756,
-      -9.17,
-      38.756
-    ]
-  },
-  {
-    "id": "110",
-    "name": "Rua de Moscavide",
-    "type": "B",
-    "position": {
-      "latitude": 38.778466,
-      "longitude": -9.097068
-    },
-    "boundingBox": [
-      -9.097068,
-      38.778466,
-      -9.097068,
-      38.778466
-    ]
-  },
-  {
-    "id": "414",
-    "name": "Av. Duque de Ávila / Rua Pinheiro Chagas",
-    "type": "B",
-    "position": {
-      "latitude": 38.735,
-      "longitude": -9.151
-    },
-    "boundingBox": [
-      -9.151,
-      38.735,
-      -9.151,
-      38.735
-    ]
-  },
-  {
-    "id": "453",
-    "name": "Av. Roma / Av. EUA",
-    "type": "B",
-    "position": {
-      "latitude": 38.74873,
-      "longitude": -9.14207
-    },
-    "boundingBox": [
-      -9.14207,
-      38.74873,
-      -9.14207,
-      38.74873
-    ]
-  },
-  {
-    "id": "416",
-    "name": "Av. República / Avenida Duque de Ávila",
-    "type": "A",
-    "position": {
-      "latitude": 38.735304,
-      "longitude": -9.14553
-    },
-    "boundingBox": [
-      -9.14553,
-      38.735304,
-      -9.14553,
-      38.735304
-    ]
-  },
-  {
-    "id": "305",
-    "name": "Avenida da Liberdade / Rua Barata Salgueiro",
-    "type": "A",
-    "position": {
-      "latitude": 38.72228,
-      "longitude": -9.147
-    },
-    "boundingBox": [
-      -9.147,
-      38.72228,
-      -9.147,
-      38.72228
-    ]
-  },
-  {
-    "id": "487",
-    "name": "Rua Professor João Barreira",
-    "type": "B",
-    "position": {
-      "latitude": 38.76136,
-      "longitude": -9.17096
-    },
-    "boundingBox": [
-      -9.17096,
-      38.76136,
-      -9.17096,
-      38.76136
-    ]
-  },
-  {
-    "id": "431",
-    "name": "Rua do Arco Cego / Av. Magalhães Lima",
-    "type": "B",
-    "position": {
-      "latitude": 38.73937,
-      "longitude": -9.14199
-    },
-    "boundingBox": [
-      -9.14199,
-      38.73937,
-      -9.14199,
-      38.73937
-    ]
-  },
-  {
-    "id": "426",
-    "name": "Av. Elias Garcia / Av. 5 de Outubro",
-    "type": "B",
-    "position": {
-      "latitude": 38.739046,
-      "longitude": -9.14793
-    },
-    "boundingBox": [
-      -9.14793,
-      38.739046,
-      -9.14793,
-      38.739046
-    ]
-  },
-  {
-    "id": "459",
-    "name": "Rua Maria Amália Vaz de Carvalho / ES Rainha D. Leonor",
-    "type": "B",
-    "position": {
-      "latitude": 38.751481,
-      "longitude": -9.141741
-    },
-    "boundingBox": [
-      -9.141741,
-      38.751481,
-      -9.141741,
-      38.751481
-    ]
-  },
-  {
-    "id": "486",
-    "name": "Rua Hermano Neves / Rua José Escada",
-    "type": "B",
-    "position": {
-      "latitude": 38.75954,
-      "longitude": -9.16985
-    },
-    "boundingBox": [
-      -9.16985,
-      38.75954,
-      -9.16985,
-      38.75954
-    ]
-  },
-  {
-    "id": "225",
-    "name": "Martim Moniz",
-    "type": "A",
-    "position": {
-      "latitude": 38.71526,
-      "longitude": -9.13694
-    },
-    "boundingBox": [
-      -9.13694,
-      38.71526,
-      -9.13694,
-      38.71526
-    ]
-  },
-  {
-    "id": "216",
-    "name": "Praça D. Luís I",
-    "type": "A",
-    "position": {
-      "latitude": 38.70663,
-      "longitude": -9.14655
-    },
-    "boundingBox": [
-      -9.14655,
-      38.70663,
-      -9.14655,
-      38.70663
-    ]
-  },
-  {
-    "id": "433",
-    "name": "Av. Paris / Av. Almirante Reis",
-    "type": "B",
-    "position": {
-      "latitude": 38.74095,
-      "longitude": -9.13409
-    },
-    "boundingBox": [
-      -9.13409,
-      38.74095,
-      -9.13409,
-      38.74095
-    ]
-  },
-  {
-    "id": "415",
-    "name": "Av. Duque de Ávila / Av. Conde Valbom",
-    "type": "B",
-    "position": {
-      "latitude": 38.735188,
-      "longitude": -9.148443
-    },
-    "boundingBox": [
-      -9.148443,
-      38.735188,
-      -9.148443,
-      38.735188
-    ]
-  },
-  {
-    "id": "423",
-    "name": "Av. Conde Valbom / Rua Marquês Sá da Bandeira",
-    "type": "B",
-    "position": {
-      "latitude": 38.737911,
-      "longitude": -9.152295
-    },
-    "boundingBox": [
-      -9.152295,
-      38.737911,
-      -9.152295,
-      38.737911
-    ]
-  },
-  {
-    "id": "488",
-    "name": "Rua Fernando Namora / Rua António Quadros",
-    "type": "B",
-    "position": {
-      "latitude": 38.76014,
-      "longitude": -9.17526
-    },
-    "boundingBox": [
-      -9.17526,
-      38.76014,
-      -9.17526,
-      38.76014
+    "bounds": [
+      {
+        "longitude": -9.096804,
+        "latitude": 38.756161
+      },
+      {
+        "longitude": -9.096804,
+        "latitude": 38.756161
+      }
     ]
   },
   {
@@ -742,191 +64,167 @@
       "latitude": 38.759156,
       "longitude": -9.096439
     },
-    "boundingBox": [
-      -9.096439,
-      38.759156,
-      -9.096439,
-      38.759156
+    "bounds": [
+      {
+        "longitude": -9.096439,
+        "latitude": 38.759156
+      },
+      {
+        "longitude": -9.096439,
+        "latitude": 38.759156
+      }
     ]
   },
   {
-    "id": "408",
-    "name": "Praça Duque de Saldanha",
-    "type": "A",
-    "position": {
-      "latitude": 38.733749,
-      "longitude": -9.144117
-    },
-    "boundingBox": [
-      -9.144117,
-      38.733749,
-      -9.144117,
-      38.733749
-    ]
-  },
-  {
-    "id": "443",
-    "name": "Av. de Roma / Fórum Lisboa",
+    "id": "103",
+    "name": "Jardim da Água",
     "type": "B",
     "position": {
-      "latitude": 38.74351,
-      "longitude": -9.13866
+      "latitude": 38.761218,
+      "longitude": -9.095019
     },
-    "boundingBox": [
-      -9.13866,
-      38.74351,
-      -9.13866,
-      38.74351
+    "bounds": [
+      {
+        "longitude": -9.095019,
+        "latitude": 38.761218
+      },
+      {
+        "longitude": -9.095019,
+        "latitude": 38.761218
+      }
     ]
   },
   {
-    "id": "406",
-    "name": "Praça Duque de Saldanha",
+    "id": "104",
+    "name": "Gare do Oriente",
     "type": "A",
     "position": {
-      "latitude": 38.734247,
-      "longitude": -9.145341
+      "latitude": 38.766716,
+      "longitude": -9.097322
     },
-    "boundingBox": [
-      -9.145341,
-      38.734247,
-      -9.145341,
-      38.734247
+    "bounds": [
+      {
+        "longitude": -9.097322,
+        "latitude": 38.766716
+      },
+      {
+        "longitude": -9.097322,
+        "latitude": 38.766716
+      }
     ]
   },
   {
-    "id": "462",
-    "name": "Campo Grande / Biblioteca Nacional",
-    "type": "B",
-    "position": {
-      "latitude": 38.75027,
-      "longitude": -9.15031
-    },
-    "boundingBox": [
-      -9.15031,
-      38.75027,
-      -9.15031,
-      38.75027
-    ]
-  },
-  {
-    "id": "446",
-    "name": "Av. República / Interface Entrecampos ",
+    "id": "105",
+    "name": "CC Vasco da Gama",
     "type": "A",
     "position": {
-      "latitude": 38.74456,
-      "longitude": -9.14773
+      "latitude": 38.768548,
+      "longitude": -9.096222
     },
-    "boundingBox": [
-      -9.14773,
-      38.74456,
-      -9.14773,
-      38.74456
+    "bounds": [
+      {
+        "longitude": -9.096222,
+        "latitude": 38.768548
+      },
+      {
+        "longitude": -9.096222,
+        "latitude": 38.768548
+      }
     ]
   },
   {
-    "id": "483",
-    "name": "Rua Professor Francisco Lucas Pires ",
+    "id": "106",
+    "name": "Jardim Garcia da Orta",
     "type": "B",
     "position": {
-      "latitude": 38.75939,
-      "longitude": -9.16405
+      "latitude": 38.769459,
+      "longitude": -9.092506
     },
-    "boundingBox": [
-      -9.16405,
-      38.75939,
-      -9.16405,
-      38.75939
+    "bounds": [
+      {
+        "longitude": -9.092506,
+        "latitude": 38.769459
+      },
+      {
+        "longitude": -9.092506,
+        "latitude": 38.769459
+      }
     ]
   },
   {
-    "id": "421",
-    "name": "Alameda D. Afonso Henriques",
-    "type": "A",
-    "position": {
-      "latitude": 38.73736,
-      "longitude": -9.13416
-    },
-    "boundingBox": [
-      -9.13416,
-      38.73736,
-      -9.13416,
-      38.73736
-    ]
-  },
-  {
-    "id": "401",
-    "name": "Rua Martens Ferrão / Av. Fontes Pereira de Melo",
+    "id": "107",
+    "name": "Rotunda dos Vice-Reis",
     "type": "B",
     "position": {
-      "latitude": 38.72894,
-      "longitude": -9.14742
+      "latitude": 38.774505,
+      "longitude": -9.095416
     },
-    "boundingBox": [
-      -9.14742,
-      38.72894,
-      -9.14742,
-      38.72894
+    "bounds": [
+      {
+        "longitude": -9.095416,
+        "latitude": 38.774505
+      },
+      {
+        "longitude": -9.095416,
+        "latitude": 38.774505
+      }
     ]
   },
   {
-    "id": "420",
-    "name": "Av. Rovisco Pais / Av. Manuel da Maia",
+    "id": "108",
+    "name": "Rua do Bojador",
     "type": "B",
     "position": {
-      "latitude": 38.73617,
-      "longitude": -9.13672
+      "latitude": 38.774289,
+      "longitude": -9.09235
     },
-    "boundingBox": [
-      -9.13672,
-      38.73617,
-      -9.13672,
-      38.73617
+    "bounds": [
+      {
+        "longitude": -9.09235,
+        "latitude": 38.774289
+      },
+      {
+        "longitude": -9.09235,
+        "latitude": 38.774289
+      }
     ]
   },
   {
-    "id": "410",
-    "name": "Rua da Mesquita / Universidade Nova de Lisboa",
+    "id": "109",
+    "name": "Alameda dos Oceanos / Rua Ilha dos Amores",
     "type": "B",
     "position": {
-      "latitude": 38.73492,
-      "longitude": -9.16015
+      "latitude": 38.777589,
+      "longitude": -9.094672
     },
-    "boundingBox": [
-      -9.16015,
-      38.73492,
-      -9.16015,
-      38.73492
+    "bounds": [
+      {
+        "longitude": -9.094672,
+        "latitude": 38.777589
+      },
+      {
+        "longitude": -9.094672,
+        "latitude": 38.777589
+      }
     ]
   },
   {
-    "id": "301",
-    "name": "Avenida da Liberdade / Restauradores",
-    "type": "A",
+    "id": "110",
+    "name": "Rua de Moscavide",
+    "type": "B",
     "position": {
-      "latitude": 38.71702,
-      "longitude": -9.14242
+      "latitude": 38.778466,
+      "longitude": -9.097068
     },
-    "boundingBox": [
-      -9.14242,
-      38.71702,
-      -9.14242,
-      38.71702
-    ]
-  },
-  {
-    "id": "304",
-    "name": "Avenida da Liberdade / São Jorge",
-    "type": "A",
-    "position": {
-      "latitude": 38.72026,
-      "longitude": -9.14637
-    },
-    "boundingBox": [
-      -9.14637,
-      38.72026,
-      -9.14637,
-      38.72026
+    "bounds": [
+      {
+        "longitude": -9.097068,
+        "latitude": 38.778466
+      },
+      {
+        "longitude": -9.097068,
+        "latitude": 38.778466
+      }
     ]
   },
   {
@@ -937,11 +235,15 @@
       "latitude": 38.78069,
       "longitude": -9.09622
     },
-    "boundingBox": [
-      -9.09622,
-      38.78069,
-      -9.09622,
-      38.78069
+    "bounds": [
+      {
+        "longitude": -9.09622,
+        "latitude": 38.78069
+      },
+      {
+        "longitude": -9.09622,
+        "latitude": 38.78069
+      }
     ]
   },
   {
@@ -952,101 +254,15 @@
       "latitude": 38.78836,
       "longitude": -9.09974
     },
-    "boundingBox": [
-      -9.09974,
-      38.78836,
-      -9.09974,
-      38.78836
-    ]
-  },
-  {
-    "id": "456",
-    "name": "Entrecampos / Av. das Forças Armadas",
-    "type": "A",
-    "position": {
-      "latitude": 38.74877,
-      "longitude": -9.14872
-    },
-    "boundingBox": [
-      -9.14872,
-      38.74877,
-      -9.14872,
-      38.74877
-    ]
-  },
-  {
-    "id": "212",
-    "name": "Av. Infante Dom Henrique / Terminal de Cruzeiros",
-    "type": "B",
-    "position": {
-      "latitude": 38.71035,
-      "longitude": -9.12769
-    },
-    "boundingBox": [
-      -9.12769,
-      38.71035,
-      -9.12769,
-      38.71035
-    ]
-  },
-  {
-    "id": "215",
-    "name": "Av. 24 de Julho",
-    "type": "B",
-    "position": {
-      "latitude": 38.70662,
-      "longitude": -9.14949
-    },
-    "boundingBox": [
-      -9.14949,
-      38.70662,
-      -9.14949,
-      38.70662
-    ]
-  },
-  {
-    "id": "475",
-    "name": "Av. Professor Gama Pinto / Cantina Velha",
-    "type": "B",
-    "position": {
-      "latitude": 38.75115,
-      "longitude": -9.15907
-    },
-    "boundingBox": [
-      -9.15907,
-      38.75115,
-      -9.15907,
-      38.75115
-    ]
-  },
-  {
-    "id": "480",
-    "name": "Faculdade de Ciências",
-    "type": "B",
-    "position": {
-      "latitude": 38.75587,
-      "longitude": -9.15503
-    },
-    "boundingBox": [
-      -9.15503,
-      38.75587,
-      -9.15503,
-      38.75587
-    ]
-  },
-  {
-    "id": "430",
-    "name": "Av. Barbosa Du Bocage / Rua Arco do Cego",
-    "type": "B",
-    "position": {
-      "latitude": 38.74081,
-      "longitude": -9.14329
-    },
-    "boundingBox": [
-      -9.14329,
-      38.74081,
-      -9.14329,
-      38.74081
+    "bounds": [
+      {
+        "longitude": -9.09974,
+        "latitude": 38.78836
+      },
+      {
+        "longitude": -9.09974,
+        "latitude": 38.78836
+      }
     ]
   },
   {
@@ -1057,221 +273,15 @@
       "latitude": 38.793,
       "longitude": -9.09781
     },
-    "boundingBox": [
-      -9.09781,
-      38.793,
-      -9.09781,
-      38.793
-    ]
-  },
-  {
-    "id": "306",
-    "name": "Avenida da Liberdade / Rua Alexandre Herculano",
-    "type": "A",
-    "position": {
-      "latitude": 38.72281,
-      "longitude": -9.14854
-    },
-    "boundingBox": [
-      -9.14854,
-      38.72281,
-      -9.14854,
-      38.72281
-    ]
-  },
-  {
-    "id": "214",
-    "name": "Largo de Santos",
-    "type": "A",
-    "position": {
-      "latitude": 38.70673,
-      "longitude": -9.15424
-    },
-    "boundingBox": [
-      -9.15424,
-      38.70673,
-      -9.15424,
-      38.70673
-    ]
-  },
-  {
-    "id": "449",
-    "name": "Av. 5 de Outubro / Rua da Cruz Vermelha",
-    "type": "B",
-    "position": {
-      "latitude": 38.746836,
-      "longitude": -9.150085
-    },
-    "boundingBox": [
-      -9.150085,
-      38.746836,
-      -9.150085,
-      38.746836
-    ]
-  },
-  {
-    "id": "309",
-    "name": "Rua da Palma",
-    "type": "B",
-    "position": {
-      "latitude": 38.71901,
-      "longitude": -9.13577
-    },
-    "boundingBox": [
-      -9.13577,
-      38.71901,
-      -9.13577,
-      38.71901
-    ]
-  },
-  {
-    "id": "308",
-    "name": "Marquês de Pombal",
-    "type": "A",
-    "position": {
-      "latitude": 38.7246,
-      "longitude": -9.14969
-    },
-    "boundingBox": [
-      -9.14969,
-      38.7246,
-      -9.14969,
-      38.7246
-    ]
-  },
-  {
-    "id": "450",
-    "name": "Rua Alfredo Cortês",
-    "type": "B",
-    "position": {
-      "latitude": 38.74626,
-      "longitude": -9.14399
-    },
-    "boundingBox": [
-      -9.14399,
-      38.74626,
-      -9.14399,
-      38.74626
-    ]
-  },
-  {
-    "id": "219",
-    "name": "Praça do Município",
-    "type": "A",
-    "position": {
-      "latitude": 38.70797,
-      "longitude": -9.13951
-    },
-    "boundingBox": [
-      -9.13951,
-      38.70797,
-      -9.13951,
-      38.70797
-    ]
-  },
-  {
-    "id": "419",
-    "name": "Av. António José de Almeida / Instituto Superior Técnico",
-    "type": "B",
-    "position": {
-      "latitude": 38.73811,
-      "longitude": -9.13956
-    },
-    "boundingBox": [
-      -9.13956,
-      38.73811,
-      -9.13956,
-      38.73811
-    ]
-  },
-  {
-    "id": "476",
-    "name": "Av. Professor Gama Pinto / Reitoria",
-    "type": "B",
-    "position": {
-      "latitude": 38.75231,
-      "longitude": -9.15885
-    },
-    "boundingBox": [
-      -9.15885,
-      38.75231,
-      -9.15885,
-      38.75231
-    ]
-  },
-  {
-    "id": "460",
-    "name": "Av. Rio de Janeiro / Parque de Jogos 1º de Maio",
-    "type": "B",
-    "position": {
-      "latitude": 38.75176,
-      "longitude": -9.13749
-    },
-    "boundingBox": [
-      -9.13749,
-      38.75176,
-      -9.13749,
-      38.75176
-    ]
-  },
-  {
-    "id": "432",
-    "name": "Praça de Londres",
-    "type": "B",
-    "position": {
-      "latitude": 38.7407,
-      "longitude": -9.1377
-    },
-    "boundingBox": [
-      -9.1377,
-      38.7407,
-      -9.1377,
-      38.7407
-    ]
-  },
-  {
-    "id": "417",
-    "name": "Av. Duque de Ávila / Jardim Arco Do Cego",
-    "type": "A",
-    "position": {
-      "latitude": 38.735352,
-      "longitude": -9.142703
-    },
-    "boundingBox": [
-      -9.142703,
-      38.735352,
-      -9.142703,
-      38.735352
-    ]
-  },
-  {
-    "id": "490",
-    "name": "Rua Fernando Namora / Azinhaga da Torre do Fato",
-    "type": "A",
-    "position": {
-      "latitude": 38.76026,
-      "longitude": -9.17849
-    },
-    "boundingBox": [
-      -9.17849,
-      38.76026,
-      -9.17849,
-      38.76026
-    ]
-  },
-  {
-    "id": "413",
-    "name": "Av. Ressano Garcia / Av. António Augusto de Aguiar",
-    "type": "B",
-    "position": {
-      "latitude": 38.73432,
-      "longitude": -9.15425
-    },
-    "boundingBox": [
-      -9.15425,
-      38.73432,
-      -9.15425,
-      38.73432
+    "bounds": [
+      {
+        "longitude": -9.09781,
+        "latitude": 38.793
+      },
+      {
+        "longitude": -9.09781,
+        "latitude": 38.793
+      }
     ]
   },
   {
@@ -1282,11 +292,1345 @@
       "latitude": 38.70523,
       "longitude": -9.14373
     },
-    "boundingBox": [
-      -9.14373,
-      38.70523,
-      -9.14373,
-      38.70523
+    "bounds": [
+      {
+        "longitude": -9.14373,
+        "latitude": 38.70523
+      },
+      {
+        "longitude": -9.14373,
+        "latitude": 38.70523
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "name": "Av. Infante Dom Henrique / Terminal de Cruzeiros",
+    "type": "B",
+    "position": {
+      "latitude": 38.71035,
+      "longitude": -9.12769
+    },
+    "bounds": [
+      {
+        "longitude": -9.12769,
+        "latitude": 38.71035
+      },
+      {
+        "longitude": -9.12769,
+        "latitude": 38.71035
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "name": "Largo de Santos",
+    "type": "A",
+    "position": {
+      "latitude": 38.70673,
+      "longitude": -9.15424
+    },
+    "bounds": [
+      {
+        "longitude": -9.15424,
+        "latitude": 38.70673
+      },
+      {
+        "longitude": -9.15424,
+        "latitude": 38.70673
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "name": "Av. 24 de Julho",
+    "type": "B",
+    "position": {
+      "latitude": 38.70662,
+      "longitude": -9.14949
+    },
+    "bounds": [
+      {
+        "longitude": -9.14949,
+        "latitude": 38.70662
+      },
+      {
+        "longitude": -9.14949,
+        "latitude": 38.70662
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "name": "Praça D. Luís I",
+    "type": "A",
+    "position": {
+      "latitude": 38.70663,
+      "longitude": -9.14655
+    },
+    "bounds": [
+      {
+        "longitude": -9.14655,
+        "latitude": 38.70663
+      },
+      {
+        "longitude": -9.14655,
+        "latitude": 38.70663
+      }
+    ]
+  },
+  {
+    "id": "218",
+    "name": "Cais do Sodré",
+    "type": "A",
+    "position": {
+      "latitude": 38.70617,
+      "longitude": -9.14471
+    },
+    "bounds": [
+      {
+        "longitude": -9.14471,
+        "latitude": 38.70617
+      },
+      {
+        "longitude": -9.14471,
+        "latitude": 38.70617
+      }
+    ]
+  },
+  {
+    "id": "219",
+    "name": "Praça do Município",
+    "type": "A",
+    "position": {
+      "latitude": 38.70797,
+      "longitude": -9.13951
+    },
+    "bounds": [
+      {
+        "longitude": -9.13951,
+        "latitude": 38.70797
+      },
+      {
+        "longitude": -9.13951,
+        "latitude": 38.70797
+      }
+    ]
+  },
+  {
+    "id": "222",
+    "name": "Praça da Figueira",
+    "type": "A",
+    "position": {
+      "latitude": 38.71383,
+      "longitude": -9.13828
+    },
+    "bounds": [
+      {
+        "longitude": -9.13828,
+        "latitude": 38.71383
+      },
+      {
+        "longitude": -9.13828,
+        "latitude": 38.71383
+      }
+    ]
+  },
+  {
+    "id": "224",
+    "name": "Martim Moniz",
+    "type": "A",
+    "position": {
+      "latitude": 38.71498,
+      "longitude": -9.13651
+    },
+    "bounds": [
+      {
+        "longitude": -9.13651,
+        "latitude": 38.71498
+      },
+      {
+        "longitude": -9.13651,
+        "latitude": 38.71498
+      }
+    ]
+  },
+  {
+    "id": "225",
+    "name": "Martim Moniz",
+    "type": "A",
+    "position": {
+      "latitude": 38.71526,
+      "longitude": -9.13694
+    },
+    "bounds": [
+      {
+        "longitude": -9.13694,
+        "latitude": 38.71526
+      },
+      {
+        "longitude": -9.13694,
+        "latitude": 38.71526
+      }
+    ]
+  },
+  {
+    "id": "229",
+    "name": "Av. 24 de Julho",
+    "type": "B",
+    "position": {
+      "latitude": 38.70662,
+      "longitude": -9.14949
+    },
+    "bounds": [
+      {
+        "longitude": -9.14949,
+        "latitude": 38.70662
+      },
+      {
+        "longitude": -9.14949,
+        "latitude": 38.70662
+      }
+    ]
+  },
+  {
+    "id": "301",
+    "name": "Avenida da Liberdade / Restauradores",
+    "type": "A",
+    "position": {
+      "latitude": 38.71702,
+      "longitude": -9.14242
+    },
+    "bounds": [
+      {
+        "longitude": -9.14242,
+        "latitude": 38.71702
+      },
+      {
+        "longitude": -9.14242,
+        "latitude": 38.71702
+      }
+    ]
+  },
+  {
+    "id": "304",
+    "name": "Avenida da Liberdade / São Jorge",
+    "type": "A",
+    "position": {
+      "latitude": 38.72026,
+      "longitude": -9.14637
+    },
+    "bounds": [
+      {
+        "longitude": -9.14637,
+        "latitude": 38.72026
+      },
+      {
+        "longitude": -9.14637,
+        "latitude": 38.72026
+      }
+    ]
+  },
+  {
+    "id": "305",
+    "name": "Avenida da Liberdade / Rua Barata Salgueiro",
+    "type": "A",
+    "position": {
+      "latitude": 38.72228,
+      "longitude": -9.147
+    },
+    "bounds": [
+      {
+        "longitude": -9.147,
+        "latitude": 38.72228
+      },
+      {
+        "longitude": -9.147,
+        "latitude": 38.72228
+      }
+    ]
+  },
+  {
+    "id": "306",
+    "name": "Avenida da Liberdade / Rua Alexandre Herculano",
+    "type": "A",
+    "position": {
+      "latitude": 38.72281,
+      "longitude": -9.14854
+    },
+    "bounds": [
+      {
+        "longitude": -9.14854,
+        "latitude": 38.72281
+      },
+      {
+        "longitude": -9.14854,
+        "latitude": 38.72281
+      }
+    ]
+  },
+  {
+    "id": "307",
+    "name": "Marquês de Pombal",
+    "type": "A",
+    "position": {
+      "latitude": 38.724954,
+      "longitude": -9.149334
+    },
+    "bounds": [
+      {
+        "longitude": -9.149334,
+        "latitude": 38.724954
+      },
+      {
+        "longitude": -9.149334,
+        "latitude": 38.724954
+      }
+    ]
+  },
+  {
+    "id": "308",
+    "name": "Marquês de Pombal",
+    "type": "A",
+    "position": {
+      "latitude": 38.7246,
+      "longitude": -9.14969
+    },
+    "bounds": [
+      {
+        "longitude": -9.14969,
+        "latitude": 38.7246
+      },
+      {
+        "longitude": -9.14969,
+        "latitude": 38.7246
+      }
+    ]
+  },
+  {
+    "id": "309",
+    "name": "Rua da Palma",
+    "type": "B",
+    "position": {
+      "latitude": 38.71901,
+      "longitude": -9.13577
+    },
+    "bounds": [
+      {
+        "longitude": -9.13577,
+        "latitude": 38.71901
+      },
+      {
+        "longitude": -9.13577,
+        "latitude": 38.71901
+      }
+    ]
+  },
+  {
+    "id": "401",
+    "name": "Rua Martens Ferrão / Av. Fontes Pereira de Melo",
+    "type": "B",
+    "position": {
+      "latitude": 38.72894,
+      "longitude": -9.14742
+    },
+    "bounds": [
+      {
+        "longitude": -9.14742,
+        "latitude": 38.72894
+      },
+      {
+        "longitude": -9.14742,
+        "latitude": 38.72894
+      }
+    ]
+  },
+  {
+    "id": "403",
+    "name": "Av. Fontes Pereira de Melo",
+    "type": "B",
+    "position": {
+      "latitude": 38.731698,
+      "longitude": -9.146522
+    },
+    "bounds": [
+      {
+        "longitude": -9.146522,
+        "latitude": 38.731698
+      },
+      {
+        "longitude": -9.146522,
+        "latitude": 38.731698
+      }
+    ]
+  },
+  {
+    "id": "406",
+    "name": "Praça Duque de Saldanha",
+    "type": "A",
+    "position": {
+      "latitude": 38.734247,
+      "longitude": -9.145341
+    },
+    "bounds": [
+      {
+        "longitude": -9.145341,
+        "latitude": 38.734247
+      },
+      {
+        "longitude": -9.145341,
+        "latitude": 38.734247
+      }
+    ]
+  },
+  {
+    "id": "407",
+    "name": "Praça Duque de Saldanha",
+    "type": "A",
+    "position": {
+      "latitude": 38.73434,
+      "longitude": -9.14446
+    },
+    "bounds": [
+      {
+        "longitude": -9.14446,
+        "latitude": 38.73434
+      },
+      {
+        "longitude": -9.14446,
+        "latitude": 38.73434
+      }
+    ]
+  },
+  {
+    "id": "408",
+    "name": "Praça Duque de Saldanha",
+    "type": "A",
+    "position": {
+      "latitude": 38.733749,
+      "longitude": -9.144117
+    },
+    "bounds": [
+      {
+        "longitude": -9.144117,
+        "latitude": 38.733749
+      },
+      {
+        "longitude": -9.144117,
+        "latitude": 38.733749
+      }
+    ]
+  },
+  {
+    "id": "410",
+    "name": "Rua da Mesquita / Universidade Nova de Lisboa",
+    "type": "B",
+    "position": {
+      "latitude": 38.73492,
+      "longitude": -9.16015
+    },
+    "bounds": [
+      {
+        "longitude": -9.16015,
+        "latitude": 38.73492
+      },
+      {
+        "longitude": -9.16015,
+        "latitude": 38.73492
+      }
+    ]
+  },
+  {
+    "id": "412",
+    "name": "Av. Ressano Garcia / Av. António Augusto de Aguiar",
+    "type": "B",
+    "position": {
+      "latitude": 38.73448,
+      "longitude": -9.1546
+    },
+    "bounds": [
+      {
+        "longitude": -9.1546,
+        "latitude": 38.73448
+      },
+      {
+        "longitude": -9.1546,
+        "latitude": 38.73448
+      }
+    ]
+  },
+  {
+    "id": "413",
+    "name": "Av. Ressano Garcia / Av. António Augusto de Aguiar",
+    "type": "B",
+    "position": {
+      "latitude": 38.73432,
+      "longitude": -9.15425
+    },
+    "bounds": [
+      {
+        "longitude": -9.15425,
+        "latitude": 38.73432
+      },
+      {
+        "longitude": -9.15425,
+        "latitude": 38.73432
+      }
+    ]
+  },
+  {
+    "id": "414",
+    "name": "Av. Duque de Ávila / Rua Pinheiro Chagas",
+    "type": "B",
+    "position": {
+      "latitude": 38.735,
+      "longitude": -9.151
+    },
+    "bounds": [
+      {
+        "longitude": -9.151,
+        "latitude": 38.735
+      },
+      {
+        "longitude": -9.151,
+        "latitude": 38.735
+      }
+    ]
+  },
+  {
+    "id": "415",
+    "name": "Av. Duque de Ávila / Av. Conde Valbom",
+    "type": "B",
+    "position": {
+      "latitude": 38.735188,
+      "longitude": -9.148443
+    },
+    "bounds": [
+      {
+        "longitude": -9.148443,
+        "latitude": 38.735188
+      },
+      {
+        "longitude": -9.148443,
+        "latitude": 38.735188
+      }
+    ]
+  },
+  {
+    "id": "416",
+    "name": "Av. República / Avenida Duque de Ávila",
+    "type": "A",
+    "position": {
+      "latitude": 38.735304,
+      "longitude": -9.14553
+    },
+    "bounds": [
+      {
+        "longitude": -9.14553,
+        "latitude": 38.735304
+      },
+      {
+        "longitude": -9.14553,
+        "latitude": 38.735304
+      }
+    ]
+  },
+  {
+    "id": "417",
+    "name": "Av. Duque de Ávila / Jardim Arco Do Cego",
+    "type": "A",
+    "position": {
+      "latitude": 38.735352,
+      "longitude": -9.142703
+    },
+    "bounds": [
+      {
+        "longitude": -9.142703,
+        "latitude": 38.735352
+      },
+      {
+        "longitude": -9.142703,
+        "latitude": 38.735352
+      }
+    ]
+  },
+  {
+    "id": "419",
+    "name": "Av. António José de Almeida / Instituto Superior Técnico",
+    "type": "B",
+    "position": {
+      "latitude": 38.73811,
+      "longitude": -9.13956
+    },
+    "bounds": [
+      {
+        "longitude": -9.13956,
+        "latitude": 38.73811
+      },
+      {
+        "longitude": -9.13956,
+        "latitude": 38.73811
+      }
+    ]
+  },
+  {
+    "id": "420",
+    "name": "Av. Rovisco Pais / Av. Manuel da Maia",
+    "type": "B",
+    "position": {
+      "latitude": 38.73617,
+      "longitude": -9.13672
+    },
+    "bounds": [
+      {
+        "longitude": -9.13672,
+        "latitude": 38.73617
+      },
+      {
+        "longitude": -9.13672,
+        "latitude": 38.73617
+      }
+    ]
+  },
+  {
+    "id": "421",
+    "name": "Alameda D. Afonso Henriques",
+    "type": "A",
+    "position": {
+      "latitude": 38.73736,
+      "longitude": -9.13416
+    },
+    "bounds": [
+      {
+        "longitude": -9.13416,
+        "latitude": 38.73736
+      },
+      {
+        "longitude": -9.13416,
+        "latitude": 38.73736
+      }
+    ]
+  },
+  {
+    "id": "423",
+    "name": "Av. Conde Valbom / Rua Marquês Sá da Bandeira",
+    "type": "B",
+    "position": {
+      "latitude": 38.737911,
+      "longitude": -9.152295
+    },
+    "bounds": [
+      {
+        "longitude": -9.152295,
+        "latitude": 38.737911
+      },
+      {
+        "longitude": -9.152295,
+        "latitude": 38.737911
+      }
+    ]
+  },
+  {
+    "id": "426",
+    "name": "Av. Elias Garcia / Av. 5 de Outubro",
+    "type": "B",
+    "position": {
+      "latitude": 38.739046,
+      "longitude": -9.14793
+    },
+    "bounds": [
+      {
+        "longitude": -9.14793,
+        "latitude": 38.739046
+      },
+      {
+        "longitude": -9.14793,
+        "latitude": 38.739046
+      }
+    ]
+  },
+  {
+    "id": "427",
+    "name": "Av. República / Av. Visconde Valmor",
+    "type": "A",
+    "position": {
+      "latitude": 38.73812,
+      "longitude": -9.14617
+    },
+    "bounds": [
+      {
+        "longitude": -9.14617,
+        "latitude": 38.73812
+      },
+      {
+        "longitude": -9.14617,
+        "latitude": 38.73812
+      }
+    ]
+  },
+  {
+    "id": "428",
+    "name": "Av. República / Avenida Barbosa Du Bocage",
+    "type": "A",
+    "position": {
+      "latitude": 38.74047,
+      "longitude": -9.14684
+    },
+    "bounds": [
+      {
+        "longitude": -9.14684,
+        "latitude": 38.74047
+      },
+      {
+        "longitude": -9.14684,
+        "latitude": 38.74047
+      }
+    ]
+  },
+  {
+    "id": "430",
+    "name": "Av. Barbosa Du Bocage / Rua Arco do Cego",
+    "type": "B",
+    "position": {
+      "latitude": 38.74081,
+      "longitude": -9.14329
+    },
+    "bounds": [
+      {
+        "longitude": -9.14329,
+        "latitude": 38.74081
+      },
+      {
+        "longitude": -9.14329,
+        "latitude": 38.74081
+      }
+    ]
+  },
+  {
+    "id": "431",
+    "name": "Rua do Arco Cego / Av. Magalhães Lima",
+    "type": "B",
+    "position": {
+      "latitude": 38.73937,
+      "longitude": -9.14199
+    },
+    "bounds": [
+      {
+        "longitude": -9.14199,
+        "latitude": 38.73937
+      },
+      {
+        "longitude": -9.14199,
+        "latitude": 38.73937
+      }
+    ]
+  },
+  {
+    "id": "432",
+    "name": "Praça de Londres",
+    "type": "B",
+    "position": {
+      "latitude": 38.7407,
+      "longitude": -9.1377
+    },
+    "bounds": [
+      {
+        "longitude": -9.1377,
+        "latitude": 38.7407
+      },
+      {
+        "longitude": -9.1377,
+        "latitude": 38.7407
+      }
+    ]
+  },
+  {
+    "id": "433",
+    "name": "Av. Paris / Av. Almirante Reis",
+    "type": "B",
+    "position": {
+      "latitude": 38.74095,
+      "longitude": -9.13409
+    },
+    "bounds": [
+      {
+        "longitude": -9.13409,
+        "latitude": 38.74095
+      },
+      {
+        "longitude": -9.13409,
+        "latitude": 38.74095
+      }
+    ]
+  },
+  {
+    "id": "442",
+    "name": "Campo Pequeno",
+    "type": "A",
+    "position": {
+      "latitude": 38.743371,
+      "longitude": -9.14523
+    },
+    "bounds": [
+      {
+        "longitude": -9.14523,
+        "latitude": 38.743371
+      },
+      {
+        "longitude": -9.14523,
+        "latitude": 38.743371
+      }
+    ]
+  },
+  {
+    "id": "443",
+    "name": "Av. de Roma / Fórum Lisboa",
+    "type": "B",
+    "position": {
+      "latitude": 38.74351,
+      "longitude": -9.13866
+    },
+    "bounds": [
+      {
+        "longitude": -9.13866,
+        "latitude": 38.74351
+      },
+      {
+        "longitude": -9.13866,
+        "latitude": 38.74351
+      }
+    ]
+  },
+  {
+    "id": "446",
+    "name": "Av. República / Interface Entrecampos ",
+    "type": "A",
+    "position": {
+      "latitude": 38.74456,
+      "longitude": -9.14773
+    },
+    "bounds": [
+      {
+        "longitude": -9.14773,
+        "latitude": 38.74456
+      },
+      {
+        "longitude": -9.14773,
+        "latitude": 38.74456
+      }
+    ]
+  },
+  {
+    "id": "449",
+    "name": "Av. 5 de Outubro / Rua da Cruz Vermelha",
+    "type": "B",
+    "position": {
+      "latitude": 38.746836,
+      "longitude": -9.150085
+    },
+    "bounds": [
+      {
+        "longitude": -9.150085,
+        "latitude": 38.746836
+      },
+      {
+        "longitude": -9.150085,
+        "latitude": 38.746836
+      }
+    ]
+  },
+  {
+    "id": "450",
+    "name": "Rua Alfredo Cortês",
+    "type": "B",
+    "position": {
+      "latitude": 38.74626,
+      "longitude": -9.14399
+    },
+    "bounds": [
+      {
+        "longitude": -9.14399,
+        "latitude": 38.74626
+      },
+      {
+        "longitude": -9.14399,
+        "latitude": 38.74626
+      }
+    ]
+  },
+  {
+    "id": "452",
+    "name": "Rua Teixeira de Pascoais / Rua Dr. Gama Barros",
+    "type": "B",
+    "position": {
+      "latitude": 38.747751,
+      "longitude": -9.136681
+    },
+    "bounds": [
+      {
+        "longitude": -9.136681,
+        "latitude": 38.747751
+      },
+      {
+        "longitude": -9.136681,
+        "latitude": 38.747751
+      }
+    ]
+  },
+  {
+    "id": "453",
+    "name": "Av. Roma / Av. EUA",
+    "type": "B",
+    "position": {
+      "latitude": 38.74873,
+      "longitude": -9.14207
+    },
+    "bounds": [
+      {
+        "longitude": -9.14207,
+        "latitude": 38.74873
+      },
+      {
+        "longitude": -9.14207,
+        "latitude": 38.74873
+      }
+    ]
+  },
+  {
+    "id": "456",
+    "name": "Entrecampos / Av. das Forças Armadas",
+    "type": "A",
+    "position": {
+      "latitude": 38.74877,
+      "longitude": -9.14872
+    },
+    "bounds": [
+      {
+        "longitude": -9.14872,
+        "latitude": 38.74877
+      },
+      {
+        "longitude": -9.14872,
+        "latitude": 38.74877
+      }
+    ]
+  },
+  {
+    "id": "457",
+    "name": "Rua Aboim Ascensão",
+    "type": "B",
+    "position": {
+      "latitude": 38.74975,
+      "longitude": -9.14722
+    },
+    "bounds": [
+      {
+        "longitude": -9.14722,
+        "latitude": 38.74975
+      },
+      {
+        "longitude": -9.14722,
+        "latitude": 38.74975
+      }
+    ]
+  },
+  {
+    "id": "459",
+    "name": "Rua Maria Amália Vaz de Carvalho / ES Rainha D. Leonor",
+    "type": "B",
+    "position": {
+      "latitude": 38.751481,
+      "longitude": -9.141741
+    },
+    "bounds": [
+      {
+        "longitude": -9.141741,
+        "latitude": 38.751481
+      },
+      {
+        "longitude": -9.141741,
+        "latitude": 38.751481
+      }
+    ]
+  },
+  {
+    "id": "460",
+    "name": "Av. Rio de Janeiro / Parque de Jogos 1º de Maio",
+    "type": "B",
+    "position": {
+      "latitude": 38.75176,
+      "longitude": -9.13749
+    },
+    "bounds": [
+      {
+        "longitude": -9.13749,
+        "latitude": 38.75176
+      },
+      {
+        "longitude": -9.13749,
+        "latitude": 38.75176
+      }
+    ]
+  },
+  {
+    "id": "462",
+    "name": "Campo Grande / Biblioteca Nacional",
+    "type": "B",
+    "position": {
+      "latitude": 38.75027,
+      "longitude": -9.15031
+    },
+    "bounds": [
+      {
+        "longitude": -9.15031,
+        "latitude": 38.75027
+      },
+      {
+        "longitude": -9.15031,
+        "latitude": 38.75027
+      }
+    ]
+  },
+  {
+    "id": "463",
+    "name": "Campo Grande / Av. da Igreja",
+    "type": "B",
+    "position": {
+      "latitude": 38.75243,
+      "longitude": -9.14951
+    },
+    "bounds": [
+      {
+        "longitude": -9.14951,
+        "latitude": 38.75243
+      },
+      {
+        "longitude": -9.14951,
+        "latitude": 38.75243
+      }
+    ]
+  },
+  {
+    "id": "464",
+    "name": "Av. da Igreja / Rua Afonso Lopes Vieira",
+    "type": "B",
+    "position": {
+      "latitude": 38.75165,
+      "longitude": -9.148427
+    },
+    "bounds": [
+      {
+        "longitude": -9.148427,
+        "latitude": 38.75165
+      },
+      {
+        "longitude": -9.148427,
+        "latitude": 38.75165
+      }
+    ]
+  },
+  {
+    "id": "468",
+    "name": "Largo Frei Heitor Pinto",
+    "type": "B",
+    "position": {
+      "latitude": 38.75482,
+      "longitude": -9.13827
+    },
+    "bounds": [
+      {
+        "longitude": -9.13827,
+        "latitude": 38.75482
+      },
+      {
+        "longitude": -9.13827,
+        "latitude": 38.75482
+      }
+    ]
+  },
+  {
+    "id": "471",
+    "name": "Rua Lopes de Mendonça / EB São João de Brito",
+    "type": "B",
+    "position": {
+      "latitude": 38.756487,
+      "longitude": -9.137337
+    },
+    "bounds": [
+      {
+        "longitude": -9.137337,
+        "latitude": 38.756487
+      },
+      {
+        "longitude": -9.137337,
+        "latitude": 38.756487
+      }
+    ]
+  },
+  {
+    "id": "472",
+    "name": "Rua Marquês Soveral / ES Padre António Vieira",
+    "type": "B",
+    "position": {
+      "latitude": 38.75784,
+      "longitude": -9.13608
+    },
+    "bounds": [
+      {
+        "longitude": -9.13608,
+        "latitude": 38.75784
+      },
+      {
+        "longitude": -9.13608,
+        "latitude": 38.75784
+      }
+    ]
+  },
+  {
+    "id": "473",
+    "name": "Av. do Brasil / Av. de Roma",
+    "type": "B",
+    "position": {
+      "latitude": 38.75643,
+      "longitude": -9.14697
+    },
+    "bounds": [
+      {
+        "longitude": -9.14697,
+        "latitude": 38.75643
+      },
+      {
+        "longitude": -9.14697,
+        "latitude": 38.75643
+      }
+    ]
+  },
+  {
+    "id": "474",
+    "name": "Av. do Brasil / Av. Rio de Janeiro",
+    "type": "A",
+    "position": {
+      "latitude": 38.75832,
+      "longitude": -9.1409
+    },
+    "bounds": [
+      {
+        "longitude": -9.1409,
+        "latitude": 38.75832
+      },
+      {
+        "longitude": -9.1409,
+        "latitude": 38.75832
+      }
+    ]
+  },
+  {
+    "id": "475",
+    "name": "Av. Professor Gama Pinto / Cantina Velha",
+    "type": "B",
+    "position": {
+      "latitude": 38.75115,
+      "longitude": -9.15907
+    },
+    "bounds": [
+      {
+        "longitude": -9.15907,
+        "latitude": 38.75115
+      },
+      {
+        "longitude": -9.15907,
+        "latitude": 38.75115
+      }
+    ]
+  },
+  {
+    "id": "476",
+    "name": "Av. Professor Gama Pinto / Reitoria",
+    "type": "B",
+    "position": {
+      "latitude": 38.75231,
+      "longitude": -9.15885
+    },
+    "bounds": [
+      {
+        "longitude": -9.15885,
+        "latitude": 38.75231
+      },
+      {
+        "longitude": -9.15885,
+        "latitude": 38.75231
+      }
+    ]
+  },
+  {
+    "id": "480",
+    "name": "Faculdade de Ciências",
+    "type": "B",
+    "position": {
+      "latitude": 38.75587,
+      "longitude": -9.15503
+    },
+    "bounds": [
+      {
+        "longitude": -9.15503,
+        "latitude": 38.75587
+      },
+      {
+        "longitude": -9.15503,
+        "latitude": 38.75587
+      }
+    ]
+  },
+  {
+    "id": "481",
+    "name": "Campo Grande / Museu da Cidade",
+    "type": "B",
+    "position": {
+      "latitude": 38.758207,
+      "longitude": -9.156169
+    },
+    "bounds": [
+      {
+        "longitude": -9.156169,
+        "latitude": 38.758207
+      },
+      {
+        "longitude": -9.156169,
+        "latitude": 38.758207
+      }
+    ]
+  },
+  {
+    "id": "483",
+    "name": "Rua Professor Francisco Lucas Pires ",
+    "type": "B",
+    "position": {
+      "latitude": 38.75939,
+      "longitude": -9.16405
+    },
+    "bounds": [
+      {
+        "longitude": -9.16405,
+        "latitude": 38.75939
+      },
+      {
+        "longitude": -9.16405,
+        "latitude": 38.75939
+      }
+    ]
+  },
+  {
+    "id": "484",
+    "name": "Rua Professor Vieira de Almeida",
+    "type": "A",
+    "position": {
+      "latitude": 38.76081,
+      "longitude": -9.16658
+    },
+    "bounds": [
+      {
+        "longitude": -9.16658,
+        "latitude": 38.76081
+      },
+      {
+        "longitude": -9.16658,
+        "latitude": 38.76081
+      }
+    ]
+  },
+  {
+    "id": "485",
+    "name": "Rua Tomás da Fonseca / Rua António Albino Machado",
+    "type": "B",
+    "position": {
+      "latitude": 38.756,
+      "longitude": -9.17
+    },
+    "bounds": [
+      {
+        "longitude": -9.17,
+        "latitude": 38.756
+      },
+      {
+        "longitude": -9.17,
+        "latitude": 38.756
+      }
+    ]
+  },
+  {
+    "id": "486",
+    "name": "Rua Hermano Neves / Rua José Escada",
+    "type": "B",
+    "position": {
+      "latitude": 38.75954,
+      "longitude": -9.16985
+    },
+    "bounds": [
+      {
+        "longitude": -9.16985,
+        "latitude": 38.75954
+      },
+      {
+        "longitude": -9.16985,
+        "latitude": 38.75954
+      }
+    ]
+  },
+  {
+    "id": "487",
+    "name": "Rua Professor João Barreira",
+    "type": "B",
+    "position": {
+      "latitude": 38.76136,
+      "longitude": -9.17096
+    },
+    "bounds": [
+      {
+        "longitude": -9.17096,
+        "latitude": 38.76136
+      },
+      {
+        "longitude": -9.17096,
+        "latitude": 38.76136
+      }
+    ]
+  },
+  {
+    "id": "488",
+    "name": "Rua Fernando Namora / Rua António Quadros",
+    "type": "B",
+    "position": {
+      "latitude": 38.76014,
+      "longitude": -9.17526
+    },
+    "bounds": [
+      {
+        "longitude": -9.17526,
+        "latitude": 38.76014
+      },
+      {
+        "longitude": -9.17526,
+        "latitude": 38.76014
+      }
+    ]
+  },
+  {
+    "id": "490",
+    "name": "Rua Fernando Namora / Azinhaga da Torre do Fato",
+    "type": "A",
+    "position": {
+      "latitude": 38.76026,
+      "longitude": -9.17849
+    },
+    "bounds": [
+      {
+        "longitude": -9.17849,
+        "latitude": 38.76026
+      },
+      {
+        "longitude": -9.17849,
+        "latitude": 38.76026
+      }
     ]
   }
 ]

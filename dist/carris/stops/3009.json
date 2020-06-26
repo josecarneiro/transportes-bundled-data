@@ -1,11 +1,14 @@
 {
-  "id": 3009,
-  "publicId": "3009",
+  "id": "3009",
+  "internalId": 3009,
   "name": "Rua Fernando Tamagnini",
   "position": {
     "latitude": 38.745616,
     "longitude": -9.222064
   },
   "visible": true,
-  "updateDate": "2008-12-05T17:09:15.000Z"
+  "updateDate": "2008-12-05T17:09:15.000Z",
+  "routes": [
+    "764"
+  ]
 }

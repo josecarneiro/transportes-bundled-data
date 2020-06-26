@@ -1,11 +1,14 @@
 {
-  "id": 4003,
-  "publicId": "4003",
+  "id": "4003",
+  "internalId": 4003,
   "name": "Alcântara Mar",
   "position": {
     "latitude": 38.702867,
     "longitude": -9.173238
   },
   "visible": true,
-  "updateDate": "2014-10-16T08:19:42.000Z"
+  "updateDate": "2014-10-16T08:19:42.000Z",
+  "routes": [
+    "728"
+  ]
 }

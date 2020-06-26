@@ -1,11 +1,15 @@
 {
-  "id": 24390,
-  "publicId": "89926",
+  "id": "89926",
+  "internalId": 24390,
   "name": "R. Manuel Teixeira Gomes (Esc.",
   "position": {
     "latitude": 38.751702,
     "longitude": -9.112045
   },
   "visible": true,
-  "updateDate": "2018-02-21T11:16:17.000Z"
+  "updateDate": "2018-02-21T11:16:17.000Z",
+  "routes": [
+    "718",
+    "31B"
+  ]
 }

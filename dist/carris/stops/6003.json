@@ -1,11 +1,17 @@
 {
-  "id": 6003,
-  "publicId": "6003",
+  "id": "6003",
+  "internalId": 6003,
   "name": "Qta. Pailepa",
   "position": {
     "latitude": 38.787847,
     "longitude": -9.145979
   },
   "visible": true,
-  "updateDate": "2019-02-14T13:02:48.000Z"
+  "updateDate": "2019-02-14T13:02:48.000Z",
+  "routes": [
+    "207",
+    "703",
+    "717",
+    "798"
+  ]
 }

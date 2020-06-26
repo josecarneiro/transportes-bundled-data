@@ -1,11 +1,20 @@
 {
-  "id": 8201,
-  "publicId": "8201",
+  "id": "8201",
+  "internalId": 8201,
   "name": "Alfândega (Terminal Cruzeiros)",
   "position": {
     "latitude": 38.710505,
     "longitude": -9.127429
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:04:03.000Z"
+  "updateDate": "2019-02-18T12:04:03.000Z",
+  "routes": [
+    "206",
+    "210",
+    "728",
+    "735",
+    "759",
+    "794",
+    "9A"
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "id": 221,
-  "number": "79B",
+  "id": "79B",
+  "internalId": 221,
   "name": "Algés (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -21,8 +21,8 @@
               "order": 38,
               "distance": 0,
               "stop": {
-                "id": 4210,
-                "publicId": "4210",
+                "id": "4210",
+                "internalId": 4210,
                 "name": "Algés",
                 "position": {
                   "latitude": 38.6985,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 453,
               "stop": {
-                "id": 50381,
-                "publicId": "4221",
+                "id": "4221",
+                "internalId": 50381,
                 "name": "R. Fernão Mendes Pinto",
                 "position": {
                   "latitude": 38.698193,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 465,
               "stop": {
-                "id": 50295,
-                "publicId": "13201",
+                "id": "13201",
+                "internalId": 50295,
                 "name": "Usf Descobertas",
                 "position": {
                   "latitude": 38.695828,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 289,
               "stop": {
-                "id": 13212,
-                "publicId": "13212",
+                "id": "13212",
+                "internalId": 13212,
                 "name": "Inst. Altos Estudos Militares",
                 "position": {
                   "latitude": 38.696886,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 507,
               "stop": {
-                "id": 9716,
-                "publicId": "9716",
+                "id": "9716",
+                "internalId": 9716,
                 "name": "R. S. Francisco Xavier",
                 "position": {
                   "latitude": 38.698774,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 408,
               "stop": {
-                "id": 9707,
-                "publicId": "9707",
+                "id": "9707",
+                "internalId": 9707,
                 "name": "Av. Restelo",
                 "position": {
                   "latitude": 38.699177,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 1127,
               "stop": {
-                "id": 50385,
-                "publicId": "13207",
+                "id": "13207",
+                "internalId": 50385,
                 "name": "Lg. Princesa",
                 "position": {
                   "latitude": 38.695504,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 380,
               "stop": {
-                "id": 50415,
-                "publicId": "13213",
+                "id": "13213",
+                "internalId": 50415,
                 "name": "Centro Cultural Belém",
                 "position": {
                   "latitude": 38.69625,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 370,
               "stop": {
-                "id": 9604,
-                "publicId": "9604",
+                "id": "9604",
+                "internalId": 9604,
                 "name": "Mosteiro Jerónimos",
                 "position": {
                   "latitude": 38.697725,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 238,
               "stop": {
-                "id": 9602,
-                "publicId": "9602",
+                "id": "9602",
+                "internalId": 9602,
                 "name": "Cç. Galvão",
                 "position": {
                   "latitude": 38.700297,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 393,
               "stop": {
-                "id": 13310,
-                "publicId": "13310",
+                "id": "13310",
+                "internalId": 13310,
                 "name": "Igreja Memória",
                 "position": {
                   "latitude": 38.702351,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 264,
               "stop": {
-                "id": 13114,
-                "publicId": "13114",
+                "id": "13114",
+                "internalId": 13114,
                 "name": "Esc. Paula Vicente",
                 "position": {
                   "latitude": 38.70585,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 300,
               "stop": {
-                "id": 13123,
-                "publicId": "13123",
+                "id": "13123",
+                "internalId": 13123,
                 "name": "R. Cons. Martins Carvalho",
                 "position": {
                   "latitude": 38.706578,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 424,
               "stop": {
-                "id": 13116,
-                "publicId": "13116",
+                "id": "13116",
+                "internalId": 13116,
                 "name": "R. Tristão Vaz",
                 "position": {
                   "latitude": 38.707711,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 420,
               "stop": {
-                "id": 50383,
-                "publicId": "13125",
+                "id": "13125",
+                "internalId": 50383,
                 "name": "R. Mem Rodrigues",
                 "position": {
                   "latitude": 38.708128,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 385,
               "stop": {
-                "id": 12406,
-                "publicId": "12406",
+                "id": "12406",
+                "internalId": 12406,
                 "name": "Restelo (Torres) - R. Antão Go",
                 "position": {
                   "latitude": 38.709346,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 261,
               "stop": {
-                "id": 12404,
-                "publicId": "12404",
+                "id": "12404",
+                "internalId": 12404,
                 "name": "Restelo - Av. Descobertas",
                 "position": {
                   "latitude": 38.709819,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 512,
               "stop": {
-                "id": 12402,
-                "publicId": "12402",
+                "id": "12402",
+                "internalId": 12402,
                 "name": "R. Gregório Lopes",
                 "position": {
                   "latitude": 38.711874,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 261,
               "stop": {
-                "id": 10402,
-                "publicId": "10402",
+                "id": "10402",
+                "internalId": 10402,
                 "name": "Fonte Caselas",
                 "position": {
                   "latitude": 38.715795,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 328,
               "stop": {
-                "id": 10404,
-                "publicId": "10404",
+                "id": "10404",
+                "internalId": 10404,
                 "name": "Caselas",
                 "position": {
                   "latitude": 38.716942,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 865,
               "stop": {
-                "id": 10406,
-                "publicId": "10406",
+                "id": "10406",
+                "internalId": 10406,
                 "name": "Estr. Queluz",
                 "position": {
                   "latitude": 38.717459,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 276,
               "stop": {
-                "id": 12922,
-                "publicId": "12922",
+                "id": "12922",
+                "internalId": 12922,
                 "name": "Cif",
                 "position": {
                   "latitude": 38.71355,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 374,
               "stop": {
-                "id": 12415,
-                "publicId": "12415",
+                "id": "12415",
+                "internalId": 12415,
                 "name": "Restelo (Torres)",
                 "position": {
                   "latitude": 38.711911,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 222,
               "stop": {
-                "id": 12401,
-                "publicId": "12401",
+                "id": "12401",
+                "internalId": 12401,
                 "name": "R. Gregório Lopes",
                 "position": {
                   "latitude": 38.711568,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 150,
               "stop": {
-                "id": 12407,
-                "publicId": "12407",
+                "id": "12407",
+                "internalId": 12407,
                 "name": "Restelo - Av. Descobertas",
                 "position": {
                   "latitude": 38.709699,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 254,
               "stop": {
-                "id": 12403,
-                "publicId": "12403",
+                "id": "12403",
+                "internalId": 12403,
                 "name": "Restelo - R. Antão Gonçalves",
                 "position": {
                   "latitude": 38.708928,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 348,
               "stop": {
-                "id": 12405,
-                "publicId": "12405",
+                "id": "12405",
+                "internalId": 12405,
                 "name": "Restelo (Torres) - R. Antão Go",
                 "position": {
                   "latitude": 38.709195,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 437,
               "stop": {
-                "id": 50384,
-                "publicId": "13126",
+                "id": "13126",
+                "internalId": 50384,
                 "name": "R. Mem Rodrigues",
                 "position": {
                   "latitude": 38.708075,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 319,
               "stop": {
-                "id": 13115,
-                "publicId": "13115",
+                "id": "13115",
+                "internalId": 13115,
                 "name": "R. Tristão Vaz",
                 "position": {
                   "latitude": 38.707576,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 503,
               "stop": {
-                "id": 13109,
-                "publicId": "13109",
+                "id": "13109",
+                "internalId": 13109,
                 "name": "Esc. Paula Vicente",
                 "position": {
                   "latitude": 38.705359,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 205,
               "stop": {
-                "id": 13309,
-                "publicId": "13309",
+                "id": "13309",
+                "internalId": 13309,
                 "name": "Igreja Memória",
                 "position": {
                   "latitude": 38.702456,
@@ -517,8 +517,8 @@
               "order": 32,
               "distance": 462,
               "stop": {
-                "id": 9601,
-                "publicId": "9601",
+                "id": "9601",
+                "internalId": 9601,
                 "name": "Cç. Galvão",
                 "position": {
                   "latitude": 38.700682,
@@ -533,8 +533,8 @@
               "order": 33,
               "distance": 399,
               "stop": {
-                "id": 9610,
-                "publicId": "9610",
+                "id": "9610",
+                "internalId": 9610,
                 "name": "Mosteiro Jerónimos",
                 "position": {
                   "latitude": 38.697299,
@@ -549,8 +549,8 @@
               "order": 34,
               "distance": 592,
               "stop": {
-                "id": 13210,
-                "publicId": "13210",
+                "id": "13210",
+                "internalId": 13210,
                 "name": "Centro Cultural Belém",
                 "position": {
                   "latitude": 38.696291,
@@ -565,8 +565,8 @@
               "order": 35,
               "distance": 540,
               "stop": {
-                "id": 13206,
-                "publicId": "13206",
+                "id": "13206",
+                "internalId": 13206,
                 "name": "Lg. Princesa",
                 "position": {
                   "latitude": 38.695055,
@@ -581,8 +581,8 @@
               "order": 36,
               "distance": 551,
               "stop": {
-                "id": 50296,
-                "publicId": "13202",
+                "id": "13202",
+                "internalId": 50296,
                 "name": "Usf Descobertas",
                 "position": {
                   "latitude": 38.695064,
@@ -597,8 +597,8 @@
               "order": 37,
               "distance": 434,
               "stop": {
-                "id": 50382,
-                "publicId": "4222",
+                "id": "4222",
+                "internalId": 50382,
                 "name": "R. Fernão Mendes Pinto",
                 "position": {
                   "latitude": 38.697689,
@@ -613,8 +613,8 @@
               "order": 1,
               "distance": 357,
               "stop": {
-                "id": 4210,
-                "publicId": "4210",
+                "id": "4210",
+                "internalId": 4210,
                 "name": "Algés",
                 "position": {
                   "latitude": 38.6985,

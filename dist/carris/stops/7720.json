@@ -1,11 +1,15 @@
 {
-  "id": 7720,
-  "publicId": "7720",
+  "id": "7720",
+  "internalId": 7720,
   "name": "Praça Das Casas Novas",
   "position": {
     "latitude": 38.772557,
     "longitude": -9.113691
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:59:16.000Z"
+  "updateDate": "2008-12-05T18:59:16.000Z",
+  "routes": [
+    "759",
+    "29B"
+  ]
 }

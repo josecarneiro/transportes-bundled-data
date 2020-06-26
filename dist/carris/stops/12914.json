@@ -1,11 +1,15 @@
 {
-  "id": 12914,
-  "publicId": "12914",
+  "id": "12914",
+  "internalId": 12914,
   "name": "Bº Do Caramão",
   "position": {
     "latitude": 38.711041,
     "longitude": -9.205791
   },
   "visible": true,
-  "updateDate": "2012-12-13T16:51:26.000Z"
+  "updateDate": "2012-12-13T16:51:26.000Z",
+  "routes": [
+    "727",
+    "760"
+  ]
 }

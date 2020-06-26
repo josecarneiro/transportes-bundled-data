@@ -1,11 +1,14 @@
 {
-  "id": 24368,
-  "publicId": "89904",
+  "id": "89904",
+  "internalId": 24368,
   "name": "Isel",
   "position": {
     "latitude": 38.755596,
     "longitude": -9.112823
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:43:32.000Z"
+  "updateDate": "2019-02-18T12:43:32.000Z",
+  "routes": [
+    "794"
+  ]
 }

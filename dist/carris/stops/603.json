@@ -1,11 +1,16 @@
 {
-  "id": 603,
-  "publicId": "603",
+  "id": "603",
+  "internalId": 603,
   "name": "Pç. Novas Nações",
   "position": {
     "latitude": 38.726348,
     "longitude": -9.132704
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:40:16.000Z"
+  "updateDate": "2018-04-03T15:40:16.000Z",
+  "routes": [
+    "712",
+    "726",
+    "730"
+  ]
 }

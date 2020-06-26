@@ -1,11 +1,14 @@
 {
-  "id": 10405,
-  "publicId": "10405",
+  "id": "10405",
+  "internalId": 10405,
   "name": "Estrada De Queluz",
   "position": {
     "latitude": 38.717518,
     "longitude": -9.20988
   },
   "visible": true,
-  "updateDate": "2008-12-05T18:26:22.000Z"
+  "updateDate": "2008-12-05T18:26:22.000Z",
+  "routes": [
+    "714"
+  ]
 }

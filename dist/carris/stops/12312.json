@@ -1,11 +1,16 @@
 {
-  "id": 12312,
-  "publicId": "12312",
+  "id": "12312",
+  "internalId": 12312,
   "name": "Praça Do Norte - Mercado",
   "position": {
     "latitude": 38.7763,
     "longitude": -9.11801
   },
   "visible": true,
-  "updateDate": "2012-12-14T17:59:58.000Z"
+  "updateDate": "2012-12-14T17:59:58.000Z",
+  "routes": [
+    "208",
+    "722",
+    "783"
+  ]
 }

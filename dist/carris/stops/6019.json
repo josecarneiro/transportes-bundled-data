@@ -1,11 +1,17 @@
 {
-  "id": 6019,
-  "publicId": "6019",
+  "id": "6019",
+  "internalId": 6019,
   "name": "Av. Nuno Kruz Abecassis",
   "position": {
     "latitude": 38.779807,
     "longitude": -9.151581
   },
   "visible": true,
-  "updateDate": "2019-02-14T16:26:48.000Z"
+  "updateDate": "2019-02-14T16:26:48.000Z",
+  "routes": [
+    "207",
+    "703",
+    "717",
+    "798"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 8322,
-  "publicId": "8322",
+  "id": "8322",
+  "internalId": 8322,
   "name": "Mercado Xabregas",
   "position": {
     "latitude": 38.728108,
     "longitude": -9.114923
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:05:37.000Z"
+  "updateDate": "2019-02-18T12:05:37.000Z",
+  "routes": [
+    "794",
+    "34B"
+  ]
 }

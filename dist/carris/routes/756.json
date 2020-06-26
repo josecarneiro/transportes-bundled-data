@@ -1,6 +1,6 @@
 {
-  "id": 175,
-  "number": "756",
+  "id": "756",
+  "internalId": 175,
   "name": "Olaias - Junqueira",
   "visible": true,
   "creationDate": "2020-05-20T09:40:14.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 158,
               "stop": {
-                "id": 8909,
-                "publicId": "8909",
+                "id": "8909",
+                "internalId": 8909,
                 "name": "Picheleira - Olaias",
                 "position": {
                   "latitude": 38.738985,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 171,
               "stop": {
-                "id": 8903,
-                "publicId": "8903",
+                "id": "8903",
+                "internalId": 8903,
                 "name": "R. Prof. Mira Fernandes",
                 "position": {
                   "latitude": 38.738069,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 228,
               "stop": {
-                "id": 8905,
-                "publicId": "8905",
+                "id": "8905",
+                "internalId": 8905,
                 "name": "R. Aquiles Machado",
                 "position": {
                   "latitude": 38.738278,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 323,
               "stop": {
-                "id": 8910,
-                "publicId": "8910",
+                "id": "8910",
+                "internalId": 8910,
                 "name": "Rotunda Das Olaias",
                 "position": {
                   "latitude": 38.739238,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 313,
               "stop": {
-                "id": 9007,
-                "publicId": "9007",
+                "id": "9007",
+                "internalId": 9007,
                 "name": "Casal Vistoso",
                 "position": {
                   "latitude": 38.741537,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 254,
               "stop": {
-                "id": 301,
-                "publicId": "301",
+                "id": "301",
+                "internalId": 301,
                 "name": "Areeiro - Av. Afonso Costa",
                 "position": {
                   "latitude": 38.74229,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 302,
               "stop": {
-                "id": 9425,
-                "publicId": "9425",
+                "id": "9425",
+                "internalId": 9425,
                 "name": "Alcântara - Av. De Ceuta",
                 "position": {
                   "latitude": 38.7081,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 126,
               "stop": {
-                "id": 12110,
-                "publicId": "12110",
+                "id": "12110",
+                "internalId": 12110,
                 "name": "R. Alcântara",
                 "position": {
                   "latitude": 38.706207,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 555,
               "stop": {
-                "id": 12122,
-                "publicId": "12122",
+                "id": "12122",
+                "internalId": 12122,
                 "name": "Calvario",
                 "position": {
                   "latitude": 38.705378,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 398,
               "stop": {
-                "id": 12108,
-                "publicId": "12108",
+                "id": "12108",
+                "internalId": 12108,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.701991,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 0,
               "stop": {
-                "id": 9511,
-                "publicId": "9511",
+                "id": "9511",
+                "internalId": 9511,
                 "name": "Rua Da Junqueira",
                 "position": {
                   "latitude": 38.700004,
@@ -204,8 +204,8 @@
               "order": 1,
               "distance": 472,
               "stop": {
-                "id": 9511,
-                "publicId": "9511",
+                "id": "9511",
+                "internalId": 9511,
                 "name": "Rua Da Junqueira",
                 "position": {
                   "latitude": 38.700004,
@@ -220,8 +220,8 @@
               "order": 2,
               "distance": 411,
               "stop": {
-                "id": 12107,
-                "publicId": "12107",
+                "id": "12107",
+                "internalId": 12107,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.703077,
@@ -236,8 +236,8 @@
               "order": 3,
               "distance": 480,
               "stop": {
-                "id": 12105,
-                "publicId": "12105",
+                "id": "12105",
+                "internalId": 12105,
                 "name": "Calvário",
                 "position": {
                   "latitude": 38.705392,
@@ -252,8 +252,8 @@
               "order": 4,
               "distance": 682,
               "stop": {
-                "id": 9415,
-                "publicId": "9415",
+                "id": "9415",
+                "internalId": 9415,
                 "name": "Alcântara - Av. De Ceuta",
                 "position": {
                   "latitude": 38.707253,
@@ -268,8 +268,8 @@
               "order": 5,
               "distance": 319,
               "stop": {
-                "id": 9411,
-                "publicId": "9411",
+                "id": "9411",
+                "internalId": 9411,
                 "name": "Qta Do Cabrinha - Av. De Ceuta",
                 "position": {
                   "latitude": 38.713106,
@@ -284,8 +284,8 @@
               "order": 6,
               "distance": 395,
               "stop": {
-                "id": 11903,
-                "publicId": "11903",
+                "id": "11903",
+                "internalId": 11903,
                 "name": "Bº Do Loureiro - Av. De Ceuta",
                 "position": {
                   "latitude": 38.715875,
@@ -300,8 +300,8 @@
               "order": 7,
               "distance": 416,
               "stop": {
-                "id": 11901,
-                "publicId": "11901",
+                "id": "11901",
+                "internalId": 11901,
                 "name": "Av. De Ceuta - Arco Carvalhão",
                 "position": {
                   "latitude": 38.719371,
@@ -316,8 +316,8 @@
               "order": 8,
               "distance": 1187,
               "stop": {
-                "id": 8601,
-                "publicId": "8601",
+                "id": "8601",
+                "internalId": 8601,
                 "name": "Av. De Ceuta - Viveiros",
                 "position": {
                   "latitude": 38.723011,
@@ -332,8 +332,8 @@
               "order": 9,
               "distance": 286,
               "stop": {
-                "id": 2715,
-                "publicId": "2715",
+                "id": "2715",
+                "internalId": 2715,
                 "name": "Estação De Campolide",
                 "position": {
                   "latitude": 38.729955,
@@ -348,8 +348,8 @@
               "order": 10,
               "distance": 606,
               "stop": {
-                "id": 6125,
-                "publicId": "6125",
+                "id": "6125",
+                "internalId": 6125,
                 "name": "Av. Gulbenkian",
                 "position": {
                   "latitude": 38.732249,
@@ -364,8 +364,8 @@
               "order": 11,
               "distance": 448,
               "stop": {
-                "id": 1511,
-                "publicId": "1511",
+                "id": "1511",
+                "internalId": 1511,
                 "name": "Viaduto Da Av. Gulbenkian",
                 "position": {
                   "latitude": 38.736112,
@@ -380,8 +380,8 @@
               "order": 12,
               "distance": 385,
               "stop": {
-                "id": 1504,
-                "publicId": "1504",
+                "id": "1504",
+                "internalId": 1504,
                 "name": "Praça De Espanha-Av. De Berna",
                 "position": {
                   "latitude": 38.737789,
@@ -396,8 +396,8 @@
               "order": 13,
               "distance": 432,
               "stop": {
-                "id": 33101,
-                "publicId": "33101",
+                "id": "33101",
+                "internalId": 33101,
                 "name": "Av. De Berna - Rego",
                 "position": {
                   "latitude": 38.739537,
@@ -412,8 +412,8 @@
               "order": 14,
               "distance": 273,
               "stop": {
-                "id": 1915,
-                "publicId": "1915",
+                "id": "1915",
+                "internalId": 1915,
                 "name": "Campo Pequeno - Av. De Berna",
                 "position": {
                   "latitude": 38.741123,
@@ -428,8 +428,8 @@
               "order": 15,
               "distance": 344,
               "stop": {
-                "id": 1908,
-                "publicId": "1908",
+                "id": "1908",
+                "internalId": 1908,
                 "name": "Campo Pequeno",
                 "position": {
                   "latitude": 38.741533,
@@ -444,8 +444,8 @@
               "order": 16,
               "distance": 245,
               "stop": {
-                "id": 6401,
-                "publicId": "6401",
+                "id": "6401",
+                "internalId": 6401,
                 "name": "Av. João Xxi",
                 "position": {
                   "latitude": 38.742207,
@@ -460,8 +460,8 @@
               "order": 17,
               "distance": 272,
               "stop": {
-                "id": 304,
-                "publicId": "304",
+                "id": "304",
+                "internalId": 304,
                 "name": "Av. João Xxi / Pç. Londres",
                 "position": {
                   "latitude": 38.742369,
@@ -476,8 +476,8 @@
               "order": 18,
               "distance": 227,
               "stop": {
-                "id": 302,
-                "publicId": "302",
+                "id": "302",
+                "internalId": 302,
                 "name": "Areeiro",
                 "position": {
                   "latitude": 38.742141,
@@ -492,8 +492,8 @@
               "order": 19,
               "distance": 233,
               "stop": {
-                "id": 312,
-                "publicId": "312",
+                "id": "312",
+                "internalId": 312,
                 "name": "Areeiro - Av. Afonso Costa",
                 "position": {
                   "latitude": 38.741885,
@@ -508,8 +508,8 @@
               "order": 20,
               "distance": 408,
               "stop": {
-                "id": 9008,
-                "publicId": "9008",
+                "id": "9008",
+                "internalId": 9008,
                 "name": "Casal Vistoso",
                 "position": {
                   "latitude": 38.741418,
@@ -524,8 +524,8 @@
               "order": 21,
               "distance": 279,
               "stop": {
-                "id": 9006,
-                "publicId": "9006",
+                "id": "9006",
+                "internalId": 9006,
                 "name": "Olaias - Av. Afonso Costa",
                 "position": {
                   "latitude": 38.738351,
@@ -540,8 +540,8 @@
               "order": 22,
               "distance": 240,
               "stop": {
-                "id": 8908,
-                "publicId": "8908",
+                "id": "8908",
+                "internalId": 8908,
                 "name": "Rotunda Das Olaias",
                 "position": {
                   "latitude": 38.738481,
@@ -556,8 +556,8 @@
               "order": 23,
               "distance": 0,
               "stop": {
-                "id": 8909,
-                "publicId": "8909",
+                "id": "8909",
+                "internalId": 8909,
                 "name": "Picheleira - Olaias",
                 "position": {
                   "latitude": 38.738985,
@@ -586,8 +586,8 @@
               "order": 1,
               "distance": 302,
               "stop": {
-                "id": 9425,
-                "publicId": "9425",
+                "id": "9425",
+                "internalId": 9425,
                 "name": "Alcântara - Av. De Ceuta",
                 "position": {
                   "latitude": 38.7081,
@@ -602,8 +602,8 @@
               "order": 2,
               "distance": 126,
               "stop": {
-                "id": 12110,
-                "publicId": "12110",
+                "id": "12110",
+                "internalId": 12110,
                 "name": "R. Alcântara",
                 "position": {
                   "latitude": 38.706207,
@@ -618,8 +618,8 @@
               "order": 3,
               "distance": 555,
               "stop": {
-                "id": 12122,
-                "publicId": "12122",
+                "id": "12122",
+                "internalId": 12122,
                 "name": "Calvario",
                 "position": {
                   "latitude": 38.705378,
@@ -634,8 +634,8 @@
               "order": 4,
               "distance": 398,
               "stop": {
-                "id": 12108,
-                "publicId": "12108",
+                "id": "12108",
+                "internalId": 12108,
                 "name": "Estação De Santo Amaro",
                 "position": {
                   "latitude": 38.701991,
@@ -650,8 +650,8 @@
               "order": 5,
               "distance": 0,
               "stop": {
-                "id": 9511,
-                "publicId": "9511",
+                "id": "9511",
+                "internalId": 9511,
                 "name": "Rua Da Junqueira",
                 "position": {
                   "latitude": 38.700004,

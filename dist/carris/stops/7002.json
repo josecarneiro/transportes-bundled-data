@@ -1,11 +1,14 @@
 {
-  "id": 7002,
-  "publicId": "7002",
+  "id": "7002",
+  "internalId": 7002,
   "name": "R. Barão Sabrosa",
   "position": {
     "latitude": 38.734983,
     "longitude": -9.128784
   },
   "visible": true,
-  "updateDate": "2018-04-03T15:27:50.000Z"
+  "updateDate": "2018-04-03T15:27:50.000Z",
+  "routes": [
+    "730"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "id": 50177,
-  "publicId": "13610",
+  "id": "13610",
+  "internalId": 50177,
   "name": "Rua Tomás Da Fonseca",
   "position": {
     "latitude": 38.755984,
     "longitude": -9.170861
   },
   "visible": true,
-  "updateDate": "2014-03-03T15:42:35.000Z"
+  "updateDate": "2014-03-03T15:42:35.000Z",
+  "routes": [
+    "701"
+  ]
 }

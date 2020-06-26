@@ -1,11 +1,14 @@
 {
-  "id": 13813,
-  "publicId": "13813",
+  "id": "13813",
+  "internalId": 13813,
   "name": "R. Escolas Gerais",
   "position": {
     "latitude": 38.712885,
     "longitude": -9.129488
   },
   "visible": true,
-  "updateDate": "2019-10-04T17:37:41.000Z"
+  "updateDate": "2019-10-04T17:37:41.000Z",
+  "routes": [
+    "28E"
+  ]
 }

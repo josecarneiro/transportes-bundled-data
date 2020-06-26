@@ -1,11 +1,15 @@
 {
-  "id": 6607,
-  "publicId": "6607",
+  "id": "6607",
+  "internalId": 6607,
   "name": "Rua Joaquim Bonifácio",
   "position": {
     "latitude": 38.728351,
     "longitude": -9.142957
   },
   "visible": true,
-  "updateDate": "2014-10-16T09:28:08.000Z"
+  "updateDate": "2014-10-16T09:28:08.000Z",
+  "routes": [
+    "706",
+    "712"
+  ]
 }

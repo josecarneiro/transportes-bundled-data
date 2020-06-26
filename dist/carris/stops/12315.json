@@ -1,11 +1,14 @@
 {
-  "id": 12315,
-  "publicId": "12315",
+  "id": "12315",
+  "internalId": 12315,
   "name": "Olivais Norte",
   "position": {
     "latitude": 38.776265,
     "longitude": -9.111018
   },
   "visible": true,
-  "updateDate": "2014-10-15T11:26:28.000Z"
+  "updateDate": "2014-10-15T11:26:28.000Z",
+  "routes": [
+    "725"
+  ]
 }

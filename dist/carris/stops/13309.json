@@ -1,11 +1,16 @@
 {
-  "id": 13309,
-  "publicId": "13309",
+  "id": "13309",
+  "internalId": 13309,
   "name": "Igreja Memória",
   "position": {
     "latitude": 38.702456,
     "longitude": -9.202529
   },
   "visible": true,
-  "updateDate": "2019-01-03T17:10:40.000Z"
+  "updateDate": "2019-01-03T17:10:40.000Z",
+  "routes": [
+    "727",
+    "76B",
+    "79B"
+  ]
 }

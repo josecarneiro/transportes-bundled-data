@@ -1,6 +1,6 @@
 {
-  "id": 112,
-  "number": "767",
+  "id": "767",
+  "internalId": 112,
   "name": "C. Mártires Pátria - Reboleira-Metro",
   "visible": true,
   "creationDate": "2020-05-21T11:02:00.000Z",
@@ -21,8 +21,8 @@
               "order": 1,
               "distance": 276,
               "stop": {
-                "id": 9208,
-                "publicId": "9208",
+                "id": "9208",
+                "internalId": 9208,
                 "name": "Campo Mártires Pátria",
                 "position": {
                   "latitude": 38.722241,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 209,
               "stop": {
-                "id": 9212,
-                "publicId": "9212",
+                "id": "9212",
+                "internalId": 9212,
                 "name": "Campo Santana",
                 "position": {
                   "latitude": 38.724172,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 402,
               "stop": {
-                "id": 6902,
-                "publicId": "6902",
+                "id": "6902",
+                "internalId": 6902,
                 "name": "Gomes Freire",
                 "position": {
                   "latitude": 38.725924,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 358,
               "stop": {
-                "id": 6904,
-                "publicId": "6904",
+                "id": "6904",
+                "internalId": 6904,
                 "name": "Hosp. D. Estefânia",
                 "position": {
                   "latitude": 38.729528,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 262,
               "stop": {
-                "id": 6502,
-                "publicId": "6502",
+                "id": "6502",
+                "internalId": 6502,
                 "name": "Estefânia",
                 "position": {
                   "latitude": 38.732553,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 211,
               "stop": {
-                "id": 11102,
-                "publicId": "11102",
+                "id": "11102",
+                "internalId": 11102,
                 "name": "Arco Cego",
                 "position": {
                   "latitude": 38.734887,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 410,
               "stop": {
-                "id": 11108,
-                "publicId": "11108",
+                "id": "11108",
+                "internalId": 11108,
                 "name": "Av. Rovisco Pais",
                 "position": {
                   "latitude": 38.735189,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 179,
               "stop": {
-                "id": 11114,
-                "publicId": "11114",
+                "id": "11114",
+                "internalId": 11114,
                 "name": "Av. Manuel Da Maia",
                 "position": {
                   "latitude": 38.737136,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 315,
               "stop": {
-                "id": 11104,
-                "publicId": "11104",
+                "id": "11104",
+                "internalId": 11104,
                 "name": "Av. Manuel Da Maia (Ine)",
                 "position": {
                   "latitude": 38.738741,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 355,
               "stop": {
-                "id": 6405,
-                "publicId": "6405",
+                "id": "6405",
+                "internalId": 6405,
                 "name": "Pç. Londres",
                 "position": {
                   "latitude": 38.74138,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 393,
               "stop": {
-                "id": 307,
-                "publicId": "307",
+                "id": "307",
+                "internalId": 307,
                 "name": "Av. Roma (Piscina)",
                 "position": {
                   "latitude": 38.744287,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 302,
               "stop": {
-                "id": 201,
-                "publicId": "201",
+                "id": "201",
+                "internalId": 201,
                 "name": "B.º S. Miguel - Av. Roma",
                 "position": {
                   "latitude": 38.747568,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 215,
               "stop": {
-                "id": 203,
-                "publicId": "203",
+                "id": "203",
+                "internalId": 203,
                 "name": "Av. Roma / Av. Eua",
                 "position": {
                   "latitude": 38.750084,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 348,
               "stop": {
-                "id": 101,
-                "publicId": "101",
+                "id": "101",
+                "internalId": 101,
                 "name": "Esc. Rainha D. Leonor",
                 "position": {
                   "latitude": 38.751834,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 356,
               "stop": {
-                "id": 106,
-                "publicId": "106",
+                "id": "106",
+                "internalId": 106,
                 "name": "Pç. Alvalade (Esc. Eugénio San",
                 "position": {
                   "latitude": 38.754736,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 475,
               "stop": {
-                "id": 11301,
-                "publicId": "11301",
+                "id": "11301",
+                "internalId": 11301,
                 "name": "Hosp. Júlio Matos",
                 "position": {
                   "latitude": 38.756247,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 374,
               "stop": {
-                "id": 5707,
-                "publicId": "5707",
+                "id": "5707",
+                "internalId": 5707,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.755837,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 225,
               "stop": {
-                "id": 5805,
-                "publicId": "5805",
+                "id": "5805",
+                "internalId": 5805,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.758587,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 341,
               "stop": {
-                "id": 5810,
-                "publicId": "5810",
+                "id": "5810",
+                "internalId": 5810,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.759728,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 670,
               "stop": {
-                "id": 5809,
-                "publicId": "5809",
+                "id": "5809",
+                "internalId": 5809,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.76078,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 480,
               "stop": {
-                "id": 5823,
-                "publicId": "5823",
+                "id": "5823",
+                "internalId": 5823,
                 "name": "Inst. Ricardo Jorge",
                 "position": {
                   "latitude": 38.762558,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 203,
               "stop": {
-                "id": 50013,
-                "publicId": "50013",
+                "id": "50013",
+                "internalId": 50013,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761716,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 302,
               "stop": {
-                "id": 50005,
-                "publicId": "50005",
+                "id": "50005",
+                "internalId": 50005,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.761099,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 418,
               "stop": {
-                "id": 50011,
-                "publicId": "50011",
+                "id": "50011",
+                "internalId": 50011,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760578,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 280,
               "stop": {
-                "id": 50015,
-                "publicId": "50015",
+                "id": "50015",
+                "internalId": 50015,
                 "name": "Esc. Sec. Telheiras",
                 "position": {
                   "latitude": 38.760147,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 217,
               "stop": {
-                "id": 50141,
-                "publicId": "50019",
+                "id": "50019",
+                "internalId": 50141,
                 "name": "R. Fernando Namora",
                 "position": {
                   "latitude": 38.760131,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 401,
               "stop": {
-                "id": 12828,
-                "publicId": "12828",
+                "id": "12828",
+                "internalId": 12828,
                 "name": "Esc. Sec. Carnide",
                 "position": {
                   "latitude": 38.759655,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 269,
               "stop": {
-                "id": 12804,
-                "publicId": "12804",
+                "id": "12804",
+                "internalId": 12804,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760243,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 271,
               "stop": {
-                "id": 12824,
-                "publicId": "12824",
+                "id": "12824",
+                "internalId": 12824,
                 "name": "Igreja Carnide",
                 "position": {
                   "latitude": 38.759587,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 631,
               "stop": {
-                "id": 12802,
-                "publicId": "12802",
+                "id": "12802",
+                "internalId": 12802,
                 "name": "Qta. Luz",
                 "position": {
                   "latitude": 38.757167,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 389,
               "stop": {
-                "id": 10808,
-                "publicId": "10808",
+                "id": "10808",
+                "internalId": 10808,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752385,
@@ -517,8 +517,8 @@
               "order": 32,
               "distance": 437,
               "stop": {
-                "id": 10804,
-                "publicId": "10804",
+                "id": "10804",
+                "internalId": 10804,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.749594,
@@ -533,8 +533,8 @@
               "order": 33,
               "distance": 277,
               "stop": {
-                "id": 10802,
-                "publicId": "10802",
+                "id": "10802",
+                "internalId": 10802,
                 "name": "Esc. Pedro Santarém",
                 "position": {
                   "latitude": 38.750137,
@@ -549,8 +549,8 @@
               "order": 34,
               "distance": 216,
               "stop": {
-                "id": 10914,
-                "publicId": "10914",
+                "id": "10914",
+                "internalId": 10914,
                 "name": "Av. Uruguai",
                 "position": {
                   "latitude": 38.7515,
@@ -565,8 +565,8 @@
               "order": 35,
               "distance": 377,
               "stop": {
-                "id": 10912,
-                "publicId": "10912",
+                "id": "10912",
+                "internalId": 10912,
                 "name": "Qta. Granja - Av. Uruguai",
                 "position": {
                   "latitude": 38.753221,
@@ -581,8 +581,8 @@
               "order": 36,
               "distance": 196,
               "stop": {
-                "id": 10910,
-                "publicId": "10910",
+                "id": "10910",
+                "internalId": 10910,
                 "name": "Estr. Arneiros",
                 "position": {
                   "latitude": 38.754479,
@@ -597,8 +597,8 @@
               "order": 37,
               "distance": 214,
               "stop": {
-                "id": 13706,
-                "publicId": "13706",
+                "id": "13706",
+                "internalId": 13706,
                 "name": "Charquinho",
                 "position": {
                   "latitude": 38.75571,
@@ -613,8 +613,8 @@
               "order": 38,
               "distance": 237,
               "stop": {
-                "id": 13704,
-                "publicId": "13704",
+                "id": "13704",
+                "internalId": 13704,
                 "name": "Cemitério Benfica",
                 "position": {
                   "latitude": 38.756868,
@@ -629,8 +629,8 @@
               "order": 39,
               "distance": 353,
               "stop": {
-                "id": 13702,
-                "publicId": "13702",
+                "id": "13702",
+                "internalId": 13702,
                 "name": "R. João Ortigão Ramos",
                 "position": {
                   "latitude": 38.756419,
@@ -645,8 +645,8 @@
               "order": 40,
               "distance": 183,
               "stop": {
-                "id": 10927,
-                "publicId": "10927",
+                "id": "10927",
+                "internalId": 10927,
                 "name": "R. Pedralvas",
                 "position": {
                   "latitude": 38.753949,
@@ -661,8 +661,8 @@
               "order": 41,
               "distance": 262,
               "stop": {
-                "id": 50386,
-                "publicId": "11010",
+                "id": "11010",
+                "internalId": 50386,
                 "name": "Estr. Benfica (Mercado)",
                 "position": {
                   "latitude": 38.752523,
@@ -677,8 +677,8 @@
               "order": 42,
               "distance": 569,
               "stop": {
-                "id": 11006,
-                "publicId": "11006",
+                "id": "11006",
+                "internalId": 11006,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.753411,
@@ -693,8 +693,8 @@
               "order": 43,
               "distance": 374,
               "stop": {
-                "id": 50234,
-                "publicId": "3101",
+                "id": "3101",
+                "internalId": 50234,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.750506,
@@ -709,8 +709,8 @@
               "order": 44,
               "distance": 275,
               "stop": {
-                "id": 3007,
-                "publicId": "3007",
+                "id": "3007",
+                "internalId": 3007,
                 "name": "Estação Damaia",
                 "position": {
                   "latitude": 38.748334,
@@ -725,8 +725,8 @@
               "order": 45,
               "distance": 508,
               "stop": {
-                "id": 3002,
-                "publicId": "3002",
+                "id": "3002",
+                "internalId": 3002,
                 "name": "R. Bartolomeu Dias",
                 "position": {
                   "latitude": 38.748041,
@@ -741,8 +741,8 @@
               "order": 46,
               "distance": 0,
               "stop": {
-                "id": 50335,
-                "publicId": "3023",
+                "id": "3023",
+                "internalId": 50335,
                 "name": "Reboleira (Metro)",
                 "position": {
                   "latitude": 38.75038,
@@ -764,8 +764,8 @@
               "order": 1,
               "distance": 424,
               "stop": {
-                "id": 50335,
-                "publicId": "3023",
+                "id": "3023",
+                "internalId": 50335,
                 "name": "Reboleira (Metro)",
                 "position": {
                   "latitude": 38.75038,
@@ -780,8 +780,8 @@
               "order": 2,
               "distance": 297,
               "stop": {
-                "id": 50336,
-                "publicId": "3024",
+                "id": "3024",
+                "internalId": 50336,
                 "name": "R. Bartolomeu Dias",
                 "position": {
                   "latitude": 38.748835,
@@ -796,8 +796,8 @@
               "order": 3,
               "distance": 162,
               "stop": {
-                "id": 3015,
-                "publicId": "3015",
+                "id": "3015",
+                "internalId": 3015,
                 "name": "Pç. Águas Livres",
                 "position": {
                   "latitude": 38.746839,
@@ -812,8 +812,8 @@
               "order": 4,
               "distance": 380,
               "stop": {
-                "id": 3018,
-                "publicId": "3018",
+                "id": "3018",
+                "internalId": 3018,
                 "name": "Estação Damaia",
                 "position": {
                   "latitude": 38.74813,
@@ -828,8 +828,8 @@
               "order": 5,
               "distance": 600,
               "stop": {
-                "id": 3003,
-                "publicId": "3003",
+                "id": "3003",
+                "internalId": 3003,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.749623,
@@ -844,8 +844,8 @@
               "order": 6,
               "distance": 289,
               "stop": {
-                "id": 11001,
-                "publicId": "11001",
+                "id": "11001",
+                "internalId": 11001,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.752705,
@@ -860,8 +860,8 @@
               "order": 7,
               "distance": 139,
               "stop": {
-                "id": 50171,
-                "publicId": "11008",
+                "id": "11008",
+                "internalId": 50171,
                 "name": "Estr. Benfica (Mercado)",
                 "position": {
                   "latitude": 38.752874,
@@ -876,8 +876,8 @@
               "order": 8,
               "distance": 363,
               "stop": {
-                "id": 10926,
-                "publicId": "10926",
+                "id": "10926",
+                "internalId": 10926,
                 "name": "R. Pedralvas",
                 "position": {
                   "latitude": 38.753869,
@@ -892,8 +892,8 @@
               "order": 9,
               "distance": 251,
               "stop": {
-                "id": 13712,
-                "publicId": "13712",
+                "id": "13712",
+                "internalId": 13712,
                 "name": "R. João Ortigão Ramos",
                 "position": {
                   "latitude": 38.756301,
@@ -908,8 +908,8 @@
               "order": 10,
               "distance": 161,
               "stop": {
-                "id": 13703,
-                "publicId": "13703",
+                "id": "13703",
+                "internalId": 13703,
                 "name": "Cemitério Benfica",
                 "position": {
                   "latitude": 38.756734,
@@ -924,8 +924,8 @@
               "order": 11,
               "distance": 250,
               "stop": {
-                "id": 13705,
-                "publicId": "13705",
+                "id": "13705",
+                "internalId": 13705,
                 "name": "Charquinho",
                 "position": {
                   "latitude": 38.755785,
@@ -940,8 +940,8 @@
               "order": 12,
               "distance": 312,
               "stop": {
-                "id": 10909,
-                "publicId": "10909",
+                "id": "10909",
+                "internalId": 10909,
                 "name": "Estr. Arneiros",
                 "position": {
                   "latitude": 38.754202,
@@ -956,8 +956,8 @@
               "order": 13,
               "distance": 169,
               "stop": {
-                "id": 10911,
-                "publicId": "10911",
+                "id": "10911",
+                "internalId": 10911,
                 "name": "Qta. Granja - Av. Uruguai",
                 "position": {
                   "latitude": 38.752869,
@@ -972,8 +972,8 @@
               "order": 14,
               "distance": 392,
               "stop": {
-                "id": 10913,
-                "publicId": "10913",
+                "id": "10913",
+                "internalId": 10913,
                 "name": "Av. Uruguai",
                 "position": {
                   "latitude": 38.751438,
@@ -988,8 +988,8 @@
               "order": 15,
               "distance": 458,
               "stop": {
-                "id": 10835,
-                "publicId": "10835",
+                "id": "10835",
+                "internalId": 10835,
                 "name": "Esc. Pedro Santarém",
                 "position": {
                   "latitude": 38.749735,
@@ -1004,8 +1004,8 @@
               "order": 16,
               "distance": 594,
               "stop": {
-                "id": 10807,
-                "publicId": "10807",
+                "id": "10807",
+                "internalId": 10807,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.748543,
@@ -1020,8 +1020,8 @@
               "order": 17,
               "distance": 556,
               "stop": {
-                "id": 10813,
-                "publicId": "10813",
+                "id": "10813",
+                "internalId": 10813,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.75289,
@@ -1036,8 +1036,8 @@
               "order": 18,
               "distance": 287,
               "stop": {
-                "id": 12801,
-                "publicId": "12801",
+                "id": "12801",
+                "internalId": 12801,
                 "name": "Qta. Luz",
                 "position": {
                   "latitude": 38.75727,
@@ -1052,8 +1052,8 @@
               "order": 19,
               "distance": 257,
               "stop": {
-                "id": 12823,
-                "publicId": "12823",
+                "id": "12823",
+                "internalId": 12823,
                 "name": "Igreja Carnide",
                 "position": {
                   "latitude": 38.759822,
@@ -1068,8 +1068,8 @@
               "order": 20,
               "distance": 383,
               "stop": {
-                "id": 12803,
-                "publicId": "12803",
+                "id": "12803",
+                "internalId": 12803,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760017,
@@ -1084,8 +1084,8 @@
               "order": 21,
               "distance": 198,
               "stop": {
-                "id": 12827,
-                "publicId": "12827",
+                "id": "12827",
+                "internalId": 12827,
                 "name": "Esc. Sec. Carnide",
                 "position": {
                   "latitude": 38.75976,
@@ -1100,8 +1100,8 @@
               "order": 22,
               "distance": 287,
               "stop": {
-                "id": 50142,
-                "publicId": "50018",
+                "id": "50018",
+                "internalId": 50142,
                 "name": "R. Fernando Namora",
                 "position": {
                   "latitude": 38.760013,
@@ -1116,8 +1116,8 @@
               "order": 23,
               "distance": 461,
               "stop": {
-                "id": 50016,
-                "publicId": "50016",
+                "id": "50016",
+                "internalId": 50016,
                 "name": "Esc. Sec. Telheiras",
                 "position": {
                   "latitude": 38.76001,
@@ -1132,8 +1132,8 @@
               "order": 24,
               "distance": 170,
               "stop": {
-                "id": 50012,
-                "publicId": "50012",
+                "id": "50012",
+                "internalId": 50012,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760467,
@@ -1148,8 +1148,8 @@
               "order": 25,
               "distance": 301,
               "stop": {
-                "id": 50006,
-                "publicId": "50006",
+                "id": "50006",
+                "internalId": 50006,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.760516,
@@ -1164,8 +1164,8 @@
               "order": 26,
               "distance": 916,
               "stop": {
-                "id": 50014,
-                "publicId": "50014",
+                "id": "50014",
+                "internalId": 50014,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761573,
@@ -1180,8 +1180,8 @@
               "order": 27,
               "distance": 127,
               "stop": {
-                "id": 5828,
-                "publicId": "5828",
+                "id": "5828",
+                "internalId": 5828,
                 "name": "Campo Grande (Metro) - Só Desc",
                 "position": {
                   "latitude": 38.760369,
@@ -1196,8 +1196,8 @@
               "order": 28,
               "distance": 319,
               "stop": {
-                "id": 5824,
-                "publicId": "5824",
+                "id": "5824",
+                "internalId": 5824,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.760339,
@@ -1212,8 +1212,8 @@
               "order": 29,
               "distance": 517,
               "stop": {
-                "id": 5804,
-                "publicId": "5804",
+                "id": "5804",
+                "internalId": 5804,
                 "name": "Campo Grande Norte",
                 "position": {
                   "latitude": 38.757865,
@@ -1228,8 +1228,8 @@
               "order": 30,
               "distance": 647,
               "stop": {
-                "id": 5706,
-                "publicId": "5706",
+                "id": "5706",
+                "internalId": 5706,
                 "name": "Campo Grande - Av. Brasil",
                 "position": {
                   "latitude": 38.754613,
@@ -1244,8 +1244,8 @@
               "order": 31,
               "distance": 228,
               "stop": {
-                "id": 11302,
-                "publicId": "11302",
+                "id": "11302",
+                "internalId": 11302,
                 "name": "Hosp. Júlio Matos",
                 "position": {
                   "latitude": 38.755939,
@@ -1260,8 +1260,8 @@
               "order": 32,
               "distance": 239,
               "stop": {
-                "id": 104,
-                "publicId": "104",
+                "id": "104",
+                "internalId": 104,
                 "name": "Pç. Alvalade (Esc. Eugénio San",
                 "position": {
                   "latitude": 38.754048,
@@ -1276,8 +1276,8 @@
               "order": 33,
               "distance": 250,
               "stop": {
-                "id": 102,
-                "publicId": "102",
+                "id": "102",
+                "internalId": 102,
                 "name": "Esc. Rainha D. Leonor",
                 "position": {
                   "latitude": 38.752082,
@@ -1292,8 +1292,8 @@
               "order": 34,
               "distance": 311,
               "stop": {
-                "id": 204,
-                "publicId": "204",
+                "id": "204",
+                "internalId": 204,
                 "name": "Av. Roma / Av. Eua",
                 "position": {
                   "latitude": 38.750001,
@@ -1308,8 +1308,8 @@
               "order": 35,
               "distance": 349,
               "stop": {
-                "id": 202,
-                "publicId": "202",
+                "id": "202",
+                "internalId": 202,
                 "name": "B.º S. Miguel - Av. Roma",
                 "position": {
                   "latitude": 38.747428,
@@ -1324,8 +1324,8 @@
               "order": 36,
               "distance": 503,
               "stop": {
-                "id": 306,
-                "publicId": "306",
+                "id": "306",
+                "internalId": 306,
                 "name": "Av. Roma (Piscina)",
                 "position": {
                   "latitude": 38.744544,
@@ -1340,8 +1340,8 @@
               "order": 37,
               "distance": 386,
               "stop": {
-                "id": 6408,
-                "publicId": "6408",
+                "id": "6408",
+                "internalId": 6408,
                 "name": "Pç. Londres",
                 "position": {
                   "latitude": 38.740327,
@@ -1356,8 +1356,8 @@
               "order": 38,
               "distance": 560,
               "stop": {
-                "id": 11109,
-                "publicId": "11109",
+                "id": "11109",
+                "internalId": 11109,
                 "name": "Av. António José De Almeida",
                 "position": {
                   "latitude": 38.738218,
@@ -1372,8 +1372,8 @@
               "order": 39,
               "distance": 277,
               "stop": {
-                "id": 11105,
-                "publicId": "11105",
+                "id": "11105",
+                "internalId": 11105,
                 "name": "Arco Cego",
                 "position": {
                   "latitude": 38.734581,
@@ -1388,8 +1388,8 @@
               "order": 40,
               "distance": 317,
               "stop": {
-                "id": 6501,
-                "publicId": "6501",
+                "id": "6501",
+                "internalId": 6501,
                 "name": "Estefânia",
                 "position": {
                   "latitude": 38.73212,
@@ -1404,8 +1404,8 @@
               "order": 41,
               "distance": 435,
               "stop": {
-                "id": 6903,
-                "publicId": "6903",
+                "id": "6903",
+                "internalId": 6903,
                 "name": "Hosp. D. Estefânia",
                 "position": {
                   "latitude": 38.72947,
@@ -1420,8 +1420,8 @@
               "order": 42,
               "distance": 339,
               "stop": {
-                "id": 6901,
-                "publicId": "6901",
+                "id": "6901",
+                "internalId": 6901,
                 "name": "Gomes Freire",
                 "position": {
                   "latitude": 38.725573,
@@ -1436,8 +1436,8 @@
               "order": 43,
               "distance": 117,
               "stop": {
-                "id": 9207,
-                "publicId": "9207",
+                "id": "9207",
+                "internalId": 9207,
                 "name": "Campo Santana",
                 "position": {
                   "latitude": 38.722909,
@@ -1452,8 +1452,8 @@
               "order": 44,
               "distance": 0,
               "stop": {
-                "id": 9208,
-                "publicId": "9208",
+                "id": "9208",
+                "internalId": 9208,
                 "name": "Campo Mártires Pátria",
                 "position": {
                   "latitude": 38.722241,
@@ -1482,8 +1482,8 @@
               "order": 1,
               "distance": 670,
               "stop": {
-                "id": 5809,
-                "publicId": "5809",
+                "id": "5809",
+                "internalId": 5809,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.76078,
@@ -1498,8 +1498,8 @@
               "order": 2,
               "distance": 480,
               "stop": {
-                "id": 5823,
-                "publicId": "5823",
+                "id": "5823",
+                "internalId": 5823,
                 "name": "Inst. Ricardo Jorge",
                 "position": {
                   "latitude": 38.762558,
@@ -1514,8 +1514,8 @@
               "order": 3,
               "distance": 203,
               "stop": {
-                "id": 50013,
-                "publicId": "50013",
+                "id": "50013",
+                "internalId": 50013,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761716,
@@ -1530,8 +1530,8 @@
               "order": 4,
               "distance": 302,
               "stop": {
-                "id": 50005,
-                "publicId": "50005",
+                "id": "50005",
+                "internalId": 50005,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.761099,
@@ -1546,8 +1546,8 @@
               "order": 5,
               "distance": 418,
               "stop": {
-                "id": 50011,
-                "publicId": "50011",
+                "id": "50011",
+                "internalId": 50011,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760578,
@@ -1562,8 +1562,8 @@
               "order": 6,
               "distance": 280,
               "stop": {
-                "id": 50015,
-                "publicId": "50015",
+                "id": "50015",
+                "internalId": 50015,
                 "name": "Esc. Sec. Telheiras",
                 "position": {
                   "latitude": 38.760147,
@@ -1578,8 +1578,8 @@
               "order": 7,
               "distance": 217,
               "stop": {
-                "id": 50141,
-                "publicId": "50019",
+                "id": "50019",
+                "internalId": 50141,
                 "name": "R. Fernando Namora",
                 "position": {
                   "latitude": 38.760131,
@@ -1594,8 +1594,8 @@
               "order": 8,
               "distance": 401,
               "stop": {
-                "id": 12828,
-                "publicId": "12828",
+                "id": "12828",
+                "internalId": 12828,
                 "name": "Esc. Sec. Carnide",
                 "position": {
                   "latitude": 38.759655,
@@ -1610,8 +1610,8 @@
               "order": 9,
               "distance": 269,
               "stop": {
-                "id": 12804,
-                "publicId": "12804",
+                "id": "12804",
+                "internalId": 12804,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760243,
@@ -1626,8 +1626,8 @@
               "order": 10,
               "distance": 271,
               "stop": {
-                "id": 12824,
-                "publicId": "12824",
+                "id": "12824",
+                "internalId": 12824,
                 "name": "Igreja Carnide",
                 "position": {
                   "latitude": 38.759587,
@@ -1642,8 +1642,8 @@
               "order": 11,
               "distance": 631,
               "stop": {
-                "id": 12802,
-                "publicId": "12802",
+                "id": "12802",
+                "internalId": 12802,
                 "name": "Qta. Luz",
                 "position": {
                   "latitude": 38.757167,
@@ -1658,8 +1658,8 @@
               "order": 12,
               "distance": 389,
               "stop": {
-                "id": 10808,
-                "publicId": "10808",
+                "id": "10808",
+                "internalId": 10808,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752385,
@@ -1674,8 +1674,8 @@
               "order": 13,
               "distance": 437,
               "stop": {
-                "id": 10804,
-                "publicId": "10804",
+                "id": "10804",
+                "internalId": 10804,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.749594,
@@ -1690,8 +1690,8 @@
               "order": 14,
               "distance": 277,
               "stop": {
-                "id": 10802,
-                "publicId": "10802",
+                "id": "10802",
+                "internalId": 10802,
                 "name": "Esc. Pedro Santarém",
                 "position": {
                   "latitude": 38.750137,
@@ -1706,8 +1706,8 @@
               "order": 15,
               "distance": 216,
               "stop": {
-                "id": 10914,
-                "publicId": "10914",
+                "id": "10914",
+                "internalId": 10914,
                 "name": "Av. Uruguai",
                 "position": {
                   "latitude": 38.7515,
@@ -1722,8 +1722,8 @@
               "order": 16,
               "distance": 377,
               "stop": {
-                "id": 10912,
-                "publicId": "10912",
+                "id": "10912",
+                "internalId": 10912,
                 "name": "Qta. Granja - Av. Uruguai",
                 "position": {
                   "latitude": 38.753221,
@@ -1738,8 +1738,8 @@
               "order": 17,
               "distance": 196,
               "stop": {
-                "id": 10910,
-                "publicId": "10910",
+                "id": "10910",
+                "internalId": 10910,
                 "name": "Estr. Arneiros",
                 "position": {
                   "latitude": 38.754479,
@@ -1754,8 +1754,8 @@
               "order": 18,
               "distance": 214,
               "stop": {
-                "id": 13706,
-                "publicId": "13706",
+                "id": "13706",
+                "internalId": 13706,
                 "name": "Charquinho",
                 "position": {
                   "latitude": 38.75571,
@@ -1770,8 +1770,8 @@
               "order": 19,
               "distance": 237,
               "stop": {
-                "id": 13704,
-                "publicId": "13704",
+                "id": "13704",
+                "internalId": 13704,
                 "name": "Cemitério Benfica",
                 "position": {
                   "latitude": 38.756868,
@@ -1786,8 +1786,8 @@
               "order": 20,
               "distance": 353,
               "stop": {
-                "id": 13702,
-                "publicId": "13702",
+                "id": "13702",
+                "internalId": 13702,
                 "name": "R. João Ortigão Ramos",
                 "position": {
                   "latitude": 38.756419,
@@ -1802,8 +1802,8 @@
               "order": 21,
               "distance": 183,
               "stop": {
-                "id": 10927,
-                "publicId": "10927",
+                "id": "10927",
+                "internalId": 10927,
                 "name": "R. Pedralvas",
                 "position": {
                   "latitude": 38.753949,
@@ -1818,8 +1818,8 @@
               "order": 22,
               "distance": 262,
               "stop": {
-                "id": 50386,
-                "publicId": "11010",
+                "id": "11010",
+                "internalId": 50386,
                 "name": "Estr. Benfica (Mercado)",
                 "position": {
                   "latitude": 38.752523,
@@ -1834,8 +1834,8 @@
               "order": 23,
               "distance": 569,
               "stop": {
-                "id": 11006,
-                "publicId": "11006",
+                "id": "11006",
+                "internalId": 11006,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.753411,
@@ -1850,8 +1850,8 @@
               "order": 24,
               "distance": 374,
               "stop": {
-                "id": 50234,
-                "publicId": "3101",
+                "id": "3101",
+                "internalId": 50234,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.750506,
@@ -1866,8 +1866,8 @@
               "order": 25,
               "distance": 275,
               "stop": {
-                "id": 3007,
-                "publicId": "3007",
+                "id": "3007",
+                "internalId": 3007,
                 "name": "Estação Damaia",
                 "position": {
                   "latitude": 38.748334,
@@ -1882,8 +1882,8 @@
               "order": 26,
               "distance": 508,
               "stop": {
-                "id": 3002,
-                "publicId": "3002",
+                "id": "3002",
+                "internalId": 3002,
                 "name": "R. Bartolomeu Dias",
                 "position": {
                   "latitude": 38.748041,
@@ -1898,8 +1898,8 @@
               "order": 27,
               "distance": 0,
               "stop": {
-                "id": 50335,
-                "publicId": "3023",
+                "id": "3023",
+                "internalId": 50335,
                 "name": "Reboleira (Metro)",
                 "position": {
                   "latitude": 38.75038,
@@ -3868,8 +3868,8 @@
               "order": 1,
               "distance": 424,
               "stop": {
-                "id": 50335,
-                "publicId": "3023",
+                "id": "3023",
+                "internalId": 50335,
                 "name": "Reboleira (Metro)",
                 "position": {
                   "latitude": 38.75038,
@@ -3884,8 +3884,8 @@
               "order": 2,
               "distance": 297,
               "stop": {
-                "id": 50336,
-                "publicId": "3024",
+                "id": "3024",
+                "internalId": 50336,
                 "name": "R. Bartolomeu Dias",
                 "position": {
                   "latitude": 38.748835,
@@ -3900,8 +3900,8 @@
               "order": 3,
               "distance": 162,
               "stop": {
-                "id": 3015,
-                "publicId": "3015",
+                "id": "3015",
+                "internalId": 3015,
                 "name": "Pç. Águas Livres",
                 "position": {
                   "latitude": 38.746839,
@@ -3916,8 +3916,8 @@
               "order": 4,
               "distance": 380,
               "stop": {
-                "id": 3018,
-                "publicId": "3018",
+                "id": "3018",
+                "internalId": 3018,
                 "name": "Estação Damaia",
                 "position": {
                   "latitude": 38.74813,
@@ -3932,8 +3932,8 @@
               "order": 5,
               "distance": 600,
               "stop": {
-                "id": 3003,
-                "publicId": "3003",
+                "id": "3003",
+                "internalId": 3003,
                 "name": "Damaia - R. D. Francisco Almei",
                 "position": {
                   "latitude": 38.749623,
@@ -3948,8 +3948,8 @@
               "order": 6,
               "distance": 289,
               "stop": {
-                "id": 11001,
-                "publicId": "11001",
+                "id": "11001",
+                "internalId": 11001,
                 "name": "Portas Benfica",
                 "position": {
                   "latitude": 38.752705,
@@ -3964,8 +3964,8 @@
               "order": 7,
               "distance": 139,
               "stop": {
-                "id": 50171,
-                "publicId": "11008",
+                "id": "11008",
+                "internalId": 50171,
                 "name": "Estr. Benfica (Mercado)",
                 "position": {
                   "latitude": 38.752874,
@@ -3980,8 +3980,8 @@
               "order": 8,
               "distance": 363,
               "stop": {
-                "id": 10926,
-                "publicId": "10926",
+                "id": "10926",
+                "internalId": 10926,
                 "name": "R. Pedralvas",
                 "position": {
                   "latitude": 38.753869,
@@ -3996,8 +3996,8 @@
               "order": 9,
               "distance": 251,
               "stop": {
-                "id": 13712,
-                "publicId": "13712",
+                "id": "13712",
+                "internalId": 13712,
                 "name": "R. João Ortigão Ramos",
                 "position": {
                   "latitude": 38.756301,
@@ -4012,8 +4012,8 @@
               "order": 10,
               "distance": 161,
               "stop": {
-                "id": 13703,
-                "publicId": "13703",
+                "id": "13703",
+                "internalId": 13703,
                 "name": "Cemitério Benfica",
                 "position": {
                   "latitude": 38.756734,
@@ -4028,8 +4028,8 @@
               "order": 11,
               "distance": 250,
               "stop": {
-                "id": 13705,
-                "publicId": "13705",
+                "id": "13705",
+                "internalId": 13705,
                 "name": "Charquinho",
                 "position": {
                   "latitude": 38.755785,
@@ -4044,8 +4044,8 @@
               "order": 12,
               "distance": 312,
               "stop": {
-                "id": 10909,
-                "publicId": "10909",
+                "id": "10909",
+                "internalId": 10909,
                 "name": "Estr. Arneiros",
                 "position": {
                   "latitude": 38.754202,
@@ -4060,8 +4060,8 @@
               "order": 13,
               "distance": 169,
               "stop": {
-                "id": 10911,
-                "publicId": "10911",
+                "id": "10911",
+                "internalId": 10911,
                 "name": "Qta. Granja - Av. Uruguai",
                 "position": {
                   "latitude": 38.752869,
@@ -4076,8 +4076,8 @@
               "order": 14,
               "distance": 392,
               "stop": {
-                "id": 10913,
-                "publicId": "10913",
+                "id": "10913",
+                "internalId": 10913,
                 "name": "Av. Uruguai",
                 "position": {
                   "latitude": 38.751438,
@@ -4092,8 +4092,8 @@
               "order": 15,
               "distance": 458,
               "stop": {
-                "id": 10835,
-                "publicId": "10835",
+                "id": "10835",
+                "internalId": 10835,
                 "name": "Esc. Pedro Santarém",
                 "position": {
                   "latitude": 38.749735,
@@ -4108,8 +4108,8 @@
               "order": 16,
               "distance": 594,
               "stop": {
-                "id": 10807,
-                "publicId": "10807",
+                "id": "10807",
+                "internalId": 10807,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.748543,
@@ -4124,8 +4124,8 @@
               "order": 17,
               "distance": 556,
               "stop": {
-                "id": 10813,
-                "publicId": "10813",
+                "id": "10813",
+                "internalId": 10813,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.75289,
@@ -4140,8 +4140,8 @@
               "order": 18,
               "distance": 287,
               "stop": {
-                "id": 12801,
-                "publicId": "12801",
+                "id": "12801",
+                "internalId": 12801,
                 "name": "Qta. Luz",
                 "position": {
                   "latitude": 38.75727,
@@ -4156,8 +4156,8 @@
               "order": 19,
               "distance": 257,
               "stop": {
-                "id": 12823,
-                "publicId": "12823",
+                "id": "12823",
+                "internalId": 12823,
                 "name": "Igreja Carnide",
                 "position": {
                   "latitude": 38.759822,
@@ -4172,8 +4172,8 @@
               "order": 20,
               "distance": 383,
               "stop": {
-                "id": 12803,
-                "publicId": "12803",
+                "id": "12803",
+                "internalId": 12803,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760017,
@@ -4188,8 +4188,8 @@
               "order": 21,
               "distance": 198,
               "stop": {
-                "id": 12827,
-                "publicId": "12827",
+                "id": "12827",
+                "internalId": 12827,
                 "name": "Esc. Sec. Carnide",
                 "position": {
                   "latitude": 38.75976,
@@ -4204,8 +4204,8 @@
               "order": 22,
               "distance": 287,
               "stop": {
-                "id": 50142,
-                "publicId": "50018",
+                "id": "50018",
+                "internalId": 50142,
                 "name": "R. Fernando Namora",
                 "position": {
                   "latitude": 38.760013,
@@ -4220,8 +4220,8 @@
               "order": 23,
               "distance": 461,
               "stop": {
-                "id": 50016,
-                "publicId": "50016",
+                "id": "50016",
+                "internalId": 50016,
                 "name": "Esc. Sec. Telheiras",
                 "position": {
                   "latitude": 38.76001,
@@ -4236,8 +4236,8 @@
               "order": 24,
               "distance": 170,
               "stop": {
-                "id": 50012,
-                "publicId": "50012",
+                "id": "50012",
+                "internalId": 50012,
                 "name": "Telheiras",
                 "position": {
                   "latitude": 38.760467,
@@ -4252,8 +4252,8 @@
               "order": 25,
               "distance": 301,
               "stop": {
-                "id": 50006,
-                "publicId": "50006",
+                "id": "50006",
+                "internalId": 50006,
                 "name": "R. Prof. Francisco Gentil (Met",
                 "position": {
                   "latitude": 38.760516,
@@ -4268,8 +4268,8 @@
               "order": 26,
               "distance": 916,
               "stop": {
-                "id": 50014,
-                "publicId": "50014",
+                "id": "50014",
+                "internalId": 50014,
                 "name": "R. Prof. Fernando Fonseca",
                 "position": {
                   "latitude": 38.761573,
@@ -4284,8 +4284,8 @@
               "order": 27,
               "distance": 92,
               "stop": {
-                "id": 5828,
-                "publicId": "5828",
+                "id": "5828",
+                "internalId": 5828,
                 "name": "Campo Grande (Metro) - Só Desc",
                 "position": {
                   "latitude": 38.760369,
@@ -4300,8 +4300,8 @@
               "order": 28,
               "distance": 0,
               "stop": {
-                "id": 5809,
-                "publicId": "5809",
+                "id": "5809",
+                "internalId": 5809,
                 "name": "Campo Grande (Metro)",
                 "position": {
                   "latitude": 38.76078,

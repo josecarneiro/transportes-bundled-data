@@ -1,11 +1,12 @@
 {
-  "id": 6126,
-  "publicId": "6126",
+  "id": "6126",
+  "internalId": 6126,
   "name": "Av. Gulbenkian",
   "position": {
     "latitude": 38.732257,
     "longitude": -9.164879
   },
   "visible": true,
-  "updateDate": "2012-12-13T16:30:28.000Z"
+  "updateDate": "2012-12-13T16:30:28.000Z",
+  "routes": []
 }

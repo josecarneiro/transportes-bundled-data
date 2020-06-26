@@ -1,11 +1,14 @@
 {
-  "id": 50413,
-  "publicId": "83122",
+  "id": "83122",
+  "internalId": 50413,
   "name": "Cç. Duque Lafões",
   "position": {
     "latitude": 38.733757,
     "longitude": -9.107425
   },
   "visible": true,
-  "updateDate": "2019-07-19T16:02:58.000Z"
+  "updateDate": "2019-07-19T16:02:58.000Z",
+  "routes": [
+    "34B"
+  ]
 }

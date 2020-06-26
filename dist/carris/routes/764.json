@@ -1,6 +1,6 @@
 {
-  "id": 168,
-  "number": "764",
+  "id": "764",
+  "internalId": 168,
   "name": "Cidade Universitária - Damaia Cima",
   "visible": true,
   "creationDate": "2020-05-20T09:44:36.000Z",
@@ -2572,8 +2572,8 @@
               "order": 1,
               "distance": 322,
               "stop": {
-                "id": 13504,
-                "publicId": "13504",
+                "id": "13504",
+                "internalId": 13504,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.752644,
@@ -2588,8 +2588,8 @@
               "order": 2,
               "distance": 327,
               "stop": {
-                "id": 13507,
-                "publicId": "13507",
+                "id": "13507",
+                "internalId": 13507,
                 "name": "Cantina Da Universidade",
                 "position": {
                   "latitude": 38.750757,
@@ -2604,8 +2604,8 @@
               "order": 3,
               "distance": 627,
               "stop": {
-                "id": 13508,
-                "publicId": "13508",
+                "id": "13508",
+                "internalId": 13508,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.75019,
@@ -2620,8 +2620,8 @@
               "order": 4,
               "distance": 267,
               "stop": {
-                "id": 12706,
-                "publicId": "12706",
+                "id": "12706",
+                "internalId": 12706,
                 "name": "Universidade Católica",
                 "position": {
                   "latitude": 38.748206,
@@ -2636,8 +2636,8 @@
               "order": 5,
               "distance": 377,
               "stop": {
-                "id": 12704,
-                "publicId": "12704",
+                "id": "12704",
+                "internalId": 12704,
                 "name": "Cç. Palma Baixo",
                 "position": {
                   "latitude": 38.746888,
@@ -2652,8 +2652,8 @@
               "order": 6,
               "distance": 265,
               "stop": {
-                "id": 12707,
-                "publicId": "12707",
+                "id": "12707",
+                "internalId": 12707,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745558,
@@ -2668,8 +2668,8 @@
               "order": 7,
               "distance": 417,
               "stop": {
-                "id": 12709,
-                "publicId": "12709",
+                "id": "12709",
+                "internalId": 12709,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747561,
@@ -2684,8 +2684,8 @@
               "order": 8,
               "distance": 327,
               "stop": {
-                "id": 12711,
-                "publicId": "12711",
+                "id": "12711",
+                "internalId": 12711,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.750864,
@@ -2700,8 +2700,8 @@
               "order": 9,
               "distance": 411,
               "stop": {
-                "id": 13617,
-                "publicId": "13617",
+                "id": "13617",
+                "internalId": 13617,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.753612,
@@ -2716,8 +2716,8 @@
               "order": 10,
               "distance": 385,
               "stop": {
-                "id": 13606,
-                "publicId": "13606",
+                "id": "13606",
+                "internalId": 13606,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756594,
@@ -2732,8 +2732,8 @@
               "order": 11,
               "distance": 241,
               "stop": {
-                "id": 13608,
-                "publicId": "13608",
+                "id": "13608",
+                "internalId": 13608,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75889,
@@ -2748,8 +2748,8 @@
               "order": 12,
               "distance": 269,
               "stop": {
-                "id": 12804,
-                "publicId": "12804",
+                "id": "12804",
+                "internalId": 12804,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760243,
@@ -2764,8 +2764,8 @@
               "order": 13,
               "distance": 271,
               "stop": {
-                "id": 12824,
-                "publicId": "12824",
+                "id": "12824",
+                "internalId": 12824,
                 "name": "Igreja Carnide",
                 "position": {
                   "latitude": 38.759587,
@@ -2780,8 +2780,8 @@
               "order": 14,
               "distance": 631,
               "stop": {
-                "id": 12802,
-                "publicId": "12802",
+                "id": "12802",
+                "internalId": 12802,
                 "name": "Qta. Luz",
                 "position": {
                   "latitude": 38.757167,
@@ -2796,8 +2796,8 @@
               "order": 15,
               "distance": 389,
               "stop": {
-                "id": 10808,
-                "publicId": "10808",
+                "id": "10808",
+                "internalId": 10808,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752385,
@@ -2812,8 +2812,8 @@
               "order": 16,
               "distance": 301,
               "stop": {
-                "id": 10804,
-                "publicId": "10804",
+                "id": "10804",
+                "internalId": 10804,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.749594,
@@ -2828,8 +2828,8 @@
               "order": 17,
               "distance": 372,
               "stop": {
-                "id": 10803,
-                "publicId": "10803",
+                "id": "10803",
+                "internalId": 10803,
                 "name": "Calhariz (Escola)",
                 "position": {
                   "latitude": 38.748208,
@@ -2844,8 +2844,8 @@
               "order": 18,
               "distance": 428,
               "stop": {
-                "id": 10822,
-                "publicId": "10822",
+                "id": "10822",
+                "internalId": 10822,
                 "name": "Calhariz (Rua Ribeiro Reis)",
                 "position": {
                   "latitude": 38.746268,
@@ -2860,8 +2860,8 @@
               "order": 19,
               "distance": 611,
               "stop": {
-                "id": 10818,
-                "publicId": "10818",
+                "id": "10818",
+                "internalId": 10818,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.744494,
@@ -2876,8 +2876,8 @@
               "order": 20,
               "distance": 278,
               "stop": {
-                "id": 2806,
-                "publicId": "2806",
+                "id": "2806",
+                "internalId": 2806,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.745077,
@@ -2892,8 +2892,8 @@
               "order": 21,
               "distance": 353,
               "stop": {
-                "id": 8816,
-                "publicId": "8816",
+                "id": "8816",
+                "internalId": 8816,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745257,
@@ -2908,8 +2908,8 @@
               "order": 22,
               "distance": 206,
               "stop": {
-                "id": 8814,
-                "publicId": "8814",
+                "id": "8814",
+                "internalId": 8814,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743823,
@@ -2924,8 +2924,8 @@
               "order": 23,
               "distance": 302,
               "stop": {
-                "id": 50239,
-                "publicId": "8822",
+                "id": "8822",
+                "internalId": 50239,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.742394,
@@ -2940,8 +2940,8 @@
               "order": 24,
               "distance": 391,
               "stop": {
-                "id": 8818,
-                "publicId": "8818",
+                "id": "8818",
+                "internalId": 8818,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.740835,
@@ -2956,8 +2956,8 @@
               "order": 25,
               "distance": 214,
               "stop": {
-                "id": 8820,
-                "publicId": "8820",
+                "id": "8820",
+                "internalId": 8820,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.742358,
@@ -2972,8 +2972,8 @@
               "order": 26,
               "distance": 262,
               "stop": {
-                "id": 8824,
-                "publicId": "8824",
+                "id": "8824",
+                "internalId": 8824,
                 "name": "Rua Da Creche",
                 "position": {
                   "latitude": 38.744075,
@@ -2988,8 +2988,8 @@
               "order": 27,
               "distance": 452,
               "stop": {
-                "id": 3016,
-                "publicId": "3016",
+                "id": "3016",
+                "internalId": 3016,
                 "name": "Buraca - Av. Da República",
                 "position": {
                   "latitude": 38.746086,
@@ -3004,8 +3004,8 @@
               "order": 28,
               "distance": 208,
               "stop": {
-                "id": 3014,
-                "publicId": "3014",
+                "id": "3014",
+                "internalId": 3014,
                 "name": "Praça Das Águas Livres",
                 "position": {
                   "latitude": 38.746946,
@@ -3020,8 +3020,8 @@
               "order": 29,
               "distance": 243,
               "stop": {
-                "id": 3012,
-                "publicId": "3012",
+                "id": "3012",
+                "internalId": 3012,
                 "name": "Av. Dom João V",
                 "position": {
                   "latitude": 38.745485,
@@ -3036,8 +3036,8 @@
               "order": 30,
               "distance": 244,
               "stop": {
-                "id": 3010,
-                "publicId": "3010",
+                "id": "3010",
+                "internalId": 3010,
                 "name": "Praça Marquês Das Minas",
                 "position": {
                   "latitude": 38.744117,
@@ -3052,8 +3052,8 @@
               "order": 31,
               "distance": 353,
               "stop": {
-                "id": 3008,
-                "publicId": "3008",
+                "id": "3008",
+                "internalId": 3008,
                 "name": "Rua Fernando Tamagnini",
                 "position": {
                   "latitude": 38.745314,
@@ -3068,8 +3068,8 @@
               "order": 32,
               "distance": 211,
               "stop": {
-                "id": 3006,
-                "publicId": "3006",
+                "id": "3006",
+                "internalId": 3006,
                 "name": "Rua Carvalho Araújo",
                 "position": {
                   "latitude": 38.74757,
@@ -3084,8 +3084,8 @@
               "order": 33,
               "distance": 0,
               "stop": {
-                "id": 3004,
-                "publicId": "3004",
+                "id": "3004",
+                "internalId": 3004,
                 "name": "Damaia De Cima",
                 "position": {
                   "latitude": 38.746958,
@@ -5724,8 +5724,8 @@
               "order": 1,
               "distance": 252,
               "stop": {
-                "id": 3004,
-                "publicId": "3004",
+                "id": "3004",
+                "internalId": 3004,
                 "name": "Damaia De Cima",
                 "position": {
                   "latitude": 38.746958,
@@ -5740,8 +5740,8 @@
               "order": 2,
               "distance": 289,
               "stop": {
-                "id": 3009,
-                "publicId": "3009",
+                "id": "3009",
+                "internalId": 3009,
                 "name": "Rua Fernando Tamagnini",
                 "position": {
                   "latitude": 38.745616,
@@ -5756,8 +5756,8 @@
               "order": 3,
               "distance": 334,
               "stop": {
-                "id": 3011,
-                "publicId": "3011",
+                "id": "3011",
+                "internalId": 3011,
                 "name": "Praça Marquês Das Minas",
                 "position": {
                   "latitude": 38.743792,
@@ -5772,8 +5772,8 @@
               "order": 4,
               "distance": 181,
               "stop": {
-                "id": 3013,
-                "publicId": "3013",
+                "id": "3013",
+                "internalId": 3013,
                 "name": "Av. Dom João V",
                 "position": {
                   "latitude": 38.745821,
@@ -5788,8 +5788,8 @@
               "order": 5,
               "distance": 364,
               "stop": {
-                "id": 3015,
-                "publicId": "3015",
+                "id": "3015",
+                "internalId": 3015,
                 "name": "Pç. Águas Livres",
                 "position": {
                   "latitude": 38.746839,
@@ -5804,8 +5804,8 @@
               "order": 6,
               "distance": 273,
               "stop": {
-                "id": 3017,
-                "publicId": "3017",
+                "id": "3017",
+                "internalId": 3017,
                 "name": "Buraca - Av. Da República",
                 "position": {
                   "latitude": 38.74597,
@@ -5820,8 +5820,8 @@
               "order": 7,
               "distance": 301,
               "stop": {
-                "id": 8823,
-                "publicId": "8823",
+                "id": "8823",
+                "internalId": 8823,
                 "name": "Rua Da Creche",
                 "position": {
                   "latitude": 38.743987,
@@ -5836,8 +5836,8 @@
               "order": 8,
               "distance": 331,
               "stop": {
-                "id": 8819,
-                "publicId": "8819",
+                "id": "8819",
+                "internalId": 8819,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.741798,
@@ -5852,8 +5852,8 @@
               "order": 9,
               "distance": 241,
               "stop": {
-                "id": 8815,
-                "publicId": "8815",
+                "id": "8815",
+                "internalId": 8815,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.74075,
@@ -5868,8 +5868,8 @@
               "order": 10,
               "distance": 345,
               "stop": {
-                "id": 50240,
-                "publicId": "8821",
+                "id": "8821",
+                "internalId": 50240,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.741726,
@@ -5884,8 +5884,8 @@
               "order": 11,
               "distance": 357,
               "stop": {
-                "id": 8811,
-                "publicId": "8811",
+                "id": "8811",
+                "internalId": 8811,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743861,
@@ -5900,8 +5900,8 @@
               "order": 12,
               "distance": 327,
               "stop": {
-                "id": 8813,
-                "publicId": "8813",
+                "id": "8813",
+                "internalId": 8813,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745108,
@@ -5916,8 +5916,8 @@
               "order": 13,
               "distance": 422,
               "stop": {
-                "id": 2811,
-                "publicId": "2811",
+                "id": "2811",
+                "internalId": 2811,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.744722,
@@ -5932,8 +5932,8 @@
               "order": 14,
               "distance": 198,
               "stop": {
-                "id": 10817,
-                "publicId": "10817",
+                "id": "10817",
+                "internalId": 10817,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.74426,
@@ -5948,8 +5948,8 @@
               "order": 15,
               "distance": 365,
               "stop": {
-                "id": 10838,
-                "publicId": "10838",
+                "id": "10838",
+                "internalId": 10838,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.744487,
@@ -5964,8 +5964,8 @@
               "order": 16,
               "distance": 335,
               "stop": {
-                "id": 10815,
-                "publicId": "10815",
+                "id": "10815",
+                "internalId": 10815,
                 "name": "Calhariz (Rua Ribeiro Reis)",
                 "position": {
                   "latitude": 38.746335,
@@ -5980,8 +5980,8 @@
               "order": 17,
               "distance": 594,
               "stop": {
-                "id": 10807,
-                "publicId": "10807",
+                "id": "10807",
+                "internalId": 10807,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.748543,
@@ -5996,8 +5996,8 @@
               "order": 18,
               "distance": 556,
               "stop": {
-                "id": 10813,
-                "publicId": "10813",
+                "id": "10813",
+                "internalId": 10813,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.75289,
@@ -6012,8 +6012,8 @@
               "order": 19,
               "distance": 287,
               "stop": {
-                "id": 12801,
-                "publicId": "12801",
+                "id": "12801",
+                "internalId": 12801,
                 "name": "Qta. Luz",
                 "position": {
                   "latitude": 38.75727,
@@ -6028,8 +6028,8 @@
               "order": 20,
               "distance": 257,
               "stop": {
-                "id": 12823,
-                "publicId": "12823",
+                "id": "12823",
+                "internalId": 12823,
                 "name": "Igreja Carnide",
                 "position": {
                   "latitude": 38.759822,
@@ -6044,8 +6044,8 @@
               "order": 21,
               "distance": 310,
               "stop": {
-                "id": 12803,
-                "publicId": "12803",
+                "id": "12803",
+                "internalId": 12803,
                 "name": "Lg. Luz",
                 "position": {
                   "latitude": 38.760017,
@@ -6060,8 +6060,8 @@
               "order": 22,
               "distance": 262,
               "stop": {
-                "id": 13607,
-                "publicId": "13607",
+                "id": "13607",
+                "internalId": 13607,
                 "name": "Colégio Militar",
                 "position": {
                   "latitude": 38.75826,
@@ -6076,8 +6076,8 @@
               "order": 23,
               "distance": 305,
               "stop": {
-                "id": 13605,
-                "publicId": "13605",
+                "id": "13605",
+                "internalId": 13605,
                 "name": "Estr. Da Luz / Rua Dos Soeiros",
                 "position": {
                   "latitude": 38.756639,
@@ -6092,8 +6092,8 @@
               "order": 24,
               "distance": 604,
               "stop": {
-                "id": 13618,
-                "publicId": "13618",
+                "id": "13618",
+                "internalId": 13618,
                 "name": "Bº São João",
                 "position": {
                   "latitude": 38.754522,
@@ -6108,8 +6108,8 @@
               "order": 25,
               "distance": 244,
               "stop": {
-                "id": 12712,
-                "publicId": "12712",
+                "id": "12712",
+                "internalId": 12712,
                 "name": "Estr. Luz (Loja Cidadão)",
                 "position": {
                   "latitude": 38.749661,
@@ -6124,8 +6124,8 @@
               "order": 26,
               "distance": 328,
               "stop": {
-                "id": 12710,
-                "publicId": "12710",
+                "id": "12710",
+                "internalId": 12710,
                 "name": "Laranjeiras (Metro)",
                 "position": {
                   "latitude": 38.747742,
@@ -6140,8 +6140,8 @@
               "order": 27,
               "distance": 280,
               "stop": {
-                "id": 12708,
-                "publicId": "12708",
+                "id": "12708",
+                "internalId": 12708,
                 "name": "Estr. Laranjeiras",
                 "position": {
                   "latitude": 38.745263,
@@ -6156,8 +6156,8 @@
               "order": 28,
               "distance": 332,
               "stop": {
-                "id": 12703,
-                "publicId": "12703",
+                "id": "12703",
+                "internalId": 12703,
                 "name": "Cç. Palma Baixo",
                 "position": {
                   "latitude": 38.74629,
@@ -6172,8 +6172,8 @@
               "order": 29,
               "distance": 835,
               "stop": {
-                "id": 12705,
-                "publicId": "12705",
+                "id": "12705",
+                "internalId": 12705,
                 "name": "Universidade Católica",
                 "position": {
                   "latitude": 38.748018,
@@ -6188,8 +6188,8 @@
               "order": 30,
               "distance": 239,
               "stop": {
-                "id": 13506,
-                "publicId": "13506",
+                "id": "13506",
+                "internalId": 13506,
                 "name": "Hospital De Santa Maria",
                 "position": {
                   "latitude": 38.749996,
@@ -6204,8 +6204,8 @@
               "order": 31,
               "distance": 149,
               "stop": {
-                "id": 13510,
-                "publicId": "13510",
+                "id": "13510",
+                "internalId": 13510,
                 "name": "Cantina Da Universidade",
                 "position": {
                   "latitude": 38.751401,
@@ -6220,8 +6220,8 @@
               "order": 32,
               "distance": 0,
               "stop": {
-                "id": 13504,
-                "publicId": "13504",
+                "id": "13504",
+                "internalId": 13504,
                 "name": "Cidade Universitária",
                 "position": {
                   "latitude": 38.752644,
@@ -7775,8 +7775,8 @@
               "order": 1,
               "distance": 413,
               "stop": {
-                "id": 10820,
-                "publicId": "10820",
+                "id": "10820",
+                "internalId": 10820,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752527,
@@ -7791,8 +7791,8 @@
               "order": 2,
               "distance": 301,
               "stop": {
-                "id": 10804,
-                "publicId": "10804",
+                "id": "10804",
+                "internalId": 10804,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.749594,
@@ -7807,8 +7807,8 @@
               "order": 3,
               "distance": 372,
               "stop": {
-                "id": 10803,
-                "publicId": "10803",
+                "id": "10803",
+                "internalId": 10803,
                 "name": "Calhariz (Escola)",
                 "position": {
                   "latitude": 38.748208,
@@ -7823,8 +7823,8 @@
               "order": 4,
               "distance": 428,
               "stop": {
-                "id": 10822,
-                "publicId": "10822",
+                "id": "10822",
+                "internalId": 10822,
                 "name": "Calhariz (Rua Ribeiro Reis)",
                 "position": {
                   "latitude": 38.746268,
@@ -7839,8 +7839,8 @@
               "order": 5,
               "distance": 611,
               "stop": {
-                "id": 10818,
-                "publicId": "10818",
+                "id": "10818",
+                "internalId": 10818,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.744494,
@@ -7855,8 +7855,8 @@
               "order": 6,
               "distance": 278,
               "stop": {
-                "id": 2806,
-                "publicId": "2806",
+                "id": "2806",
+                "internalId": 2806,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.745077,
@@ -7871,8 +7871,8 @@
               "order": 7,
               "distance": 353,
               "stop": {
-                "id": 8816,
-                "publicId": "8816",
+                "id": "8816",
+                "internalId": 8816,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745257,
@@ -7887,8 +7887,8 @@
               "order": 8,
               "distance": 206,
               "stop": {
-                "id": 8814,
-                "publicId": "8814",
+                "id": "8814",
+                "internalId": 8814,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743823,
@@ -7903,8 +7903,8 @@
               "order": 9,
               "distance": 302,
               "stop": {
-                "id": 50239,
-                "publicId": "8822",
+                "id": "8822",
+                "internalId": 50239,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.742394,
@@ -7919,8 +7919,8 @@
               "order": 10,
               "distance": 391,
               "stop": {
-                "id": 8818,
-                "publicId": "8818",
+                "id": "8818",
+                "internalId": 8818,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.740835,
@@ -7935,8 +7935,8 @@
               "order": 11,
               "distance": 214,
               "stop": {
-                "id": 8820,
-                "publicId": "8820",
+                "id": "8820",
+                "internalId": 8820,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.742358,
@@ -7951,8 +7951,8 @@
               "order": 12,
               "distance": 262,
               "stop": {
-                "id": 8824,
-                "publicId": "8824",
+                "id": "8824",
+                "internalId": 8824,
                 "name": "Rua Da Creche",
                 "position": {
                   "latitude": 38.744075,
@@ -7967,8 +7967,8 @@
               "order": 13,
               "distance": 452,
               "stop": {
-                "id": 3016,
-                "publicId": "3016",
+                "id": "3016",
+                "internalId": 3016,
                 "name": "Buraca - Av. Da República",
                 "position": {
                   "latitude": 38.746086,
@@ -7983,8 +7983,8 @@
               "order": 14,
               "distance": 208,
               "stop": {
-                "id": 3014,
-                "publicId": "3014",
+                "id": "3014",
+                "internalId": 3014,
                 "name": "Praça Das Águas Livres",
                 "position": {
                   "latitude": 38.746946,
@@ -7999,8 +7999,8 @@
               "order": 15,
               "distance": 243,
               "stop": {
-                "id": 3012,
-                "publicId": "3012",
+                "id": "3012",
+                "internalId": 3012,
                 "name": "Av. Dom João V",
                 "position": {
                   "latitude": 38.745485,
@@ -8015,8 +8015,8 @@
               "order": 16,
               "distance": 244,
               "stop": {
-                "id": 3010,
-                "publicId": "3010",
+                "id": "3010",
+                "internalId": 3010,
                 "name": "Praça Marquês Das Minas",
                 "position": {
                   "latitude": 38.744117,
@@ -8031,8 +8031,8 @@
               "order": 17,
               "distance": 353,
               "stop": {
-                "id": 3008,
-                "publicId": "3008",
+                "id": "3008",
+                "internalId": 3008,
                 "name": "Rua Fernando Tamagnini",
                 "position": {
                   "latitude": 38.745314,
@@ -8047,8 +8047,8 @@
               "order": 18,
               "distance": 211,
               "stop": {
-                "id": 3006,
-                "publicId": "3006",
+                "id": "3006",
+                "internalId": 3006,
                 "name": "Rua Carvalho Araújo",
                 "position": {
                   "latitude": 38.74757,
@@ -8063,8 +8063,8 @@
               "order": 19,
               "distance": 0,
               "stop": {
-                "id": 3004,
-                "publicId": "3004",
+                "id": "3004",
+                "internalId": 3004,
                 "name": "Damaia De Cima",
                 "position": {
                   "latitude": 38.746958,
@@ -9477,8 +9477,8 @@
               "order": 1,
               "distance": 252,
               "stop": {
-                "id": 3004,
-                "publicId": "3004",
+                "id": "3004",
+                "internalId": 3004,
                 "name": "Damaia De Cima",
                 "position": {
                   "latitude": 38.746958,
@@ -9493,8 +9493,8 @@
               "order": 2,
               "distance": 289,
               "stop": {
-                "id": 3009,
-                "publicId": "3009",
+                "id": "3009",
+                "internalId": 3009,
                 "name": "Rua Fernando Tamagnini",
                 "position": {
                   "latitude": 38.745616,
@@ -9509,8 +9509,8 @@
               "order": 3,
               "distance": 334,
               "stop": {
-                "id": 3011,
-                "publicId": "3011",
+                "id": "3011",
+                "internalId": 3011,
                 "name": "Praça Marquês Das Minas",
                 "position": {
                   "latitude": 38.743792,
@@ -9525,8 +9525,8 @@
               "order": 4,
               "distance": 181,
               "stop": {
-                "id": 3013,
-                "publicId": "3013",
+                "id": "3013",
+                "internalId": 3013,
                 "name": "Av. Dom João V",
                 "position": {
                   "latitude": 38.745821,
@@ -9541,8 +9541,8 @@
               "order": 5,
               "distance": 364,
               "stop": {
-                "id": 3015,
-                "publicId": "3015",
+                "id": "3015",
+                "internalId": 3015,
                 "name": "Pç. Águas Livres",
                 "position": {
                   "latitude": 38.746839,
@@ -9557,8 +9557,8 @@
               "order": 6,
               "distance": 273,
               "stop": {
-                "id": 3017,
-                "publicId": "3017",
+                "id": "3017",
+                "internalId": 3017,
                 "name": "Buraca - Av. Da República",
                 "position": {
                   "latitude": 38.74597,
@@ -9573,8 +9573,8 @@
               "order": 7,
               "distance": 301,
               "stop": {
-                "id": 8823,
-                "publicId": "8823",
+                "id": "8823",
+                "internalId": 8823,
                 "name": "Rua Da Creche",
                 "position": {
                   "latitude": 38.743987,
@@ -9589,8 +9589,8 @@
               "order": 8,
               "distance": 331,
               "stop": {
-                "id": 8819,
-                "publicId": "8819",
+                "id": "8819",
+                "internalId": 8819,
                 "name": "Buraca (Bº Tacha)",
                 "position": {
                   "latitude": 38.741798,
@@ -9605,8 +9605,8 @@
               "order": 9,
               "distance": 241,
               "stop": {
-                "id": 8815,
-                "publicId": "8815",
+                "id": "8815",
+                "internalId": 8815,
                 "name": "Estrada De Alfragide",
                 "position": {
                   "latitude": 38.74075,
@@ -9621,8 +9621,8 @@
               "order": 10,
               "distance": 345,
               "stop": {
-                "id": 50240,
-                "publicId": "8821",
+                "id": "8821",
+                "internalId": 50240,
                 "name": "Estrada De Alfragide/Buraca",
                 "position": {
                   "latitude": 38.741726,
@@ -9637,8 +9637,8 @@
               "order": 11,
               "distance": 357,
               "stop": {
-                "id": 8811,
-                "publicId": "8811",
+                "id": "8811",
+                "internalId": 8811,
                 "name": "Buraca",
                 "position": {
                   "latitude": 38.743861,
@@ -9653,8 +9653,8 @@
               "order": 12,
               "distance": 327,
               "stop": {
-                "id": 8813,
-                "publicId": "8813",
+                "id": "8813",
+                "internalId": 8813,
                 "name": "R. Venezuela",
                 "position": {
                   "latitude": 38.745108,
@@ -9669,8 +9669,8 @@
               "order": 13,
               "distance": 422,
               "stop": {
-                "id": 2811,
-                "publicId": "2811",
+                "id": "2811",
+                "internalId": 2811,
                 "name": "Estação Benfica",
                 "position": {
                   "latitude": 38.744722,
@@ -9685,8 +9685,8 @@
               "order": 14,
               "distance": 198,
               "stop": {
-                "id": 10817,
-                "publicId": "10817",
+                "id": "10817",
+                "internalId": 10817,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.74426,
@@ -9701,8 +9701,8 @@
               "order": 15,
               "distance": 365,
               "stop": {
-                "id": 10838,
-                "publicId": "10838",
+                "id": "10838",
+                "internalId": 10838,
                 "name": "Rua Carolina Michaelis",
                 "position": {
                   "latitude": 38.744487,
@@ -9717,8 +9717,8 @@
               "order": 16,
               "distance": 335,
               "stop": {
-                "id": 10815,
-                "publicId": "10815",
+                "id": "10815",
+                "internalId": 10815,
                 "name": "Calhariz (Rua Ribeiro Reis)",
                 "position": {
                   "latitude": 38.746335,
@@ -9733,8 +9733,8 @@
               "order": 17,
               "distance": 754,
               "stop": {
-                "id": 10807,
-                "publicId": "10807",
+                "id": "10807",
+                "internalId": 10807,
                 "name": "Calhariz",
                 "position": {
                   "latitude": 38.748543,
@@ -9749,8 +9749,8 @@
               "order": 18,
               "distance": 0,
               "stop": {
-                "id": 10820,
-                "publicId": "10820",
+                "id": "10820",
+                "internalId": 10820,
                 "name": "Colégio Militar (Metro)",
                 "position": {
                   "latitude": 38.752527,

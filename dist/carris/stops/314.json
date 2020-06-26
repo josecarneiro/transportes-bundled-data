@@ -1,11 +1,14 @@
 {
-  "id": 314,
-  "publicId": "314",
+  "id": "314",
+  "internalId": 314,
   "name": "Estação Roma-Areeiro",
   "position": {
     "latitude": 38.7461,
     "longitude": -9.132829
   },
   "visible": true,
-  "updateDate": "2018-02-08T11:22:05.000Z"
+  "updateDate": "2018-02-08T11:22:05.000Z",
+  "routes": [
+    "727"
+  ]
 }

@@ -1,11 +1,15 @@
 {
-  "id": 9810,
-  "publicId": "9810",
+  "id": "9810",
+  "internalId": 9810,
   "name": "Av. Inf. D. Henrique (Ponte Xa",
   "position": {
     "latitude": 38.724351,
     "longitude": -9.112061
   },
   "visible": true,
-  "updateDate": "2019-02-18T12:07:32.000Z"
+  "updateDate": "2019-02-18T12:07:32.000Z",
+  "routes": [
+    "728",
+    "794"
+  ]
 }

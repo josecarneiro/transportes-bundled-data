@@ -1,11 +1,12 @@
 {
-  "id": 50452,
-  "publicId": "12",
+  "id": "12",
+  "internalId": 50452,
   "name": "Santo Amaro",
   "position": {
     "latitude": 38.759747,
     "longitude": -9.19092
   },
   "visible": true,
-  "updateDate": "2019-11-08T15:48:08.000Z"
+  "updateDate": "2019-11-08T15:48:08.000Z",
+  "routes": []
 }

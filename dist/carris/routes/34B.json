@@ -1,6 +1,6 @@
 {
-  "id": 226,
-  "number": "34B",
+  "id": "34B",
+  "internalId": 226,
   "name": "Olaias (circ.)",
   "visible": true,
   "creationDate": "2020-05-20T16:36:37.000Z",
@@ -21,8 +21,8 @@
               "order": 42,
               "distance": 0,
               "stop": {
-                "id": 50408,
-                "publicId": "8921",
+                "id": "8921",
+                "internalId": 50408,
                 "name": "Olaias",
                 "position": {
                   "latitude": 38.738993,
@@ -37,8 +37,8 @@
               "order": 2,
               "distance": 542,
               "stop": {
-                "id": 8913,
-                "publicId": "8913",
+                "id": "8913",
+                "internalId": 8913,
                 "name": "Olaias (Piscina)",
                 "position": {
                   "latitude": 38.739886,
@@ -53,8 +53,8 @@
               "order": 3,
               "distance": 794,
               "stop": {
-                "id": 3613,
-                "publicId": "3613",
+                "id": "3613",
+                "internalId": 3613,
                 "name": "Av. Carlos Pinhão",
                 "position": {
                   "latitude": 38.741537,
@@ -69,8 +69,8 @@
               "order": 4,
               "distance": 297,
               "stop": {
-                "id": 3603,
-                "publicId": "3603",
+                "id": "3603",
+                "internalId": 3603,
                 "name": "Lg. Broma",
                 "position": {
                   "latitude": 38.742328,
@@ -85,8 +85,8 @@
               "order": 5,
               "distance": 580,
               "stop": {
-                "id": 3601,
-                "publicId": "3601",
+                "id": "3601",
+                "internalId": 3601,
                 "name": "Lg. Chelas",
                 "position": {
                   "latitude": 38.739827,
@@ -101,8 +101,8 @@
               "order": 6,
               "distance": 395,
               "stop": {
-                "id": 17576,
-                "publicId": "83112",
+                "id": "83112",
+                "internalId": 17576,
                 "name": "Estr. Chelas",
                 "position": {
                   "latitude": 38.734632,
@@ -117,8 +117,8 @@
               "order": 7,
               "distance": 379,
               "stop": {
-                "id": 17578,
-                "publicId": "83114",
+                "id": "83114",
+                "internalId": 17578,
                 "name": "R. Gualdim Pais",
                 "position": {
                   "latitude": 38.731132,
@@ -133,8 +133,8 @@
               "order": 8,
               "distance": 309,
               "stop": {
-                "id": 8322,
-                "publicId": "8322",
+                "id": "8322",
+                "internalId": 8322,
                 "name": "Mercado Xabregas",
                 "position": {
                   "latitude": 38.728108,
@@ -149,8 +149,8 @@
               "order": 9,
               "distance": 145,
               "stop": {
-                "id": 8320,
-                "publicId": "8320",
+                "id": "8320",
+                "internalId": 8320,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.725754,
@@ -165,8 +165,8 @@
               "order": 10,
               "distance": 188,
               "stop": {
-                "id": 8301,
-                "publicId": "8301",
+                "id": "8301",
+                "internalId": 8301,
                 "name": "Ponte Xabregas",
                 "position": {
                   "latitude": 38.726269,
@@ -181,8 +181,8 @@
               "order": 11,
               "distance": 349,
               "stop": {
-                "id": 8303,
-                "publicId": "8303",
+                "id": "8303",
+                "internalId": 8303,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.727437,
@@ -197,8 +197,8 @@
               "order": 12,
               "distance": 338,
               "stop": {
-                "id": 8317,
-                "publicId": "8317",
+                "id": "8317",
+                "internalId": 8317,
                 "name": "Cç. Grilo",
                 "position": {
                   "latitude": 38.730002,
@@ -213,8 +213,8 @@
               "order": 13,
               "distance": 267,
               "stop": {
-                "id": 17567,
-                "publicId": "83103",
+                "id": "83103",
+                "internalId": 17567,
                 "name": "R. Marquês Olhão",
                 "position": {
                   "latitude": 38.731353,
@@ -229,8 +229,8 @@
               "order": 14,
               "distance": 362,
               "stop": {
-                "id": 17569,
-                "publicId": "83105",
+                "id": "83105",
+                "internalId": 17569,
                 "name": "B.º Madre Deus",
                 "position": {
                   "latitude": 38.732043,
@@ -245,8 +245,8 @@
               "order": 15,
               "distance": 199,
               "stop": {
-                "id": 17571,
-                "publicId": "83107",
+                "id": "83107",
+                "internalId": 17571,
                 "name": "B.º Madre Deus (Escola)",
                 "position": {
                   "latitude": 38.734023,
@@ -261,8 +261,8 @@
               "order": 16,
               "distance": 86,
               "stop": {
-                "id": 17581,
-                "publicId": "83117",
+                "id": "83117",
+                "internalId": 17581,
                 "name": "R. Dr. Manuel Espírito Santo",
                 "position": {
                   "latitude": 38.735055,
@@ -277,8 +277,8 @@
               "order": 17,
               "distance": 161,
               "stop": {
-                "id": 50120,
-                "publicId": "83118",
+                "id": "83118",
+                "internalId": 50120,
                 "name": "Qta. Ourives",
                 "position": {
                   "latitude": 38.735342,
@@ -293,8 +293,8 @@
               "order": 18,
               "distance": 188,
               "stop": {
-                "id": 50119,
-                "publicId": "83119",
+                "id": "83119",
+                "internalId": 50119,
                 "name": "R. Faustino José Rodrigues",
                 "position": {
                   "latitude": 38.734209,
@@ -309,8 +309,8 @@
               "order": 19,
               "distance": 596,
               "stop": {
-                "id": 50411,
-                "publicId": "83120",
+                "id": "83120",
+                "internalId": 50411,
                 "name": "Esc. Sec. Luis A. Verney",
                 "position": {
                   "latitude": 38.734544,
@@ -325,8 +325,8 @@
               "order": 20,
               "distance": 145,
               "stop": {
-                "id": 50412,
-                "publicId": "83121",
+                "id": "83121",
+                "internalId": 50412,
                 "name": "Estr. Marvila",
                 "position": {
                   "latitude": 38.734641,
@@ -341,8 +341,8 @@
               "order": 21,
               "distance": 210,
               "stop": {
-                "id": 50413,
-                "publicId": "83122",
+                "id": "83122",
+                "internalId": 50413,
                 "name": "Cç. Duque Lafões",
                 "position": {
                   "latitude": 38.733757,
@@ -357,8 +357,8 @@
               "order": 22,
               "distance": 341,
               "stop": {
-                "id": 8308,
-                "publicId": "8308",
+                "id": "8308",
+                "internalId": 8308,
                 "name": "Al. Beato",
                 "position": {
                   "latitude": 38.732755,
@@ -373,8 +373,8 @@
               "order": 23,
               "distance": 258,
               "stop": {
-                "id": 8306,
-                "publicId": "8306",
+                "id": "8306",
+                "internalId": 8306,
                 "name": "Cç. Grilo",
                 "position": {
                   "latitude": 38.730176,
@@ -389,8 +389,8 @@
               "order": 24,
               "distance": 425,
               "stop": {
-                "id": 8304,
-                "publicId": "8304",
+                "id": "8304",
+                "internalId": 8304,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.728254,
@@ -405,8 +405,8 @@
               "order": 25,
               "distance": 241,
               "stop": {
-                "id": 8310,
-                "publicId": "8310",
+                "id": "8310",
+                "internalId": 8310,
                 "name": "Xabregas / Rua Da Manutenção",
                 "position": {
                   "latitude": 38.726303,
@@ -421,8 +421,8 @@
               "order": 26,
               "distance": 137,
               "stop": {
-                "id": 9822,
-                "publicId": "9822",
+                "id": "9822",
+                "internalId": 9822,
                 "name": "Av. Inf. D. Henrique (Ponte Xa",
                 "position": {
                   "latitude": 38.725425,
@@ -437,8 +437,8 @@
               "order": 27,
               "distance": 229,
               "stop": {
-                "id": 8319,
-                "publicId": "8319",
+                "id": "8319",
+                "internalId": 8319,
                 "name": "Xabregas",
                 "position": {
                   "latitude": 38.726108,
@@ -453,8 +453,8 @@
               "order": 28,
               "distance": 430,
               "stop": {
-                "id": 8321,
-                "publicId": "8321",
+                "id": "8321",
+                "internalId": 8321,
                 "name": "Mercado Xabregas",
                 "position": {
                   "latitude": 38.727782,
@@ -469,8 +469,8 @@
               "order": 29,
               "distance": 306,
               "stop": {
-                "id": 17577,
-                "publicId": "83113",
+                "id": "83113",
+                "internalId": 17577,
                 "name": "R. Gualdim Pais",
                 "position": {
                   "latitude": 38.731252,
@@ -485,8 +485,8 @@
               "order": 30,
               "distance": 172,
               "stop": {
-                "id": 17575,
-                "publicId": "83111",
+                "id": "83111",
+                "internalId": 17575,
                 "name": "Estr. Chelas",
                 "position": {
                   "latitude": 38.733926,
@@ -501,8 +501,8 @@
               "order": 31,
               "distance": 517,
               "stop": {
-                "id": 17573,
-                "publicId": "83109",
+                "id": "83109",
+                "internalId": 17573,
                 "name": "Cç. Teixeira",
                 "position": {
                   "latitude": 38.73547,
@@ -517,8 +517,8 @@
               "order": 32,
               "distance": 266,
               "stop": {
-                "id": 3602,
-                "publicId": "3602",
+                "id": "3602",
+                "internalId": 3602,
                 "name": "Lg. Chelas",
                 "position": {
                   "latitude": 38.740017,
@@ -533,8 +533,8 @@
               "order": 33,
               "distance": 733,
               "stop": {
-                "id": 3604,
-                "publicId": "3604",
+                "id": "3604",
+                "internalId": 3604,
                 "name": "Lg. Broma",
                 "position": {
                   "latitude": 38.742342,
@@ -549,8 +549,8 @@
               "order": 34,
               "distance": 662,
               "stop": {
-                "id": 3614,
-                "publicId": "3614",
+                "id": "3614",
+                "internalId": 3614,
                 "name": "Av. Carlos Pinhão",
                 "position": {
                   "latitude": 38.742354,
@@ -565,8 +565,8 @@
               "order": 35,
               "distance": 594,
               "stop": {
-                "id": 8912,
-                "publicId": "8912",
+                "id": "8912",
+                "internalId": 8912,
                 "name": "Olaias (Piscina)",
                 "position": {
                   "latitude": 38.739906,
@@ -581,8 +581,8 @@
               "order": 36,
               "distance": 201,
               "stop": {
-                "id": 50409,
-                "publicId": "8922",
+                "id": "8922",
+                "internalId": 50409,
                 "name": "R. João Nascimento Costa",
                 "position": {
                   "latitude": 38.737293,
@@ -597,8 +597,8 @@
               "order": 37,
               "distance": 232,
               "stop": {
-                "id": 50410,
-                "publicId": "8923",
+                "id": "8923",
+                "internalId": 50410,
                 "name": "R. Eng. Maciel Chaves",
                 "position": {
                   "latitude": 38.736322,
@@ -613,8 +613,8 @@
               "order": 38,
               "distance": 160,
               "stop": {
-                "id": 8914,
-                "publicId": "8914",
+                "id": "8914",
+                "internalId": 8914,
                 "name": "Pç. Sócrates Costa",
                 "position": {
                   "latitude": 38.735043,
@@ -629,8 +629,8 @@
               "order": 39,
               "distance": 256,
               "stop": {
-                "id": 8915,
-                "publicId": "8915",
+                "id": "8915",
+                "internalId": 8915,
                 "name": "R. Frederico Perry Vidal",
                 "position": {
                   "latitude": 38.735993,
@@ -645,8 +645,8 @@
               "order": 40,
               "distance": 267,
               "stop": {
-                "id": 8906,
-                "publicId": "8906",
+                "id": "8906",
+                "internalId": 8906,
                 "name": "R. Capitão Roby",
                 "position": {
                   "latitude": 38.737969,
@@ -661,8 +661,8 @@
               "order": 41,
               "distance": 362,
               "stop": {
-                "id": 8907,
-                "publicId": "8907",
+                "id": "8907",
+                "internalId": 8907,
                 "name": "Picheleira - R. Dr. Faria Vasc",
                 "position": {
                   "latitude": 38.73885,
@@ -677,8 +677,8 @@
               "order": 1,
               "distance": 123,
               "stop": {
-                "id": 50408,
-                "publicId": "8921",
+                "id": "8921",
+                "internalId": 50408,
                 "name": "Olaias",
                 "position": {
                   "latitude": 38.738993,
