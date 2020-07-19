@@ -13,9 +13,6 @@ module.exports = async (path, { pretty = false } = {}) => {
   });
 
   const loadStations = async () => {
-    const stationsBasePath = join(path, 'stations');
-    await ensureDirectoryExists(stationsBasePath);
-
     const rawStations = await metro.listStations();
 
     const rawDestinations = await metro.listDestinations();
@@ -42,7 +39,7 @@ module.exports = async (path, { pretty = false } = {}) => {
         .filter(platform => platform.station === station.id)
         .map(({ id, destination }) => ({ id, destination }))
     }));
-    write(join(stationsBasePath, 'list.json'), stations, { pretty });
+    write(join(path, 'stations.json'), stations, { pretty });
   };
 
   await loadStations();
