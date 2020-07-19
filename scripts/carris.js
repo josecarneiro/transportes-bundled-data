@@ -10,17 +10,19 @@ const { ensureDirectoryExists, sortIds } = require('./helpers');
 const cloneObject = object => JSON.parse(JSON.stringify(object));
 
 const extractRoutePerStop = routeData => {
-  const routes = routeData.map(({ id, variants }) => {
-    const stops = variants
-      .map(({ iteneraries }) =>
-        iteneraries.map(({ connections }) =>
-          connections.map(({ stop: { id: stop } }) => stop)
+  const routes = routeData
+    .filter(({ available }) => available)
+    .map(({ id, variants }) => {
+      const stops = variants
+        .map(({ iteneraries }) =>
+          iteneraries.map(({ connections }) =>
+            connections.map(({ stop: { id: stop } }) => stop)
+          )
         )
-      )
-      .flat(Infinity)
-      .filter((value, index, array) => array.indexOf(value) === index);
-    return { id, stops };
-  });
+        .flat(Infinity)
+        .filter((value, index, array) => array.indexOf(value) === index);
+      return { id, stops };
+    });
   const stops = routes.reduce((acc, { id: route, stops: stopIds }) => {
     const clone = cloneObject(acc);
     for (let stopId of stopIds) {
@@ -47,7 +49,7 @@ module.exports = async (path, { pretty = false } = {}) => {
     for (const { id } of routes.filter(({ visible }) => visible)) {
       const route = await carris.loadRoute(id);
       if (route) routeData.push(route);
-      }
+    }
     // Sort routes by id
     routeData.sort(({ id: a }, { id: b }) => sortIds(a, b));
     write(join(path, `routes.json`), routeData, { pretty });
