@@ -11,7 +11,7 @@ const cloneObject = object => JSON.parse(JSON.stringify(object));
 
 const extractRoutePerStop = routeData => {
   const routes = routeData
-    .filter(({ available }) => available)
+    .filter(({ visible }) => visible)
     .map(({ id, variants }) => {
       const stops = variants
         .map(({ iteneraries }) =>
